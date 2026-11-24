@@ -1,0 +1,113 @@
+{
+ "evidencias_trechos": 16,
+ "evidencias_documentos": 5,
+ "evidencias_trechos_com_caneta": 8,
+ "evidencias_trechos_com_caixa": 0,
+ "propostas_ata_final": {
+  "194": {
+   "proponentes": 1,
+   "marca_fabricante": "EQUIPLEX / EQUIPLEX"
+  },
+  "195": {
+   "proponentes": 1,
+   "marca_fabricante": "EQUIPLEX / EQUIPLEX"
+  },
+  "196": {
+   "proponentes": 1,
+   "marca_fabricante": "EQUIPLEX / EQUIPLEX"
+  },
+  "199": {
+   "proponentes": 1,
+   "marca_fabricante": "EQUIPLEX / EQUIPLEX"
+  }
+ },
+ "cmed_registros_convenio_87": 2810,
+ "cmed_conv87_pf20_numerico_puro": 0,
+ "cmed_conv87_pf20_com_asterisco": 2810,
+ "cmed_nota_viii": "(viii) As apresentações desta lista exibem todas as alíquotas para comercialização dos produtos, apesar de nem sempre as alíquotas serem aplicáveis. Torna-se essencial ao leitor, principalmente ao gestor público, que efetue os descontos cabíveis, na comercialização destas apresentações que dispõem de isenção de ICMS por aderência ao Confaz87, ou outro convênio. Apresentação isentas de ICMS estão marcadas com o valor \"Sim\" na coluna \"ICMS 0%\" e seus preços destacados com um asterisco, por exemplo, R$ 54,23*. (viii) Nos casos de substâncias previstas no rol do Convênio ICMS 162/94, os alienantes",
+ "cmed_canetas_apresentacoes": 4,
+ "cmed_canetas_laboratorios": [
+  "NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA"
+ ],
+ "teto_cmed_jan2025_por_caneta": {
+  "196": {
+   "tipo": "NPH",
+   "tipo_teto": "PF",
+   "teto_0pct_min": 20.14,
+   "teto_0pct_max": 20.152,
+   "teto_20pct_max": 25.19
+  },
+  "199": {
+   "tipo": "Regular",
+   "tipo_teto": "PMVG (CAP)",
+   "teto_0pct_min": 15.8,
+   "teto_0pct_max": 15.813999999999998,
+   "teto_20pct_max": 19.766
+  }
+ },
+ "cmed_equiplex_apresentacoes": 68,
+ "cmed_equiplex_insulinas": 0,
+ "teto_cmed_jan2025_analogas_por_caneta": {
+  "194": {
+   "apresentacoes": 16,
+   "teto_pb_max": 169.972,
+   "teto_pb_min": 23.766666666666666,
+   "teto_20pct_max": 169.972,
+   "produto_do_maior_teto": "TRESIBA"
+  },
+  "195": {
+   "apresentacoes": 7,
+   "teto_pb_max": 35.138,
+   "teto_pb_min": 22.04,
+   "teto_20pct_max": 43.924,
+   "produto_do_maior_teto": "HUMALOG"
+  }
+ },
+ "teto_cmed_nov2026_por_caneta": {
+  "196": {
+   "pf_0pct_por_caneta_max": 21.162,
+   "pmvg_0pct_por_caneta_max": 16.974,
+   "teto_aplicavel_0pct_max": 21.162,
+   "apresentacoes": 2,
+   "pf_20pct_publicado": true,
+   "pf_20pct_por_caneta_max": 26.451999999999998,
+   "laboratorios": [
+    "NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA"
+   ]
+  },
+  "199": {
+   "pf_0pct_por_caneta_max": 21.162,
+   "pmvg_0pct_por_caneta_max": 16.974,
+   "teto_aplicavel_0pct_max": 16.974,
+   "apresentacoes": 2,
+   "pf_20pct_publicado": true,
+   "pf_20pct_por_caneta_max": 26.451999999999998,
+   "laboratorios": [
+    "NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA"
+   ]
+  }
+ },
+ "analogas_acima_do_maior_teto_do_tipo": true,
+ "analogas_excesso_sobre_o_maior_teto_pb": 18533.0,
+ "canetas_valor_contratado": 1334952.0,
+ "canetas_excesso_contratado_sobre_teto_0pct": 1195063.2,
+ "canetas_excesso_contratado_sobre_teto_20pct": 1160092.8,
+ "canetas_acima_do_teto_em_todas_as_hipoteses": true,
+ "canetas_menor_multiplo_sobre_teto": 1.4910452291814231,
+ "contrato54_valor": 2096243.5,
+ "contrato54_pago_total": 162873.91,
+ "contrato54_pago_sobre_valor_das_canetas_pct": 12.200731561883874,
+ "canetas_nph_maximo_possivelmente_pago_unidades": 843.8188270645529,
+ "canetas_excesso_pago_limite_superior": 145869.27299699513,
+ "nacional_registros_caneta_comprasgov": 15,
+ "nacional_caneta_comprasgov_mediana": 48.64,
+ "nacional_caneta_NPH_n": 15,
+ "nacional_caneta_NPH_mediana": 48.64,
+ "nacional_caneta_NPH_frac_ate_teto_0pct": 0.0,
+ "nacional_caneta_NPH_frac_ate_teto_20pct": 0.06666666666666667,
+ "nacional_caneta_NPH_maximo": 3825.0,
+ "normas_ms_trechos": 9,
+ "insulinas_valor_contratado_2025": 1402796.0,
+ "insulinas_valor_ref_agente": 172638.8,
+ "insulinas_valor_a_preco_2026_mesmo_comprador": 235335.0
+}

@@ -1,0 +1,18 @@
+{
+ "integridade_total": 143,
+ "integridade_conferem": 143,
+ "cmed_sha256": "1d3f27dd975480977147e63b7ba343be14534eaa77e2d3bedacd71a726fb6e92",
+ "cmed_conv87_registros": 2810,
+ "cmed_conv87_pf20_texto_com_asterisco": 2810,
+ "cmed_conv87_pf20_vazias": 0,
+ "cmed_conv87_pf20_numero_puro": 0,
+ "cmed_asterisco_fora_do_convenio": 650,
+ "cmed_conv87_razao_mediana_pf20_pf0": 1.2500008497888555,
+ "preparacao_fator_estimado_20_sobre_0": 1.250081142486206,
+ "pe09_2026_insulinas_localizadas": 6,
+ "pe09_2026_canetas_humanas_equivalentes": 0,
+ "etapa5_valor_insulinas_a_preco_2026_RETIRADO": 235335.0,
+ "etapa5_parte_desse_valor_vinda_de_refil": 208800.0,
+ "confronto_linhas": 25,
+ "confronto_divergencias": 2
+}

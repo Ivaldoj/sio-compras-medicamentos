@@ -1,0 +1,23 @@
+indicador,valor,natureza
+R0 estimativa do órgão,4952438.0,"ex ante, do órgão"
+R1 estimativa limitada ao teto (agente),3556151.66,"ex ante, do agente"
+E1 central (agente),1812126.03,"ex ante, potencial"
+E1 baixo (agente),1499015.7999999998,"ex ante, potencial"
+E1 alto (agente),2508721.52,"ex ante, potencial"
+Homologado PE 04/2025 (decisão real),3105249.6,"ex post, contratado"
+Homologado — canetas 196/199,1334952.0,"ex post, contratado"
+Homologado — demais 332 itens,1770297.6,"ex post, contratado"
+E1 central — canetas 196/199,139888.8,"ex ante, potencial"
+E1 central — demais 332 itens,1672237.23,"ex ante, potencial"
+E1 alto — demais 332 itens,2368832.7199999997,"ex ante, potencial"
+E1 baixo — demais 332 itens,1380648.3599999999,"ex ante, potencial"
+Contrafactual A: homologado real limitado ao teto CMED (regra de aceitabilidade do E1),1843390.99,estimativa ex post (não observado)
+"Contrafactual B: min(homologado, limite alto do agente)",1712433.63,estimativa ex post (não observado)
+"Contrafactual C: mediana nacional 2025-01-30..2026-01-29 (≥5 registros; 245 itens), demais = A",1765928.3,estimativa ex post (não observado)
+Subconjunto com mediana nacional (245 itens): E1 central,1390642.67,ex ante
+Subconjunto com mediana nacional (245 itens): mediana nacional do horizonte,1303806.28,"ex post, mercado"
+Subconjunto com mediana nacional (245 itens): homologado,1444815.0,"ex post, contratado"
+Subconjunto com mediana nacional (245 itens): estimativa do órgão,3005238.0,"ex ante, do órgão"
+"Itens repetidos e homologados no PE 09/2026 (309 itens), quantidade do ETP 2025: E1 central",1461462.82,ex ante
+Idem: homologado PE 04/2025,1503420.6,ex post
+Idem: homologado PE 09/2026 × quantidade do ETP 2025,1277792.8,"ex post (mesmo comprador, +15 meses)"

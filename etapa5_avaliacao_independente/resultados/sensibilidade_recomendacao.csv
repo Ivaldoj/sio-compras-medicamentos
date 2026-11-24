@@ -1,0 +1,18 @@
+id,cenario,E1,E2,E4,E2_menos_E1,E1_e_o_menor_custo,altera_a_recomendacao,observacao
+S0,"base do agente (pacote v1, central)",1812130.405675676,4035749.8997767256,1812130.405675676,2223619.4941010494,True,False,E4 = E1 por hipótese do agente; o desempate é a demanda (S7)
+S1,"pacote v2 (com a errata E-01 a E-05), central",1813119.10254902,4035752.6669000695,1813119.10254902,2222633.5643510493,True,False,scripts do agente reexecutados sobre o v2
+S2,canetas com teto na coluna de 20% da CMED bruta (Convênio 87/02 não aplicável),1847100.8056756759,4035749.8997767256,1847100.8056756759,2188649.09410105,True,False,E2 mantido (conservador contra o E1)
+S3,insulinas humanas 196–199 fora da compra municipal (fornecimento centralizado pelo MS),1656301.605675676,3902057.1641467256,1656301.605675676,2245755.5584710496,True,False,NT 169/2022 e NT 164/2023 do MS
+S4a,"preços do E1 = homologados reais, sem nenhum limite (inclui canetas a R$ 193,02)",3105249.6,4035749.8997767256,3105249.6,930500.2997767255,True,False,não é o E1: o E1 veda aceitar acima do teto
+S4b,preços do E1 = homologados reais limitados ao teto CMED (contrafactual A),1843390.99,4035749.8997767256,1843390.99,2192358.909776726,True,False,
+S5,preços do E1 = mediana nacional do horizonte (contrafactual C),1765928.3,4035749.8997767256,1765928.3,2269821.5997767253,True,False,
+S6,63 itens sem referência externa precificados pela estimativa do órgão limitada ao teto,2038899.395675676,4262518.889776725,2038899.395675676,2223619.4941010494,True,False,
+S7a,"demanda = fração empenhada observada no PE 04/2025 (18.9%): SRP paga d×C, contrato fixo compromete C",342448.57290110947,762658.5754732288,1812130.405675676,420210.00257211935,True,False,E4 compromete o total contratado
+S7b,demanda = 50% do ETP,906065.202837838,2017874.9498883628,1812130.405675676,1111809.7470505247,True,False,
+S8,E1 no limite alto × E2 no limite baixo (extremo cruzado do próprio agente),2508721.517193782,2300004.007763828,2508721.517193782,-208717.509429954,False,True,o agente declarou este cenário
+S9,pior caso combinado: E1 = homologado real sem limite × E2 no limite baixo,3105249.6,2300004.007763828,3105249.6,-805245.592236172,False,True,"exige aceitar canetas acima do teto, o que o E1 proíbe"
+S10,E1 = contrafactual A × E2 no limite baixo,1843390.99,2300004.007763828,1843390.99,456613.01776382816,True,False,"E1 com a regra de teto, E2 no cenário mais favorável"
+S11,E1 central + 5% de correção monetária × E2 central,1902736.9259594597,4035749.8997767256,1902736.9259594597,2133012.9738172656,True,False,
+S12,E2 a preços por item realmente homologados não é possível; teste: E2 central só nos itens cobertos × homologado real desses itens,1147518.0,3363828.13122105,1147518.0,2216310.13122105,True,False,"subconjunto: itens cobertos pelo desconto, sem as canetas"
+S13,combinado (S8 do protocolo): insulinas humanas 196–199 fora + preços reais homologados limitados ao teto,1674702.19,3902057.1641467256,1674702.19,2227354.9741467256,True,False,"com as canetas fora da compra, a coluna de ICMS (S2) deixa de ter efeito"
+S14,idem S13 × E2 no limite baixo,1674702.19,2172334.775063828,1674702.19,497632.58506382816,True,False,

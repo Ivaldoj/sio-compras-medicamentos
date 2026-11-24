@@ -1,0 +1,13 @@
+item,hipotese,status_da_hipotese,preco_contratado,quantidade_contratada,teto,contratado_sobre_teto,acima_do_teto,valor_contratado,valor_no_teto,excesso_contratado_sobre_teto
+196,unidade = caneta; ICMS 0% (Convênio 87/02) — hipótese do agente e documentada,documentada,193.02,6000.0,20.152,9.578205637157602,True,1158120.0,120912.0,1037208.0
+196,unidade = caneta; coluna de ICMS 20% da lista bruta (se o Convênio não se aplicasse),teste de robustez,193.02,6000.0,25.19,7.6625645097260815,True,1158120.0,151140.0,1006980.0000000001
+196,teste: preço seria de caixa com 5 canetas; ICMS 0% (hipótese NÃO documentada),não documentada,193.02,6000.0,100.76,1.9156411274315204,True,1158120.0,604560.0,553560.0
+196,"teste: caixa com 5 canetas; ICMS 20% (hipótese NÃO documentada, a mais favorável ao contrato)",não documentada,193.02,6000.0,125.95,1.5325129019452164,True,1158120.0,755700.0,402420.00000000006
+199,unidade = caneta; ICMS 0% (Convênio 87/02) — hipótese do agente e documentada,documentada,147.36,1200.0,15.813999999999998,9.318325534336665,True,176832.00000000003,18976.8,157855.2
+199,unidade = caneta; coluna de ICMS 20% da lista bruta (se o Convênio não se aplicasse),teste de robustez,147.36,1200.0,19.766,7.4552261459071145,True,176832.00000000003,23719.199999999997,153112.80000000002
+199,teste: preço seria de caixa com 5 canetas; ICMS 0% (hipótese NÃO documentada),não documentada,147.36,1200.0,79.07,1.863665106867333,True,176832.00000000003,94883.99999999999,81948.00000000003
+199,"teste: caixa com 5 canetas; ICMS 20% (hipótese NÃO documentada, a mais favorável ao contrato)",não documentada,147.36,1200.0,98.82999999999998,1.4910452291814231,True,176832.00000000003,118595.99999999999,58236.00000000004
+194,"maior teto por caneta entre as análogas do tipo, alíquota da PB (TRESIBA)",teste (substância não especificada no item),195.68,100.0,169.972,1.1512484409196808,True,19568.0,16997.2,2570.7999999999997
+194,"maior teto por caneta entre as análogas do tipo, coluna de 20% para todas",teste (substância não especificada no item),195.68,100.0,169.972,1.1512484409196808,True,19568.0,16997.2,2570.7999999999997
+195,"maior teto por caneta entre as análogas do tipo, alíquota da PB (HUMALOG)",teste (substância não especificada no item),194.76,100.0,35.138,5.542717286128977,True,19476.0,3513.7999999999997,15962.199999999999
+195,"maior teto por caneta entre as análogas do tipo, coluna de 20% para todas",teste (substância não especificada no item),194.76,100.0,43.924,4.4340224023312995,True,19476.0,4392.4,15083.599999999999

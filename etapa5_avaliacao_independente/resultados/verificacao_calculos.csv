@@ -1,0 +1,60 @@
+id,verificacao,declarado,recalculado,confere,observacao
+V01,R0 = Σ valor estimado do órgão (334 itens),4952438.0,4952438.0,True,
+V01b,"plano: 334 itens, quantidades = ETP",334,334,True,
+V02a,E1 central = Σ valor_ref_total do plano,1812130.41,1812130.4,True,
+V02b,E1 central = Σ quantidade × preco_ref_unitario (preço arredondado a 4 casas),1812130.41,1812126.03,True,diferença só de arredondamento do preço unitário no CSV
+V02c,E1 baixo = Σ valor_faixa_baixo,1499015.78,1499015.7999999998,True,
+V02d,E1 alto = Σ valor_faixa_alto,2508721.52,2508721.52,True,
+V02e,faixa coerente em todos os itens (baixo ≤ ref ≤ alto),334,334,True,
+V03a,itens cuja referência é 'praticado compatível',247,247,True,declarado em 01_diagnostico.md §3.2
+V03b,"referência (mediana praticada 24 m, limitada ao teto) recalculada item a item — itens que conferem",247,247,True,"recomputo próprio em pandas, tolerância R$ 0,0005"
+V03c,itens com praticado compatível no pacote mas referência de outra fonte,0,0,True,
+V04,teto CMED máximo 'confirmado' recalculado item a item — itens que conferem,334,334,True,"PF (PMVG se CAP), alíquota aplicável à PB, sem vínculos COM ALERTA/ERRO"
+V05,itens com referência acima do teto aplicável (B3),0,0,True,
+V06,"R1 = Σ q × min(estimativa do órgão, teto)",3556151.2,3556151.2012698418,True,
+V07a,itens com estimativa do órgão acima do teto (confirmado),41,41,True,
+V07b,valor (R0) desses itens,1932504.0,1932504.0,True,
+V07c,excesso sobre o teto (R0 − R1),1396287.0,1396286.7987301587,True,
+V07d,parte das canetas 196/199 no excesso (%),85.6,85.6,True,
+V07e,flag_acima_teto_confirmado do plano = recomputo,334,334,True,
+V07f,itens marcados pelo pacote (alerta_estimativa_acima_teto_cmed),40,40,True,
+V08a,itens com preço praticado só 'a conferir',25,25,True,
+V08b,"desses 25, quantos têm referência central vinda de registro 'a conferir' (B4)",0,0,True,"{'estimativa do órgão ÷ sobre-estimação mediana': 23, 'PNCP estimado por outro órgão': 2}"
+V08c,valor R0 dos 25 itens a conferir,1470360.0,1470360.0,True,
+V09a,itens sem referência externa,63,63,True,
+V09b,valor R0 desses itens,444019.0,444019.0,True,
+V09c,referência provisória desses itens (≈ R$ 217 mil),217000.0,217250.67,True,
+V09d,sobre-estimação mediana estimativa do órgão / mediana praticada,2.044,2.044,True,n=246 itens com ≥5 preços
+V09e,"referência dos sem-referência = estimativa ÷ 2,044 (itens que conferem)",63,63,True,
+V10a,"E2 central (desconto 2024 sobre PF, categoria mais barata; restante via E1)",4035749.9,4035749.5341010503,True,
+V10b,E2 baixo (registro de menor preço),2300004.01,2300003.8316823095,True,
+V10c,E2 alto (mediana de todos os registros),4543593.96,4543594.102322727,True,
+V10d,itens cobertos pelo desconto no E2,225,225,True,
+V11a,economia potencial principal E2 − E1 (central),2223619.0,2223619.1341010504,True,
+V11b,economia potencial secundária R1 − E1 (central),1744021.0,1744020.8012698418,True,"texto: 'R$ 1,74 mi'"
+V11c,faixa plausível E2−E1: baixo×baixo,800988.0,800988.0516823095,True,
+V11d,faixa plausível E2−E1: alto×alto,2034872.0,2034872.5823227274,True,
+V11e,extremo cruzado E2 baixo − E1 alto,-208718.0,-208717.6883176905,True,
+V11f,"faixa R1 − E1: [R1 − alto, R1 − baixo] ≈ 1,05 a 2,06 mi",1.05–2.06,1.05–2.06,True,
+V12a,"multiplicador de empate sobre os preços do E2 (≈ 0,36)",0.36,0.36,True,
+V12b,descontos de empate genérico/similar/ético (%),85.6/82.4/70.5,85.6/82.4/70.5,True,
+V13a,itens ≤ R$ 80 mil pela referência do agente (texto: 332),332,332,True,
+V13b,itens ≤ R$ 80 mil pela estimativa do órgão (contexto; o agente não declarou este número),329,329,True,informativo: a base do benefício é o valor estimado do item no edital; pelas duas bases a regra alcança quase todos os itens
+V14a,"insulinas: valor R0 (R$ 1.407.331; 28,4%)",1407331.0,1407331.0,True,
+V14b,insulinas: peso em R0 (%),28.4,28.4,True,
+V14c,"insulinas: referência E1 (R$ 172.639; 9,5%)",172639.0,172638.8,True,
+V14d196,item 196: estimativa do órgão ÷ teto CMED,9.6,9.6,True,
+V14d199,item 199: estimativa do órgão ÷ teto CMED,9.3,9.3,True,
+V15,itens com mais de uma categoria_valor na referência (B6),0,0,True,"{'preco_unitario_praticado_por_unidade_fornecimento': 247, 'derivado: preco_estimado_pelo_orgao ÷ razão mediana estimativa/praticado': 63, 'preco_unitario_estimado_por_outro_orgao': 17, 'preco_unitario_homologado': 7}"
+V16a,despesa com medicamentos em 2024 (empenhado),1953288.72,1953288.7200000002,True,
+V16b,parte do PE 12/2024 (desconto sobre CMED) em 2024 (%),62.6,62.6,True,
+V16c,"E1 central ÷ gasto de 2024 (texto: 0,93)",0.93,0.93,True,
+V17,"resumo executivo cita '1,81 mi' e o valor recalculado arredonda para isso (E1 central 1,81 mi)",True,True,True,recalculado = 1.8121 mi
+V17,"resumo executivo cita '1,50' e o valor recalculado arredonda para isso (E1 faixa 1,50)",True,True,True,recalculado = 1.4990 mi
+V17,"resumo executivo cita '2,51 mi' e o valor recalculado arredonda para isso (E1 faixa 2,51)",True,True,True,recalculado = 2.5087 mi
+V17,"resumo executivo cita '4,04 mi' e o valor recalculado arredonda para isso (E2 central 4,04 mi)",True,True,True,recalculado = 4.0357 mi
+V17,"resumo executivo cita '2,22 mi' e o valor recalculado arredonda para isso (economia 2,22 mi)",True,True,True,recalculado = 2.2236 mi
+V17,"resumo executivo cita '3,56 mi' e o valor recalculado arredonda para isso (R1 3,56 mi)",True,True,True,recalculado = 3.5562 mi
+V17,"resumo executivo cita '1,74 mi' e o valor recalculado arredonda para isso (economia vs R1 1,74 mi)",True,True,True,recalculado = 1.7440 mi
+V18a,E1 com demanda de 75% (SRP paga d × C),1359098.0,1359097.8074999999,True,
+V18b,E4 com demanda de 75% (contrato fixo compromete C),1812130.0,1812130.41,True,
