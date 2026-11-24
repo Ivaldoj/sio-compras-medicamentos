@@ -1,0 +1,35 @@
+PE 04/2025 (PNCP 09090689000167-1-000006/2025): itens 334 | com CATMAT: 0 | CATMAT distintos: 1 | soma valorTotal estimado: 4952438.00
+unidades: {'Comprimido': 159, 'Frasco': 77, 'Ampola': 59, 'Cápsula': 16, 'Bisnaga': 14, 'Unidade': 4, 'Seringa': 3, 'Sache': 1, 'Envelope': 1} | distintas: 9
+concentração do valor estimado: 10 maiores itens = 39.9%
+itens com resultado baixado: 334
+ numeroItem                                                    descricao  quantidade unidadeMedida  valorUnitarioEstimado  valorTotal
+        196 Insulina Humana NPH 100UI/mL- suspensão injetável  3 mL c...      6000.0       Unidade                 193.02   1158120.0
+        199 Insulina Humana Regular 100UI/mL - solução injetável 3 mL...      1200.0       Unidade                 147.36    176832.0
+         28           Amoxicilina 50 mg/ml - Pó para suspensão Oral 60mL      5000.0        Frasco                  29.90    149500.0
+        100 CLORETO DE SODIO 0,9% solução injetável sistema fechado (...     12000.0        Frasco                   8.34    100080.0
+        294                  Risperidona 1mg/ml solução oral frasco 30ml      2000.0        Frasco                  48.81     97620.0
+         98 CLORETO DE SODIO 0,9% solução injetável sistema fechado (...     10000.0        Frasco                   6.11     61100.0
+        111      Colecalciferol (Vitamina D3) 1000 Ui Cápsula/comprimido     10000.0    Comprimido                   5.95     59500.0
+         76                       Cefalexina 500 mg- Cápsula/comprimido.     50000.0    Comprimido                   1.18     59000.0
+        286                                     Pregabalina 75mg cápsula    130000.0       Cápsula                   0.45     58500.0
+         12                            Acido valproico 500mg comprimido.     30000.0    Comprimido                   1.94     58200.0
+
+BPS 2024 registros: 29568 | inserção 2024 mín/máx: 2021-01-04 2026-11-19
+BPS inserido até 2025-01-29: 7347 registros, 112 instituições, compras 2024-01-01..2024-10-30
+CATMAT obtido via BPS (fornecedor+preço+quantidade): 299 de 334 itens | chaves ambíguas no BPS: 7
+itens do PE 04/2025 com ≥1 preço BPS anterior à decisão: 285 de 334 (84.6% do valor estimado)
+… com ≥5 preços: 225 | com preço da PB: 210
+
+BPS Santa Luzia por ano:
+             registros           cnpjs compra_min compra_max insercao_max  catmat      valor
+ano_compra                                                                                 
+2025              382  10425754000147 2025-03-11 2025-10-31   2025-12-22     375  5014830.9
+BPS Santa Luzia inserido até a decisão: 0
+BPS Santa Luzia por processo: {'000252025': {'n': 48, 'valor': 1641900.3, 'data': '31/10/2025'}, '004/2025': {'n': 315, 'valor': 2923544.6, 'data': '11/03/2025'}, '78/2025': {'n': 19, 'valor': 449386.0, 'data': '02/10/2025'}}
+valor homologado PE 04/2025 (soma dos resultados): 3105249.60
+
+descrições: PE04/2025=334 | PE25/2025=87 (iguais a alguma do PE04: 1) | PE09/2026=329 (iguais a alguma do PE04: 312)
+quantidade PE09/2026 ÷ PE04/2025 (mesma descrição): n=312, iguais=207, menores=37, maiores=68, mediana=1.00
+soma das quantidades × preço estimado: PE04/2025=4952438.00 | PE25/2025=5590422.70 | PE09/2026=4852322.10
+PE01/2024: 349 descrições; iguais no PE04/2025: 143 | quantidade 2025÷2024: iguais=64, menores=24, maiores=55, mediana=1.00
+PE01/2024 valor estimado no PNCP: {'count': 349.0, 'mean': 0.0, 'max': 0.0}

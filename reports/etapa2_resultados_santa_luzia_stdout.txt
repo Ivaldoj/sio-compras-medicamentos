@@ -1,0 +1,33 @@
+﻿
+=== 09090689000167-1-000006/2025 | Pregão - Eletrônico | SRP=False | Divulgada no PNCP
+objeto: [Portal de Compras Públicas] - Contratação de empresa  para fornecimento parcelado de medicamentos diversos destinados a Assistência Farmacêutica Básica, Assistência Farmacêutica Especializada e medic
+unidade: Prefeitura Municipal de Santa Luzia | processo: 00006/2025 | amparo: Lei 14.133/2021, Art. 28, I
+abertura: 2025-01-30T07:59:00 | encerramento: 2025-02-13T07:59:00 | publicação PNCP: 2025-01-30T07:34:39
+valor estimado: 4952438.0 | homologado: 3105249.6
+itens: 334 | situação: {'Homologado': 334} | com resultado: 334 | material: 334
+campos de item: ['aplicabilidadeMargemPreferenciaAdicional', 'aplicabilidadeMargemPreferenciaNormal', 'catalogo', 'catalogoCodigoItem', 'categoriaItemCatalogo', 'codigoRegistroImobiliario', 'criterioJulgamentoId', 'criterioJulgamentoNome', 'dataAtualizacao', 'dataInclusao', 'descricao', 'exigenciaConteudoNacional', 'imagem', 'incentivoProdutivoBasico', 'informacaoComplementar', 'itemCategoriaId', 'itemCategoriaNome', 'materialOuServico', 'materialOuServicoNome', 'ncmNbsCodigo', 'ncmNbsDescricao', 'numeroItem', 'orcamentoSigiloso', 'patrimonio', 'percentualMargemPreferenciaAdicional', 'percentualMargemPreferenciaNormal', 'quantidade', 'situacaoCompraItem', 'situacaoCompraItemNome', 'temResultado', 'tipoBeneficio', 'tipoBeneficioNome', 'tipoMargemPreferencia', 'unidadeMedida', 'valorTotal', 'valorUnitarioEstimado']
+documentos: [('Edital', 'Edital Pregao Compras - Ampla Participacao.pdf'), ('Outros Documentos', 'E-mail de Conta Institucional - PE 4_2025.pdf'), ('Outros Documentos', 'E-mail de Conta Institucional - P.E 004_2025 - PHARMAPLUS.pdf'), ('Outros Documentos', 'E-mail de Conta Institucional - Apolice de Seguro Garantia - Nova Medicamentos Ltda..pdf'), ('Outros Documentos', 'Contrato_e_Publicidade.pdf'), ('Outros Documentos', 'Contrato_e_Publicidade.pdf'), ('Outros Documentos', 'Contrato_e_Publicidade.pdf'), ('Outros Documentos', 'Contrato_e_Publicidade.pdf'), ('Outros Documentos', 'Contrato_e_Publicidade.pdf'), ('Outros Documentos', 'Contrato_e_Publicidade.pdf'), ('Outros Documentos', 'Contrato_e_Publicidade.pdf'), ('Outros Documentos', 'Aditivo.pdf'), ('Outros Documentos', 'Aditivo.pdf'), ('Outros Documentos', 'Aditivo.pdf'), ('Outros Documentos', 'Ata_Parcial_033906_030426.zip'), ('Outros Documentos', 'Ata_Final_034123_030426.zip')]
+atas: 0
+resultados baixados: 334
+
+=== 09090689000167-1-000099/2025 | Pregão - Eletrônico | SRP=False | Divulgada no PNCP
+objeto: [Portal de Compras Públicas] - Contratação de empresa para fornecimento parcelado de medicamentos diversos, destinados a atender a nova demanda da Assistência Farmacêutica Básica, da Assistência Farma
+unidade: Prefeitura Municipal de Santa Luzia | processo: 00091/2025 | amparo: Lei 14.133/2021, Art. 28, I
+abertura: 2025-09-16T08:29:00 | encerramento: 2025-09-29T08:29:00 | publicação PNCP: 2025-09-15T15:55:40
+valor estimado: 5590422.7 | homologado: 2783729.3
+itens: 87 | situação: {'Homologado': 78, 'Fracassado': 8, 'Deserto': 1} | com resultado: 78 | material: 87
+campos de item: ['aplicabilidadeMargemPreferenciaAdicional', 'aplicabilidadeMargemPreferenciaNormal', 'catalogo', 'catalogoCodigoItem', 'categoriaItemCatalogo', 'codigoRegistroImobiliario', 'criterioJulgamentoId', 'criterioJulgamentoNome', 'dataAtualizacao', 'dataInclusao', 'descricao', 'exigenciaConteudoNacional', 'imagem', 'incentivoProdutivoBasico', 'informacaoComplementar', 'itemCategoriaId', 'itemCategoriaNome', 'materialOuServico', 'materialOuServicoNome', 'ncmNbsCodigo', 'ncmNbsDescricao', 'numeroItem', 'orcamentoSigiloso', 'patrimonio', 'percentualMargemPreferenciaAdicional', 'percentualMargemPreferenciaNormal', 'quantidade', 'situacaoCompraItem', 'situacaoCompraItemNome', 'temResultado', 'tipoBeneficio', 'tipoBeneficioNome', 'tipoMargemPreferencia', 'unidadeMedida', 'valorTotal', 'valorUnitarioEstimado']
+documentos: [('Edital', 'Edital Pregao 25 REPUBLICACAO.pdf'), ('Edital', 'Edital_Preg_o_Compras_-_Ampla_Participa__o.pdf'), ('Outros Documentos', 'SOLICITA__O_ALLFAMED.pdf'), ('Outros Documentos', 'PEDIDO_DE_CANCELAMENTO_CIRUFARMA.pdf'), ('Outros Documentos', 'PEDIDO_UNI.pdf'), ('Outros Documentos', 'Ata_Final_235511_230926.zip'), ('Outros Documentos', 'Ata_Parcial_235533_230926.zip')]
+atas: 0
+resultados baixados: 78
+
+=== 09090689000167-1-000026/2026 | Pregão - Eletrônico | SRP=False | Divulgada no PNCP
+objeto: [Portal de Compras Públicas] - Contratação de empresa para fornecimento parcelado de medicamentos diversos destinados a Assistência Farmacêutica Básica, Assistência Farmacêutica Especializada e medica
+unidade: Prefeitura Municipal de Santa Luzia | processo: 00027/2026 | amparo: Lei 14.133/2021, Art. 28, I
+abertura: 2026-04-15T09:05:00 | encerramento: 2026-04-29T07:59:00 | publicação PNCP: 2026-04-14T19:44:14
+valor estimado: 4852322.1 | homologado: 1790783.8
+itens: 329 | situação: {'Homologado': 326, 'Fracassado': 3} | com resultado: 326 | material: 329
+campos de item: ['aplicabilidadeMargemPreferenciaAdicional', 'aplicabilidadeMargemPreferenciaNormal', 'catalogo', 'catalogoCodigoItem', 'categoriaItemCatalogo', 'codigoRegistroImobiliario', 'criterioJulgamentoId', 'criterioJulgamentoNome', 'dataAtualizacao', 'dataInclusao', 'descricao', 'exigenciaConteudoNacional', 'imagem', 'incentivoProdutivoBasico', 'informacaoComplementar', 'itemCategoriaId', 'itemCategoriaNome', 'materialOuServico', 'materialOuServicoNome', 'ncmNbsCodigo', 'ncmNbsDescricao', 'numeroItem', 'orcamentoSigiloso', 'patrimonio', 'percentualMargemPreferenciaAdicional', 'percentualMargemPreferenciaNormal', 'quantidade', 'situacaoCompraItem', 'situacaoCompraItemNome', 'temResultado', 'tipoBeneficio', 'tipoBeneficioNome', 'tipoMargemPreferencia', 'unidadeMedida', 'valorTotal', 'valorUnitarioEstimado']
+documentos: [('Edital', 'PE_009-2026_-_Edital_Medicamentos.pdf'), ('Outros Documentos', 'Contrato.pdf'), ('Outros Documentos', 'Contrato.pdf'), ('Outros Documentos', 'Contrato.pdf'), ('Outros Documentos', 'Contrato.pdf'), ('Outros Documentos', 'Contrato.pdf'), ('Outros Documentos', 'Ata_Final_102718_120626.zip'), ('Outros Documentos', 'Ata_Parcial_102750_120626.zip')]
+atas: 0
+resultados baixados: 326

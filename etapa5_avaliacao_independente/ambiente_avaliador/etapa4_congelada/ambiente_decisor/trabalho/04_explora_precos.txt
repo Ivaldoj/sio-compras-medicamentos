@@ -1,0 +1,128 @@
+      a      n  itens    ext   dup
+0  2020  28416    238  365.0  52.0
+1  2021  27368    242  313.0  55.0
+2  2022  27453    242  177.0  90.0
+3  2023   8794    241   28.0  26.0
+4  2024   3095    232  196.0  36.0 
+
+      a      n  itens    dup         dr
+0  2021   2182    228   10.0 2021-12-30
+1  2022  34214    243  658.0 2022-12-30
+2  2023  36224    246  151.0 2023-12-29
+3  2024  35847    246   71.0 2024-12-30
+4  2025   2910    240    0.0 2025-01-29 
+
+  esfera  count_star()
+0      F         41882
+1      E          8098
+2      M         61397 
+
+      esfera  count_star()
+0  MUNICIPAL         91327
+1    FEDERAL            28
+2    PRIVADA            13
+3   ESTADUAL          3758 
+
+  regiao      n  count(DISTINCT item)
+0     SE  26599                   242
+1      N  11344                   237
+2     NE  25607                   239
+3     CO   3033                   227
+4      S  28543                   241 
+
+                                                                        categoria_valor
+0                                     preco_unitario_praticado_por_unidade_fornecimento
+1  preco_unitario_praticado (homologado no Compras.gov.br, por unidade de fornecimento)
+2                         preco_unitario_estimado_por_outro_orgao (por unidade do item)
+3                                       preco_unitario_homologado (por unidade do item)
+4                              limite_regulatorio_por_embalagem (não é preço praticado) 
+
+                  tipo_produto  count_star()
+0                      Similar          8619
+1                    Biológico          1347
+2                 Fitoterápico           338
+3                       -                 54
+4                   Específico          2060
+5  Produto de Terapia Avançada            44
+6                         Novo          3702
+7                 Radiofármaco             2
+8                     Genérico          9383 
+
+  regime_preco  count_star()
+0     Regulado         22791
+1     Liberado          2758 
+
+                                        aplicabilidade tipo_preco  aliquota_aplicavel_pb  count_star()
+0        somente compras por força de decisão judicial       PMVG                  False        428631
+1                    teto para compras administrativas         PF                  False        428631
+2        somente compras por força de decisão judicial       PMVG                   True         22981
+3                    teto para compras administrativas         PF                   True         22981
+4                   teto obrigatório (produto com CAP)       PMVG                  False         16609
+5  não é o teto para governo: produto com CAP usa PMVG         PF                  False         16609
+6  não é o teto para governo: produto com CAP usa PMVG         PF                   True          2568
+7                   teto obrigatório (produto com CAP)       PMVG                   True          2568 
+
+  item_status  count_star()
+0  recente>=5           246
+1    total>=5             1 
+
+  status_preco_praticado    n        b         c      ba       ca     pr     pe
+0             disponível  253  95126.0  111377.0  3786.0  11135.0  268.0  928.0
+1             a conferir   25      0.0       0.0  4099.0  12827.0    0.0    4.0
+2                ausente   56      0.0       0.0     0.0      0.0    0.0   23.0 
+
+                                              compatibilidade  count_star()  count(DISTINCT item)
+0                   a_conferir: conteúdo do item não extraído          5726                     9
+1                                        incompativel_unidade           151                     8
+2  a_conferir: sistema de aplicação não explícito no registro            10                     2
+3         incompativel: refil/frasco sem sistema de aplicação           820                     4
+4           a_conferir: unidade de fornecimento não informada            22                     4
+5                                     incompativel_capacidade         26799                    71
+6                        a_conferir: capacidade não informada          4042                    81
+7                                                  compativel        111377                   246
+8                  a_conferir: forma do CATMAT não confirmada         14162                   180 
+
+              compatibilidade  count_star()  count(DISTINCT item)
+0        incompativel_unidade             1                     1
+1  conteudo_item_nao_extraido            16                     9
+2     incompativel_capacidade           191                    42
+3    capacidade_nao_informada             7                     5
+4                  compativel           310                   243 
+
+                 classe  count_star()  count(DISTINCT item)
+0                 exata           263                    38
+1         indeterminada           230                    36
+2  compativel_conversao          4613                   218
+3          incompativel         15265                   295
+4  provavel_conferencia            55                    22 
+
+                                                                                      status  count_star()
+0             aceita por regra; verificação automática sem alerta; validação humana pendente          4666
+1  aceita por regra; verificação automática COM ALERTA (conferir); validação humana pendente           210 
+
+                                verif_consistencia_interna                                  verif_preco_praticado  count_star()
+0                                                       ok                                                     ok          4653
+1                                                       ok  alerta: teto unitário > 50× o preço praticado mediano            98
+2  alerta: teto unitário fora de 0,25–4× a mediana do item                                                     ok            83
+3                                                       ok                  sem preço praticado BPS para comparar            21
+4  alerta: teto unitário fora de 0,25–4× a mediana do item  alerta: teto unitário > 50× o preço praticado mediano            15
+5  alerta: teto unitário fora de 0,25–4× a mediana do item   alerta: preço praticado mediano > 2× o teto unitário             6 
+
+                                                         inspecao_amostral_ia  count_star()
+0                                                                        None          4549
+1                       fator confere com a contagem impressa na apresentação           323
+2  fator confere; RESSALVA: item pede ampola e a apresentação é frasco-ampola             2
+3                               ERRO: "CX C/5 AMP" lido como 1 ampola (são 5)             1
+4  fator confere; RESSALVA: item pede frasco-ampola e a apresentação é ampola             1 
+
+   item  catmat                                                                                                                                    descricao_catmat codigo_pdm  nome_pdm                             nivel                                                                                           fonte                                   existencia_no_corte
+0   194  468664  INSULINA, TIPO: ANÁLOGA DE AÇÃO PROLONGADA , CONCENTRAÇÃO: 100 UI/ML, FORMA FARMACEUTICA: SOLUÇÃO INJETÁVEL , ADICIONAIS: C/ SISTEMA DE APLICAÇÃO        8428  INSULINA             atributos_compativeis  Catálogo CATMAT oficial (dadosabertos.compras.gov.br, módulo material; consulta em 23/11/2026)  comprovada (registro de preço/BPS anterior ao corte)
+1   194  442012                         INSULINA, TIPO: NPH , CONCENTRAÇÃO: 100 UI/ML, FORMA FARMACEUTICA: SOLUÇÃO INJETÁVEL , ADICIONAIS: C/ SISTEMA DE APLICAÇÃO        8428  INSULINA             atributos_compativeis  Catálogo CATMAT oficial (dadosabertos.compras.gov.br, módulo material; consulta em 23/11/2026)  comprovada (registro de preço/BPS anterior ao corte)
+2   194  440255      INSULINA, TIPO: ANÁLOGA DE AÇÃO RÁPIDA , CONCENTRAÇÃO: 100 UI/ML, FORMA FARMACEUTICA: SOLUÇÃO INJETÁVEL , ADICIONAIS: C/ SISTEMA DE APLICAÇÃO        8428  INSULINA             atributos_compativeis  Catálogo CATMAT oficial (dadosabertos.compras.gov.br, módulo material; consulta em 23/11/2026)  comprovada (registro de preço/BPS anterior ao corte)
+3   195  468664  INSULINA, TIPO: ANÁLOGA DE AÇÃO PROLONGADA , CONCENTRAÇÃO: 100 UI/ML, FORMA FARMACEUTICA: SOLUÇÃO INJETÁVEL , ADICIONAIS: C/ SISTEMA DE APLICAÇÃO        8428  INSULINA             atributos_compativeis  Catálogo CATMAT oficial (dadosabertos.compras.gov.br, módulo material; consulta em 23/11/2026)  comprovada (registro de preço/BPS anterior ao corte)
+4   195  442012                         INSULINA, TIPO: NPH , CONCENTRAÇÃO: 100 UI/ML, FORMA FARMACEUTICA: SOLUÇÃO INJETÁVEL , ADICIONAIS: C/ SISTEMA DE APLICAÇÃO        8428  INSULINA             atributos_compativeis  Catálogo CATMAT oficial (dadosabertos.compras.gov.br, módulo material; consulta em 23/11/2026)  comprovada (registro de preço/BPS anterior ao corte)
+5   195  440255      INSULINA, TIPO: ANÁLOGA DE AÇÃO RÁPIDA , CONCENTRAÇÃO: 100 UI/ML, FORMA FARMACEUTICA: SOLUÇÃO INJETÁVEL , ADICIONAIS: C/ SISTEMA DE APLICAÇÃO        8428  INSULINA             atributos_compativeis  Catálogo CATMAT oficial (dadosabertos.compras.gov.br, módulo material; consulta em 23/11/2026)  comprovada (registro de preço/BPS anterior ao corte)
+6   196  271157                                                                     INSULINA, ORIGEM: HUMANA , TIPO: NPH , DOSAGEM: 100U/ML , APLICAÇÃO: INJETÁVEL        8428  INSULINA  generico_apresentacao_na_unidade  Catálogo CATMAT oficial (dadosabertos.compras.gov.br, módulo material; consulta em 23/11/2026)  comprovada (registro de preço/BPS anterior ao corte)
+7   199  282055                   INSULINA, ORIGEM: HUMANA , TIPO: REGULAR , DOSAGEM: 100U/ML , APLICAÇÃO: INJETÁVEL , CARACTERÍSTICAS ADICIONAIS: FRASCO 10,00 ML        8428  INSULINA  generico_apresentacao_na_unidade  Catálogo CATMAT oficial (dadosabertos.compras.gov.br, módulo material; consulta em 23/11/2026)                                        não comprovada
+8   199  271154                                                                 INSULINA, ORIGEM: HUMANA , TIPO: REGULAR , DOSAGEM: 100U/ML , APLICAÇÃO: INJETÁVEL        8428  INSULINA  generico_apresentacao_na_unidade  Catálogo CATMAT oficial (dadosabertos.compras.gov.br, módulo material; consulta em 23/11/2026)  comprovada (registro de preço/BPS anterior ao corte) 
+

@@ -1,0 +1,335 @@
+item,descricao,quantidade_homologada,preco_unitario_homologado,cnpj_fornecedor,data_resultado
+1,Acetilcisteina adulto 40mg/ml xarope (frasco 120ml),2000.0,4.12,8778201000126,2025-03-11
+2,Acetilcisteina pediatrico 20mg/ml xarope (frasco 120ml),1200.0,3.2,31187918000115,2025-03-11
+3,Aciclovir 200mg – comprimido.,10000.0,0.17,8778201000126,2025-03-11
+4,Aciclovir 50mg/g (5%) 10g,500.0,2.5,31187918000115,2025-03-11
+5,Ácido acetilsalicílico 100 mg - comprimido.,100000.0,0.03,33160739000110,2025-03-11
+6,ACIDO ASCORBICO (VITAMINA C) 100 mg/mL solução injetável intravenosa (ampola 5 mL).,1200.0,0.78,8778201000126,2025-03-11
+7,Ácido ascórbico 200mg/ml solução oral (frasco 20ml),1000.0,1.2,31187918000115,2025-03-11
+8,Ácido ascórbico 500 mg comprimido,30000.0,0.11,31187918000115,2025-03-11
+9,Ácido fólico 5 mg - comprimido.,50000.0,0.04,15218561000139,2025-03-11
+10,ACIDO TRANEXAMICO 50 mg/mL solução injetável intravenosa (ampola 5 mL).,300.0,3.92,31187918000115,2025-03-11
+11,Acido Valproico 250mg caps./comprimido.,30000.0,0.37,31187918000115,2025-03-11
+12,Acido valproico 500mg comprimido.,30000.0,0.78,1722296000117,2025-03-11
+13,ADENOSINA 3 mg/mL solução injetável intravenosa (ampola 2 mL),200.0,11.17,31187918000115,2025-03-11
+14,Albendazol 40 mg/ml - Susp. Oral 10mL,2000.0,1.15,8778201000126,2025-03-11
+15,Albendazol mastigável 400 mg -comprimido.,1000.0,0.42,33160739000110,2025-03-11
+16,Alendronato de sódio 70 mg -comprimido.,30000.0,0.26,1722296000117,2025-03-11
+17,"Alprazolam 0,5mg comprimido",8000.0,0.08,15218561000139,2025-03-11
+18,Alprazolam 1mg comprimido,8000.0,0.08,31187918000115,2025-03-11
+19,Alprazolam 2mg comprimido,8000.0,0.14,31187918000115,2025-03-11
+20,Ambroxol  6mg/ml xarope (frasco 100ml),1200.0,2.59,15218561000139,2025-03-11
+21,Ambroxol 3mg/ml xarope (frasco 100ml),1200.0,2.27,33160739000110,2025-03-11
+22,AMIODARONA 50 mg/mL solução injetável intravenosa (ampola 3 mL),200.0,3.09,31187918000115,2025-03-11
+23,"Amiodarona, Cloridrato  200 mg -comprimido.",8000.0,0.36,33160739000110,2025-03-11
+24,"Amitriptilina, cloridrato de 25 mg -comprimido.",60000.0,0.04,1722296000117,2025-03-11
+25,"Amitriptilina, cloridrato de 75 mg -comprimido.",10000.0,0.23,31187918000115,2025-03-11
+26,"Amoxicilina + clavulanato de potássio 50 mg + 12,5 mg/ml - Susp. Oral 75mL",600.0,18.28,31187918000115,2025-03-11
+27,Amoxicilina + clavulanato de potássio 500 mg + 125 mg -comprimido.,7000.0,1.2,31187918000115,2025-03-11
+28,Amoxicilina 50 mg/ml - Pó para suspensão Oral 60mL,5000.0,2.97,8778201000126,2025-03-11
+29,Amoxicilina 500 mg - Cápsula,50000.0,0.2,33160739000110,2025-03-11
+30,"Anlodipino, besilato de 10 mg -comprimido.",50000.0,0.05,31187918000115,2025-03-11
+31,"Anlodipino, besilato de 5 mg -comprimido.",50000.0,0.02,31187918000115,2025-03-11
+32,Aripiprazol 1mg/ml Suspensão oral (frasco 100mL),500.0,89.63,31187918000115,2025-03-11
+33,Atenolol 100 mg -comprimido.,20000.0,0.12,31187918000115,2025-03-11
+34,Atenolol 50 mg -comprimido.,30000.0,0.04,31187918000115,2025-03-11
+35,Atorvastatina calcica 20mg - comprimido,1000.0,0.37,31187918000115,2025-03-11
+36,Atorvastatina calcica 40mg - comprimido,1000.0,0.79,15218561000139,2025-03-11
+37,"ATROPINA 0,25 mg/mL solução injetável intravenosa (ampola 1 mL).",200.0,0.65,31187918000115,2025-03-11
+38,Azitromicina 40 mg/ml - Pó para Suspensão Oral 15mL,2000.0,6.62,31187918000115,2025-03-11
+39,Azitromicina 500 mg -comprimido.,12000.0,0.83,8778201000126,2025-03-11
+40,Beclometasona 200 mcg/dose solução para inalação oral 200 doses,200.0,33.75,31187918000115,2025-03-11
+41,Beclometasona 250 mcg/dose solução para inalação oral 200 doses,200.0,42.25,31187918000115,2025-03-11
+42,Beclometasona 50 mcg/dose solução para inalação oral 200 doses,200.0,31.88,31187918000115,2025-03-11
+43,Beclometasona 50 mcg/dose suspensão para inalação nasal spray 200 doses,100.0,41.64,31187918000115,2025-03-11
+44,BENZILPENICILINA BENZATINA 1.200.000 UI pó liofílico para suspensão injetável intramuscular (frasco ampola).,1200.0,6.54,33160739000110,2025-03-11
+45,BENZILPENICILINA BENZATINA 600.000 UI pó liofílico para suspensão injetável intramuscular (frasco ampola).,1000.0,6.91,31187918000115,2025-03-11
+46,BENZILPENICILINA PROCAÍNA 300.000 UI + BENZILPENICILINA POTÁSSICA 100.000 UI pó liofílico para suspensão injetável intramuscular (frasco ampola).,500.0,5.49,31187918000115,2025-03-11
+47,Benzoilmetronidazol 40 mg/ml - Suspensão Oral 100 mL,200.0,5.6,1722296000117,2025-03-11
+48,BETAMETASONA acetato 3mg/mL + BETAMETASONA fosfato dissódico 3mg/mL suspensão injetável intramuscular (ampola 1 mL).,300.0,8.7,8778201000126,2025-03-11
+49,"Betametasona, acetonato + Betametasona, fostato dissodico 5mg/ml+2mg/ml (ampola 1ml)",300.0,4.51,33160739000110,2025-03-11
+50,"Bicarbonato de sódio 1 mEq/mL (8,4%) Injetável 10mL",200.0,0.82,15218561000139,2025-03-11
+51,"Biperideno, cloridrato de 2 mg - comprimido",20000.0,0.28,33160739000110,2025-03-11
+52,"Biperideno, cloridrato de 4 mg - comprimido de liberação controlada",6000.0,1.08,31187918000115,2025-03-11
+53,Bromazepam 3mg comprimido,12000.0,0.1,33160739000110,2025-03-11
+54,"Brometo de ipratrópio 0,25 mg/mL – solução para inalação (frasco 20mL)",100.0,0.84,31187918000115,2025-03-11
+55,Bromoprida 10 mg comprimido,6000.0,0.21,31187918000115,2025-03-11
+56,Bromoprida 4mg/ml  solução oral (frasco 20ml),400.0,2.6,1722296000117,2025-03-11
+57,BROMOPRIDA 5 mg/mL solução injetável intravenosa (ampola 2 mL).,300.0,1.63,8778201000126,2025-03-11
+58,Budesonida 32 mcg - suspensão para inalação nasal 120 doses,300.0,12.4,1722296000117,2025-03-11
+59,Budesonida 50mcg - suspensão para inalação nasal 120 doses,200.0,42.99,31187918000115,2025-03-11
+60,Budesonida 64 mcg - suspensão para inalação nasal 120 doses,400.0,16.8,1722296000117,2025-03-11
+61,Bupropiona 150mg comprimido de liberação prolongada - comprimido,15000.0,0.34,1722296000117,2025-03-11
+62,"Cabergolina 0,5 mg comprimido.",1000.0,9.43,31187918000115,2025-03-11
+63,Captopril 25 mg - comprimido.,100000.0,0.03,8778201000126,2025-03-11
+64,Carbamazepina 200 mg - comprimido.,50000.0,0.17,8778201000126,2025-03-11
+65,Carbamazepina 400 mg - comprimido.,20000.0,0.39,15218561000139,2025-03-11
+66,Carbamazepina xarope 20 mg/ml – suspensão oral (frasco 100mL),600.0,7.69,8778201000126,2025-03-11
+67,Carbonato de cálcio + colecalciferol 500 mg CaCO3 + 400 UI - comprimido.,12000.0,0.06,8778201000126,2025-03-11
+68,Carbonato de cálcio + colecalciferol 600 mg CaCO3 + 400 UI - comprimido.,12000.0,0.27,1722296000117,2025-03-11
+69,Carbonato de cálcio 1250 mg (equivalente a 500mg Ca - comprimido.),6000.0,0.38,31187918000115,2025-03-11
+70,Carbonato de lítio 300 mg - comprimido.,40000.0,0.21,33160739000110,2025-03-11
+71,"Carvedilol  12,5 mg - comprimido.",50000.0,0.09,1722296000117,2025-03-11
+72,"Carvedilol  3,125 mg - comprimido.",70000.0,0.07,31187918000115,2025-03-11
+73,Carvedilol 25 mg - comprimido.,50000.0,0.12,31187918000115,2025-03-11
+74,"Carvedilol 6,25 mg - comprimido.",70000.0,0.08,1722296000117,2025-03-11
+75,Cefalexina 50 mg/ml - Suspensão Oral (frascco 60mL após reconstituição),2000.0,7.4,33160739000110,2025-03-11
+76,Cefalexina 500 mg- Cápsula/comprimido.,50000.0,0.57,31187918000115,2025-03-11
+77,CEFTRIAXONA 1g pó liofílico para solução injetável intramuscular com diuente próprio (frasco ampola).,3000.0,4.92,33160739000110,2025-03-11
+78,CEFTRIAXONA 500 mg pó liofílico para solução injetável intramuscular com diuente próprio (frasco ampola).,1000.0,11.65,31187918000115,2025-03-11
+79,Cetoconazol 200mg - comprimido,2000.0,0.24,31187918000115,2025-03-11
+80,Cetoconazol 20mg/g - 2% xampu (frasco 100mL),300.0,5.58,31187918000115,2025-03-11
+81,Cetoconazol 20mg/g creme dermatológico 30g,400.0,3.3,15218561000139,2025-03-11
+82,CETOPROFENO 100 mg pó liofílico para solução injetável (frasco ampola).,300.0,2.21,31187918000115,2025-03-11
+83,Cetoprofeno 150mg comprimido,10000.0,0.75,41365113000178,2025-03-11
+84,Ciclobenzaprina 10mg comprimido,5000.0,0.09,15218561000139,2025-03-11
+85,CIMETIDINA 150 mg/mL solução injetável intravenosa e intramuscular (ampola 2 mL).,200.0,1.06,33160739000110,2025-03-11
+86,Ciprofibrato 100 mg - comprimido,1000.0,0.25,33160739000110,2025-03-11
+87,"Ciprofloxacino, cloridrato de 500 mg - comprimido.",12000.0,0.2,8778201000126,2025-03-11
+88,Citalopram 20mg comprimido,12000.0,0.11,31187918000115,2025-03-11
+89,Claritromicina 500 mg - Cápsula/Comprimido,10000.0,1.64,1722296000117,2025-03-11
+90,"Clindamicina, cloridrato 300 mg - cápsula",3000.0,1.03,41365113000178,2025-03-11
+91,"Clomipramina, cloridrato de 10 mg – comprimido.",5000.0,1.0,41365113000178,2025-03-11
+92,"Clomipramina, cloridrato de 25 mg – comprimido.",15000.0,1.04,1722296000117,2025-03-11
+93,"Clonazepam   2,5 mg/ml - Sol. Oral 20mL",3000.0,2.0,33160739000110,2025-03-11
+94,"Clonazepam 0,5mg comprimido",20000.0,0.05,31187918000115,2025-03-11
+95,Clonazepam 2mg comprimido,40000.0,0.05,31187918000115,2025-03-11
+96,Clopidogrel 75mg - comprimido,10000.0,0.25,31187918000115,2025-03-11
+97,"Cloreto de potássio 2,56 mEq/ml (19,1%)  solução injetável (ampola 10 mL).",1000.0,0.44,8778201000126,2025-03-11
+98,"CLORETO DE SODIO 0,9% solução injetável sistema fechado (frasco/bolsa 100 mL)",10000.0,3.35,33160739000110,2025-03-11
+99,"CLORETO DE SODIO 0,9% solução injetável sistema fechado (frasco/bolsa 250 mL)",4000.0,4.16,31187918000115,2025-03-11
+100,"CLORETO DE SODIO 0,9% solução injetável sistema fechado (frasco/bolsa 500 mL)",12000.0,4.93,33160739000110,2025-03-11
+101,"Cloreto de sódio 3,4 mEq/ml  (20%)  solução injetável (ampola 10 mL).",200.0,0.44,31187918000115,2025-03-11
+102,Cloridrato de Donepezila 10mg - comprimido,6000.0,0.89,15218561000139,2025-03-11
+103,Cloridrato de Donepezila 5mg -comprimido,6000.0,0.68,15218561000139,2025-03-11
+104,Cloridrato de Tramadol 50mg cápsula,5000.0,0.14,41365113000178,2025-03-11
+105,"Clorpromazina, cloridrato de 100 mg - comprimido.",12000.0,0.42,1722296000117,2025-03-11
+106,"Clorpromazina, cloridrato de 25 mg - comprimido.",6000.0,0.28,33160739000110,2025-03-11
+107,"Clorpromazina, cloridrato de 40 mg/ml - Sol.Oral (frasco 20mL",500.0,7.1,31187918000115,2025-03-11
+108,"Clorpromazina, cloridrato de 5 mg/ml - Injetável 5mL",100.0,2.88,15218561000139,2025-03-11
+109,"Colagenase +clorafenicol 0,6ui+10mg/g 30g pomada",200.0,10.65,31187918000115,2025-03-11
+110,"Colagenase 0,6ui /g 30g pomada",200.0,15.5,8778201000126,2025-03-11
+111,Colecalciferol (Vitamina D3) 1000 Ui Cápsula/comprimido,10000.0,5.95,31187918000115,2025-03-11
+112,Colecalciferol (Vitamina D3) 2000 Ui Cápsula/comprimido,20000.0,1.38,31187918000115,2025-03-11
+113,Colecalciferol (Vitamina D3) 7000 Ui Cápsula/comprimido,10000.0,3.65,31187918000115,2025-03-11
+114,"DESLANOSIDEO 0,2 mg/mL solução injetável (ampola 2 mL).",100.0,3.07,15218561000139,2025-03-11
+115,Dexametasona    4 mg - comprimido.,6000.0,0.17,31187918000115,2025-03-11
+116,"Dexametasona   creme 1mg/G (0,1%) 10g",1000.0,1.61,31187918000115,2025-03-11
+117,"Dexametasona elixir 0,1 mg/ml (frasco 100mL)",400.0,2.04,33160739000110,2025-03-11
+118,"Dexametasona suspensão oftálmica 1mg/mL (0,1%) ( frasco 5mL)",100.0,13.84,31187918000115,2025-03-11
+119,"Dexametasona, fosfato dissódico 4mg/mL solução injetável (ampola 10 mL).",600.0,1.49,31187918000115,2025-03-11
+120,"Dexclorfeniramina 0,4 mg/mL +betametasona xarope 0,05 mg/mL (frasco 120mL)",3000.0,3.87,31187918000115,2025-03-11
+121,"Dexclorfeniramina, maleato 0,4 mg/ml - xarope ( frasco 100mL)",2000.0,1.54,33160739000110,2025-03-11
+122,"Dexclorfeniramina, maleato 2mg",20000.0,0.04,8778201000126,2025-03-11
+123,Diazepam 10 mg – comprimido.,30000.0,0.05,44554219000108,2025-03-11
+124,Diazepam 5 mg - comprimido.,6000.0,0.05,33160739000110,2025-03-11
+125,Diazepam 5 mg/ml – Solução Injetável l (ampola 2 mL).,300.0,0.95,33160739000110,2025-03-11
+126,DICLOFENACO POTASSICO 25 mg/mL solução injetável (ampola 3 mL).,200.0,2.96,31187918000115,2025-03-11
+127,DICLOFENACO SODICO 25 mg/mL solução injetável (ampola 3 mL).,200.0,0.76,33160739000110,2025-03-11
+128,"Digoxina 0,25 mg - comprimido.",50000.0,0.12,31187918000115,2025-03-11
+129,Dipirona sódica 500 mg – comprimido.,100000.0,0.13,1722296000117,2025-03-11
+130,Dipirona sódica 500 mg/ml Solução Injetável  (ampola 2 mL),2000.0,0.62,33160739000110,2025-03-11
+131,Dipirona sódica 500 mg/ml -Solução Oral ( frasco 10ml),1000.0,1.07,31187918000115,2025-03-11
+132,"Dobutamina, Cloridrato  12,5mg/ml solução injetável (ampola 20mL)",100.0,5.13,31187918000115,2025-03-11
+133,Domperidona 10mg comprimido,20000.0,0.06,1722296000117,2025-03-11
+134,"Dopamina, Cloridrato 5mg/ml (ampola 10mL)",100.0,3.03,8778201000126,2025-03-11
+135,"Enalapril, maleato de 10 mg –comprimido.",40000.0,0.04,33160739000110,2025-03-11
+136,"Enalapril, maleato de 20 mg –comprimido.",50000.0,0.04,31187918000115,2025-03-11
+137,"Enalapril, maleato de 5 mg –comprimido.",50000.0,0.04,31187918000115,2025-03-11
+138,"Enoxaparina sódica 20mg/0,2 ml solução injetável",1000.0,10.37,33160739000110,2025-03-11
+139,"Enoxaparina sódica 40mg/0,4 ml solução injetável",1200.0,12.3,31187918000115,2025-03-11
+140,"Enoxaparina Sódica 60 mg/0,6 mL solução injetável",1000.0,19.14,33160739000110,2025-03-11
+141,Epinefrina (adrenalina) 1 mg/ml  - Solução Injetável (ampola 1ml),300.0,1.01,31187918000115,2025-03-11
+142,ESCETAMINA 50 mg/mL solução injetável (frasco ampola 10 mL).,100.0,80.0,8778201000126,2025-03-11
+143,Escitalopram 10mg comprimido,50000.0,0.12,33160739000110,2025-03-11
+144,Escitalopram 20mg comprimido,30000.0,0.18,31187918000115,2025-03-11
+145,ESCOPOLAMINA 20 mg/mL solução injetável (ampola 1 mL).,200.0,1.13,31187918000115,2025-03-11
+146,ESCOPOLAMINA 4 mg/mL + DIPIRONA 500 mg/mL solução injetável (ampola 5 mL).,300.0,1.32,8778201000126,2025-03-11
+147,Espironolactona 100mg - comprimido,10000.0,0.69,33160739000110,2025-03-11
+148,Espironolactona 25 mg – comprimido.,30000.0,0.16,31187918000115,2025-03-11
+149,Estriol creme vaginal 1 mg/g 50g,300.0,10.08,8778201000126,2025-03-11
+150,"Etinilestradiol + levonorgestrel 0,03 mg + 0,15 mg - comprimido.",20000.0,0.1,8778201000126,2025-03-11
+151,ETOMIDATO 2 mg/mL solução injetável (ampola 10 mL).,500.0,10.14,8778201000126,2025-03-11
+152,Fenitoína 100 mg -comprimido.,20000.0,0.16,15218561000139,2025-03-11
+153,Fenitoína sódica 50 mg/ml – Solução Injetável (ampola 5ml),200.0,2.62,31187918000115,2025-03-11
+154,Fenobarbital 100 mg -comprimido.,40000.0,0.15,31187918000115,2025-03-11
+155,Fenobarbital 100 mg/ml – Solução Injetável (ampola 2ml),200.0,2.68,31187918000115,2025-03-11
+156,Fenobarbital 40 mg/ml - Sol.Oral (frasco 20ml),300.0,4.3,31187918000115,2025-03-11
+157,FENTANILA 50 mcg/mL solução injetável intravenosa e intramuscular (ampola 10 mL).,500.0,3.15,8778201000126,2025-03-11
+158,Finasterida 5mg comprimido,600.0,0.5,41365113000178,2025-03-11
+159,FITOMENADIONA (VITAMINA K1) 10 mg/mL solução injetável intramuscular e subcutânea (ampola 1 mL).,100.0,2.15,33160739000110,2025-03-11
+160,Fluconazol 150 mg - Cápsula,2000.0,0.23,31187918000115,2025-03-11
+161,Flumazenil 01mg/ml - solução injetável (ampola 5ml),300.0,6.37,8778201000126,2025-03-11
+162,Fluoxetina 20mg/mL - solução oral (frasco 20ml),600.0,20.5,1722296000117,2025-03-11
+163,"Fluoxetina, cloridrato  20 mg - cápsula",75000.0,0.07,31187918000115,2025-03-11
+164,Furosemida 10 mg/ml Solução Injetável (ampola 2ml),300.0,0.67,33160739000110,2025-03-11
+165,Furosemida 40 mg - comprimido.,50000.0,0.04,31187918000115,2025-03-11
+166,Gabapentina 300mg - cápsula,30000.0,0.22,31187918000115,2025-03-11
+167,Glibenclamida  5 mg -comprimido.,50000.0,0.04,33160739000110,2025-03-11
+168,Gliclazida de liberação prolongada de 30 mg - comprimido.,20000.0,0.15,1722296000117,2025-03-11
+169,Gliclazida de liberação prolongada de 60 mg - comprimido.,20000.0,0.28,1722296000117,2025-03-11
+170,GLICOSE 5 % solução injetável sistema fechado (frasco/bolsa 250 mL).,1200.0,4.26,31187918000115,2025-03-11
+171,GLICOSE 5 % solução injetável sistema fechado (frasco/bolsa 500 mL).,2400.0,5.19,31187918000115,2025-03-11
+172,Glicose 500 mg/mL (50%) - solução injetável (ampola 10ml),600.0,0.54,33160739000110,2025-03-11
+173,GLICONATO DE CALCIO 100 mg/mL (10%) solução injetável (ampola 10 mL).,200.0,2.88,8778201000126,2025-03-11
+174,Haloperidol 1 mg -comprimido.,6000.0,0.18,31187918000115,2025-03-11
+175,Haloperidol 2 mg/ml - Sol. Oral (frasco 20ml),200.0,3.31,31187918000115,2025-03-11
+176,Haloperidol 5 mg -comprimido.,24000.0,0.15,15218561000139,2025-03-11
+177,Haloperidol 5 mg/ml - Sol. Injetável (ampola 1ml),200.0,2.36,8778201000126,2025-03-11
+178,"Haloperidol, decanoato de solução injetável 50 mg/mL (ampola 1ml)",200.0,4.62,31187918000115,2025-03-11
+179,Hemifumarato de Quetiapina 100mg - comprimido,10000.0,0.45,1722296000117,2025-03-11
+180,Hemifumarato de Quetiapina 200mg - comprimido,10000.0,0.98,1722296000117,2025-03-11
+181,Hemifumarato de Quetiapina 25mg - comprimido,50000.0,0.1,8778201000126,2025-03-11
+182,HEPARINA 5000 UI/mL solução injetável intravenosa (frasco ampola 5 mL).,50.0,17.08,8778201000126,2025-03-11
+183,"Heparina sódica 5000UI/0,25ml solução injetável (ampola 0,25ml)",50.0,9.06,8778201000126,2025-03-11
+184,HIDRALAZINA 20 mg/mL solução injetável (ampola 1 mL).,200.0,6.01,33160739000110,2025-03-11
+185,Hidroclorotiazida 25 mg -comprimido.,80000.0,0.02,8778201000126,2025-03-11
+186,HIDROCORTISONA 100 mg pó liofílico para solução injetável (frasco ampola),300.0,3.38,15218561000139,2025-03-11
+187,HIDROCORTISONA 500 mg pó liofílico para solução injetável (frasco ampola),300.0,4.32,33160739000110,2025-03-11
+188,"Hidrocortisona, acetato de creme 10mg/g (1%)  20g",300.0,12.81,15218561000139,2025-03-11
+189,"Hidróxido de alumínio - suspensão oral 61,5 mg/mL (frasco com 100 mL)",200.0,3.32,15218561000139,2025-03-11
+190,Ibuprofeno 300 mg - comprimido.,30000.0,0.12,8778201000126,2025-03-11
+191,Ibuprofeno 50 mg/ml - Suspensão Oral (frasco 30ml),2000.0,2.37,31187918000115,2025-03-11
+192,Ibuprofeno 600 mg -comprimido.,50000.0,0.14,33160739000110,2025-03-11
+193,Imiquimode 50 mg/g creme dermatológico sachês de 250 mg,600.0,29.01,31187918000115,2025-03-11
+194,Insulina análoga de ação prolongada 100UI/mL Solução Injetável com sistema de aplicação 3ml,100.0,195.68,31187918000115,2025-03-11
+195,Insulina análoga de ação rápida  100UI/mL Solução Injetável com sistema de aplicação 3ml,100.0,194.76,31187918000115,2025-03-11
+196,Insulina Humana NPH 100UI/mL- suspensão injetável  3 mL com sistema de aplicação,6000.0,193.02,31187918000115,2025-03-11
+197,Insulina Humana NPH 100UI/mL- suspensão injetável (frasco 10ml),500.0,48.0,1722296000117,2025-03-11
+198,Insulina Humana Regular 100UI/mL - solução injetável (frasco 10ml),100.0,48.0,1722296000117,2025-03-11
+199,Insulina Humana Regular 100UI/mL - solução injetável 3 mL com sistema de aplicação,1200.0,147.36,31187918000115,2025-03-11
+200,"Isossorbida, dinitrato 5 mg -comprimido sublingual.",3000.0,0.5,31187918000115,2025-03-11
+201,"Isossorbida, mononitrato de 20 mg -comprimido.",6000.0,0.21,44554219000108,2025-03-11
+202,"Isossorbida, mononitrato de 40 mg -comprimido.",6000.0,0.42,1722296000117,2025-03-11
+203,Itraconazol 100mg cápsula,1200.0,0.82,8778201000126,2025-03-11
+204,Ivermectina 6 mg -comprimido.,2000.0,0.84,33160739000110,2025-03-11
+205,Levodopa + benzerazida 200 mg + 50 mg - comprimido.,6000.0,4.14,31187918000115,2025-03-11
+206,Levodopa + benzerazida BD 100+25mg - comprimido,25000.0,2.12,31187918000115,2025-03-11
+207,Levodopa + benzerazida HBS 100 mg + 25 mg -Caps,12000.0,2.34,31187918000115,2025-03-11
+208,Levodopa + carbidopa 250 mg + 25 mg -comprimido.,6000.0,0.7,8778201000126,2025-03-11
+209,Levomepromazina 100mg comprimido,20000.0,0.73,8778201000126,2025-03-11
+210,Levomepromazina 25mg comprimido,10000.0,0.47,33160739000110,2025-03-11
+211,"Levonorgestrel 1,5 mg -comprimido.",600.0,18.0,31187918000115,2025-03-11
+212,Levotiroxina sódica 100 µg -comprimido.,6000.0,0.26,8778201000126,2025-03-11
+213,Levotiroxina sódica25 µg -comprimido.,5000.0,0.28,8778201000126,2025-03-11
+214,Levotiroxina sódica50 µg -comprimido.,8000.0,0.31,8778201000126,2025-03-11
+215,LIDOCAINA 100 mg/mL (10%) solução aerossol (frasco 50 mL).,20.0,50.33,8778201000126,2025-03-11
+216,"Lidocaína, Cloridrato  (20mg/ml) 2% solução injetável sem vasoconstrictor (frasco 20ml)",100.0,3.99,33160739000110,2025-03-11
+217,"Lidocaína, Cloridrato Gel (20mg/g) 2% 30g",400.0,4.57,31187918000115,2025-03-11
+218,Loratadina 10 mg  -comprimido.,6000.0,0.07,31187918000115,2025-03-11
+219,Loratadina xarope 1 mg/ml (frasco 100ml),500.0,3.02,8778201000126,2025-03-11
+220,Losartana potássica 50 mg  -comprimido.,60000.0,0.04,33160739000110,2025-03-11
+221,"Magnésio, Sulfato – solução injetável 10% (0,81 mEq/mL Mg++) (ampola 10ml)",200.0,1.11,8778201000126,2025-03-11
+222,"Magnésio, Sulfato - solução injetável 50% (4,05 mEq/mL Mg++) (ampola 10ml)",200.0,5.75,31187918000115,2025-03-11
+223,"Medroxiprogesterona, acetato de solução injetável 150 mg/ml (ampola 1ml)",200.0,14.5,8778201000126,2025-03-11
+224,Memantina 10 mg - comprimido,6000.0,0.37,31187918000115,2025-03-11
+225,"Metformina, cloridrato de 500 mg  -comprimido.",60000.0,0.11,33160739000110,2025-03-11
+226,"Metformina, cloridrato de 850 mg  -comprimido.",100000.0,0.12,8778201000126,2025-03-11
+227,Metildopa  250 mg -comprimido.,15000.0,0.39,1722296000117,2025-03-11
+228,"METILERGOMETRINA 0,2 mg/mL solução injetável (ampola 1 mL).",200.0,2.26,15218561000139,2025-03-11
+229,"Metoclopramida, Cloridrato  5 mg/ml solução injetável (ampola 2ml)",200.0,0.67,31187918000115,2025-03-11
+230,METOPROLOL 1 mg/mL solução injetável (ampola 5 mL).,50.0,27.41,8778201000126,2025-03-11
+231,"Metoprolol, succinato de liberação prolongada  25 mg -comprimido.",15000.0,0.36,8778201000126,2025-03-11
+232,"Metoprolol, succinato de liberação prolongada 100 mg -comprimido.",6000.0,0.77,8778201000126,2025-03-11
+233,"Metoprolol, succinato de liberação prolongada 50 mg -comprimido.",15000.0,0.74,8778201000126,2025-03-11
+234,"Metotrexato 2,5mg - comprimido",1000.0,1.41,31187918000115,2025-03-11
+235,Metronidazol  250 mg -comprimido.,10000.0,0.17,31187918000115,2025-03-11
+236,Metronidazol  gel vaginal 10mg/g (10%) 50g,1200.0,5.94,33160739000110,2025-03-11
+237,Metronidazol 400mg - comprimido.,3000.0,0.29,31187918000115,2025-03-11
+238,"Miconazol, nitrato de - Loção 2% (frasco 30ml)",100.0,6.63,31187918000115,2025-03-11
+239,"Miconazol, nitrato de creme 2% toópico (20mg/g) 28g",300.0,2.43,31187918000115,2025-03-11
+240,"Miconazol, nitrato de creme vaginal 2% (20mg/g) 80g",300.0,8.19,33160739000110,2025-03-11
+241,MIDAZOLAM 5 mg/mL (50 mg) solução injetável (ampola 10 mL).,600.0,3.41,8778201000126,2025-03-11
+242,Mirtazapina 15mg comprimido orodispersível,10000.0,1.0,41365113000178,2025-03-11
+243,Mirtazapina 30 mg caixa comprimido  orodispersível,8000.0,0.87,15218561000139,2025-03-11
+244,MORFINA 10 mg/mL solução injetável (ampola 1 mL).,200.0,2.88,33160739000110,2025-03-11
+245,"Naloxona, Cloridrato  0,4 mg/ml solução injetável (ampola 1ml)",50.0,6.01,31187918000115,2025-03-11
+246,NEOMICINA 5 mg/g + BACITRACINA 250 UI/g pomada (bisnaga 10 g),1000.0,1.99,31187918000115,2025-03-11
+247,Nifedipino 10mg comprimido,6000.0,0.09,8778201000126,2025-03-11
+248,Nimesulida 100mg comprimido,16000.0,0.08,31187918000115,2025-03-11
+249,Nistatina 100.000 UI/ml – Suspensão Oral (frasco 50ml),2000.0,4.83,33160739000110,2025-03-11
+250,Nistatina 25.000ui creme vaginal 50g,1000.0,5.57,33160739000110,2025-03-11
+251,Nitrofurantoina 100mg - cápsula,6000.0,0.26,15218561000139,2025-03-11
+252,NITROGLICERINA 5 mg/mL solução injetável (ampola 5 mL).,50.0,51.94,31187918000115,2025-03-11
+253,NITROPRUSSETO (NITROPRUSSIATO) DE SÓDIO 25 mg/mL solução injetável (ampola 2 mL).,100.0,28.68,8778201000126,2025-03-11
+254,"Norepinefrina, (noradrenalina) hemitartarato 2 mg/mL - solução injetável (ampola 4ml)",200.0,1.64,33160739000110,2025-03-11
+255,"Noretisterona 0,35 mg - comprimido",5000.0,0.79,31187918000115,2025-03-11
+256,"Noretisterona, Enanato +  Estradiol, Valerato 50mg/mL + 5 mg/mL - Solução Injetável 1ml",1000.0,10.88,8778201000126,2025-03-11
+257,"Nortriptilina, cloridrato de 10 mg - Caps.",6000.0,1.48,31187918000115,2025-03-11
+258,"Nortriptilina, cloridrato de 25 mg - Caps.",8000.0,0.36,1722296000117,2025-03-11
+259,"Nortriptilina, cloridrato de 50 mg - Caps.",4000.0,0.7,1722296000117,2025-03-11
+260,"Nortriptilina, cloridrato de 75 mg - Caps.",3000.0,1.0,1722296000117,2025-03-11
+261,OCITOCINA 5 UI/mL solução injetável (ampola 1 mL).,100.0,5.89,15218561000139,2025-03-11
+262,Olanzapina 10mg - comprimido,3000.0,0.48,15218561000139,2025-03-11
+263,"Olanzapina 2,5mg - comprimido",3000.0,0.36,15218561000139,2025-03-11
+264,Olanzapina 5mg - comprimido,3000.0,0.27,8778201000126,2025-03-11
+265,OLEO MINERAL 1 mL/mL (100%) solução oral e tópico (frasco 100 mL).,200.0,3.38,8778201000126,2025-03-11
+266,Omeprazol  20 mg - Cápsula,100000.0,0.06,8778201000126,2025-03-11
+267,OMEPRAZOL 40 mg pó liofílico para solução injetável com diluente próprio (frasco ampola).,300.0,4.83,33160739000110,2025-03-11
+268,ONDANSETRONA 2 mg/mL solução injetável (ampola 4 mL).,300.0,1.15,33160739000110,2025-03-11
+269,"Ondansetrona, Cloridrato  8mg comprimido. / comprimido. orodispersível",3000.0,0.44,8778201000126,2025-03-11
+270,"Ondansetrona, Cloridrato 4mg comprimido. / comprimido. orodispersível",3000.0,0.31,8778201000126,2025-03-11
+271,Oxcarbazepina 300mg comprimido,10000.0,1.21,15218561000139,2025-03-11
+272,Oxcarbazepina 60 mg/mL suspensão oral (frasco 100 mL).,600.0,37.98,8778201000126,2025-03-11
+273,Oxcarbazepina 600mg comprimido,12000.0,1.99,15218561000139,2025-03-11
+274,Paracetamol 200 mg/ml - Sol. Oral 15ml,2000.0,1.19,31187918000115,2025-03-11
+275,Paracetamol 500 mg – comprimido.,40000.0,0.07,15218561000139,2025-03-11
+276,Paracetamol 500 mg + codeina 30mg comprimido,12000.0,0.35,8778201000126,2025-03-11
+277,"Paroxetina 12,5mg comprimido",6000.0,3.21,31187918000115,2025-03-11
+278,Paroxetina 20mg comprimido,15000.0,0.22,1722296000117,2025-03-11
+279,PERMETRINA 10 mg/mL (1%) loção capilar (frasco 60 mL),200.0,2.61,8778201000126,2025-03-11
+280,PERMETRINA 50 mg/mL (5%) loção dermatológica (frasco 60 mL).,300.0,3.9,1722296000117,2025-03-11
+281,PETIDINA (MEPERIDINA) 50 mg/mL solução injetável (ampola 2 mL).,100.0,6.62,31187918000115,2025-03-11
+282,"Piridoxina (vitamina B6), cloridrato de 40 mg – comprimido.",3000.0,0.61,31187918000115,2025-03-11
+283,"Prednisolona, fostato sódico de 3 mg/ml - Sol.Oral (frasco 60ml)",1000.0,4.55,8778201000126,2025-03-11
+284,Prednisona 20 mg – comprimido.,8000.0,0.18,15218561000139,2025-03-11
+285,Prednisona 5 mg - comprimido.,6000.0,0.05,33160739000110,2025-03-11
+286,Pregabalina 75mg cápsula,130000.0,0.24,41365113000178,2025-03-11
+287,"Prometazina, cloridrato 25mg",20000.0,0.14,33160739000110,2025-03-11
+288,"Prometazina, cloridrato de solução injetável 25 mg/ml (ampola 2ml)",300.0,3.4,33160739000110,2025-03-11
+289,"Propafenona, cloridrato de 300mg – comprimido.",3000.0,0.69,15218561000139,2025-03-11
+290,"Propranolol, cloridrato de 10 mg – comprimido.",6000.0,0.15,31187918000115,2025-03-11
+291,"Propranolol, cloridrato de 40 mg – comprimido.",50000.0,0.03,31187918000115,2025-03-11
+292,Ramipril 5mg - comprimido,4000.0,1.5,41365113000178,2025-03-11
+293,Risperidona 1mg - comprimido,10000.0,0.09,8778201000126,2025-03-11
+294,Risperidona 1mg/ml solução oral frasco 30ml,2000.0,6.05,8778201000126,2025-03-11
+295,Risperidona 2mg - comprimido,30000.0,0.1,8778201000126,2025-03-11
+296,Risperidona 3mg - comprimido,10000.0,0.16,8778201000126,2025-03-11
+297,Rivaroxabana 10mg comprimido,4000.0,0.4,1722296000117,2025-03-11
+298,Rivaroxabana 20mg comprimido,8000.0,0.4,1722296000117,2025-03-11
+299,"Sais para reidratação oral (NaCl 3,5G + Glicose 20G + Citrato Na 2,9G + KCl 1,5G) 27,9 G Pó para solução",1000.0,0.94,33160739000110,2025-03-11
+300,SALBUTAMOL 100 mcg/dose aerossol oral (frasco 200 doses).,600.0,16.0,1722296000117,2025-03-11
+301,"Salbutamol, sulfato 5mg/mL solução para inalação  (frasco 10ml)",100.0,17.78,31187918000115,2025-03-11
+302,Secnidazol 1000mg comprimido,1000.0,1.17,31187918000115,2025-03-11
+303,Sertralina 25mg comprimido,12000.0,1.52,31187918000115,2025-03-11
+304,Sertralina 50mg comprimido,100000.0,0.11,8778201000126,2025-03-11
+305,SIMETICONA 75 mg/mL emulsão oral (frasco 15 mL).,1000.0,1.73,33160739000110,2025-03-11
+306,Sinvastatina 20 mg - comprimido.,70000.0,0.06,8778201000126,2025-03-11
+307,Sinvastatina 40 mg - comprimido.,100000.0,0.15,33160739000110,2025-03-11
+308,SOLUÇÃO RINGER COM LACTATO solução injetável sistema fechado (frasco/bolsa 250 mL).,1000.0,5.77,31187918000115,2025-03-11
+309,SOLUÇÃO RINGER COM LACTATO solução injetável sistema fechado (frasco/bolsa 500 mL).,3600.0,6.43,33160739000110,2025-03-11
+310,Sulfadiazina de prata – 10mg/g (1%) Creme 50g,1200.0,5.03,31187918000115,2025-03-11
+311,Sulfametoxazol+ trimetoprima 400mg+80 mg –comprimido.,10000.0,0.15,31187918000115,2025-03-11
+312,Sulfametoxazol+trimetoprima 40mg+8mg/ml - Susp. Oral (frasco 100ml),200.0,8.36,31187918000115,2025-03-11
+313,Sulfato de morfina 10 mg - comprimido,1000.0,0.97,31187918000115,2025-03-11
+314,Sulfato de morfina 10mg/mL solução oral 60ml,100.0,32.34,31187918000115,2025-03-11
+315,SULFATO FERROSO 109 mg (40 mg de ferro elementar) comprimido,50000.0,0.03,31187918000115,2025-03-11
+316,SULFATO FERROSO 125 mg/mL (25 mg/mL de ferro elementar) solução oral (frasco 30 mL).,400.0,0.93,31187918000115,2025-03-11
+317,SUXAMETÔNIO 100 mg pó liofílico para solução injetável (frasco ampola).,400.0,19.29,33160739000110,2025-03-11
+318,TENOXICAM 40 mg pó liofílico para solução injetável intravenosa e intramuscular (frasco ampola).,1000.0,8.42,33160739000110,2025-03-11
+319,"TERBUTALINA 0,5 mg/mL solução injetável (ampola 1 mL).",100.0,1.16,31187918000115,2025-03-11
+320,"Tiamina, cloridrato de 300 mg – comprimido.",3000.0,0.23,8778201000126,2025-03-11
+321,"Timolol, maleato de colírio 5mg/mL (0,5%)  (frasco 5mL)",100.0,5.71,31187918000115,2025-03-11
+322,Topiramato 25mg - comprimido,1000.0,0.19,15218561000139,2025-03-11
+323,Topiramato 50mg - comprimido,2000.0,0.34,15218561000139,2025-03-11
+324,TRAMADOL 100 mg solução injetável (ampola 2 mL).,300.0,1.27,8778201000126,2025-03-11
+325,Trazodona 50mg comprimido,8000.0,0.38,41365113000178,2025-03-11
+326,Valproato de sódio 50mg/ml xarope - (frasco 100mL),2000.0,6.89,8778201000126,2025-03-11
+327,Varfarina sódica 5 mg – comprimido.,5000.0,0.21,8778201000126,2025-03-11
+328,"Venlafaxina 37,5mg cápsula",8000.0,0.49,41365113000178,2025-03-11
+329,Venlafaxina 75mg cápsula,25000.0,0.44,15218561000139,2025-03-11
+330,"Verapamil, cloridrato de 120 mg – comprimido",1000.0,1.0,41365113000178,2025-03-11
+331,"Verapamil, cloridrato de 80 mg – comprimido.",1000.0,0.35,31187918000115,2025-03-11
+332,"VITAMINAS DO COMPLEXO B composto por vitaminas B1, B2, B3, B5 e B6 comprimido.",15000.0,0.04,8778201000126,2025-03-11
+333,"VITAMINAS DO COMPLEXO B composto por vitaminas B1, B2, B3, B5 e B6 solução oral (frasco 100 mL).",200.0,4.25,31187918000115,2025-03-11
+334,"VITAMINAS DO COMPLEXO B composto por vitaminas B1, B2, B3, B5 e B6 solução injetável (ampola 2 mL).",1200.0,1.08,8778201000126,2025-03-11

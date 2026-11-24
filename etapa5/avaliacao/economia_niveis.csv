@@ -1,0 +1,9 @@
+nivel,objeto,referencia,valor,observabilidade,fonte
+1. projetada (ex ante),estratégia do agente (E1),"E2 (desconto sobre CMED, modelo do agente)",2223619.5,contrafactual: estimativa do agente; nunca observável,saida/03_comparacao.csv
+1. projetada (ex ante),estratégia do agente (E1),R1 (estimativa do órgão limitada ao teto),1744020.8000000003,contrafactual,saida/03_comparacao.csv
+2. contratada (ex post),decisão real (PE 04/2025),R0 (estimativa do órgão),1847188.4,observada no certame; NÃO é economia realizada (depende de execução),resultado_homologado_PE04_2025
+2. contratada (ex post),decisão real (PE 04/2025),R1 (estimativa limitada ao teto),450901.6000000001,observada no certame; parte da diferença R0−homologado vem de estimativas acima do teto legal,idem + teto CMED
+3. realizada (ex post),decisão real (PE 04/2025),"R0, sobre o valor pago",552403.6587695674,"ESTIMATIVA sob hipótese de mix proporcional por contrato (pago R$ 585.893,15; execução por item indisponível)",execucao_contratos
+3. realizada (ex post),decisão real (PE 04/2025),"R1, sobre o valor pago",420182.63030760974,ESTIMATIVA sob a mesma hipótese,execucao_contratos
+3. realizada (ex post),estratégia do agente,qualquer,,não observável: a estratégia não foi executada,—
+(não é economia),projeção do agente × certame real,homologado − E1 central (mesmas quantidades),1293119.2000000002,erro de projeção de preço; não mede economia de nenhuma das decisões,comparacao_itens.csv

@@ -1,0 +1,30 @@
+﻿formato buyer/id exemplo: BR-CNPJ-8761140000194 -> normalizado 08761140000194
+
+N1 órgãos PB: BPS=21 MT=272 em ambos=4
+             cnpj                             nome_bps                              nome_mt  reg_bps  contratacoes_mt
+0  01612553000168                 MUNICIPIO DE SOBRADO                 MUNICIPIO DE SOBRADO        5                1
+1  08778268000160  SECRETARIA DE ESTADO DA SAUDE - SES  SECRETARIA DE ESTADO DA SAUDE - SES      397              192
+2  08891830000168            MUNICIPIO DE SERRA GRANDE            MUNICIPIO DE SERRA GRANDE        2                1
+3  11164805000197             FUNDO MUNICIPAL DE SAUDE             FUNDO MUNICIPAL DE SAUDE      126                9
+% registros BPS-PB cujo órgão aparece no MT-PB: 12.6%
+
+itens adjudicados MT-PB com CATMAT: 4449 de 4449
+N2 (CNPJ+CATMAT): registros BPS-PB com par em MT: 48 (1.1%)
+N3 (CNPJ+CATMAT+fornecedor+preço±0,5%): 7 registros BPS (0.2%), pares=7
+N4 (N3 + processo compatível): 5 registros BPS (0.1%)
+registros BPS N3 associados a >1 contratação MT (ambíguos): 0
+N3 com mesma quantidade: 71.4%
+   co_seq_bps                       no_instituicao   dt_compra co_catmat  vl_preco_unitario_num  qt_medicamento_num nu_processo_compra                                ocid                            id          proc_mt awards/items/quantity  mesmo_proc
+0    36911265  SECRETARIA DE ESTADO DA SAUDE - SES  21/02/2025    439023                8465.41                   4         2024/11591  ocds-ye9ov3-8778268000160_2026_559  08778268000160-1-000559/2026  250000280142026                    60       False
+3    36965108  SECRETARIA DE ESTADO DA SAUDE - SES  15/05/2025    439023                8465.41                  20         2025/05207  ocds-ye9ov3-8778268000160_2026_559  08778268000160-1-000559/2026  250000280142026                    60       False
+12   37047936             FUNDO MUNICIPAL DE SAUDE  26/01/2026    296745                   0.99               30000           037/2025  ocds-ye9ov3-11164805000197_2025_24  11164805000197-1-000024/2025           372025                 30000        True
+13   37137126             FUNDO MUNICIPAL DE SAUDE  26/01/2026    353333                   2.79                8000           037/2025  ocds-ye9ov3-11164805000197_2025_24  11164805000197-1-000024/2025           372025                  8000        True
+14   37194960             FUNDO MUNICIPAL DE SAUDE  26/01/2026    268446                   8.09                 500           037/2025  ocds-ye9ov3-11164805000197_2025_24  11164805000197-1-000024/2025           372025                   500        True
+15   37230095             FUNDO MUNICIPAL DE SAUDE  26/01/2026    271392                   0.87                2000           037/2025  ocds-ye9ov3-11164805000197_2025_24  11164805000197-1-000024/2025           372025                  2000        True
+16   37266087             FUNDO MUNICIPAL DE SAUDE  26/01/2026    271687                   0.97                5000           037/2025  ocds-ye9ov3-11164805000197_2025_24  11164805000197-1-000024/2025           372025                  5000        True
+
+N1b municípios PB: BPS=21 MT=196 em ambos=19
+% registros BPS-PB cujo município tem comprador no MT-PB: 91.1%
+municípios BPS ausentes no MT: ['LAGOA DE DENTRO', 'PEDRA BRANCA']
+N3b (município+CATMAT+fornecedor+preço±0,5%): 39 registros BPS (0.9%) | ambíguos (>1 ocid): 4
+N3b por órgão BPS: {'SECRETARIA DE ESTADO DA SAUDE - SES': 20, 'FUNDO MUNICIPAL DE SAUDE DE SANTA LUZIA': 14, 'FUNDO MUNICIPAL DE SAUDE': 5}

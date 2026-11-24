@@ -1,0 +1,45 @@
+﻿arquivos brutos: 694 | bytes: 127566315
+                            arquivos     bytes
+fonte                                         
+BPS/MS                             3   5920189
+CMED/Anvisa                        2  14085015
+Complementar                      27   4787133
+Medicamentos Transparentes       589  92685067
+PNCP                              71   9279714
+TCE-PB                             2    809197
+          base                          recorte                               metrica               valor                                   observacao
+0          BPS                     2025_csv.zip                             registros               37641                                             
+1          BPS                     2025_csv.zip                     instituicoes_cnpj                 229                                             
+2          BPS                     2025_csv.zip                                   ufs                  23                                             
+3          BPS                     2025_csv.zip                      catmat_distintos                5362                                             
+4          BPS                     2025_csv.zip          pct_classe_6505_medicamentos               81.72                                             
+5          BPS                     2025_csv.zip                soma_vl_preco_total_RS  51012799079.059998           dominada por outliers; ver docs/03
+6          BPS                     2025_csv.zip             mediana_vl_preco_total_RS              4200.0                                             
+7          BPS                     2025_csv.zip                         dt_compra_min          2025-01-01                                             
+8          BPS                     2025_csv.zip                         dt_compra_max          2025-12-30                                             
+9          BPS                     2026_csv.zip                             registros               15705                                             
+10         BPS                     2026_csv.zip                     instituicoes_cnpj                 137                                             
+11         BPS                     2026_csv.zip                                   ufs                  20                                             
+12         BPS                     2026_csv.zip                      catmat_distintos                3976                                             
+13         BPS                     2026_csv.zip          pct_classe_6505_medicamentos                79.4                                             
+14         BPS                     2026_csv.zip                soma_vl_preco_total_RS  24235930499.669998           dominada por outliers; ver docs/03
+15         BPS                     2026_csv.zip             mediana_vl_preco_total_RS             6110.22                                             
+16         BPS                     2026_csv.zip                         dt_compra_min          2026-01-02                                             
+17         BPS                     2026_csv.zip                         dt_compra_max          2026-11-11                                             
+18         BPS                     PB 2025-2026                             registros                4205                                             
+19         BPS                     PB 2025-2026                     instituicoes_cnpj                  21                                             
+20         BPS                     PB 2025-2026                      catmat_distintos                1048                                             
+21          MT      PB coletas 2025-01..2026-09                       linhas_releases                2367                                             
+22          MT      PB coletas 2025-01..2026-09              contratacoes_ocid_unicas                1883                                             
+23          MT      PB coletas 2025-01..2026-09                           compradores                 272                                             
+24          MT      PB coletas 2025-01..2026-09                itens_licitacao_unicos                9206                                             
+25          MT      PB coletas 2025-01..2026-09              itens_adjudicados_unicos                4449                                             
+26          MT      PB coletas 2025-01..2026-09                      catmat_distintos                1281                                             
+27          MT      PB coletas 2025-01..2026-09                          fornecedores                 559                                             
+28          MT  Brasil coletas 2025-01..2026-09              contratacoes_ocid_unicas               86068                                             
+29          MT  Brasil coletas 2025-01..2026-09                itens_licitacao_unicos              324999                                             
+30          MT  Brasil coletas 2025-01..2026-09               compradores_soma_por_UF                7564  um mesmo CNPJ pode contar em mais de uma UF
+31          MT  Brasil coletas 2025-01..2026-09            posicao_PB_em_contratacoes                  11              de 28 códigos de UF (inclui EX)
+32  Integração             MT-PB x BPS nacional     catmat_MT_PB_presentes_no_BPS_pct                72.6                                  930 de 1281
+33  Integração                   MT-PB x BPS-PB  catmat_MT_PB_presentes_no_BPS_PB_pct                42.3                                  542 de 1281
+34  Integração             MT-PB x BPS nacional     itens_MT_PB_com_catmat_no_BPS_pct                82.7                                             

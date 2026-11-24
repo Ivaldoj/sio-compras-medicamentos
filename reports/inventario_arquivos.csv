@@ -1,0 +1,695 @@
+fonte,arquivo,bytes,sha256,modificado_local
+BPS/MS,data/raw/bps/2025_csv.zip,3865116,9ac20b78007d25fdd287d35b6271ab2776522de78b57ac131bfc2dff79dc1d79,2026-11-22T20:57:16
+BPS/MS,data/raw/bps/2026_csv.zip,1612728,693f27da76b0d827021b9801c0a691fafc703c6942795170b65711ac61d157b6,2026-11-22T20:57:17
+BPS/MS,data/raw/bps/Metadados_BPS_07_04_2026.pdf,442345,80628073bd88de2a73763b8761a96b9fadaf6003cd186cd19d66b54697468a2c,2026-11-22T21:12:17
+Complementar,data/raw/complementares/anvisa_dados.html,46454,0ac28be561bc33a7031d8451a8825a64075bbd00c65f2d4f2393dcd253542a83,2026-11-22T21:12:50
+Complementar,data/raw/complementares/api_ms_docs.json,207,e9639e3c4681ce85f852fbac48e2eeee5ba51296dbfec57c200d59b76237ab80,2026-11-22T21:12:44
+Complementar,data/raw/complementares/api_ms_home.html,196,efa021f7b8ef579acf73b04bb3aa527c34950b5c805f4f76972cf2457b5bcb6a,2026-11-22T21:12:45
+Complementar,data/raw/complementares/api_ms_openapi.json,207,e9639e3c4681ce85f852fbac48e2eeee5ba51296dbfec57c200d59b76237ab80,2026-11-22T21:21:01
+Complementar,data/raw/complementares/api_ms_swagger.json,294168,8e8502e855b4c8fbf23e9553f318164af6476302f45c6ce2353fc431227e99e7,2026-11-22T21:21:15
+Complementar,data/raw/complementares/api_ms_v1.html,1358,0bcdb0c291d1e70d9602bd33410eefaf56e9c3949b5cab3c4843dd62fb7cfc66,2026-11-22T21:21:08
+Complementar,data/raw/complementares/bps_dataset.html,54801,054258d6d882dd97ec0116f133fefcd5c57537f491b77607005102f863ed339a,2026-11-22T21:11:47
+Complementar,data/raw/complementares/bps_institucional.html,184448,b3ba5b154136896ee8bd3d973beb1cf5044b99d7efdff9c0449efa1b50ddfda7,2026-11-22T21:12:49
+Complementar,data/raw/complementares/ckan_bps.json,11447,6238ff4d2edbac966f449caa1eb328ad4d2f2ad01efbb4ed2cbdca9c499f097f,2026-11-22T21:11:36
+Complementar,data/raw/complementares/ckan_search_assistencia_farmaceutica.json,11447,6238ff4d2edbac966f449caa1eb328ad4d2f2ad01efbb4ed2cbdca9c499f097f,2026-11-22T21:11:38
+Complementar,data/raw/complementares/ckan_search_bnafar.json,11447,6238ff4d2edbac966f449caa1eb328ad4d2f2ad01efbb4ed2cbdca9c499f097f,2026-11-22T21:11:36
+Complementar,data/raw/complementares/ckan_search_dispensacao.json,11447,6238ff4d2edbac966f449caa1eb328ad4d2f2ad01efbb4ed2cbdca9c499f097f,2026-11-22T21:11:39
+Complementar,data/raw/complementares/ckan_search_estoque.json,11447,6238ff4d2edbac966f449caa1eb328ad4d2f2ad01efbb4ed2cbdca9c499f097f,2026-11-22T21:11:38
+Complementar,data/raw/complementares/ckan_search_horus.json,11447,6238ff4d2edbac966f449caa1eb328ad4d2f2ad01efbb4ed2cbdca9c499f097f,2026-11-22T21:11:37
+Complementar,data/raw/complementares/ckan_search_siops.json,11447,6238ff4d2edbac966f449caa1eb328ad4d2f2ad01efbb4ed2cbdca9c499f097f,2026-11-22T21:11:39
+CMED/Anvisa,data/raw/complementares/cmed_lista_pmvg_20261109.xlsx,13617885,5a18ae40416fd00cb98299cfcf3fb1a174a23b12ac763a01c442e987b9478dae,2026-11-22T21:13:22
+CMED/Anvisa,data/raw/complementares/cmed_precos.html,467130,140157c1b1da7898ead03691c08a325dc62f33c2081358ee4ff1ab80ac548317,2026-11-22T21:12:46
+Complementar,data/raw/complementares/dados_pb.html,38487,6531ba19b6716c3d5be69d79817d7af3ce1cd6f962800cb9eae7a9cb3baaa140,2026-11-22T21:12:48
+TCE-PB,data/raw/complementares/tcepb/164_salgadinho_despesas-2025.zip,795572,55ab47a9374f443397620d40c16b09b6d49e51dcecdf912c9618c4f27a6e6f33,2026-11-22T21:14:18
+TCE-PB,data/raw/complementares/tcepb/164_salgadinho_licitacoes-2025.zip,13625,74775d03408a260bb1e0b8c9d7bdd1dbea0f06d3c32517e62451f497dba238d3,2026-11-22T21:14:19
+Complementar,data/raw/complementares/tcepb_consolidados.html,371,5f28a01a49f6298cc512beb0c4bc042d747fa2d144c76a7b04f65eea30623676,2026-11-22T21:13:29
+Complementar,data/raw/complementares/tcepb_dados.html,570,7ff66be60cba980c144caaa7326cc233005d110e5ef0ac911b864d4605fcd37e,2026-11-22T21:12:47
+Complementar,data/raw/complementares/tcepb_index.js,488611,972f8ef470db19b544707b25bf31fc6b74d631b7dd5762c941139f40f75e1f7f,2026-11-22T21:13:23
+Complementar,data/raw/complementares/tcepb_municipios.html,373,1f8fe84457205b8dd438c0c583e8c29e970a45e882e901831aa6523a11a56496,2026-11-22T21:13:29
+Complementar,data/raw/complementares/transparencia_pb.html,116980,f99aee9da77295386343aaa8bec9cfbaf312daab77030670bf64b780f243939b,2026-11-22T21:12:48
+Complementar,data/raw/ms_api/bnafar_250400_202506.json,2,4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945,2026-11-22T21:22:20
+Complementar,data/raw/ms_api/bnafar_250400_atual.json,1989826,0b340fd92a50274746b10bb702cd93161cb46f73f09e0bb5228ae0a8ee6eeb58,2026-11-22T21:22:45
+Complementar,data/raw/ms_api/bnafar_250750_atual.json,1456049,fe860dd70e3f24236d083cba9fb421c2e361cf76a07f32ac2e05b09c897f6c23,2026-11-22T21:22:52
+Complementar,data/raw/ms_api/bnafar_pb_amostra.json,16390,9cd093693a1e0376168032ddcb65c84ee52cc85b3aa9d754cfe5702a48bfd803,2026-11-22T21:21:28
+Complementar,data/raw/ms_api/bnafar_salgadinho_amostra.json,17407,389a8a503d0344b9cca04dd0913cc77180670fc7731747f43ffcc13133ed860b,2026-11-22T21:21:29
+Complementar,data/raw/ms_api/bps_api_pb_amostra.json,99,f1247c6e589ee6d202eef2bc149ad4a33855de06f2e35a747e890df19325162d,2026-11-22T21:21:30
+PNCP,data/raw/pncp/arquivos_ses_2026_559.json,534,0afbbcf5628c03ff6c9e14e96ee6fe7cd846f9dbb03eaea720a7fa10a8fe84d3,2026-11-22T21:08:11
+PNCP,data/raw/pncp/atas_ses_2026T1.json,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,2026-11-22T21:08:27
+PNCP,data/raw/pncp/compra_ses_2026_559.json,2432,71b3f64595b2b0ff639c3d124eb929af5a8e0051bf01a463c444d67ab2d97379,2026-11-22T21:08:10
+PNCP,data/raw/pncp/contratacoes_ses_2026-09.json,3948,0dacb2646bdcce41a73f017a942dca31f8c3c9884cfaceabe9700f2be7799281,2026-11-22T21:08:28
+PNCP,data/raw/pncp/contratos_ses_2026T1.json,81405,12d155ca1940b0554895944f86afc770116891630fe7ddf5e37c3b2c5c39c6b0,2026-11-22T21:08:24
+PNCP,data/raw/pncp/itens_ses_2026_559.json,1105,52561c3ecc229ae4b72c1bec4ca2024c56250ac3e8cfa68f88b16f82077e7f8c,2026-11-22T21:08:10
+PNCP,data/raw/pncp/openapi_consulta.json,37943,f7db2c64b42ec5719f9cfa0211aebcdc66d4529a1baa371b4cacd7c6debca93b,2026-11-22T21:08:27
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_1.json,198664,553ddecd633dd1cad72373ae184327ff591609d43cb80c874b8081a717dae4a7,2026-11-22T21:10:22
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_10.json,977887,4be43cfda8e29c5e7eb1dd31e28b43227805ebe8ed354c59e1f9160598e4258c,2026-11-22T21:10:34
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_11.json,152613,36226d2eb1ee63b9d6e1947649f77c95ff544f6e6ea41e5d681dca099eaed004,2026-11-22T21:10:35
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_12.json,360643,ff4f2231c8a772eb468c45c93ce781c992aab4a70d5f780884cab2cc3a99ef60,2026-11-22T21:10:36
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_13.json,1081340,cdc0377674d28c87ab4682a0fd725a0b8abeb133ce9418ba73ee0047156be5a9,2026-11-22T21:10:38
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_14.json,263598,c2adebf04ce51085148587ec8db8069987978dfdc90891a4af566c1ac66b5a08,2026-11-22T21:10:39
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_15.json,532058,721611a44d5f6d5b846ce1677ace2f2f554c4e313fbb0a4582b94127c40afbfb,2026-11-22T21:10:41
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_16.json,191403,e07e29bdbb928cb45ccdd02c279e062da0cc14eacd5d985d31a5aedfe20d3793,2026-11-22T21:10:42
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_17.json,50665,9b5a0e9807dad6833d40181b0c65e40ab43da66bbc3d45c536e0171ba0394058,2026-11-22T21:10:43
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_18.json,18062,38748d38e72061d08c8c30d9b8d488a6db70de1c589e6d7ee46baac34144cdd5,2026-11-22T21:10:44
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_19.json,86823,a02ce9f37f6c9d082b911c0c1ebf4d6ac6565935ba2f44e25f685453c53e74e6,2026-11-22T21:10:45
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_2.json,379155,80f21813ffe996522c428e85f046a2c4d8fbc6995d63af051bec3105c1872131,2026-11-22T21:10:23
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_20.json,18157,2139e21a3b48257770c8e301ccf363eb08d9ac94ceaf99c7c5bf474c6a9d81a0,2026-11-22T21:10:46
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_21.json,32680,84b591fef5e8aba6d099ef239628275cb0edc7ebc268f1e1e1c5eedf09f3a927,2026-11-22T21:10:47
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_22.json,94648,9e6df0094db3f7fca4fa206dabfd97c4d49066191c48a344412ab9a052dcf195,2026-11-22T21:10:48
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_23.json,289186,237ff3cd56b85f1ed4b7aecbcd0d34f4e11acefa16e7a4565e4b77cc81e60d5b,2026-11-22T21:10:49
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_24.json,21697,97b82cf2291deb12ce265914573e421858c1f9bd47b0468e097aea641f3f65e4,2026-11-22T21:10:50
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_25.json,61728,a8a51942cb5067bdf6976b806df4f992a68c0cb5e0db517ad85e8d8a505b0a57,2026-11-22T21:10:51
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_26.json,72672,c70edb04b1dcb04087437a6d497afadece8b4ec7441ced6c84f104d0ccde7e46,2026-11-22T21:10:52
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_27.json,227701,93649c3d2eef7d4859fcaa14824884707590afecdbfafa141fd436e5e2eadb4f,2026-11-22T21:10:53
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_28.json,192096,03c8e59dc8aefb80cadc733bf536ac16a3b7b4e202c96134e42b09f86b3f7174,2026-11-22T21:10:54
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_29.json,159981,12773c3355aa4dd7ce560f33b52f7a60e623f4005d58ab038f7fc518a21b0aed,2026-11-22T21:10:55
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_3.json,213201,143dd3f7470da0c876e0b4b3b215dec8210914f700ce537428b939b336b22d20,2026-11-22T21:10:24
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_30.json,79373,967265fafce8ed7c10b94211ec54b918de663d3b418f8e9b5c6158d5d5a662ec,2026-11-22T21:10:56
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_31.json,93988,753679698a39a14e9b7f514a591de91ef3af572513e257e6eaa1175fe06927df,2026-11-22T21:10:57
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_32.json,254127,55fe32b16058d1cff3e254a57f83081e766c2ac3d39fc89c718c2b26c438f828,2026-11-22T21:10:58
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_33.json,61896,3ed0c114dbbf19d216af9af14a78b090ca8179c6a860e5518b5bcace638a80b1,2026-11-22T21:10:59
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_34.json,69335,5a033be370554ad9c0261c18a948267ae01b420d25941d805d4a39f82535b5b7,2026-11-22T21:11:00
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_35.json,61981,0ced12aca1532d5bd975cebb47171d233445b85f1770894a3ebcbc0a887dbdf2,2026-11-22T21:11:01
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_36.json,33146,c23ffc7911e2951cfe0ea53cbb326b1ea9e4c61802a8a147177ce8b9a2c195f9,2026-11-22T21:11:02
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_37.json,69098,636dca2b6d29e3a4f5706a99025d2eb3079957fde07a4462d9224b56f3a275f6,2026-11-22T21:11:03
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_38.json,73118,8295a53d99aced1853e194a2a7ca5747e1b6804c67b1a0627441c9a6151c3515,2026-11-22T21:11:04
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_39.json,7297,5cd7765147f60f01b44d6152cf2f9f4939bbcdbbca7281faaa637cd03c92c3e3,2026-11-22T21:11:04
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_4.json,141110,f736d26a198916e096be3f7827a22b23e365f25c15a5521716bf490694a27191,2026-11-22T21:10:25
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_40.json,238468,69d0d8c71a455bf58abc221041c2a91d5e2495873efbb9eafa0c60f2b2a8cbda,2026-11-22T21:11:06
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_5.json,76114,09072bc87b726bdb125f3ccdbc1ab8e9dcc443926e6a1b1cf3d10a55cdb03c9e,2026-11-22T21:10:26
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_6.json,115983,2cb79973de32c862934e90256cfa4843ab33e2e1024d1b94bb11714e3e1c2d51,2026-11-22T21:10:27
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_7.json,1387204,751ce926e47e2bd49a03fbe004ebbd47302a783ccb141baa0278870ed9260d71,2026-11-22T21:10:30
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_8.json,101498,f4cb3f357d673da437cf398413e55d57897e402fcb791c0a1558400aa3d6954b,2026-11-22T21:10:31
+PNCP,data/raw/pncp/pca/pca_08778268000160_2026_9.json,498895,dbe1f33e7caa859fd279bccb9900b119c3a74b364fd99905787d057871f33eb9,2026-11-22T21:10:32
+PNCP,data/raw/pncp/pca_ses_2026.json,181,fcc6a59e3cf6c9355ec717854dfcbb6b70d8f06322dc00c274d3919ca8f04665,2026-11-22T21:08:12
+PNCP,data/raw/pncp/pca_ses_2026_itens.json,71196,8cff9859d08100a99036305a7a45f0c00949db009793d90c96ffc874891d4007,2026-11-22T21:08:13
+PNCP,data/raw/pncp/pca_teste.json,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,2026-11-22T21:08:11
+PNCP,data/raw/pncp/rastreio/01612473000102_2025_29.json,1824,8dc36141ed1603215e4cf50948deb82c3a7dec6dfbeb607c61c7ff4139cf55a8,2026-11-22T21:19:20
+PNCP,data/raw/pncp/rastreio/01612686000134_2025_14.json,1812,b6a5f1b1c516dbd36cda8c8e7a7a908a2130531502670a0789af345d5dc54b69,2026-11-22T21:18:16
+PNCP,data/raw/pncp/rastreio/04849697000120_2025_8.json,1967,9ce5632b9f0187b5776f6ac6b54349e4fc19dab30c26ebcd0a2d1ba743c87cd5,2026-11-22T21:18:13
+PNCP,data/raw/pncp/rastreio/08739930000173_2026_8.json,1865,5c77ca3a9c37a5ea6f5a93248db5797cce4b3e8923b439739e08746f7e9185b1,2026-11-22T21:18:16
+PNCP,data/raw/pncp/rastreio/08761124000525_2025_111.json,1740,1a41107935e968419cf191e74896737990f86e46c5f9e303720cfb20b2d5ab3b,2026-11-22T21:18:17
+PNCP,data/raw/pncp/rastreio/08761140000194_2025_32.json,2000,4040a105e2c1c570bd6e8f5422012a73ff2326b224f826b6fda50cdccb9e0770,2026-11-22T21:37:02
+PNCP,data/raw/pncp/rastreio/08761140000194_2026_137.json,1994,d1f69566eb914693924dd44286a1a76717aec0520f4adc0bd58fc814b86132b5,2026-11-22T21:36:51
+PNCP,data/raw/pncp/rastreio/08778268000160_2026_316.json,2475,63559414a6655c933a2b96e2ce7600d9cb85c8f448600df74379d05d2f088e17,2026-11-22T21:19:08
+PNCP,data/raw/pncp/rastreio/08778268000160_2026_586.json,2526,44971c3a6fe92df0bbaaf1b2e33c915d1c06beedae1309055f50ac582a5188a4,2026-11-22T21:36:43
+PNCP,data/raw/pncp/rastreio/08883951000168_2025_114.json,1932,4c66466ba0e4d2dec2ac7b7646c3c4c232254f248199b477285952ed5b878669,2026-11-22T21:36:47
+PNCP,data/raw/pncp/rastreio/08883969000160_2025_12.json,1844,96bd790a10ecd1e4aeab0f3d7241b193006323b98a72dbfad27d0be36befe461,2026-11-22T21:18:15
+PNCP,data/raw/pncp/rastreio/08924011000170_2026_12.json,2002,8a2e5e5bfbbf70a92ac31938ad49d4150679205e56098dcf2f723267e88797e7,2026-11-22T21:19:16
+PNCP,data/raw/pncp/rastreio/08924581000160_2026_98.json,1882,bfd757fea90c4a4ea5d2c79d105fd90d141fcbc399f4b25d371e471f1bce5560,2026-11-22T21:36:58
+PNCP,data/raw/pncp/rastreio/08942229000157_2026_5.json,1900,b66cc58ee56d3dfaa221acd251a78570005d082f1285f1adead38d97179e1e6b,2026-11-22T21:19:05
+PNCP,data/raw/pncp/rastreio/08945727000153_2026_13.json,1887,f5b4746dda1d078a87bdfe8ff740e2cafac734596faed75697b21b5b1118d16e,2026-11-22T21:36:54
+PNCP,data/raw/pncp/rastreio/09069709000118_2025_85.json,2239,2e7b37463cb84584202939a97adf3f3a2bcbe9edbff66ebc0108e5c25fa2a370,2026-11-22T21:18:13
+PNCP,data/raw/pncp/rastreio/15126437000305_2025_1904.json,2062,8df7f6a2031eeea9a3fa161eaacfd15f9efd38fcb08bc47432e0176fe578f40d,2026-11-22T21:18:14
+PNCP,data/raw/pncp/rastreio/15126437000305_2025_3473.json,2016,fedd87a551bd7544c60b61dca3af75d4c988ac27babf114e932626c6cd524f72,2026-11-22T21:18:12
+PNCP,data/raw/pncp/rastreio/15126437000305_2026_897.json,2030,ce78b823872e904e009fdcfb7318f0f82622f9245b4830b1e8f566fab17c41a1,2026-11-22T21:18:11
+PNCP,data/raw/pncp/rastreio/38111778000140_2026_110.json,2435,fee51dc48eeb716fb5fd0806f2727f57439ef397a6d74c4f3c7eb59163daebfd,2026-11-22T21:19:12
+PNCP,data/raw/pncp/resultados_ses_2026_559_item1.json,1249,a9d710769149ee8e3e128c12d821722b5ea34e441aa33230173bd3445571eb1e,2026-11-22T21:08:11
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-1-2025-csv.zip,6352,689f32c164845b2368cf2a692f63f41abf10eacfca38fa2e7bd7ff59678bd009,2026-11-22T20:57:54
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-1-2026-csv.zip,9033,bbec3eb62f30e50efdeffdc7eca658faded5b86e4f9aaaa21f9b1edd37af8077,2026-11-22T21:34:09
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-10-2025-csv.zip,17362,01956ae60f11bcfeb4f5ccf859f4f7819c8e6ae1ef07b2d18aa19e758e7c3d8f,2026-11-22T21:33:40
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-11-2025-csv.zip,21707,41925492d39efc2a07a7e895b67e92b145a8dd30649cfd104d536ae15a0e7c84,2026-11-22T21:33:41
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-12-2025-csv.zip,15984,35d67e13dedce129687efcf1269fdac3dafa0bf4291dba4b30b1886b4b9f03ab,2026-11-22T21:34:00
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-2-2025-csv.zip,15559,b2f9098fe55c6d0257c1a935bd90b8cbf37f0329afa9dfee826a77ede28ffa04,2026-11-22T20:57:54
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-2-2026-csv.zip,13104,e16f4bcf34f02fe819e629c302907bc982e7d963e0ee7ed9647bc3f18f06aed1,2026-11-22T21:34:18
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-3-2025-csv.zip,21135,752827894f2644dc553fcf2cc0d228cc975ad0cf5434e0e25a8e77d7597c5625,2026-11-22T20:58:12
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-3-2026-csv.zip,14697,5874574e58f3df4b99f906edef003ee78c7f8451caf47cab87f39764d41300f4,2026-11-22T21:34:27
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-4-2025-csv.zip,8503,e1f196580dc3576b0f20788dd310a4b71ce78118d15930f54084ad63893a4fc4,2026-11-22T20:58:23
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-4-2026-csv.zip,13696,66b0f830e7e05bdabcb8f192875e3e91a277c20401d013e5fbdf91d340b72b57,2026-11-22T21:34:36
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-5-2025-csv.zip,12890,c8a48c0bd920708ec5d2e9bde726f13cf663e422b41a565e592a62ec5f1e7837,2026-11-22T20:58:23
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-5-2026-csv.zip,8040,3a3a426d75fa4e32a8098ea6adad66be3960f33fa73a453614d69e9a2d536b2c,2026-11-22T21:34:45
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-6-2025-csv.zip,19693,9dba1da50b8951cd25b9c79c849aed7cef8323bae1e2e6ddc4ebd9b1569b24c7,2026-11-22T20:58:23
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-6-2026-csv.zip,15133,8234cc146449541c1448649c65921bf3734deaafc4f4d31fa99fad9c56ffa100,2026-11-22T21:34:45
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-7-2025-csv.zip,18752,3dccba021a8ea8450a35f1d797cce7654ddc02458783407b49a33c49a0cdd732,2026-11-22T21:33:11
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-7-2026-csv.zip,22710,b83e6cba454d5c15d04d84191fd05fc7844824c720288989ba1508fc4879927c,2026-11-22T21:34:46
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-8-2025-csv.zip,8686,018cf50ea261b2a454bbb8233a9b00e58d6ed206103ebea25369fba676d945bb,2026-11-22T21:33:12
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-8-2026-csv.zip,12681,ca51c083933a7bd7e0a817daa7eb0b0813997354e4aeb1cd73d5f6b6a3bc52aa,2026-11-22T21:34:46
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-9-2025-csv.zip,38425,aad696a8d1da10cfaec22dcd470317b4a7ff07abfcfdcabfecfb3e16e1c1ce3c,2026-11-22T21:33:12
+Medicamentos Transparentes,data/raw/transparencia/AC/ac-9-2026-csv.zip,17374,e66b04999f4d79d7e152ec50dc5e6d7a6411db9393f617c76ca3fbf69d55deb5,2026-11-22T21:34:46
+Medicamentos Transparentes,data/raw/transparencia/AL/al-1-2025-csv.zip,34876,a9dabfacfee83802a7acad1edcb95c15a98d4d3c8b9a5465fe87a4da4b70aab2,2026-11-22T20:57:55
+Medicamentos Transparentes,data/raw/transparencia/AL/al-1-2026-csv.zip,40631,482d343a7eb327192ae6f6919c169a36a9a1ad3a027c7f355005efd68ff41ccb,2026-11-22T21:34:10
+Medicamentos Transparentes,data/raw/transparencia/AL/al-10-2025-csv.zip,59176,3e19ed3352a66db391422cac2eee8198abd89c97bbb047f9c64b3c7105609560,2026-11-22T21:33:41
+Medicamentos Transparentes,data/raw/transparencia/AL/al-11-2025-csv.zip,50618,b69fd5d2f3285242d8b7a033611c87947cfa709f80c15f65eb853c848ae80466,2026-11-22T21:33:41
+Medicamentos Transparentes,data/raw/transparencia/AL/al-12-2025-csv.zip,56718,fa66ea377507d959f2276dd23bdf91e66501a4ba9652b1759e7774f892fd9cdd,2026-11-22T21:34:00
+Medicamentos Transparentes,data/raw/transparencia/AL/al-2-2025-csv.zip,49033,75e8cb125f8f9985483d52d91a1dc77cad2e29da69e93567b39270d989543f6c,2026-11-22T20:57:55
+Medicamentos Transparentes,data/raw/transparencia/AL/al-2-2026-csv.zip,33434,18af5efde7e61efbf6416a66bf5280f0c7bdbeb37f969c638ca59eb0a6fa0959,2026-11-22T21:34:19
+Medicamentos Transparentes,data/raw/transparencia/AL/al-3-2025-csv.zip,91175,ce8b8c63afe3f42479298e52b84ad7f7291f46aea0409d2fb57fc9720097466e,2026-11-22T20:58:12
+Medicamentos Transparentes,data/raw/transparencia/AL/al-3-2026-csv.zip,53995,d193948a4d9041e57009368188e292510e9c7ce777689b3fb2c1731535685068,2026-11-22T21:34:27
+Medicamentos Transparentes,data/raw/transparencia/AL/al-4-2025-csv.zip,38093,5d418f521e2454c3cf53fa80cc676e6e5b03f64182ca26c43161bc51ec05dc1f,2026-11-22T20:58:24
+Medicamentos Transparentes,data/raw/transparencia/AL/al-4-2026-csv.zip,45633,906533d58869120e13228f42fa5f759302918a59278fdc58e8b8dc8455a21e82,2026-11-22T21:34:36
+Medicamentos Transparentes,data/raw/transparencia/AL/al-5-2025-csv.zip,44299,3f84d76ba070c6f42ff26259711254742f434aea3a09516b036cc7b36b990c62,2026-11-22T20:58:24
+Medicamentos Transparentes,data/raw/transparencia/AL/al-5-2026-csv.zip,62645,c3ba02a66abf4f84cdb6d44ec72140f776ef76f821e5aaecc476fb8ef8fe44ba,2026-11-22T21:34:46
+Medicamentos Transparentes,data/raw/transparencia/AL/al-6-2025-csv.zip,62103,baade986a777b525186f699b072d5849634350ba497eb060061ebfe18b7d9d9c,2026-11-22T20:58:24
+Medicamentos Transparentes,data/raw/transparencia/AL/al-6-2026-csv.zip,46021,0afd1e13858ee2c3d86d599f414a0fe976b347acef8bf0ca66eb3dc3fc7425f9,2026-11-22T21:34:47
+Medicamentos Transparentes,data/raw/transparencia/AL/al-7-2025-csv.zip,57786,538023754c073389bc7a43c825137b46e459e45b91b53eb159a7fd62666bd756,2026-11-22T21:33:12
+Medicamentos Transparentes,data/raw/transparencia/AL/al-7-2026-csv.zip,55705,94985aaf846d272184c5fd322c2119845028857f4020ac4be69ea790dfdda44c,2026-11-22T21:34:47
+Medicamentos Transparentes,data/raw/transparencia/AL/al-8-2025-csv.zip,42298,8b53c9705512c245096c97ac067febc9f755aa0975365496c4105658206e4f60,2026-11-22T21:33:13
+Medicamentos Transparentes,data/raw/transparencia/AL/al-8-2026-csv.zip,35730,663cf4901dccd0cdd81e8ef287548ecde6cd58af75150fdf6c986d19d596f8cf,2026-11-22T21:34:48
+Medicamentos Transparentes,data/raw/transparencia/AL/al-9-2025-csv.zip,147112,afff5542bbc34c128d63944c3acfb7865c7d744744eeacb86f1551b2b125d500,2026-11-22T21:33:13
+Medicamentos Transparentes,data/raw/transparencia/AL/al-9-2026-csv.zip,49344,da573cdeeb96ad7bc2b2e667c71083e9de2f672767dc03c399464db470d1105b,2026-11-22T21:34:48
+Medicamentos Transparentes,data/raw/transparencia/AM/am-1-2025-csv.zip,35039,8ae4eb28a3121098b1f0d88d585f39ee895b5d493bf398e0d3e2ec28ada983c9,2026-11-22T20:57:55
+Medicamentos Transparentes,data/raw/transparencia/AM/am-1-2026-csv.zip,43095,28407813820017bf1c38cbe698f514f84f9d3956e1657f8305a6ea3e1b720543,2026-11-22T21:34:10
+Medicamentos Transparentes,data/raw/transparencia/AM/am-10-2025-csv.zip,58597,d859510fe7de29486bc1fe488cb054d65ffb7c33c493604354805fdac31859d1,2026-11-22T21:33:42
+Medicamentos Transparentes,data/raw/transparencia/AM/am-11-2025-csv.zip,53425,2dcb130c6c0037dc1c1fd1b8e22a0b2a885ea9244faa0969b869975758e9fea9,2026-11-22T21:33:42
+Medicamentos Transparentes,data/raw/transparencia/AM/am-12-2025-csv.zip,47455,4da9d6fefe7a233b5217e6e47b3badb06d36d42f81d86039c04bbe0679135433,2026-11-22T21:34:00
+Medicamentos Transparentes,data/raw/transparencia/AM/am-2-2025-csv.zip,37951,38ad7a1cf65ead7c33e74c3d9e2d1d47ba093a8dae0d5a04bacf18cd4f37b6bf,2026-11-22T20:57:56
+Medicamentos Transparentes,data/raw/transparencia/AM/am-2-2026-csv.zip,32965,25a005c3a578c6d2366f01c8e0908702328ecd4e87cc05d262b8984e68d449ba,2026-11-22T21:34:19
+Medicamentos Transparentes,data/raw/transparencia/AM/am-3-2025-csv.zip,81941,b273679d0c7a75bf53bff7c4d02155824ddcd8fcd9dddaccb050c21c47d44d4c,2026-11-22T20:58:12
+Medicamentos Transparentes,data/raw/transparencia/AM/am-3-2026-csv.zip,40259,c4fb140691ce3b3306330363a6f7b6c8b0efd55c5d1bbde67e1565a33d0f8660,2026-11-22T21:34:28
+Medicamentos Transparentes,data/raw/transparencia/AM/am-4-2025-csv.zip,34378,1d3d785dc65910670d8037d44f14798c07db2c8bb1a6242b34cfb5c6476a9631,2026-11-22T20:58:25
+Medicamentos Transparentes,data/raw/transparencia/AM/am-4-2026-csv.zip,48886,c84377cb5e6d6f8657dd78476942c2f63b6346a6ef7fea6bd3b7e92be723015d,2026-11-22T21:34:37
+Medicamentos Transparentes,data/raw/transparencia/AM/am-5-2025-csv.zip,45021,a33bb4ded1b09b1083dbdb974fe70a0b1e3132927655f21893cd914a5fe1390b,2026-11-22T20:58:25
+Medicamentos Transparentes,data/raw/transparencia/AM/am-5-2026-csv.zip,36468,8b93e9a75dcc32693774e8cb6f3df1c28e4eb9ad76dec196adad19251179bd31,2026-11-22T21:34:48
+Medicamentos Transparentes,data/raw/transparencia/AM/am-6-2025-csv.zip,64109,a713d185a5924d8297360649b650cb4c8b8a062d0fc59129a5030f2cb57ad146,2026-11-22T20:58:25
+Medicamentos Transparentes,data/raw/transparencia/AM/am-6-2026-csv.zip,32999,3d838e38043edac5d1f9b5df97799000aeb371f6378362d2d8509f1883294053,2026-11-22T21:34:49
+Medicamentos Transparentes,data/raw/transparencia/AM/am-7-2025-csv.zip,36955,02a5e76ac92e04da07b61dd7ef517390a92140c554384d9e37263367a1224cff,2026-11-22T21:33:14
+Medicamentos Transparentes,data/raw/transparencia/AM/am-7-2026-csv.zip,49067,9a328ef707845c35023cb48517d10eddb99efa72ac1355658e690260cdc992ee,2026-11-22T21:34:49
+Medicamentos Transparentes,data/raw/transparencia/AM/am-8-2025-csv.zip,57492,e91fea3038aa2ba9d58951bfa03a37b694d00e9f9a6107ba2cdb3bbbdccf9c89,2026-11-22T21:33:14
+Medicamentos Transparentes,data/raw/transparencia/AM/am-8-2026-csv.zip,42738,81a2e377f012262169c6b315a2164f9b03d9e25a0a47bffd6ac8df83a9c5d8ea,2026-11-22T21:34:49
+Medicamentos Transparentes,data/raw/transparencia/AM/am-9-2025-csv.zip,86214,928a2243e5f3c475eae82d626ded7fc61828078d87ed49e38ec3dd22755a7587,2026-11-22T21:33:14
+Medicamentos Transparentes,data/raw/transparencia/AM/am-9-2026-csv.zip,53460,95609b97e6303e72df9a6c723b2e08b59a8ebb9116db6a652dd15ea01c4d8b9b,2026-11-22T21:34:50
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-1-2025-csv.zip,13124,de2a59814530a855f42ab2bf1bc9f7038ab4dc9cb7e418a37e295e0a1661e300,2026-11-22T20:57:56
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-1-2026-csv.zip,18888,343a7c1e00c6f37d87b3a1148cc31b0edccdd02e16a8e397df3bb4a5ea604225,2026-11-22T21:34:10
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-10-2025-csv.zip,14204,9fdccb51f4dd26f9d84f972471a5e66fc0128074e3667bbd9b0a1a71ca993968,2026-11-22T21:33:42
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-11-2025-csv.zip,14500,eb7308239ed2371dc9ab8eff9cccbc2f44f3420e0febb9a6855fe196cdacdecb,2026-11-22T21:33:42
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-12-2025-csv.zip,31683,e784aaee8e8dc383a28476c16c7c01fa58d6b1d85116c00889b9fdf8e407b505,2026-11-22T21:34:01
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-2-2025-csv.zip,15513,c75642d989891b4ddb72e4f0d5340e4ae9bc489ff629a242452c399573c89c93,2026-11-22T20:57:56
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-2-2026-csv.zip,11581,abccaeeba6e71ce89f62f020e7a874899e92710966f78f39bfbdc121839bb6a9,2026-11-22T21:34:19
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-3-2025-csv.zip,31897,2be20600d7ed7ea4e5ba152c07bbdad705b11c3dc8fadd534cef3b18c33cb0f0,2026-11-22T20:58:13
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-3-2026-csv.zip,14022,223bf5ca1bb91f55fdc8649631ed69674a3cd623feecc01d8534eaab231639d1,2026-11-22T21:34:28
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-4-2025-csv.zip,11518,977e85e2970adda68027d6457fdcc5349b4e0c28414902a7cfebb9d536d87834,2026-11-22T20:58:26
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-4-2026-csv.zip,11540,a61945d04290c450911a6ed46ebdf228698f3539b32b8020e531d36bd9bcf426,2026-11-22T21:34:37
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-5-2025-csv.zip,12779,5ed6595799320c4d570d8a29da33cb81fbc2adf09d311b265fff5673e421d4cc,2026-11-22T20:58:26
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-5-2026-csv.zip,5418,788cbb1f6ba16b58495a3f4652f6c8666d0a83262cb4b69057144227265b837a,2026-11-22T21:34:50
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-6-2025-csv.zip,12561,41ab7593662e2636db9c0e448f2e81202466844fac1a34b06b0df6af6b7881a3,2026-11-22T20:58:26
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-6-2026-csv.zip,10497,6d35fdfd7cc88ef8f0d8ce4578637d76ae6e4eb513bfa225e4d74b3745394a6b,2026-11-22T21:34:50
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-7-2025-csv.zip,6988,0f526e29539eaeb96eb67ff7d4f76f48f9168928ad4308ce9aaca334bb24052f,2026-11-22T21:33:15
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-7-2026-csv.zip,10899,3a7e84595ebacf42b6498a2e94fad5be17055fc9f0f4f341fe874759866a8f88,2026-11-22T21:34:50
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-8-2025-csv.zip,9672,86f217be14dacbc3108038557fbfcd9fa47f3a665018788e9e06c24052d91d69,2026-11-22T21:33:15
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-8-2026-csv.zip,13110,ace748f039b276e4cf836fb6f84c0dc307b4b3d0b4ef5c53c962e728ee8841cf,2026-11-22T21:34:51
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-9-2025-csv.zip,26961,5bc2df72986a0b95e25fb54494892e93372feb1a16f726de8a6b72073b66f46f,2026-11-22T21:33:15
+Medicamentos Transparentes,data/raw/transparencia/AP/ap-9-2026-csv.zip,15998,372ebae2f45b0156d1cf0026f57958b4c5cbe6b290dd1918de46932484d064e0,2026-11-22T21:34:51
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-1-2025-csv.zip,113031,b4c6549b7f20b44045b84e9552baff3c4a2ed896c782cf8e41d2ae9d408e2e85,2026-11-22T20:57:56
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-1-2026-csv.zip,101387,5306efba79377c76ae6f3a5cb0deba5cb6aeca444f6818dd04fe1238564d4af9,2026-11-22T21:34:11
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-10-2025-csv.zip,154712,beae83acfc924f5076fb38b12432353661551297f859ed1be7540e3f6c2c2024,2026-11-22T21:33:43
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-11-2025-csv.zip,163055,7a9c3c539eb43bc942dde7b982ebbb074af63b4b5c007ab1b3d853eb8d48d04a,2026-11-22T21:33:43
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-12-2025-csv.zip,284475,d41a251426789e526c979ad1326793e4fb0b15638838ace95c1ac3c04a70d693,2026-11-22T21:34:01
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-2-2025-csv.zip,118197,ad2f694469d0a3d8550697b3c2b960c6e5f12f3c0863bdbd0c4ec3335b76daf7,2026-11-22T20:57:57
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-2-2026-csv.zip,84162,a4114a6de6224f3e09fcce79fb6fa22c08f01010cae013bf17346f3f2cb8fe74,2026-11-22T21:34:20
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-3-2025-csv.zip,246099,151a97d5478f6e8b0fb988747e3071f75203c35a5005d1a4c9cae39aee0cd6ac,2026-11-22T20:58:13
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-3-2026-csv.zip,109020,20cfc69b70a1068e06fff90d6cade25b5e2411748bf853ae2a19e235028c7f1d,2026-11-22T21:34:28
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-4-2025-csv.zip,132778,b7599937fd918e61518694ebb6e012b1d012bbd98c329daff9cb37963a572564,2026-11-22T20:58:27
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-4-2026-csv.zip,273408,dfd26bf35045e81679c31f7a7f193288cf3e7ac0ba01115f5ad3c6a2e2544dab,2026-11-22T21:34:38
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-5-2025-csv.zip,140089,53e65ab4806ed782ca7a0c41c22c19d8fd938ca7fe830127a52b101354fb9017,2026-11-22T20:58:27
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-5-2026-csv.zip,153243,ae0b7ad401863c8f9e3b7d6ccd8ac4728425d93312e95ae0ff8860174b5f4f80,2026-11-22T21:34:52
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-6-2025-csv.zip,143504,7a9aea120ad205d034992cf5f392969cf6282f5b6734817db961fef79e809e2b,2026-11-22T20:58:28
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-6-2026-csv.zip,125334,203bb63f8f959ab1dc8e6c4ee9872cf38c7a336cec8001a5c88f61d5c357cb07,2026-11-22T21:34:52
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-7-2025-csv.zip,127699,a3dd9e59454ffac8511823130df4e2ab3c1638dd85ba69aeb8b54ebb31644f71,2026-11-22T21:33:16
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-7-2026-csv.zip,253322,8940a5009e9db37fa11b6c6a3e705b8d87ca876cada1a69decb8fb9491e5de79,2026-11-22T21:34:52
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-8-2025-csv.zip,116936,e41942e88463b5a65746e433be18bcf0f34f1eff414ab6f6b9f7915984664e72,2026-11-22T21:33:16
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-8-2026-csv.zip,160071,c688a74267ddd142cfa1c37ffd264f0b6eb7e0634581ca787da82f7bf9975031,2026-11-22T21:34:53
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-9-2025-csv.zip,409469,f394464dfb1571ae2c493b1aaf117ed3841efa4856e9ce27df021e21f3ded38f,2026-11-22T21:33:17
+Medicamentos Transparentes,data/raw/transparencia/BA/ba-9-2026-csv.zip,135119,ea606ac98e561a72af8ce4e2edc4eb251625c03c8181c4ed1e806717b193d177,2026-11-22T21:34:53
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-1-2025-csv.zip,76847,21b5ae2311d3f54a7602da9f3eda14998c58c271d748d2c9e6e9cb1a6fd49b9d,2026-11-22T20:57:57
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-1-2026-csv.zip,106809,a628a0711842e42df1a0396a6f71049b7a1e3e33f5f6ed846c10dd26e611bf61,2026-11-22T21:34:11
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-10-2025-csv.zip,134434,baa44428f8ae199006ff697408c723872d4d7dc719b360fd42498d1b62916d1e,2026-11-22T21:33:44
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-11-2025-csv.zip,185990,aa9083d77db837ad12dee7a0f76bb733b09921ea3ac4d1fc72802937af633326,2026-11-22T21:33:44
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-12-2025-csv.zip,130700,ce3d2bf3336e0f6b0eb2b419484ec78ce1c0d3c1c819411fa0fd5e30c9c7f517,2026-11-22T21:34:02
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-2-2025-csv.zip,139200,286d4b912122457d0e8ec86c6b397d4715df83db680fdc7aeea85a1aa4379cb2,2026-11-22T20:57:58
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-2-2026-csv.zip,98177,2774597ad9d98564ddb6656c177a6d67e06ec9731360971db692c629f5631388,2026-11-22T21:34:20
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-3-2025-csv.zip,359588,88e3a7250e4b4c55ddb77ee3513f2360f27e2c330ff39c4bd3d02dbb6916a73d,2026-11-22T20:58:14
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-3-2026-csv.zip,156339,62629ab9fce90ae3ab0e173311ad71abe3129d76b13adb02d93a75e400488c56,2026-11-22T21:34:29
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-4-2025-csv.zip,88986,b7b2e2bd049e78d170c71182d55107d87fda5ff7b4a53ac21a7fccb97f3b6393,2026-11-22T20:58:28
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-4-2026-csv.zip,162516,977d9f8dab47c2a8048c0dad05a81aaca99d61fd49046d0915ef21d25f10ea28,2026-11-22T21:34:38
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-5-2025-csv.zip,127359,a1cc48680031e1ffa6d147547adb196223a0d9096b15a088e4198fe7b049a37a,2026-11-22T20:58:29
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-5-2026-csv.zip,124428,c1aa192a63f5e5655113262af49b94cf2d96ece585d4e99a6d5017337c0e7421,2026-11-22T21:34:54
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-6-2025-csv.zip,142766,47ee19a522482c6163efb7b93d1825cead78db3366933a85c6e7f5d1657bd2ce,2026-11-22T20:58:29
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-6-2026-csv.zip,116643,69676c3660ac5c61b341d98764c61412e78fd5f1e1c1795c42bb87a0d2165c02,2026-11-22T21:34:54
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-7-2025-csv.zip,100504,09a7ffaa69e3523469722f399126fa6d5223b97137a5ff1bc35446ab7770f16f,2026-11-22T21:33:17
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-7-2026-csv.zip,108663,c259547886a58480ec5fdcb6dbd9a92b72d5b0cab4b82b6b67b80331bec7930c,2026-11-22T21:34:55
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-8-2025-csv.zip,88441,9f8955368f41ab4217ce02de41585cb34bf5a77b1628cd7e65893286f891fa77,2026-11-22T21:33:18
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-8-2026-csv.zip,96660,b76ad725e4ad935b0f89207d82d380b5e4c75e62d603412dd4d955dfee4953c2,2026-11-22T21:34:55
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-9-2025-csv.zip,288988,094b1abf5aafac73b41b5fa92361d4821e5c944d8315d2615fd9f842438d97b0,2026-11-22T21:33:18
+Medicamentos Transparentes,data/raw/transparencia/CE/ce-9-2026-csv.zip,203304,e5cfeb0f5e289569091f7674b6021b903ce93b71bbf24205fc47d9b427bcc2d9,2026-11-22T21:34:55
+Medicamentos Transparentes,data/raw/transparencia/DF/df-1-2025-csv.zip,54868,578b06fa588e4004746746303830a19578110c3b26b94d32ed1594d0f3a84b9b,2026-11-22T20:57:58
+Medicamentos Transparentes,data/raw/transparencia/DF/df-1-2026-csv.zip,38558,3decac7110160a3e6585d9179f3048665ab366f03ac6e3fb36a9aeb44472610c,2026-11-22T21:34:12
+Medicamentos Transparentes,data/raw/transparencia/DF/df-10-2025-csv.zip,72025,38c2d61df23d3aee7291e55e2ef4a0a52a371ee86869e7a7b76b92ba2bd80e98,2026-11-22T21:33:45
+Medicamentos Transparentes,data/raw/transparencia/DF/df-11-2025-csv.zip,68003,99fa6ad4eef74b4a1c76c54e7aca9ff0e9302edf752961720a8141431f8c63fb,2026-11-22T21:33:45
+Medicamentos Transparentes,data/raw/transparencia/DF/df-12-2025-csv.zip,63987,f660f12d9a1d5aca32f4c84ecfb5f138d90542e627c7ab5e94b1b0ed9377d3ef,2026-11-22T21:34:02
+Medicamentos Transparentes,data/raw/transparencia/DF/df-2-2025-csv.zip,76918,7219f33f12b61289197e275ca1596c95bc807db3d7279868f0ff9844152f42a3,2026-11-22T20:57:58
+Medicamentos Transparentes,data/raw/transparencia/DF/df-2-2026-csv.zip,46905,d28181a0b762039093713c28be5c0194e64360779139e6c44c7a2c7e8a020df4,2026-11-22T21:34:20
+Medicamentos Transparentes,data/raw/transparencia/DF/df-3-2025-csv.zip,247747,e9c3be8c9129449df5a6620dbfc4046012d8ee6f113e4972d3f3e12728013246,2026-11-22T20:58:14
+Medicamentos Transparentes,data/raw/transparencia/DF/df-3-2026-csv.zip,63097,d52818456788b055a028795af97fdfb73827d0d62f85df3bfde41eeaaab9ad9c,2026-11-22T21:34:29
+Medicamentos Transparentes,data/raw/transparencia/DF/df-4-2025-csv.zip,70888,e2989e62feb790ec3106f9c31e68bbd66f37d289e5970f69221ea2ed5e9e9d87,2026-11-22T20:58:29
+Medicamentos Transparentes,data/raw/transparencia/DF/df-4-2026-csv.zip,51339,e8aa11f7b948009d5c068512f214744fb47071b634748014c3387205d3316c9c,2026-11-22T21:34:39
+Medicamentos Transparentes,data/raw/transparencia/DF/df-5-2025-csv.zip,58764,e625337b1830eb8e4d8978802c096466f30cb0d317743f4172f6b54caf799094,2026-11-22T20:58:30
+Medicamentos Transparentes,data/raw/transparencia/DF/df-5-2026-csv.zip,47099,7647b2c7f71b54699aedbbd586c77036cc47af550710cf34a5de72049b426e68,2026-11-22T21:34:56
+Medicamentos Transparentes,data/raw/transparencia/DF/df-6-2025-csv.zip,58349,b096a68781b527a1becbcd19312afb20978c0e31a25e58fb75fcbfe95cfa8a3f,2026-11-22T20:58:30
+Medicamentos Transparentes,data/raw/transparencia/DF/df-6-2026-csv.zip,55651,851e525a968af0db529a034fdcd63cd41b158a645d56061bc6d4f4a18704aee9,2026-11-22T21:34:56
+Medicamentos Transparentes,data/raw/transparencia/DF/df-7-2025-csv.zip,58508,f8261bb96bb8b8afed5e895543eaac2717308f00999332b7b7bae9344e0cf25d,2026-11-22T21:33:19
+Medicamentos Transparentes,data/raw/transparencia/DF/df-7-2026-csv.zip,55879,28975a66182558bdf29c9bccb3b673b2b5f82b77e2906a84025f454159c9ad0f,2026-11-22T21:34:56
+Medicamentos Transparentes,data/raw/transparencia/DF/df-8-2025-csv.zip,54402,77681e6c8bf2f66e12c64d1e04da77868a5a2efd2c916e1e2924b5779a5424e0,2026-11-22T21:33:19
+Medicamentos Transparentes,data/raw/transparencia/DF/df-8-2026-csv.zip,68579,887677951f10a0557dfcbc4159e951d50d2f890f6b6707dc8ceb03c2b42c6d54,2026-11-22T21:34:57
+Medicamentos Transparentes,data/raw/transparencia/DF/df-9-2025-csv.zip,155147,51b40f8832c749cb89371ea954ef0be49e0c5606c9fc9f9ef381c8700c90cd57,2026-11-22T21:33:19
+Medicamentos Transparentes,data/raw/transparencia/DF/df-9-2026-csv.zip,96870,31090453582423fa3c4df14e23cefbdf50291d892965b14ff3b67ade95a82036,2026-11-22T21:34:57
+Medicamentos Transparentes,data/raw/transparencia/ES/es-1-2025-csv.zip,94254,f1ef23148f996c33f0819829aefdf80fce6cb94d3d83ab3620b5af4f642039d2,2026-11-22T20:57:59
+Medicamentos Transparentes,data/raw/transparencia/ES/es-1-2026-csv.zip,59899,82762f54d5c317e4bc3fccdacdcb9fddc9cd543e61931ceeb6af9387dea92e3d,2026-11-22T21:34:12
+Medicamentos Transparentes,data/raw/transparencia/ES/es-10-2025-csv.zip,147043,142d31c0fb1f3559b60765ad2cc18e6c9b2c9e832a72f6ad4bb04b1283c7da67,2026-11-22T21:33:46
+Medicamentos Transparentes,data/raw/transparencia/ES/es-11-2025-csv.zip,126089,e3fbcb0a54a3d8e17fd06f1a3de3a8603f8a45e9dfa696c2b40e9eddca715cf9,2026-11-22T21:33:46
+Medicamentos Transparentes,data/raw/transparencia/ES/es-12-2025-csv.zip,120234,dec48803c51091a67fb11746b226b377ee41b21da11036499eed6f188047d372,2026-11-22T21:34:02
+Medicamentos Transparentes,data/raw/transparencia/ES/es-2-2025-csv.zip,109878,f3bcb7953963b33704e64ec778851de0b884ce2d0572b6b6e4145a413b1e9f9f,2026-11-22T20:57:59
+Medicamentos Transparentes,data/raw/transparencia/ES/es-2-2026-csv.zip,72647,4256ce745fc5fcca88bb133479961b2d7958e84b77c1586880d5c4a241b94dd0,2026-11-22T21:34:21
+Medicamentos Transparentes,data/raw/transparencia/ES/es-3-2025-csv.zip,273056,e8e304baa837e25daaa34737ae63dd26b9adbd1ceb9417342e911b8280321a86,2026-11-22T20:58:15
+Medicamentos Transparentes,data/raw/transparencia/ES/es-3-2026-csv.zip,122217,22d21f03a9af112e23b8b83dffce63e29c16e6325942dc5e5639d2e10c7c7e23,2026-11-22T21:34:30
+Medicamentos Transparentes,data/raw/transparencia/ES/es-4-2025-csv.zip,82427,d6e2dd3ac66fd4aeaa16a97c0228e2338105132b4e2fe68e7021caa0e3f972b5,2026-11-22T20:58:30
+Medicamentos Transparentes,data/raw/transparencia/ES/es-4-2026-csv.zip,137998,eaaabdd9de061eb779ba3829fa2c6cfbbf10f26fea5ce406fd21d0c963b28e7d,2026-11-22T21:34:39
+Medicamentos Transparentes,data/raw/transparencia/ES/es-5-2025-csv.zip,96675,6a894cad2152f9165c23f39365789239bcc988c73196d130c6fa838451c43fb6,2026-11-22T20:58:31
+Medicamentos Transparentes,data/raw/transparencia/ES/es-5-2026-csv.zip,87062,4936b0d0e244309e664dd79e0aa5a2f10d5478d06137f5129fcf53b36e198f4b,2026-11-22T21:34:58
+Medicamentos Transparentes,data/raw/transparencia/ES/es-6-2025-csv.zip,156935,346a27889648660be70b3c0974584999d60d08ee113406662f1dcadf42dcb99a,2026-11-22T21:32:52
+Medicamentos Transparentes,data/raw/transparencia/ES/es-6-2026-csv.zip,109294,22c22441a880eee57a150118b224b837564b4f64b22b43c2606599ad32b0ebae,2026-11-22T21:34:58
+Medicamentos Transparentes,data/raw/transparencia/ES/es-7-2025-csv.zip,121550,969b5107b7824a20e4c0149071a3080ddc43b0cb74effc580abda262d7eb92b6,2026-11-22T21:33:20
+Medicamentos Transparentes,data/raw/transparencia/ES/es-7-2026-csv.zip,113849,99c6997f692f2220053865dea47afa27d660d87ae971eeebc42276508d5420a3,2026-11-22T21:34:58
+Medicamentos Transparentes,data/raw/transparencia/ES/es-8-2025-csv.zip,112429,00a05f1229fa912093687cb13c6f950dc683d3ed1e802bf874ec46c7f904150e,2026-11-22T21:33:20
+Medicamentos Transparentes,data/raw/transparencia/ES/es-8-2026-csv.zip,136308,19ee7bd54357840c6baaffdaa7adcdfc533b5e13f56dd748aded9d02d901ed26,2026-11-22T21:34:59
+Medicamentos Transparentes,data/raw/transparencia/ES/es-9-2025-csv.zip,282106,65c95e60b1b8658abc294b912d419843d9234c296fb929fb7d2912a417ddfa2f,2026-11-22T21:33:21
+Medicamentos Transparentes,data/raw/transparencia/ES/es-9-2026-csv.zip,160708,5d409dc14a7537678d43bf1ce2c6a4f9c1098ddb77728af0eecd0b99d1967720,2026-11-22T21:34:59
+Medicamentos Transparentes,data/raw/transparencia/EX/ex-9-2026-csv.zip,4512,aa999462796236b085d17f126d9adeb4cb92761bad316eef65265805167ada06,2026-11-22T21:35:00
+Medicamentos Transparentes,data/raw/transparencia/GO/go-1-2025-csv.zip,92460,a37c4c597c38315250d092dcf1e5173cc26927cbbd138d40dd4335441cd4f452,2026-11-22T20:58:00
+Medicamentos Transparentes,data/raw/transparencia/GO/go-1-2026-csv.zip,93517,84ea440da51f071d8027c6ca4e6eb5028bd4d6909c2f64e09567de19f9bb7f70,2026-11-22T21:34:12
+Medicamentos Transparentes,data/raw/transparencia/GO/go-10-2025-csv.zip,170490,cb8a5a38493b71051787f73bc02e64828659d1d50cdfa102bc69193300d67cfd,2026-11-22T21:33:47
+Medicamentos Transparentes,data/raw/transparencia/GO/go-11-2025-csv.zip,153320,1238f5f22465ebebade29dc4115d438c3ae07eef18dd5f0ac9674af8d93341e1,2026-11-22T21:33:47
+Medicamentos Transparentes,data/raw/transparencia/GO/go-12-2025-csv.zip,131192,6b840579caf4e39aa4ea724f7abe96f9ba2d3b9560688599012c96ef745db578,2026-11-22T21:34:03
+Medicamentos Transparentes,data/raw/transparencia/GO/go-2-2025-csv.zip,147889,4a702574e0ab21722c0267e45feb87d568f151b82b0a251f21a99ecca840e2a9,2026-11-22T20:58:00
+Medicamentos Transparentes,data/raw/transparencia/GO/go-2-2026-csv.zip,109318,e187ce3281ab90e498b6f5499bf385d4f02baddb4592977f03bb1498a8bfccc6,2026-11-22T21:34:21
+Medicamentos Transparentes,data/raw/transparencia/GO/go-3-2025-csv.zip,228460,ab1ea4feb61cac9b1be28739eaedaed661d480892d37712bd1f79c009aba9a16,2026-11-22T20:58:15
+Medicamentos Transparentes,data/raw/transparencia/GO/go-3-2026-csv.zip,164660,9a8a527fdb0d2358f384191e7fe14383398d5d96839973eb80a7aaaf7fdf3c68,2026-11-22T21:34:30
+Medicamentos Transparentes,data/raw/transparencia/GO/go-4-2025-csv.zip,159339,667e47ecfdbabd93ef9b9fac90b372b12806da7d87ea59924aa088dcd376ccc0,2026-11-22T21:32:52
+Medicamentos Transparentes,data/raw/transparencia/GO/go-4-2026-csv.zip,161715,849ab669fbf17f95fa5911dda8e00d0ba063188247dbfa682b485611138b4b56,2026-11-22T21:34:39
+Medicamentos Transparentes,data/raw/transparencia/GO/go-5-2025-csv.zip,195006,355cf572a311069de30ac230f393a45a56528bd62452d7ea15c45e89e831b27d,2026-11-22T21:32:53
+Medicamentos Transparentes,data/raw/transparencia/GO/go-5-2026-csv.zip,144560,3cc46eefb8d564970f7f5ca804d80e5b3f4e89b8cccc82a4a2ad1555d725e5aa,2026-11-22T21:35:00
+Medicamentos Transparentes,data/raw/transparencia/GO/go-6-2025-csv.zip,222954,e58596f51189f6a650fd5e1c00f2d6582aea97bc349b16a65105323f1006a09a,2026-11-22T21:32:53
+Medicamentos Transparentes,data/raw/transparencia/GO/go-6-2026-csv.zip,149884,bf3595be20fd6d70439d486abbab72780213fe559714a0ad6754cae962bb4ebe,2026-11-22T21:35:01
+Medicamentos Transparentes,data/raw/transparencia/GO/go-7-2025-csv.zip,148176,c57826b085675ccd1f56b144c173bb46310fbdd059a761e373b074776f68c539,2026-11-22T21:33:21
+Medicamentos Transparentes,data/raw/transparencia/GO/go-7-2026-csv.zip,164879,9a529b19e4d0443e9231757fe6f7a58064aea951172b08e09fb11c075554cc5d,2026-11-22T21:35:01
+Medicamentos Transparentes,data/raw/transparencia/GO/go-8-2025-csv.zip,154075,aea2bc647c112aaa8e9be989e6db0345613a5b954a41e15af161040c4e4e2192,2026-11-22T21:33:22
+Medicamentos Transparentes,data/raw/transparencia/GO/go-8-2026-csv.zip,144332,dcf33b9ccd949a98f650a7d9748cd107d76c1feb61b6bddec9e066ff26c4e998,2026-11-22T21:35:01
+Medicamentos Transparentes,data/raw/transparencia/GO/go-9-2025-csv.zip,277354,2aef4b66d1f11b323b26a0d6e71bde8d789abc8a45aeb8fb7763c340db9d86e5,2026-11-22T21:33:22
+Medicamentos Transparentes,data/raw/transparencia/GO/go-9-2026-csv.zip,182598,b6f2aa2e18ab2be870611c76e7f11a4c4200b563000e50541da43899e3e3e124,2026-11-22T21:35:02
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-1-2025-csv.zip,38649,e45cfdcdec256a882aba20cf6c64495a9eb84b734986b2a0da657c66c5020914,2026-11-22T20:58:01
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-1-2026-csv.zip,33287,0696755d9b25f12974761680b8f93c8665aa29dd105bd294fbfe10cc2c03898f,2026-11-22T21:34:13
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-10-2025-csv.zip,39625,fa4b90b8f3de9be8f18ffaab8b04be14f2d06928a904562cd770a57763fc214f,2026-11-22T21:33:47
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-11-2025-csv.zip,38572,b2a1a5520c29f26e497beab241fe9a6c10ba31ee1bb9a66f33b5fdb185b89255,2026-11-22T21:33:48
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-12-2025-csv.zip,45384,fb80c8fb12feebbe065e344f9f3a2b348faa632fe2603e447c6be23f4a313bea,2026-11-22T21:34:03
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-2-2025-csv.zip,31325,ff94811f52242c3acc74b25a78f4347e1461cf7cdcc743457104e710f5f025f9,2026-11-22T20:58:01
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-2-2026-csv.zip,35280,7bd14e98f65eca0358011d64788542f1bb76eb35ed2c6c8564594d49f64478af,2026-11-22T21:34:21
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-3-2025-csv.zip,100735,0e44f5dfd87b20a5afd1837b6973d3f6dde33857546beb0fde5a822e619023f1,2026-11-22T20:58:16
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-3-2026-csv.zip,44777,2d7427c1a9e9e49f151fe1dac61c05037d816553692353413d54807fc6df57ca,2026-11-22T21:34:31
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-4-2025-csv.zip,41282,f3d8ed03e280b819c711256b0bcca18a2c02d9904eb6e29aa2a2a78722033795,2026-11-22T21:32:53
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-4-2026-csv.zip,48115,5240f975be5b745d9fb63e79b37afb9b3091fe85b80a074b169a57512d959691,2026-11-22T21:34:40
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-5-2025-csv.zip,47285,4856f1f991ca1e80b348d88924efd565ecb6a909cbbc0f02e5e896da6c9f63b0,2026-11-22T21:32:54
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-5-2026-csv.zip,38717,8cb295f3ebfe993bfdac5897560078c5cbc0ad505b3cf59516c37bdd90626750,2026-11-22T21:35:02
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-6-2025-csv.zip,61763,59a903d5bd17c779530dc9acb5d4440a6593d96a0252a7db5d46df6818401b5d,2026-11-22T21:32:54
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-6-2026-csv.zip,43898,b3efc8d33b4cb625bc430ec64dc54248f38e6e716f632c1922428484c57925be,2026-11-22T21:35:03
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-7-2025-csv.zip,49705,b223bbf8b24b9a26e14fa491fd17d840d1b72e12f967656d9bfd4fceb5088541,2026-11-22T21:33:22
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-7-2026-csv.zip,48186,9b84f81834f67ab5ef7a54fd9c4ee2887aa1d348db8d766198fbe66d6dab91c3,2026-11-22T21:35:03
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-8-2025-csv.zip,59852,b599165f06dac87176f1763c1ae371add875132dbda3251bc388824c6edfb781,2026-11-22T21:33:23
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-8-2026-csv.zip,48437,40b5d0b8c1f6696793c22f3fe0684020af8aadc38f591806f8829d07a713b424,2026-11-22T21:35:03
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-9-2025-csv.zip,99259,e7f734fef725052382ab7c79efb793aabc29a6660a4747804e6e0ceaf4ca502d,2026-11-22T21:33:23
+Medicamentos Transparentes,data/raw/transparencia/MA/ma-9-2026-csv.zip,53051,9a0c65d7a0856ddcd7cea3d3351443b873d009e9eaaebf62a10476572d086373,2026-11-22T21:35:04
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-1-2025-csv.zip,269948,a919da8186468aca9d5861fef8706836ce1e920ed3aeec8cc51e9691623db89d,2026-11-22T20:58:02
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-1-2026-csv.zip,222036,50c246615a33b8069bd0ae7b6c89ea994eb0b587509786c9da1a56aeb7b79fd0,2026-11-22T21:34:13
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-10-2025-csv.zip,426099,b4c1063065defdedaa24f1c215eb0d36261eb0bd31c948198f7defd68cd2b8fa,2026-11-22T21:33:49
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-11-2025-csv.zip,373694,b26da4c42d2d7065eeecbd92bf7edcc61e504e88bc94ec063156b1c0ea1bfad2,2026-11-22T21:33:49
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-12-2025-csv.zip,497514,e3eda50fb67ec713b0b68aaf63bbb474b5372d693261a3f54e4d6a65d7babcf7,2026-11-22T21:34:04
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-2-2025-csv.zip,354827,560938de31174db780554350cc71ea734a3c5800c6a36d4ee0a9bd0cfa7a3470,2026-11-22T20:58:02
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-2-2026-csv.zip,236596,efd431cbd1c961eb7e09308b28148efccd0e11148901dfb05ea5e650c11c88a8,2026-11-22T21:34:22
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-3-2025-csv.zip,787098,f95adcc69ecdae04cd4f18e7b32f3b1389d335af76c859b7570394cc28293153,2026-11-22T20:58:16
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-3-2026-csv.zip,449768,e33989ab507cdcaa5d43cb787e4f57594f403c742c5bea82e84eb0833fa9465c,2026-11-22T21:34:31
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-4-2025-csv.zip,385159,03767451bf12715db501bb83cf79e72d1aa65094d4f60ccb46a49494c2b7a2f9,2026-11-22T21:32:55
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-4-2026-csv.zip,474590,533ca6698fad3a2eaa65afb6d3dc4ea7981471f191b59548f05e61d7a3522c49,2026-11-22T21:34:40
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-5-2025-csv.zip,387295,dcb923bc6a371f8120bcbd1433b0351397a743c25091831d9490bea0edfe215a,2026-11-22T21:32:55
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-5-2026-csv.zip,363210,f45172f1abed3b45da6b225206550fbe8f2337c69c39035a462ab0407665c456,2026-11-22T21:35:04
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-6-2025-csv.zip,475480,abb692d23728a48de7ba1c9c0b50d379eb91df1a0016643d12bc8136f1977556,2026-11-22T21:32:56
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-6-2026-csv.zip,385803,d9acb8ec90891051c83dad574b0a5d32353369ae9abe7c28d12b6880348719ff,2026-11-22T21:35:05
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-7-2025-csv.zip,417554,38baf22b261cc230294a4e2c61fa21bacb37eb149c5e36716369fc7cffec7a0c,2026-11-22T21:33:24
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-7-2026-csv.zip,467001,039a67380c4147e10fbcb82b9fe1f498828eb3c67338b7c3239e7649d08999c2,2026-11-22T21:35:05
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-8-2025-csv.zip,442235,b1f7e3a740773f5bad375d348f34a42f22247ddd95c0f5db9d01ff2ca359efbe,2026-11-22T21:33:24
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-8-2026-csv.zip,492249,8c8f7b3663cf13dd0087ae943372f6a4b27ef4c4c5fb6139a08ead32de7482eb,2026-11-22T21:35:06
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-9-2025-csv.zip,772972,d40e749ca97cd7e90d87b34e721adeec65249be3642a393469cce5e0a100c65c,2026-11-22T21:33:25
+Medicamentos Transparentes,data/raw/transparencia/MG/mg-9-2026-csv.zip,487441,401043448ba40cbcde3fd35fbe19fee7d227233423fd10f933be8c3c6c6afda8,2026-11-22T21:35:06
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-1-2025-csv.zip,49264,b3e1b2e61d6290659c5096d58c637d6b19a3301f3fc4fabe9d09c88e822dc6cf,2026-11-22T20:58:02
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-1-2026-csv.zip,36968,8144e0044d8854b2d8ca39b2638d3c2b735b0ecf6fbac457278cbdc2edb92dda,2026-11-22T21:34:14
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-10-2025-csv.zip,128763,2c9071f7c610cd8ced9e32b3e2d73e8946e6ad278e58a20e611420583fb6c215,2026-11-22T21:33:50
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-11-2025-csv.zip,82875,e4595aaa4ee8ac10c3f69d1df8e330c658c7388d06adf0296974577ba39b5899,2026-11-22T21:33:50
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-12-2025-csv.zip,69879,0615e75b1a8fa7e8032b94641038b3c126caf8fffb76edd9a7673a47eb15f9a6,2026-11-22T21:34:04
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-2-2025-csv.zip,83969,8476b1d96bbdb782007cb3be5da7565ec8b370c3dd029b1547c32ee3a7e083a8,2026-11-22T20:58:03
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-2-2026-csv.zip,52488,9f9848b9c88fbdcf78d266def9662f35ab39d6c616e31f2c7220916d48730f54,2026-11-22T21:34:22
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-3-2025-csv.zip,176222,17b49daccfddcd309d03c40d9f910879eb02a3398224322a9d7bca606963e808,2026-11-22T20:58:17
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-3-2026-csv.zip,68785,6aea6c7dbf6fcc64176febb5659c551b11deaceb4dbd1208a0d2d947c1dfd8f6,2026-11-22T21:34:31
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-4-2025-csv.zip,106982,987ba37db4f5b214d40ad82ad3aead5072696ba01988d1eb9460f002c3be1df6,2026-11-22T21:32:56
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-4-2026-csv.zip,69447,71f3c06b94503a2274f764bc573cabac01ef32df3698273d96fbbe3ae0823ba9,2026-11-22T21:34:41
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-5-2025-csv.zip,86086,ce6062ead1224b20fdabb3bbecd8a73809dddfc9271e315969a9c88e1b59516b,2026-11-22T21:32:57
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-5-2026-csv.zip,72742,7d7951c0fb5aa5c492ac6c2b692048adb16ce77d1a44c027d626c103292d1932,2026-11-22T21:35:07
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-6-2025-csv.zip,112595,1efa6c622afd3049893b6d5c4bb406cda0565120d9b09522fe66e1bb271aa06a,2026-11-22T21:32:57
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-6-2026-csv.zip,113033,703d5c00d6dfd15de92a36caa662d937b5c7c994bc1363b37ae5f7487a466c24,2026-11-22T21:35:07
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-7-2025-csv.zip,78146,03f2ea30ab4c21379e424fc4a17fdd05e51f0e88b3ce5353e23ccb283121c4f3,2026-11-22T21:33:25
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-7-2026-csv.zip,74414,3ca73fd4966d56ba18285eb05351d02a672378946ae8e4c5bd3540afac2f7afe,2026-11-22T21:35:07
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-8-2025-csv.zip,112215,bf7d0fc38c17582d4ad6745e83f86fa3bfff22a07426265b4019872a764bb7e7,2026-11-22T21:33:26
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-8-2026-csv.zip,82687,852f5689b59ca0c4feef64fccc36ee0272a26759ba8e18d54bfc919dd1b84d4f,2026-11-22T21:35:08
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-9-2025-csv.zip,203899,d1f6ffca094d368fa45ce2d280c29cea2c733e779e879850a4b7123294aa0cd8,2026-11-22T21:33:26
+Medicamentos Transparentes,data/raw/transparencia/MS/ms-9-2026-csv.zip,98751,def6555d52449fe178832d07b60a23d05439e1128afdc2e8eeeee93e7a0080fa,2026-11-22T21:35:08
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-1-2025-csv.zip,31591,75a7fe447508f1c96f214a5a539bd54e823d0fb917a057adba9c4516b8021423,2026-11-22T20:58:03
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-1-2026-csv.zip,37667,36fcb44d716bc46948315e8f866f61bb1da2e3f9998fd401fd384ab5778531aa,2026-11-22T21:34:14
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-10-2025-csv.zip,102656,e74aa1952c298f555d207490da41464d771febd472d62fbd9579cb0d95a649e4,2026-11-22T21:33:50
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-11-2025-csv.zip,70401,3c6e5e973001e23e4ec708b84957594bb3c07039c1d99dbc4aac33cfc85b945d,2026-11-22T21:33:51
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-12-2025-csv.zip,67201,bb345796f2a035b8318792738cef3cd052f286e7423be66558f273090cc29541,2026-11-22T21:34:04
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-2-2025-csv.zip,80196,4caeef373e478a13799d004724c15e0ceb372cce0acd7bf69f83f07f93e11d1a,2026-11-22T20:58:04
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-2-2026-csv.zip,60426,0307af5c729be609212824471f8785827091f73dc6c46c436783891722ab702d,2026-11-22T21:34:23
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-3-2025-csv.zip,89071,40447afd7ccc84740c05a788ef763621bd9592e1e9531c999f99e55a4e54ecf0,2026-11-22T20:58:17
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-3-2026-csv.zip,63573,db04113dedcb0c49d22221261fb60a739e73b426607a74e1a4354eae8cbc03e9,2026-11-22T21:34:32
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-4-2025-csv.zip,41673,0a8561399def31f9a880a1f4edc2a64d56b29f59d708ffc2237b2ce9d272bf2e,2026-11-22T21:32:58
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-4-2026-csv.zip,50634,074e8e8c3a2a2671f0d82f7d6a3859e097005d4ad4a8786a87bd59fe00c26426,2026-11-22T21:34:41
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-5-2025-csv.zip,38835,a47d0d880b102e398985ee20ea6e8d852b935b5373f075a2ccb92c20d88ab039,2026-11-22T21:32:58
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-5-2026-csv.zip,63393,df7e63020b562c4ba5fa882db3f2f3c74b13932d18d983bc6a942078fbc3f4e9,2026-11-22T21:35:09
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-6-2025-csv.zip,74028,d8e443962267940a2ddc86f587de8bcf2c0f816a03dd15ff97df48d6cca26218,2026-11-22T21:32:58
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-6-2026-csv.zip,70751,5ef035e5744451bda7fa80980b2d57bf09439c2047dfb0f2bc48c704332762c2,2026-11-22T21:35:09
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-7-2025-csv.zip,59273,d12fff81fa3c722ebf848ca96e92b3b2b00b366babe1817ec943336df23b96ba,2026-11-22T21:33:27
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-7-2026-csv.zip,76615,d08cb4423f078b5503c95a3f392c6f5898ba820248294b23127367fe4cbec889,2026-11-22T21:35:10
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-8-2025-csv.zip,51101,74b91b4985fd2776a992c44890992e8854c6f26966afb253d12426546a16ccb1,2026-11-22T21:33:27
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-8-2026-csv.zip,70067,6255282c79d8cef80e93b7f130795346800d39d2fabcd9591408de31a2af3c5d,2026-11-22T21:35:10
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-9-2025-csv.zip,104080,5ae13e8bc7839acb04a0225548803245cd20b5b5cdd7dc73c61a77efa0c0d719,2026-11-22T21:33:28
+Medicamentos Transparentes,data/raw/transparencia/MT/mt-9-2026-csv.zip,75339,916b4585fcb60d5fed45c9d6d67f4767aea2d421a5b6bb45a7f6b05ef8756286,2026-11-22T21:35:10
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-1-2025-csv.zip,55060,8e4bd7473ea403d4823c4c47e0221c37be0b9f6c2f9d6d1ec2b80f18866a5a44,2026-11-22T20:58:04
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-1-2026-csv.zip,45285,e91ce043f2037389abedf6c1a154aa07a10baac7e40d92ee288a257569e34886,2026-11-22T21:34:14
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-10-2025-csv.zip,93577,c634eb4f10d859daa2e5c5c001a9a713e801da7523214f58d2c37ca23dda5ff6,2026-11-22T21:33:51
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-11-2025-csv.zip,73463,b9446bd9dd6d0e19f59d89af07ea11f989bf75d032bb6130a8f888aa6cbb48d5,2026-11-22T21:33:52
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-12-2025-csv.zip,75831,3539d491203d83d62a0517b95d2b5e5d406de52b989c64cc96ff9e217143b880,2026-11-22T21:34:05
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-2-2025-csv.zip,52966,fab4e1f70f28d0a2332792a8ba316e26f9fc522af061ee5529782eedb0f0c1ba,2026-11-22T20:58:04
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-2-2026-csv.zip,58652,96ea45f0dd841bddbd3558ceed4d7a486d871b2ed8a16535b7028deecf4c0c58,2026-11-22T21:34:23
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-3-2025-csv.zip,215980,e8990b1411b58e2c6f69b4b339b9f71cef40d7c5744120dca879e8af4b05dfb6,2026-11-22T20:58:18
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-3-2026-csv.zip,87587,23c96eb66a57f76365647d3a9b87ae32ec1dcd87a5e3706c24bdc44b14a29392,2026-11-22T21:34:32
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-4-2025-csv.zip,57785,bba80d2aedb72cb85ac8e38d077f49343649bd0a69cbcb95da86c4a840cff8c6,2026-11-22T21:32:59
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-4-2026-csv.zip,87364,79317ea5e6b103c90e559c4c6a34c8f1fce09f6de9f0730e70c033b2069e3825,2026-11-22T21:34:41
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-5-2025-csv.zip,90352,cbdccdb1c77d271006c55fa8b11d2a2f04007411e699add91ad4290d6b664430,2026-11-22T21:32:59
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-5-2026-csv.zip,79533,467e456a5a0d4451dc2520d4048702cff8b93322b8aef59bca4e3479fdcd2b56,2026-11-22T21:35:11
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-6-2025-csv.zip,79150,0a7e384741d8ba1c4a11b8e3bb8a36e325de516169468254343fede4cf4b71be,2026-11-22T21:33:00
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-6-2026-csv.zip,74370,a92516e39daec71f105f8cbc833026dfbce800e774ff3696b1cb2fb0aa6f4f31,2026-11-22T21:35:11
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-7-2025-csv.zip,87463,19bf37546802171aab85054f5d9c7ce57bf369c0eaf4e23edab973c9e6950466,2026-11-22T21:33:28
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-7-2026-csv.zip,66476,fa1e7d2215e64eea99e8b502686561cc1781cbb66780a18ea81fa59261da0a0b,2026-11-22T21:35:11
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-8-2025-csv.zip,81758,e8ede8f9d5783b9774cd704b69656e736b5896afa4f8be9a0c8b6af347314d1c,2026-11-22T21:33:29
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-8-2026-csv.zip,98421,279561bf8013058210f467cad30b530d5e6fddf55c27e5e23ff4442535ddcd3d,2026-11-22T21:35:12
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-9-2025-csv.zip,185736,e8754d0bbaeea8ec4c72e4b2549f7c29711ae920cc41f87c28df02c5f0be5e25,2026-11-22T21:33:29
+Medicamentos Transparentes,data/raw/transparencia/PA/pa-9-2026-csv.zip,131585,a9db5001f1621df13a52d1488b1894502554b04568ff83d115f63931a3fd3b43,2026-11-22T21:35:12
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-1-2025-csv.zip,77389,688bf496bfbb4d2aba316b4a040e401dc9f173e555b595e10243e6dda95f3c76,2026-11-22T20:57:18
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-1-2026-csv.zip,67979,2ea8e9fd5032bca39121a39338e9c65885d9233d34712f445dddb2b64b6fd551,2026-11-22T20:57:23
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-1-2026-json.zip,78153,8636f18a0da21aff9d810109545806401c97108574e66a6c47570d37fa9e2fd2,2026-11-22T21:04:25
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-10-2025-csv.zip,80904,f32113bee2d921a7125c92c7c843671f56f5bf96c91313fd26c905f506164c92,2026-11-22T20:57:22
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-11-2025-csv.zip,65696,59e9f6f175cddbaeb6ce4979f10a796b0738dd7cf97342605c6b20e9f6f4440d,2026-11-22T20:57:22
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-12-2025-csv.zip,96861,9fcc4444f679d8e49dfc9aee09c40ce2ebdf5f3fad24d7d536b52f7d593d8617,2026-11-22T20:57:23
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-2-2025-csv.zip,102671,819cec26e1094c7362b873888ac0019b9bba16df80dc137dd9bbd1fd8417f8a0,2026-11-22T20:57:19
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-2-2026-csv.zip,47899,dfe686d9096db41350efb00faffbe0258976d2c7c081ad1ccfd443c5b1e81d59,2026-11-22T20:57:24
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-2-2026-json.zip,50472,c4ceec2916d6f567b09abd4b08958b9294d216c812b5f624f0ff65c8f698e710,2026-11-22T21:04:25
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-3-2025-csv.zip,184607,6375e5ad821982cb2ced0c46fea2ff0462941b03daf43da92dbca51eb3f988f3,2026-11-22T20:57:19
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-3-2026-csv.zip,75053,63e2a835f1ed7316f5e5e0f5ec1a2cf5261bd424eea8172239d35ce0d95c9eee,2026-11-22T20:57:24
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-3-2026-json.zip,85908,2a420d361013ca18f0f6827da598dc963d33f3c405afe701f421b97ccd84b278,2026-11-22T21:04:26
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-4-2025-csv.zip,101591,12550630b9956bfbfaa8c5d8987b0f40c40b388f5ca5d2cc816caca007b601d0,2026-11-22T20:57:19
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-4-2026-csv.zip,127838,2460f800a662a046e59f75cba1b3518a396a824af4f06f368239fbffefe87ce3,2026-11-22T20:57:24
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-4-2026-json.zip,160457,f1626f0ab51e32020c656dc7d93620ef73ad96478cde5c5da9863335b5d13056,2026-11-22T21:04:26
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-5-2025-csv.zip,100820,1e4021fc5fc4372e6b906873ad6f43e18bc15ca0e859736012776898ced548fb,2026-11-22T20:57:20
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-5-2026-csv.zip,125944,234d184e9d27dd21bddefcc98ace1bb813191903601ab73466247af2ec19b46e,2026-11-22T20:57:25
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-5-2026-json.zip,149527,251ccd892631d63875c4c5de1e93e092d8652f8b365d271dcf22060be7fd4859,2026-11-22T21:04:27
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-6-2025-csv.zip,93024,93c028a8f8be75159297bb6e6396f8479bdbdebc5d4e967244f2d25ed9de086c,2026-11-22T20:57:20
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-6-2026-csv.zip,67509,b10bc3840427000954e358ecd364328cfb6d0ca2e61c15eeb2543375baaafa11,2026-11-22T20:57:25
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-6-2026-json.zip,77352,d0ff1a1adc1efcc6b34ffc17e7d97f4f35cd7b4401360cb1433fc9d88cbcef35,2026-11-22T21:04:27
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-7-2025-csv.zip,96054,a980c47e40e13c960e4714020682dbcd6214b9f4cb7583d05dbdf38ab0e2664d,2026-11-22T20:57:21
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-7-2026-csv.zip,92290,350656736cdfd15e8aff47f668ecceae8ed42c2aaaf6d141ea21b19cdbc91c81,2026-11-22T20:57:26
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-7-2026-json.zip,107991,9e23df807753a47b4126b626c63daeff633efd1c01a00e990a5928a0dd29bd42,2026-11-22T21:04:28
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-8-2025-csv.zip,78874,9be3d70b3899d21479a05249db78b2aeacc991c3a1f472c1099fdeb587edac51,2026-11-22T20:57:21
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-8-2026-csv.zip,105877,ef86c13978b52e3f92ce56f95d7288755dfe34e7c73cfe825e86b9f91126e156,2026-11-22T20:57:26
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-8-2026-json.zip,123225,cc64ebc968e4740bd9875e6b8eaf7af2d72a36b5ef8803d0868861b409c29fca,2026-11-22T21:04:28
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-9-2025-csv.zip,180600,d2183a03f0caf7cf5db0df0bdde27875c1dba9766e018992d36c88f53361ad57,2026-11-22T20:57:22
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-9-2026-csv.zip,110829,641f8be543d48b6a7244a6602d37885acdecc1e56ebbb89c78cef7ce6dd20d5d,2026-11-22T20:57:27
+Medicamentos Transparentes,data/raw/transparencia/PB/pb-9-2026-json.zip,130350,ba23af3d11fe13422c0dcc6fd6c246c015c3a9d0230acdc62298b04d9380cacf,2026-11-22T21:04:28
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-1-2025-csv.zip,68567,f13e3ed7a73d82695cbe77e4e6a3b5322afe1c7b804793be0e78f404657671d9,2026-11-22T20:58:05
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-1-2026-csv.zip,98079,de391655670d073316b5667308b9c41c363586ce13e2ec03e3f57b476805c781,2026-11-22T21:34:15
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-10-2025-csv.zip,147594,8933b77607f6dc9511b551940dde0f407f324c90242765ce3bd2cda44a5403b3,2026-11-22T21:33:52
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-11-2025-csv.zip,129461,e68b3d4646c7b364de633ac30b041e35a9c1cedd3447f9904bb9714413979c05,2026-11-22T21:33:53
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-12-2025-csv.zip,126041,38b07c2737b78d1f5aec890adbe29bc451daec5427e41cd305974a35652b6beb,2026-11-22T21:34:05
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-2-2025-csv.zip,113655,058598f5013a7010b1183935a9912c1bab4ce5db5c4ffac334c73e525c2e6ffc,2026-11-22T20:58:05
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-2-2026-csv.zip,111894,a99699c270fdd9566931b6b6876cf5a8a8d3772dab8cc072ce8eb682f39d9494,2026-11-22T21:34:23
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-3-2025-csv.zip,199268,92d53bb149211a14f6d8bb438c60c0537187cfee1c1fb8389df29517bd1da1a0,2026-11-22T20:58:18
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-3-2026-csv.zip,99897,c35fad22a1042d8e18938a6233fd82e1232124b07aad33e2ac4b677de154f835,2026-11-22T21:34:33
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-4-2025-csv.zip,89105,7801f8bb0af1f80fc53ccc08a2d0638a626a9a8bafbeb62c3a9ead4bda084508,2026-11-22T21:33:00
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-4-2026-csv.zip,115834,15434f5332cde1a85a71b8938a1e171b517bc92a5a8ed94ea9bfa072ef2086d3,2026-11-22T21:34:42
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-5-2025-csv.zip,115066,019ca29c2f36b944d2fbe11ef4c8480530d2cf0fb78e6564177bd1916be5c91d,2026-11-22T21:33:00
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-5-2026-csv.zip,97531,5a8b9108b09d4b56685738ea355847748c44a58c20142f507fa86dd5adc24d50,2026-11-22T21:35:13
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-6-2025-csv.zip,130334,53492b101a268c55d1c543f9b15cd79fcd209002acfa511d29225c5b4edb15b6,2026-11-22T21:33:01
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-6-2026-csv.zip,89351,d3fe69132a1e050a6d18103df20d7bde286805cb7e8b92afe0bea0ac81c59a0b,2026-11-22T21:35:13
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-7-2025-csv.zip,108148,a537d50c4b479859478cb3814d282a9b395c675be9cb370d472892c95e1d7e79,2026-11-22T21:33:29
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-7-2026-csv.zip,116861,45700f5f506340abbaf4b264c3055427f21f9d7ca49db0ab79a45d687d73f403,2026-11-22T21:35:14
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-8-2025-csv.zip,123422,96ddd6cb605403f3c0c4fb70de45d93d08cf75435651b7e1718b41b157e07189,2026-11-22T21:33:30
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-8-2026-csv.zip,95299,ae4266e84deff6e0c64eb173f2b7506063c492fecb259c9dc98778be6e3a28bc,2026-11-22T21:35:14
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-9-2025-csv.zip,244178,4a1ee0d8e08a2fdf7a95b0387964f0b885bbe60e50b1993d49b8c96304b48645,2026-11-22T21:33:30
+Medicamentos Transparentes,data/raw/transparencia/PE/pe-9-2026-csv.zip,124085,bc888c89c595af3167431889c7772c9b0ceb2507cc1df0add73bb8880bf37dc4,2026-11-22T21:35:14
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-1-2025-csv.zip,13605,619ab5c87e6c77a978e5c75fb85e434a081c0eee90dbaa06a1c1838770dad421,2026-11-22T20:58:05
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-1-2026-csv.zip,20113,aff6a81cdee47feb6351e3c275e5a69d87a27b1ae3ede2e1103e2bec76cb000a,2026-11-22T21:34:15
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-10-2025-csv.zip,41080,f56d0331ae3022ccc48e51e6e45a2a09d34f5cfa0e7d53ddd3076de70eba794f,2026-11-22T21:33:53
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-11-2025-csv.zip,25841,5eeb23f8928156f10a05d2b9d35a30f186737071c714cbe70f63af3bc4005599,2026-11-22T21:33:53
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-12-2025-csv.zip,25948,b81c872ef95a1c6fe02a16bdd98ac20f70845063a1688d3a0a6ee2bd12fac60a,2026-11-22T21:34:06
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-2-2025-csv.zip,37515,3c07d2798c32a8cfb4747a8b043e445a27286863fb2ff9082746fb2f06df8811,2026-11-22T20:58:06
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-2-2026-csv.zip,14864,cde7dddc77ff0e9007d2c0e0b55d6f3408f4ddd6f986b561eaad2b6cf290783e,2026-11-22T21:34:24
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-3-2025-csv.zip,60750,014aa12358ef27d3b844649a5f687638e1039fa16662f59ad17dce4fff3e5bd2,2026-11-22T20:58:19
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-3-2026-csv.zip,24752,ed44cb8f2ece2972eb1a24e1aa777a15612a203926c42bdfe404f94f2e420826,2026-11-22T21:34:33
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-4-2025-csv.zip,26160,58d93f5af5bb6fd6d38b354a4d015cc04322b463f282f1c56c8543bfca57e2d3,2026-11-22T21:33:01
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-4-2026-csv.zip,29270,3ea764679acfb8e7bd20a2f47ebaab16f38f5999d8e67b5c4b2233602a0945a8,2026-11-22T21:34:42
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-5-2025-csv.zip,27423,bdfbdf167d376ad37deb75c2d51b76b5a2b024707ddb0a2a2e895c91f3337d7d,2026-11-22T21:33:02
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-5-2026-csv.zip,26621,01d6ce14a7de86c69624f768a068d7fdaf1258f4820d9c645656dc1e865ea12d,2026-11-22T21:35:15
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-6-2025-csv.zip,25655,16eeb2678a6e9dd5bb644f3d65c0305d08e222124e858c747185ff72b11e9e28,2026-11-22T21:33:02
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-6-2026-csv.zip,35156,83933390fc3225fab3f0fb9af9e77560d19a3d0684845051f40fbde225c64390,2026-11-22T21:35:15
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-7-2025-csv.zip,23695,b8f52dad0902dc24d02aa977a7dc21e9eeef24fceae50e6d83a693651f5771f4,2026-11-22T21:33:31
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-7-2026-csv.zip,22893,dd00dc8f29ed9a5cc40ae8a278768ed26ec2170809826637d1fcf3b093a842f4,2026-11-22T21:35:15
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-8-2025-csv.zip,20078,18fba7b02394ceeae6fc3d87604b78dd02fb4eb7f19206175017a7e42ae42266,2026-11-22T21:33:31
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-8-2026-csv.zip,29785,14baf9fe61dd0508907fdfcfba61a37b7db78cb5de73a6441bfbba9887da2622,2026-11-22T21:35:16
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-9-2025-csv.zip,43191,723dfd370db87015d2938f61424ec0d8bf4c95c62d3f1c6f72479ca7e4d19cd1,2026-11-22T21:33:31
+Medicamentos Transparentes,data/raw/transparencia/PI/pi-9-2026-csv.zip,24827,99161d2e7ee18eeb32d4899ef3162a005fb1a69e0ecc901a7d520bb0ce8a5b21,2026-11-22T21:35:16
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-1-2025-csv.zip,152558,953453cb3fd41a9dc8614f16e92bbdda49a9513b77729fa693cf01d6cc955d05,2026-11-22T20:58:06
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-1-2026-csv.zip,161237,2a49beb0308761c74b40a40873a48c63e6292cc8dacbeed64956cd06504b6149,2026-11-22T21:34:15
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-10-2025-csv.zip,288247,8f52ff758e87d188e3d319871725599dabc5d0a9b02abafe7319ffe93712a3c7,2026-11-22T21:33:54
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-11-2025-csv.zip,335592,b9761bf60e8f39c831a283719f0690b856a4d7c00baea85f1b05ccd3e1b1034c,2026-11-22T21:33:54
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-12-2025-csv.zip,294536,38ceed0054ca95f468b5917dcfb94df154100345be08b9de8c85a6da61bb0eaf,2026-11-22T21:34:06
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-2-2025-csv.zip,203234,2ed2a7d02a77b3fcc6538af90aaa85093e62286cab9f8d230e1a10ed4a0cc9a3,2026-11-22T20:58:07
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-2-2026-csv.zip,179152,be3615d29a350dbcbf10b34f3f19a3d969e4e959ee4c3ae5cd955b3bbb532ed8,2026-11-22T21:34:24
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-3-2025-csv.zip,809241,6988df98a61a0505533ad5e07fbd4b11899824b7efcf9c5fedfa0f5c07768d7b,2026-11-22T20:58:19
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-3-2026-csv.zip,242975,4b5f7a0b38462535f73489435979eda69175147090ecfb4a0411f2dde4197969,2026-11-22T21:34:33
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-4-2025-csv.zip,187357,d08f54ad6c093e88318b099f55af387c21defe130689c01f4e2d3990549d8fca,2026-11-22T21:33:02
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-4-2026-csv.zip,252592,22258408433f067c0b1b4e749f51281d8b32d214e551db478a41825701abba70,2026-11-22T21:34:42
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-5-2025-csv.zip,282258,17b43d6271aded8ce419a904343ac8fa598fc0d0083e8e34ed63425b1dbbc5f5,2026-11-22T21:33:03
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-5-2026-csv.zip,217306,f8ff99081cc589d3c1953f61260ab27b480b1e601948ceefd6ffe1869f01b0ab,2026-11-22T21:35:17
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-6-2025-csv.zip,288478,23348c49140c85ca3312b7b21df7a6a66c0b49d9597abbf90782e67e4eb6b210,2026-11-22T21:33:03
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-6-2026-csv.zip,219636,504355e4b8f2ee7757a7b5e3ca2ce3714a1c4876d24b627110a034d8c2047eb9,2026-11-22T21:35:17
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-7-2025-csv.zip,289981,d1ccd08261a658ca1d11101f627bbf96fc1069df1b7992d80385b8427adf7ae3,2026-11-22T21:33:32
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-7-2026-csv.zip,250490,b708aa7f78b4c055d7d2509f3cdbf6360d2fdb7519895bb1ee552499ac9df537,2026-11-22T21:35:18
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-8-2025-csv.zip,278444,05b252c0d357f787a74bbe382ddc5afd80f48381f370dcb766f686eaf7e933fc,2026-11-22T21:33:32
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-8-2026-csv.zip,307955,f4451fa3c539335b659c645f4bfa4c7eb777786bc20608e4b7415f55910eafcd,2026-11-22T21:35:18
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-9-2025-csv.zip,702330,4e7c45c7cee5d2abe4d559629dd0f473104cc0bf28cc8d3884ce5bd810f53d38,2026-11-22T21:33:33
+Medicamentos Transparentes,data/raw/transparencia/PR/pr-9-2026-csv.zip,290751,c06233bf7fa8690fbeacf6218588b56b5ebcca4b58714e76d762a93bd645b49a,2026-11-22T21:35:19
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-1-2025-csv.zip,138580,2af40f48110029a9ccba9eb4a458f8bd4e198e8f27fa0a83212e0eb34607bbb8,2026-11-22T20:58:07
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-1-2026-csv.zip,136717,992dc90532fd45a3b37865d2187d95a7a6abd5d982a5b9a575c03cbeb425e7ab,2026-11-22T21:34:16
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-10-2025-csv.zip,235621,f893b6861245ef2000bee9a61b2912c0f8cc7428740679c81b21551a09e324c5,2026-11-22T21:33:55
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-11-2025-csv.zip,242003,18986b55a73432dac423357651e3dc06b5ad9d4a102670e3f6d18c6c86de35ea,2026-11-22T21:33:55
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-12-2025-csv.zip,229979,590ff3fd6ba0259a07e707fb0cacd646d45fce6f1b49db4d589c3177bf4a7e6a,2026-11-22T21:34:07
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-2-2025-csv.zip,212291,7fcb5f6910c149d1f12973d459328c79250769ca861e472aa27e9e6a95b1cc08,2026-11-22T20:58:08
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-2-2026-csv.zip,103715,e651a5ae54c2bc5cc1f50214c0a1bad2e175502f6f6b52a553b9ec5155770e0f,2026-11-22T21:34:25
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-3-2025-csv.zip,836272,61c550ccf1330e8f93f44639eac12f16a22db57b07dbcce463d374832db91668,2026-11-22T20:58:20
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-3-2026-csv.zip,226513,6900282e4ef2cb29bf84fa055ced53333ce9def285fe84ec6f10331622188303,2026-11-22T21:34:34
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-4-2025-csv.zip,172035,49f906ea94cf6e2b4d861e410f82c1ba2db4ff4d864061120d2a431e28e77753,2026-11-22T21:33:04
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-4-2026-csv.zip,205885,d5485d5cb3df2622836015b55f7465b1df1dfaef553290ca7ee91039ce04ef45,2026-11-22T21:34:43
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-5-2025-csv.zip,221658,055dab47f068555e06295630422836a9c32b0b75b9f3a3055fe1ac36462c7ea9,2026-11-22T21:33:04
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-5-2026-csv.zip,235262,8a6ffc28c8dcc8b0eecbb0f0bd7d5944cf0f3219a04d94ad20cd52d8c49929ba,2026-11-22T21:35:19
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-6-2025-csv.zip,265798,1f896b4430465b61a221ab5c5c43581a26b9b27f24effea36dfb8ad5ff0d1228,2026-11-22T21:33:05
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-6-2026-csv.zip,219327,779bac9b880fa242a599d263f834681e4285557f13d9e4b18d002ec064d7378d,2026-11-22T21:35:20
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-7-2025-csv.zip,182530,9a4f2ab9150da9371514f8834cd7b1e36f8f95f5a8021c5b4c7385f80a96ebce,2026-11-22T21:33:33
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-7-2026-csv.zip,250775,d6a941e494cf071ba54c5b50e7c25140ba707e07167847a2c4da9322000a0456,2026-11-22T21:35:20
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-8-2025-csv.zip,202815,2cb84fbfbf9be4d93947dda1f1c1553fd9890fd50a1001fbd4f58273624c7484,2026-11-22T21:33:34
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-8-2026-csv.zip,249320,c1e6f147f5c8f9deaa0a6491831c28de47192927bce199f66c384aa2d10dc7c8,2026-11-22T21:35:20
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-9-2025-csv.zip,597503,d5202f61b9268e5778f7584578c5bb8a6491664199a1728c90d32a5339e6067f,2026-11-22T21:33:35
+Medicamentos Transparentes,data/raw/transparencia/RJ/rj-9-2026-csv.zip,304748,aa8ec79e54bc14b0506b44e76f83426736ec5a1d44f21b11c1d0a1ebd82d7091,2026-11-22T21:35:21
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-1-2025-csv.zip,51875,b1d997b3dd9fa88b76236ba6a5bda5ed9ffd830b71d919bb6f07a3168ad4ce94,2026-11-22T20:58:08
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-1-2026-csv.zip,41632,34cb731d97626b1eec0821e6c9a57191f6e1f3756f6035ae518ecac60a2c38fa,2026-11-22T21:34:16
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-10-2025-csv.zip,91728,fc8e3f245ae96e5aa5a1ff590a0bacf41057e373cafbff79994f09d23bc6eda8,2026-11-22T21:33:56
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-11-2025-csv.zip,79676,86a016a9020acb6f4b1374298bc9fc173caab7fc8ecfe339dadfebd2deaa00df,2026-11-22T21:33:56
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-12-2025-csv.zip,77537,947186a1e6e84fddd5248d2dee77dd2d24907f7df59aa5570b7f9cfc956626f7,2026-11-22T21:34:07
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-2-2025-csv.zip,74536,13097a52faedfd9d5dcf0b99fd972a7b6bb06486ae428b9da27bf785f24c136b,2026-11-22T20:58:08
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-2-2026-csv.zip,60750,191af232f8fa8a5d9b77b351759854f74df79f0dcfe709f2eb4223ce012fbbf1,2026-11-22T21:34:25
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-3-2025-csv.zip,156130,2ce2f4245c4f77b5975290574a771f195b4c625c9303075c318a1b380fbfc7aa,2026-11-22T20:58:21
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-3-2026-csv.zip,73603,8cad165adf1c97f95e4e1e02e31ca061c493065c0894a1dabd313e6851de86b8,2026-11-22T21:34:34
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-4-2025-csv.zip,72263,202ec88c64e72754f205c05011c8af16e7939aa777ce07242bb3d60d203fa4a5,2026-11-22T21:33:05
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-4-2026-csv.zip,93298,d5c0543722b509365b846365aa73fc2d817a73cf880aea91cbdce43f8163421b,2026-11-22T21:34:43
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-5-2025-csv.zip,94810,fa709f29f6f310329b60aab374c179162e0c6ccb144a28afe18f9bae72b07de0,2026-11-22T21:33:06
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-5-2026-csv.zip,86803,ddba4ca1b62e8a56cd6a90d42a2797c509e196fdd8dc41667ff35c872590d147,2026-11-22T21:35:21
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-6-2025-csv.zip,83583,c4f61bc145756fefa9f630326cc9b08aa8d1cd8bbeb91416836549b65eb6516e,2026-11-22T21:33:06
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-6-2026-csv.zip,81036,271d37889f7a9caf284024220ccac356083d7657bc1326c47cfbaedb51460bab,2026-11-22T21:35:22
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-7-2025-csv.zip,89001,4c1a8534fcfb31ee99bf36fd6732c9ada507f3a367fe0e27e1ec6eb7403ad166,2026-11-22T21:33:35
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-7-2026-csv.zip,93287,bb16bdf851fbb95ee4b70c215ba2d47fb036a834e0a2b920278ed1be7474a770,2026-11-22T21:35:22
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-8-2025-csv.zip,81558,7cb1629440e509fd544ed73cc4b495d05b0a3aca009297919c12611410c4f3ea,2026-11-22T21:33:35
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-8-2026-csv.zip,108134,64551f00a5638ee3c55572db9a4710b5a4c79478386c41c30e9297719a424ed9,2026-11-22T21:35:22
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-9-2025-csv.zip,209389,6f931e00487388b90607f8924d96a081989cbd1ac2ad7ca49e2b023988b2dbb0,2026-11-22T21:33:36
+Medicamentos Transparentes,data/raw/transparencia/RN/rn-9-2026-csv.zip,104851,64566abacede4d38ff8e862c273b5adc9eec5ca8a5e0ca2488030d388f3a564f,2026-11-22T21:35:23
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-1-2025-csv.zip,29902,685ad285530c711ffb2c3cddb73de18c80ea74c9b3865be14dd997fdafea656b,2026-11-22T20:58:09
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-1-2026-csv.zip,39543,b2c452a43137d5058b4efc8e558d7a5ff44eb2a9ac6a7c6e5f175f6fe773fb8f,2026-11-22T21:34:17
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-10-2025-csv.zip,55846,3ae0b2419c524d77fc459f9d3346cff6c96096354a7182a35281cb34905c96a8,2026-11-22T21:33:56
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-11-2025-csv.zip,51888,c06a24e636f38bf0bba3e45e5e3513d11373f760261c94e546cce22ee4b7ec27,2026-11-22T21:33:57
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-12-2025-csv.zip,55146,226df195c0ae4f7f8c11f0cd06684e4d543f597cadeaec1b10aab3c1980bd74b,2026-11-22T21:34:07
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-2-2025-csv.zip,48260,19a4d4a442626cf365a611f391535d11e98907881a6f44bee7ada2987d94918b,2026-11-22T20:58:09
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-2-2026-csv.zip,53637,0e611741ddca2666caf8c541306f00cc0660b0bfe3b62818fa92035d341ec5a4,2026-11-22T21:34:25
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-3-2025-csv.zip,126151,6765b301ef2e436ddad1e6ec71f43dba8dfe0d0efbc6f0065dde53d0436dc140,2026-11-22T20:58:21
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-3-2026-csv.zip,49551,63974465d574dd81469a2ce9099d22cf453513243ba53e9cc2bcdb90a02b0a3b,2026-11-22T21:34:35
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-4-2025-csv.zip,38360,5ab44d345de8e341a2e346ce692ee345fe44e49d7394d5342085b850c1f34903,2026-11-22T21:33:06
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-4-2026-csv.zip,57123,748fed240617a2d9e85572f1c0ee0e8a4b1f56c716fc4a650d1d8443c7d39c1f,2026-11-22T21:34:44
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-5-2025-csv.zip,55563,38581e840d024944651fbd46bef8c3346cdbb33cc54fcad50c37674e6e6d29a9,2026-11-22T21:33:07
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-5-2026-csv.zip,67127,312af0fbac3e60a7d6920543ee48081c5868e9d09c5ff472f03ba040a3d9d7bf,2026-11-22T21:35:23
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-6-2025-csv.zip,68953,b4c92399c59ec65a66b367ba4040812802116074c089c698b86bcaa6d1018143,2026-11-22T21:33:07
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-6-2026-csv.zip,75538,a66fd1b8eba74049a9823741a869b02a78bdb3a7d37505c0ea6e58d758c9cb93,2026-11-22T21:35:24
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-7-2025-csv.zip,35853,fe767183dace2c8689c2bb0112432ee2edb3db368451d5310cd3e697c69631e2,2026-11-22T21:33:36
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-7-2026-csv.zip,76362,08e2230e7c3f4dafb110d96884a780ad47d25fb34b3e8751e25e222d8b04741e,2026-11-22T21:35:24
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-8-2025-csv.zip,49249,ea5acbe8f0a695ba104ad3f8417b4ced84c7e98361a8c55f4ece870b73c6a7c0,2026-11-22T21:33:37
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-8-2026-csv.zip,55793,ee687e3a7a1c6df95bb09087d0e25cffa58400d2077dbd30fbb3ea21efe5623f,2026-11-22T21:35:24
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-9-2025-csv.zip,133120,f4890e8bb76cd77b74e45da1dacbfe94da3ec0b5717d0201368473b0c2217431,2026-11-22T21:33:37
+Medicamentos Transparentes,data/raw/transparencia/RO/ro-9-2026-csv.zip,56394,71c404ecd056ee54650d96609d25349e1ac37dfda194921f8783183a9ed1989b,2026-11-22T21:35:25
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-1-2025-csv.zip,16051,f9fa731363d4c99b3bc703e2f87bf860540099a118eaf950ee6e3bb6dc7a3fcc,2026-11-22T20:58:09
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-1-2026-csv.zip,14248,2de3024c204ad3ecde18812ee6269a782c33ddde8df0a13704c12597d84e1fdf,2026-11-22T21:34:17
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-10-2025-csv.zip,23945,c686521cb7418d65716bb2c8cd025fdfe7f91866f3a6359cf04f1ab9d0a5759a,2026-11-22T21:33:57
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-11-2025-csv.zip,20824,008a96e6a88bdb0cf735a288be885207594a68ce2ae84224bdcb58f56fdb80a3,2026-11-22T21:33:57
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-12-2025-csv.zip,16398,8d21eb5dbd8114767b55d243102e9e96dd6ef7e487a0e69256b322dfdc2ba495,2026-11-22T21:34:08
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-2-2025-csv.zip,15125,86b6e9fbe124aa870fddebddadb155471095661d8d1ce6304a2c6d1869193b1c,2026-11-22T20:58:10
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-2-2026-csv.zip,10634,36a72cb63864e1d230a9e8b6b9705e889bbb88a0b45f1b95807479ba2652998e,2026-11-22T21:34:25
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-3-2025-csv.zip,46746,11146b7ee4636469fd7241c67a1ac8d795e23f4144d182f8d3e76e4f21dbd1e3,2026-11-22T20:58:21
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-3-2026-csv.zip,17734,9f9461599a9cbaef31b412198205e37cb865413c435405a9ebfe3ae1b96a62df,2026-11-22T21:34:35
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-4-2025-csv.zip,11976,a04beb58a54742aa5562223b4fe9bb3f88903b94d47668de9534b2ab76aef8b8,2026-11-22T21:33:07
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-4-2026-csv.zip,17636,35c07eff4e490bab9de9e78efe05c7bdb03a5400a8c8ec9bee86d7e22002dad5,2026-11-22T21:34:44
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-5-2025-csv.zip,29728,761d33973c8157b16b8eba4e4959c1db1fa8d2b07894e62125c3293adfa10c08,2026-11-22T21:33:08
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-5-2026-csv.zip,13812,ac3418f0eca57281fd8cf37a9e42bba303443540daf32ad361d9905cda2414e2,2026-11-22T21:35:25
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-6-2025-csv.zip,15781,4c84c8a7f64b4956bedf7bccaeb01ca622f9485f256781ae662fe6a4b2cf8c46,2026-11-22T21:33:08
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-6-2026-csv.zip,7998,39b00b766227e865078434227b5b77c9d080500a6f12afa42b97bc8091b6f612,2026-11-22T21:35:25
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-7-2025-csv.zip,16071,b6c72e93928675da8331cfce7fd346630dd12ccab0e4b654caf7b4421a064b63,2026-11-22T21:33:37
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-7-2026-csv.zip,14047,defbfd84f061727e8c3455d0f2a804d8d5761b19dcc020e31ba80d02a198bad2,2026-11-22T21:35:26
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-8-2025-csv.zip,8370,67e69593881ef986e457e80f4adbb90518e3d36c0fd9fcb40ff3e1b9d774e527,2026-11-22T21:33:38
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-8-2026-csv.zip,15303,145e0a270bc379e07cd10b6904df7c6380e644f3550561b29e80914f12e99e2f,2026-11-22T21:35:26
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-9-2025-csv.zip,52216,ca7fb7dbad7bfe4eec6e2e5b95c52648f22e2cbc6d9326f4721b2a99902394c5,2026-11-22T21:33:38
+Medicamentos Transparentes,data/raw/transparencia/RR/rr-9-2026-csv.zip,13882,989892acecf2a5d8543895327a22cda3e3573e70026a160d11c7022053de5a27,2026-11-22T21:35:26
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-1-2025-csv.zip,160653,f5617e0332edf17c4c859fb0b2904ef7387f9aee7f81446ee0fdf38de0fd3b4c,2026-11-22T20:58:10
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-1-2026-csv.zip,171410,7c4c4c611418fbdf4facf9caf7d1ea34b516ccf7d00ddabee48b0ebd4051d870,2026-11-22T21:34:17
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-10-2025-csv.zip,343963,ddc39a8240896ba5fffe1312378a386a3016d773a9b80a6f19646b445cb649a3,2026-11-22T21:33:58
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-11-2025-csv.zip,342826,7fd053646a06e878ac5a6cdcfc09c504d074e60bd06b874a5c26ed6800cb3d9f,2026-11-22T21:33:59
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-12-2025-csv.zip,250288,6b62385d49d6565d1f7c6ecce3db50c11a9c6387c910ce740e2377721ce8628a,2026-11-22T21:34:08
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-2-2025-csv.zip,226923,f1741b077dd5122625bd20fa2db39184b5e4a98a886c011f41a6e5a1fd07f2c2,2026-11-22T20:58:11
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-2-2026-csv.zip,190201,52780c0d74a8d0cee8dda60d3409e98e1ed4efd6f577f039204d06d7cf0f30d1,2026-11-22T21:34:26
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-3-2025-csv.zip,490145,c6f588005634a8c4f1fd9308d611939e182df8a0aaeababc66e5118adb84c268,2026-11-22T20:58:22
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-3-2026-csv.zip,275061,f301c896b495db46dea94d4bc8f55f0ef2ca399b221e7c5a549302863fcea649,2026-11-22T21:34:35
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-4-2025-csv.zip,238130,b1d6e6a5a4acb2a1eef62319ff8d88c2f784dc6136c8bdbda3db9879c83011fd,2026-11-22T21:33:09
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-4-2026-csv.zip,387043,020f295a5aa0514f2252a0f93526c3bde72cdf2664f4b16028e825108da0c4a1,2026-11-22T21:34:44
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-5-2025-csv.zip,299732,fc6d2ae7846cc77aa5f0b6638135dcb9a3f64fc10864965dac3c343c36a39a9c,2026-11-22T21:33:09
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-5-2026-csv.zip,317997,6bc5efbb135e9619e4137de53a2c112a4f3f3602aeec00c38efaf231c4b31185,2026-11-22T21:35:27
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-6-2025-csv.zip,327321,6eae1f5d5ab03d88ae3ef36d72a9ae7722d63b582b96a2200b13a65a5bd9da77,2026-11-22T21:33:10
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-6-2026-csv.zip,295100,a51a85953c3403eac00c2cb315c20f63870ebac3afd8a909a67eaf7f8d63eafa,2026-11-22T21:35:27
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-7-2025-csv.zip,277576,d637ae85b4043de3ca765db2e2e196e9324f191edc915de76889941d5623db12,2026-11-22T21:33:39
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-7-2026-csv.zip,377407,177214dce73eb506585de98f6b4cf7638ff8141f7cbc8fabfd286e54546a5a4e,2026-11-22T21:35:28
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-8-2025-csv.zip,291521,4ba8df6bb5863423c45f4b2ee7c594d6605693fc5a094f4fdfff7a1e8f29f61a,2026-11-22T21:33:39
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-8-2026-csv.zip,361330,2f025bac46cf88b3bf75f32fe158274d5336d4ddb2690c714f1c63158651047f,2026-11-22T21:35:28
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-9-2025-csv.zip,555145,ccf06fc77d58acde5ad40039d680351ca6228f0700103c77ced17ac3ccf2089d,2026-11-22T21:33:40
+Medicamentos Transparentes,data/raw/transparencia/RS/rs-9-2026-csv.zip,329517,52e106a8a747cb4b00ac2c0deae7bb6916b1e264671249cddfc01dd43d21e659,2026-11-22T21:35:29
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-1-2025-csv.zip,54099,fd03f665ea8baa97c4d22effa4ea6b0def22896786c21dfed77620579b66a44a,2026-11-22T20:58:11
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-1-2026-csv.zip,31125,b395eb2e2b06798a2a5c014bae25057b62ea5c20647e74bd41eebf32f7c199ab,2026-11-22T21:34:18
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-10-2025-csv.zip,78100,7542e045878724b1a49a44cf331645946e2c97710c3d9bc4795d66b0c79b07fc,2026-11-22T21:33:59
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-11-2025-csv.zip,82419,5bf50af8ccd97b7a0c7a6231a22420943a7e1570789187fc76544d15ab126e55,2026-11-22T21:33:59
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-12-2025-csv.zip,75780,67f8cc84cfa9a6ef5108f18197a576080aa634017cae4604ca5caaacfa048922,2026-11-22T21:34:09
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-2-2025-csv.zip,67310,0caa3c62d6c848d738b5b594151f2eb19d56c86794a30a58b8a90259be8c1479,2026-11-22T20:58:11
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-2-2026-csv.zip,47217,0af21151f488f6f1065fc5b4302c086f895186ad8d9d5739a357799c87b0db5d,2026-11-22T21:34:26
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-3-2025-csv.zip,161965,69a0c808d1701002ece2297bbbecf5d7c22a309af3490962fb8e667b533bf7d1,2026-11-22T20:58:22
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-3-2026-csv.zip,78353,fa226070cf5d8ad3ff76ba3a34c1499ec084f6d33309ce72527816605a6c2ea0,2026-11-22T21:34:36
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-4-2025-csv.zip,74844,533ad80d5b5455274dd362e8140351edce6e10729d26e197c400ef834fe7d547,2026-11-22T21:33:10
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-4-2026-csv.zip,59683,7a6c71a0f4f80dc984a9c1a838a54d6973c0a7833522f5930d440bd17a26eb57,2026-11-22T21:34:45
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-5-2025-csv.zip,93054,b91aad27eb2ce8712594b44ecae9dbf39d3a097a978bf6d6295f8371b507bb97,2026-11-22T21:33:11
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-5-2026-csv.zip,76581,a081c025acb7be5fd56199f489f983dc2afdb63f971c844c7b0f61c1cbf34448,2026-11-22T21:35:29
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-6-2025-csv.zip,89602,50d41edcb3301cf0f1b99618e197fe3d97a11fa3d9ff1555fef656dcca4ace7c,2026-11-22T21:33:11
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-6-2026-csv.zip,89916,2da55134c461337e61abf3dea8f5414a24d396c4fae2d8eb7df8c3d75d79562b,2026-11-22T21:35:51
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-7-2025-csv.zip,77357,55ca2bc114efab4e4b770ac2b167277e30a075aa1f880cc6d5ed7cf9a76f4b79,2026-11-22T21:35:34
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-7-2026-csv.zip,74814,295b0bcf368e3b67d0cdd2b1a2743307044a260c37f4352099a47e8b21c9efe0,2026-11-22T21:35:51
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-8-2025-csv.zip,84469,3bf9426cdc9729c418b097f53a5d22d8ab4da61571ff40cf5e99d4899c826cfa,2026-11-22T21:35:34
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-8-2026-csv.zip,72845,bf8b671ef9c192de82299b77d36575e14050cb3526df7a568e9b8cce3a7573ca,2026-11-22T21:35:52
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-9-2025-csv.zip,174856,650ff592c7867a1d0e69515e3120aceb19494af2764d8b8e4e587872b2585bfe,2026-11-22T21:35:35
+Medicamentos Transparentes,data/raw/transparencia/SC/sc-9-2026-csv.zip,80192,993cc2131c7787ea8e8ef79fb1613173fa39d31decace3ea6ed9cd94573db0fb,2026-11-22T21:35:52
+Medicamentos Transparentes,data/raw/transparencia/SE/se-1-2025-csv.zip,39082,faad2a83f9b28a11b24ffd285ed9cb66353c9405513f738c522e9dff7c188507,2026-11-22T20:59:19
+Medicamentos Transparentes,data/raw/transparencia/SE/se-1-2026-csv.zip,56944,55a4fe865015d68a4b19b281f3728958edab38911b37721ad63bcbcfbbde3d71,2026-11-22T21:35:46
+Medicamentos Transparentes,data/raw/transparencia/SE/se-10-2025-csv.zip,79359,1dd0a0c3caa7838c005542193de34c6c5bf03da195088d71df5b15e33b66f47a,2026-11-22T21:35:40
+Medicamentos Transparentes,data/raw/transparencia/SE/se-11-2025-csv.zip,67401,d8769d92973e17a7eaff7c58599bcecfefd55a8ca7277912400592245eb839ce,2026-11-22T21:35:41
+Medicamentos Transparentes,data/raw/transparencia/SE/se-12-2025-csv.zip,62585,3ec52a2fa91d1c82df290b47f31fb3c30c1397980f310923878cd10be337eb4d,2026-11-22T21:35:44
+Medicamentos Transparentes,data/raw/transparencia/SE/se-2-2025-csv.zip,40687,a96c548d70588ba85c667a9f8758ab3c68d76b5447fe5b684b5ac14157588226,2026-11-22T20:59:19
+Medicamentos Transparentes,data/raw/transparencia/SE/se-2-2026-csv.zip,46012,902d9fb80ce910e411638a970abd44f119d60a6243713d3648059f32d945c9cb,2026-11-22T21:35:47
+Medicamentos Transparentes,data/raw/transparencia/SE/se-3-2025-csv.zip,119889,3f970e7a1fdd6ff8d43d4a4cdaf170e658940b0c83a67dc8099e864809158c75,2026-11-22T20:59:22
+Medicamentos Transparentes,data/raw/transparencia/SE/se-3-2026-csv.zip,52211,085fb59df60cc29ea5ba35c281ecde275b93145ff6d555debfaf50d2db03a868,2026-11-22T21:35:48
+Medicamentos Transparentes,data/raw/transparencia/SE/se-4-2025-csv.zip,64847,c44c08a98faba5d824088515fe29f451fe37ea977f67ea660d792a5adbe81868,2026-11-22T21:35:30
+Medicamentos Transparentes,data/raw/transparencia/SE/se-4-2026-csv.zip,71315,a8511cf884a98cd5cb1fcd248180870a99d7455d7dc033731ed1821f38993b82,2026-11-22T21:35:49
+Medicamentos Transparentes,data/raw/transparencia/SE/se-5-2025-csv.zip,59533,bd3631ef6973101a69232e7a511cd2a96f1edac4cc13a6855681f710163d46b3,2026-11-22T21:35:30
+Medicamentos Transparentes,data/raw/transparencia/SE/se-5-2026-csv.zip,58115,5a30739456055631dcaba912438293b15554bff1f9bafda6409c85c0a99b61a9,2026-11-22T21:35:52
+Medicamentos Transparentes,data/raw/transparencia/SE/se-6-2025-csv.zip,64250,60315b720ab20fa7dcd36ab0f785a381f510ab924c8db74db860f8fa0f8ff12d,2026-11-22T21:35:30
+Medicamentos Transparentes,data/raw/transparencia/SE/se-6-2026-csv.zip,61520,7aed3de8d5ba7131f1166037a48129f4c893b980d7c2fdc3b85b69d3a1ffae46,2026-11-22T21:35:53
+Medicamentos Transparentes,data/raw/transparencia/SE/se-7-2025-csv.zip,74368,9ed1c635c83036ed13cf835209baccde0b56b74b18e21289ac669f378479a2a1,2026-11-22T21:35:35
+Medicamentos Transparentes,data/raw/transparencia/SE/se-7-2026-csv.zip,67835,62dc43d12b676af22044fc649af7dc15cb43d11f14edd151b1510f9eb61f79e8,2026-11-22T21:35:53
+Medicamentos Transparentes,data/raw/transparencia/SE/se-8-2025-csv.zip,64293,86888a20cfef23039e13e3d9e7a7665cc89daf129048cdbceb2f68068c56dd46,2026-11-22T21:35:36
+Medicamentos Transparentes,data/raw/transparencia/SE/se-8-2026-csv.zip,72324,f7b193b6020a8a78e40809e464b6263ad316dd79e4ba669c68b90d20809a55af,2026-11-22T21:35:54
+Medicamentos Transparentes,data/raw/transparencia/SE/se-9-2025-csv.zip,115281,e235da21208666b2dcb46ac760e3bae10e6e58051043708c9b0def404908c7d6,2026-11-22T21:35:36
+Medicamentos Transparentes,data/raw/transparencia/SE/se-9-2026-csv.zip,68586,8743f6ec432cf6652c00dc32d6d5e37723ff1fa55fefddb55f775e7aee9d1254,2026-11-22T21:35:54
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-1-2025-csv.zip,700538,b53ba4953be5eed21485d524b86afc5367aa00a298b4e0831fa19b0c10c5f80b,2026-11-22T20:59:20
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-1-2026-csv.zip,568507,66ca5454b32039fcded1805416d1e98c44db2b1f3626c8eb88b5c40fb2764123,2026-11-22T21:35:46
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-10-2025-csv.zip,1296548,4ab145ee3d33cd59bb0d42ac304c617eaea48e077c5c82d3993a45fe285e090b,2026-11-22T21:35:42
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-11-2025-csv.zip,1078802,97e2eebcf7f666849d0ae5d343063cdd594ac8bc5acb438b1895b80d6078a136,2026-11-22T21:35:43
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-12-2025-csv.zip,1239752,d7deb0c3ecbc14e81552eb702e4546afdc73624d3dbf07d38e34aa0c0d8120da,2026-11-22T21:35:44
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-2-2025-csv.zip,991849,493e1bd72f0b4bb62af1118dbec87b6acd55af6b7e8f9470845a6379b3f068ba,2026-11-22T20:59:21
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-2-2026-csv.zip,687775,c515749548c005754ffebcbb3869f837e52da2a93af3ee0defd8b781811cebf5,2026-11-22T21:35:47
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-3-2025-csv.zip,2453935,4fa09cc67140ee4fc6bfd09d05cfe61a0045e8208615e20de967afb2295ab856,2026-11-22T21:04:37
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-3-2026-csv.zip,1129909,804bd5b63c9b0e54f7a59546341b1c7ec04cd49ea426695982fbb5a5c4068560,2026-11-22T21:35:49
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-4-2025-csv.zip,1079770,09f58783df06fa8bc33492704f07dbbdbe90bb74b4b0041a6d30493b43f98b74,2026-11-22T21:35:31
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-4-2026-csv.zip,1065180,ffa1709049a9d1961e92f3a6a1f8f90a02a6f3617455efeb18d113680d324750,2026-11-22T21:35:50
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-5-2025-csv.zip,1180305,5ff7f348b52e046e11c33dd928f7f203c0ab88f37dc61c119486d0afe4e4ebe7,2026-11-22T21:35:32
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-5-2026-csv.zip,1056885,604fd422f4642c87c80fa93f5c59b02c597fce8c656f3d2698923da5e852863e,2026-11-22T21:35:55
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-6-2025-csv.zip,1254272,c7f8ea6d447b8d2fbb549eb4cbd83848b072ae642f64d6e469409f32fecddd01,2026-11-22T21:35:33
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-6-2026-csv.zip,1075099,f720fecf0ffbf14cb90b767d6842c4167a1b2e8cca48190eb53bdb1c5bb409ce,2026-11-22T21:35:55
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-7-2025-csv.zip,1053534,a3d7bf828af58368cb29eaa227935f09a816e09161ee65320ef96a5d4d7ce11a,2026-11-22T21:35:37
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-7-2026-csv.zip,1203705,e6d633a5ab9fb9dd383527a4d1955101e2492f2890d9399c324dbf66266c31bb,2026-11-22T21:35:56
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-8-2025-csv.zip,1185611,6e1827fa9654aaa2c1a4982a75e6326e2ebf8d05c61a7c20abd83c0e9e791062,2026-11-22T21:35:38
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-8-2026-csv.zip,1274595,9db3ee931802ba54b45a0eda87562203a650a75d76b45885ccb05217d3650719,2026-11-22T21:35:57
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-9-2025-csv.zip,2582171,4a8e49e08e0dedea7f8b3225682f12f93bf15e674697751aa37c54e035f920f8,2026-11-22T21:35:39
+Medicamentos Transparentes,data/raw/transparencia/SP/sp-9-2026-csv.zip,1210790,9149a868a85ff000c6364df0dd241461db74765fbb1ea8a0828b1a7a6cc33990,2026-11-22T21:35:57
+Medicamentos Transparentes,data/raw/transparencia/TO/to-1-2025-csv.zip,25500,551cb1578c0c44d6bf5a20fd44594b0081ad3a2cbd4d0f0e0ceac87812b7bd7f,2026-11-22T20:59:21
+Medicamentos Transparentes,data/raw/transparencia/TO/to-1-2026-csv.zip,22486,99c90079928f583cf95f9feaf3d15642de1a8dea4860b6cfa0f4cecfef6a7082,2026-11-22T21:35:46
+Medicamentos Transparentes,data/raw/transparencia/TO/to-10-2025-csv.zip,55950,cdabd6c014b49b09d996d384cc7eff34459218f9a0f267e071ffa59ed827e517,2026-11-22T21:35:43
+Medicamentos Transparentes,data/raw/transparencia/TO/to-11-2025-csv.zip,33807,db20c03f08d674949abed117b7ed948840348cf24796b02276587e65a2bffa79,2026-11-22T21:35:43
+Medicamentos Transparentes,data/raw/transparencia/TO/to-12-2025-csv.zip,45247,2edae0cfafced7a57e527f556d04afa07ee7672a24535e6931236b42adf21b3e,2026-11-22T21:35:45
+Medicamentos Transparentes,data/raw/transparencia/TO/to-2-2025-csv.zip,37696,d599642477de2d9597128bfbe2985bd42f02cafcf31bf8eaac46c85ac8565076,2026-11-22T20:59:21
+Medicamentos Transparentes,data/raw/transparencia/TO/to-2-2026-csv.zip,24751,daf89e909e3718ce6bc26e514d0a9014ce4e4dbea3f68a3255c951ba780c434f,2026-11-22T21:35:48
+Medicamentos Transparentes,data/raw/transparencia/TO/to-3-2025-csv.zip,89678,b5f6381d438299b872db9d4a47abe046c7056a4a253bddf90b007e07dd1b9667,2026-11-22T21:04:24
+Medicamentos Transparentes,data/raw/transparencia/TO/to-3-2026-csv.zip,31457,49defcfa1b1821edc4c9b329447b1555e5b187349a2e97e99071e84980b6bf3c,2026-11-22T21:35:49
+Medicamentos Transparentes,data/raw/transparencia/TO/to-4-2025-csv.zip,32715,883082a795a2c213e5e351f4369dfd0b798d7bb804d1e2218f741ed3974cdb4c,2026-11-22T21:35:33
+Medicamentos Transparentes,data/raw/transparencia/TO/to-4-2026-csv.zip,51800,511fe00b78b1d46cf6c9d2a12e796717aa1170d9fde16b66a7b552337070513f,2026-11-22T21:35:51
+Medicamentos Transparentes,data/raw/transparencia/TO/to-5-2025-csv.zip,49230,20835da055d5c50f0782c310ebc3186865c21a3a1d8abc9fe666d5819952b3f5,2026-11-22T21:35:33
+Medicamentos Transparentes,data/raw/transparencia/TO/to-5-2026-csv.zip,40365,50d35432a4ec4c0aca0b1a4f4d7fa22d436d30dc24e3ae0325b995f45746deac,2026-11-22T21:35:58
+Medicamentos Transparentes,data/raw/transparencia/TO/to-6-2025-csv.zip,49995,45e9d6151cf1c0c534d99a5c9d7576dc086ac97da2cbac6f4079dfb1f056b23d,2026-11-22T21:35:34
+Medicamentos Transparentes,data/raw/transparencia/TO/to-6-2026-csv.zip,33854,22a447f7c502fbd5d29437214f5a43323457fde99968dac1397b80a8ca4fb7c8,2026-11-22T21:35:58
+Medicamentos Transparentes,data/raw/transparencia/TO/to-7-2025-csv.zip,49475,a4e9bcf086cc61fbef478194926f4297137213ec64d80588ac6899738b3362ff,2026-11-22T21:35:39
+Medicamentos Transparentes,data/raw/transparencia/TO/to-7-2026-csv.zip,33580,19ec178c80d797531f05c3d0ac2824f1693fb4902c288593eff198f246d11efd,2026-11-22T21:35:59
+Medicamentos Transparentes,data/raw/transparencia/TO/to-8-2025-csv.zip,47654,5c7531a8a03ea8a91264f7b74e7c7dabf7a2e08aac578a8d116a9d7ad235ad16,2026-11-22T21:35:40
+Medicamentos Transparentes,data/raw/transparencia/TO/to-8-2026-csv.zip,44839,8ad6b18a8321a2966b950d1f08313647788dde4cd78f7898f8034c57b35713cb,2026-11-22T21:35:59
+Medicamentos Transparentes,data/raw/transparencia/TO/to-9-2025-csv.zip,97815,40cd123bbec0fc21b6cc16260cb4129c4a307607bb197fe76b88bc806ebaad56,2026-11-22T21:35:40
+Medicamentos Transparentes,data/raw/transparencia/TO/to-9-2026-csv.zip,41463,2ebe2c47b37ec3bf8869c2ab6dc38afb2d2db822db917756d510b91eaa2f0c43,2026-11-22T21:35:59
+Medicamentos Transparentes,data/raw/transparencia/available_values.json,166,7c6f8d01cce0fb9e7cf3300bb28c8197b163445e13e973dd0e93f46c76605cb5,2026-11-22T20:56:08
+Medicamentos Transparentes,data/raw/transparencia/bulk_download.out,130,e77b7c80d397b59a4e782a1ccbe7716a61b802ee0f213de2eafebabc5eff9da2,2026-11-22T20:55:52
+Medicamentos Transparentes,data/raw/transparencia/dados-abertos.html,43060,4665d872ab03106365f33af58c3b027cc68cf941c37918f83b460de538eb693e,2026-11-22T20:55:31
+Medicamentos Transparentes,data/raw/transparencia/download_all_csv.log,76578,4323e6808ba178ded96c654debae6647475b69c8182d9c142bd0f783f8908acc,2026-11-22T21:35:59
+Medicamentos Transparentes,data/raw/transparencia/listing_all.json,563713,a2e967ed5a8fa8194686f341f4cef926ad6a926b5032333659125095d6e012da,2026-11-22T20:56:34
+Medicamentos Transparentes,data/raw/transparencia/listing_merged.json,656888,e9bc3306a2bf3d4b331db9a6e87056b810fe1f7d0612731280ccc06a5cac32c7,2026-11-22T20:56:54
+Medicamentos Transparentes,data/raw/transparencia/listing_merged_v2.json,656888,e9bc3306a2bf3d4b331db9a6e87056b810fe1f7d0612731280ccc06a5cac32c7,2026-11-22T21:32:41
+Medicamentos Transparentes,data/raw/transparencia/listing_p2.json,80123,825c3303c5f58c92132d3a2d31bb2bbd174906544d2d92e29d956153dd8e2571,2026-11-22T20:56:54
+Medicamentos Transparentes,data/raw/transparencia/listing_v2_0.json,563713,a2e967ed5a8fa8194686f341f4cef926ad6a926b5032333659125095d6e012da,2026-11-22T21:32:40
+Medicamentos Transparentes,data/raw/transparencia/listing_v2_500.json,80123,825c3303c5f58c92132d3a2d31bb2bbd174906544d2d92e29d956153dd8e2571,2026-11-22T21:32:40
+Medicamentos Transparentes,data/raw/transparencia/openapi.json,16,bb2fb7b51f18478e3ccde6376dc39285b20472f0394e7034fd2e0bdf6a5716e2,2026-11-22T20:55:53
+Medicamentos Transparentes,data/raw/transparencia/page.js,18657,48b6c19dd27855bf5e2a94855ca026854100958b5f70bcc13751ef8416acbdc9,2026-11-22T20:55:59

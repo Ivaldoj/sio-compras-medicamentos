@@ -1,0 +1,135 @@
+base,tabela,escopo,coluna,registros,pct_preenchido,distintos,exemplo
+Medicamentos Transparentes,awards,PB,ocid,5182,100.0,993,ocds-ye9ov3-8761140000194_2024_67
+Medicamentos Transparentes,awards,PB,id,5182,100.0,993,08761140000194-1-000067/2024
+Medicamentos Transparentes,awards,PB,awards/id,5182,100.0,20,1
+Medicamentos Transparentes,awards,PB,awards/title,5182,100.0,967,Edital - 19.000.000132.2024
+Medicamentos Transparentes,awards,PB,awards/description,5182,100.0,921,REGISTRO DE PREÇO PARA AQUISIÇÃO DE MEDICAMENTOS HEMATOLÓGICOS.
+Medicamentos Transparentes,awards,PB,awards/date,5182,100.0,464,2024-11-18T03:00:00Z
+Medicamentos Transparentes,awards,PB,awards/hasSubcontracting,5182,100.0,1,False
+Medicamentos Transparentes,awards,PB,awards/value/amount,5182,100.0,2814,24336.0
+Medicamentos Transparentes,awards,PB,awards/value/currency,5182,100.0,1,BRL
+Medicamentos Transparentes,awa_items,PB,ocid,5182,100.0,993,ocds-ye9ov3-8761140000194_2024_67
+Medicamentos Transparentes,awa_items,PB,id,5182,100.0,993,08761140000194-1-000067/2024
+Medicamentos Transparentes,awa_items,PB,awards/id,5182,100.0,20,1
+Medicamentos Transparentes,awa_items,PB,awards/items/id,5182,100.0,206,1
+Medicamentos Transparentes,awa_items,PB,awards/items/description,5182,100.0,2666,"ANAGRELIDA 0,5 mg cápsula."
+Medicamentos Transparentes,awa_items,PB,awards/items/status,5182,100.0,2,Informado
+Medicamentos Transparentes,awa_items,PB,awards/items/quantity,5182,100.0,886,720
+Medicamentos Transparentes,awa_items,PB,awards/items/unit/name,5182,100.0,265,Cap
+Medicamentos Transparentes,awa_items,PB,awards/items/unit/value/amount,5182,100.0,1565,33.8
+Medicamentos Transparentes,awa_items,PB,awards/items/unit/value/currency,5182,100.0,1,BRL
+Medicamentos Transparentes,awa_items,PB,awards/items/relatedLot,5182,100.0,206,lot-1
+Medicamentos Transparentes,awa_items,PB,awards/items/statusDetails,5182,0.44,7," Considerando o exposto pela Comissão de Contratos através do despacho PBS-DES-2025/28679, para fins de convocação de re"
+Medicamentos Transparentes,awa_suppliers,PB,ocid,5182,100.0,993,ocds-ye9ov3-8761140000194_2024_67
+Medicamentos Transparentes,awa_suppliers,PB,id,5182,100.0,993,08761140000194-1-000067/2024
+Medicamentos Transparentes,awa_suppliers,PB,awards/id,5182,100.0,20,1
+Medicamentos Transparentes,awa_suppliers,PB,awards/suppliers/id,5182,100.0,559,BR-CNPJ-30553793000137
+Medicamentos Transparentes,awa_suppliers,PB,awards/suppliers/name,5182,100.0,601,JASMED DISTRIBUIDORA DE MEDICAMENTOS LTDA
+Medicamentos Transparentes,parties,PB,ocid,5009,100.0,1883,ocds-ye9ov3-8761140000194_2024_54
+Medicamentos Transparentes,parties,PB,id,5009,100.0,1883,08761140000194-1-000054/2024
+Medicamentos Transparentes,parties,PB,parties/id,5009,100.0,831,BR-CNPJ-8761140000194
+Medicamentos Transparentes,parties,PB,parties/name,5009,100.0,868,SECRETARIA DE ESTADO DA ADMINISTRACAO
+Medicamentos Transparentes,parties,PB,parties/identifier/id,5009,100.0,831,8761140000194
+Medicamentos Transparentes,parties,PB,parties/identifier/scheme,5009,100.0,1,BR-CNPJ
+Medicamentos Transparentes,parties,PB,parties/identifier/legalName,5009,100.0,868,SECRETARIA DE ESTADO DA ADMINISTRACAO
+Medicamentos Transparentes,parties,PB,parties/address/region,5009,47.25,1,Paraíba
+Medicamentos Transparentes,parties,PB,parties/address/locality,5009,47.25,196,João Pessoa
+Medicamentos Transparentes,parties,PB,parties/roles,5009,100.0,2,buyer;procuringEntity
+Medicamentos Transparentes,parties,PB,parties/address/countryName,5009,52.75,1,BRA
+Medicamentos Transparentes,parties,PB,parties/details/scale,5009,51.57,3,small
+Medicamentos Transparentes,par_additionalIdentifiers,PB,ocid,2367,100.0,1883,ocds-ye9ov3-8761140000194_2024_54
+Medicamentos Transparentes,par_additionalIdentifiers,PB,id,2367,100.0,1883,08761140000194-1-000054/2024
+Medicamentos Transparentes,par_additionalIdentifiers,PB,parties/id,2367,100.0,272,BR-CNPJ-8761140000194
+Medicamentos Transparentes,par_additionalIdentifiers,PB,parties/additionalIdentifiers/id,2367,100.0,235,19101
+Medicamentos Transparentes,par_additionalIdentifiers,PB,parties/additionalIdentifiers/legalName,2367,100.0,359,SECRETARIA DE ESTADO DA ADMINISTRACAO
+Medicamentos Transparentes,par_det_classifications,PB,ocid,10083,100.0,1883,ocds-ye9ov3-8761140000194_2024_54
+Medicamentos Transparentes,par_det_classifications,PB,id,10083,100.0,1883,08761140000194-1-000054/2024
+Medicamentos Transparentes,par_det_classifications,PB,parties/id,10083,100.0,831,BR-CNPJ-8761140000194
+Medicamentos Transparentes,par_det_classifications,PB,parties/details/classifications/id,10083,96.13,18,BRA-ESFERA-E
+Medicamentos Transparentes,par_det_classifications,PB,parties/details/classifications/scheme,10083,100.0,5,BRA-ESFERA
+Medicamentos Transparentes,par_det_classifications,PB,parties/details/classifications/description,10083,73.8,15,Estadual
+Medicamentos Transparentes,releases,PB,ocid,2367,100.0,1883,ocds-ye9ov3-8761140000194_2024_54
+Medicamentos Transparentes,releases,PB,id,2367,100.0,1883,08761140000194-1-000054/2024
+Medicamentos Transparentes,releases,PB,date,2367,100.0,1883,2024-09-13T11:14:38Z
+Medicamentos Transparentes,releases,PB,tag,2367,100.0,1,tender;award
+Medicamentos Transparentes,releases,PB,initiationType,2367,100.0,1,tender
+Medicamentos Transparentes,releases,PB,buyer/id,2367,100.0,272,BR-CNPJ-8761140000194
+Medicamentos Transparentes,releases,PB,buyer/name,2367,100.0,267,SECRETARIA DE ESTADO DA ADMINISTRACAO
+Medicamentos Transparentes,releases,PB,language,2367,100.0,1,pt
+Medicamentos Transparentes,releases,PB,tender/id,2367,100.0,1776,19.000.000125.2024
+Medicamentos Transparentes,releases,PB,tender/title,2367,100.0,1785,Edital - 19.000.000125.2024
+Medicamentos Transparentes,releases,PB,tender/description,2367,100.0,1624,REGISTRO DE PREÇOS PARA AQUISIÇÃO DE ANTISSÉPTICOS
+Medicamentos Transparentes,releases,PB,tender/procuringEntity/id,2367,100.0,272,BR-CNPJ-8761140000194
+Medicamentos Transparentes,releases,PB,tender/procuringEntity/name,2367,100.0,267,SECRETARIA DE ESTADO DA ADMINISTRACAO
+Medicamentos Transparentes,releases,PB,tender/value/amount,2367,100.0,1654,3355070.31
+Medicamentos Transparentes,releases,PB,tender/value/currency,2367,100.0,1,BRL
+Medicamentos Transparentes,releases,PB,tender/procurementMethod,2367,100.0,4,open
+Medicamentos Transparentes,releases,PB,tender/procurementMethodDetails,2367,100.0,14,tipoInstrumentoConvocatorioCodigo: 1; tipoInstrumentoConvocatorioNome: Edital; modalidadeId: 6; modalidadeNome: Pregão -
+Medicamentos Transparentes,releases,PB,tender/procurementMethodRationale,2367,100.0,22,"amparoLegalCodigo: 1; amparoLegalNome: Lei 14.133/2021, Art. 28, I; amparoLegalDescricao: pregão: modalidade de licitaçã"
+Medicamentos Transparentes,releases,PB,tender/mainProcurementCategory,2367,100.0,1,goods
+Medicamentos Transparentes,releases,PB,tender/submissionMethod,2367,78.83,2,electronicSubmission
+Medicamentos Transparentes,releases,PB,tender/submissionMethodDetails,2367,100.0,5,Pregão - Eletrônico
+Medicamentos Transparentes,releases,PB,tender/tenderPeriod/startDate,2367,84.66,1282,2024-09-25T12:00:00Z
+Medicamentos Transparentes,releases,PB,tender/tenderPeriod/endDate,2367,84.66,1293,2024-09-26T02:59:59Z
+Medicamentos Transparentes,releases,PB,tender/tenderPeriod/maxExtentDate,2367,84.66,1293,2024-09-26T02:59:59Z
+Medicamentos Transparentes,releases,PB,tender/tenderPeriod/durationInDays,2367,84.66,38,0
+Medicamentos Transparentes,ten_items,PB,ocid,11907,100.0,1883,ocds-ye9ov3-8761140000194_2024_54
+Medicamentos Transparentes,ten_items,PB,id,11907,100.0,1883,08761140000194-1-000054/2024
+Medicamentos Transparentes,ten_items,PB,tender/id,11907,100.0,1776,19.000.000125.2024
+Medicamentos Transparentes,ten_items,PB,tender/items/id,11907,100.0,237,1
+Medicamentos Transparentes,ten_items,PB,tender/items/description,11907,100.0,5036,"ÁLCOOL ETÍLICO 70%, gel antisséptico de uso tópico, frasco 1000 mL."
+Medicamentos Transparentes,ten_items,PB,tender/items/classification/id,11907,100.0,1294,380018
+Medicamentos Transparentes,ten_items,PB,tender/items/classification/scheme,11907,100.0,1,CATMAT
+Medicamentos Transparentes,ten_items,PB,tender/items/classification/description,11907,100.0,1294,"380018 - Álcool Etílico, Teor Alcoólico:70% V/V, Composição Básica:Com Emoliente, Forma Farmacêutica:Gel"
+Medicamentos Transparentes,ten_items,PB,tender/items/classification/uri,11907,100.0,1294,https://cnbs.estaleiro.serpro.gov.br/cnbs-api/material/v1/recuperaDadosItemMaterialPorCodigo?codigo_item_material=380018
+Medicamentos Transparentes,ten_items,PB,tender/items/dosageForm,11907,17.23,76,Gel
+Medicamentos Transparentes,ten_items,PB,tender/items/quantity,11907,100.0,1189,21450
+Medicamentos Transparentes,ten_items,PB,tender/items/unit/value/amount,11907,100.0,2897,7.678
+Medicamentos Transparentes,ten_items,PB,tender/items/unit/value/currency,11907,100.0,1,BRL
+Medicamentos Transparentes,ten_items,PB,tender/items/unit/name,11907,100.0,330,FRASCO
+Medicamentos Transparentes,ten_items,PB,tender/items/relatedLot,11907,100.0,237,lot-1
+Medicamentos Transparentes,ten_items,PB,tender/items/administrationRoute,11907,37.69,91,Solução Injetável
+Medicamentos Transparentes,ten_items,PB,tender/items/immediateContainer/name,11907,0.89,17,bag in box bico dosador refil
+Medicamentos Transparentes,ten_ite_activeIngredients,PB,ocid,14328,100.0,1883,ocds-ye9ov3-8761140000194_2024_54
+Medicamentos Transparentes,ten_ite_activeIngredients,PB,id,14328,100.0,1883,08761140000194-1-000054/2024
+Medicamentos Transparentes,ten_ite_activeIngredients,PB,tender/id,14328,100.0,1776,19.000.000125.2024
+Medicamentos Transparentes,ten_ite_activeIngredients,PB,tender/items/id,14328,100.0,237,1
+Medicamentos Transparentes,ten_ite_activeIngredients,PB,tender/items/activeIngredients/name,14328,100.0,833,Álcool Etílico
+Medicamentos Transparentes,ten_ite_activeIngredients,PB,tender/items/activeIngredients/strength/value,14328,89.31,204,0.7
+Medicamentos Transparentes,ten_ite_activeIngredients,PB,tender/items/activeIngredients/strength/unit/id,14328,80.5,26,% V/V
+Medicamentos Transparentes,ten_ite_activeIngredients,PB,tender/items/activeIngredients/strength/unit/scheme,14328,80.5,2,UNCEFACT
+Medicamentos Transparentes,ten_ite_attributes,PB,ocid,683,100.0,362,ocds-ye9ov3-8782146000148_2025_5
+Medicamentos Transparentes,ten_ite_attributes,PB,id,683,100.0,362,08782146000148-1-000005/2025
+Medicamentos Transparentes,ten_ite_attributes,PB,tender/id,683,100.0,351,0556/2024
+Medicamentos Transparentes,ten_ite_attributes,PB,tender/items/id,683,100.0,18,5
+Medicamentos Transparentes,ten_ite_attributes,PB,tender/items/attributes/id,683,100.0,18,1
+Medicamentos Transparentes,ten_ite_attributes,PB,tender/items/attributes/name,683,100.0,17,Tipo
+Medicamentos Transparentes,ten_ite_attributes,PB,tender/items/attributes/value,683,100.0,31,Hidratado
+Medicamentos Transparentes,ten_lots,PB,ocid,11907,100.0,1883,ocds-ye9ov3-8761140000194_2024_54
+Medicamentos Transparentes,ten_lots,PB,id,11907,100.0,1883,08761140000194-1-000054/2024
+Medicamentos Transparentes,ten_lots,PB,tender/id,11907,100.0,1776,19.000.000125.2024
+Medicamentos Transparentes,ten_lots,PB,tender/lots/id,11907,100.0,237,lot-1
+Medicamentos Transparentes,ten_lots,PB,tender/lots/statusDetailsId,11907,100.0,5,5
+Medicamentos Transparentes,ten_lots,PB,tender/lots/statusDetails,11907,100.0,5,Fracassado
+Medicamentos Transparentes,ten_lots,PB,tender/lots/value/amount,11907,100.0,4850,164693.1
+Medicamentos Transparentes,ten_lots,PB,tender/lots/value/currency,11907,100.0,1,BRL
+Medicamentos Transparentes,ten_lots,PB,tender/lots/lotsDetails/awardCriteria,11907,92.63,1,priceOnly
+Medicamentos Transparentes,ten_lots,PB,tender/lots/lotsDetails/awardCriteriaDetails,11907,100.0,3,Menor preço
+Medicamentos Transparentes,ten_lots,PB,tender/lots/lotsDetails/benefitType,11907,20.92,2,1
+Medicamentos Transparentes,ten_lots,PB,tender/lots/lotsDetails/benefitTypeName,11907,20.92,2,Participação exclusiva para ME/EPP
+Medicamentos Transparentes,ten_lots,PB,tender/lots/otherRequirements/reservedParticipation,11907,20.06,1,sme
+Medicamentos Transparentes,ten_lots,PB,tender/lots/lotsDetails/confidentialBudget,11907,18.96,1,True
+Medicamentos Transparentes,ten_lots,PB,tender/lots/lotsDetails/ncmNbsCode,11907,17.71,135,30043290.0
+Medicamentos Transparentes,ten_lots,PB,tender/lots/lotsDetails/standardPreferenceMarginApplicability,11907,0.5,1,True
+Medicamentos Transparentes,ten_lots,PB,tender/lots/lotsDetails/standardPreferenceMarginPercentage,11907,0.5,2,5.0
+Medicamentos Transparentes,ten_lot_sustainability,PB,ocid,2491,100.0,432,ocds-ye9ov3-8761140000194_2024_54
+Medicamentos Transparentes,ten_lot_sustainability,PB,id,2491,100.0,432,08761140000194-1-000054/2024
+Medicamentos Transparentes,ten_lot_sustainability,PB,tender/id,2491,100.0,421,19.000.000125.2024
+Medicamentos Transparentes,ten_lot_sustainability,PB,tender/lots/id,2491,100.0,13,lot-2
+Medicamentos Transparentes,ten_lot_sustainability,PB,tender/lots/sustainability/goal,2491,100.0,1,social.smeInclusion
+Medicamentos Transparentes,ten_lot_sustainability,PB,tender/lots/sustainability/strategies,2491,100.0,2,reservedParticipation
+Medicamentos Transparentes,awa_ite_deliveryLocations,PB,ocid,1,100.0,1,ocds-ye9ov3-394452000103_2026_1414
+Medicamentos Transparentes,awa_ite_deliveryLocations,PB,id,1,100.0,1,00394452000103-1-001414/2026
+Medicamentos Transparentes,awa_ite_deliveryLocations,PB,awards/id,1,100.0,1,6
+Medicamentos Transparentes,awa_ite_deliveryLocations,PB,awards/items/id,1,100.0,1,10
+Medicamentos Transparentes,awa_ite_deliveryLocations,PB,awards/items/deliveryLocations/description,1,100.0,1,Brasil

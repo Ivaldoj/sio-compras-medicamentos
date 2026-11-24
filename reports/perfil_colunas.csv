@@ -1,0 +1,203 @@
+base,coluna,registros,preenchidos,pct_preenchido,distintos,exemplo,tabela,escopo
+BPS,ano_compra,37641,37641.0,100.0,1,2025,2025_csv.zip,
+BPS,cnpj_instituicao,37641,37641.0,100.0,229,12403819000189,2025_csv.zip,
+BPS,sg_uf,37641,37641.0,100.0,23,PA,2025_csv.zip,
+BPS,ds_esfera,37641,37641.0,100.0,2,MUNICIPAL,2025_csv.zip,
+BPS,dt_compra,37641,37641.0,100.0,334,12/06/2025,2025_csv.zip,
+BPS,dt_insercao,37641,37641.0,100.0,406,21/07/2025,2025_csv.zip,
+BPS,validade_compra,37641,37641.0,100.0,11,2,2025_csv.zip,
+BPS,co_catmat,37641,37641.0,100.0,5362,271111,2025_csv.zip,
+BPS,ds_item,37641,37641.0,100.0,5361,"AMOXICILINA, CONCENTRAÇÃO: 50MG/ML, APRESENTAÇÃO: PÓ PARA SUSPENSÃO ORAL",2025_csv.zip,
+BPS,co_pdm,37641,37641.0,100.0,1345,2436,2025_csv.zip,
+BPS,co_classe,37641,37641.0,100.0,16,6505,2025_csv.zip,
+BPS,no_classe,37641,37641.0,100.0,16,DROGAS E MEDICAMENTOS,2025_csv.zip,
+BPS,fg_generico,37641,27753.0,73.73,2,S,2025_csv.zip,
+BPS,tp_compra,37641,37641.0,100.0,2,ADMINISTRATIVA,2025_csv.zip,
+BPS,sg_unidade_medida,37641,14016.0,37.24,11,ML,2025_csv.zip,
+BPS,cnpj_fornecedor,37641,37641.0,100.0,1286,04389760000193,2025_csv.zip,
+BPS,no_fornecedor,37641,37641.0,100.0,1184,PRADO PHARMA LTDA,2025_csv.zip,
+BPS,cnpj_fabricante,37641,37641.0,100.0,906,73856593000166,2025_csv.zip,
+BPS,no_fabricante,37641,37641.0,100.0,843,"PRATI, DONADUZZI & CIA LTDA",2025_csv.zip,
+BPS,qt_medicamento,37641,37641.0,100.0,6235,300,2025_csv.zip,
+BPS,ds_observacao,37641,14494.0,38.51,775,AQUISIÇÃO DE MEDICAMENTOS PROCESSO: 2735 EDITAL N. 01/2025 PREGÃO: 01/2025 TERMO DE HOMOLOGAÇÃO: 10/03/2025 ATA: 01-11/2,2025_csv.zip,
+BPS,no_instituicao,37641,37492.0,99.6,175,FUNDO MUNICIPAL DE SAUDE DE FARO,2025_csv.zip,
+BPS,no_municipio,37641,37641.0,100.0,219,FARO,2025_csv.zip,
+BPS,un_medida_capacidade,37641,37627.0,99.96,265,"FRASCO 60,00 ML",2025_csv.zip,
+BPS,no_pdm,37641,37641.0,100.0,1329,AMOXICILINA,2025_csv.zip,
+BPS,nu_processo_compra,37641,37641.0,100.0,2501,0720257001,2025_csv.zip,
+BPS,nu_ata,37641,36119.0,95.96,1875,027/2024,2025_csv.zip,
+BPS,un_fornecimento,37641,37627.0,99.96,39,FRASCO,2025_csv.zip,
+BPS,registro_anvisa,37641,27753.0,73.73,6219,1256801560024,2025_csv.zip,
+BPS,modalidade,37641,37641.0,100.0,5,Pregão,2025_csv.zip,
+BPS,vl_capacidade,37641,14016.0,37.24,93,6000.0,2025_csv.zip,
+BPS,vl_preco_unitario,37641,37641.0,100.0,8601,10.74,2025_csv.zip,
+BPS,vl_preco_total,37641,37641.0,100.0,19615,3222.0,2025_csv.zip,
+BPS,co_seq_bps,37641,37641.0,100.0,37641,36908729,2025_csv.zip,
+BPS,ano_compra,15705,15705.0,100.0,1,2026,2026_csv.zip,
+BPS,cnpj_instituicao,15705,15705.0,100.0,137,46374500026231,2026_csv.zip,
+BPS,sg_uf,15705,15705.0,100.0,20,SP,2026_csv.zip,
+BPS,ds_esfera,15705,15705.0,100.0,2,ESTADUAL,2026_csv.zip,
+BPS,dt_compra,15705,15705.0,100.0,221,09/01/2026,2026_csv.zip,
+BPS,dt_insercao,15705,15705.0,100.0,202,23/03/2026,2026_csv.zip,
+BPS,validade_compra,15705,15705.0,100.0,8,12,2026_csv.zip,
+BPS,co_catmat,15705,15705.0,100.0,3976,446467,2026_csv.zip,
+BPS,ds_item,15705,15705.0,100.0,3976,"PALIVIZUMABE, CONCENTRAÇÃO: 100 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL",2026_csv.zip,
+BPS,co_pdm,15705,15705.0,100.0,1168,18814,2026_csv.zip,
+BPS,co_classe,15705,15705.0,100.0,16,6505,2026_csv.zip,
+BPS,no_classe,15705,15705.0,100.0,16,DROGAS E MEDICAMENTOS,2026_csv.zip,
+BPS,fg_generico,15705,11213.0,71.4,2,N,2026_csv.zip,
+BPS,tp_compra,15705,15705.0,100.0,2,ADMINISTRATIVA,2026_csv.zip,
+BPS,sg_unidade_medida,15705,5711.0,36.36,9,ML,2026_csv.zip,
+BPS,cnpj_fornecedor,15705,15705.0,100.0,834,60318797000100,2026_csv.zip,
+BPS,no_fornecedor,15705,15705.0,100.0,779,ASTRAZENECA DO BRASIL LTDA.,2026_csv.zip,
+BPS,cnpj_fabricante,15705,15705.0,100.0,695,60318797000100,2026_csv.zip,
+BPS,no_fabricante,15705,15705.0,100.0,647,ASTRAZENECA DO BRASIL LTDA.,2026_csv.zip,
+BPS,qt_medicamento,15705,15705.0,100.0,4872,723,2026_csv.zip,
+BPS,ds_observacao,15705,7125.0,45.37,375,"REGISTRO DE PREÇOS, visando a aquisição, por parte dos Municípios consorciados e conveniados, de Medicamentos Humanos, S",2026_csv.zip,
+BPS,no_instituicao,15705,15429.0,98.24,105,SECRETARIA DE ESTADO DA SAUDE,2026_csv.zip,
+BPS,no_municipio,15705,15705.0,100.0,131,SAO PAULO,2026_csv.zip,
+BPS,un_medida_capacidade,15705,15702.0,99.98,224,"FRASCO 1,00 ML",2026_csv.zip,
+BPS,no_pdm,15705,15705.0,100.0,1155,PALIVIZUMABE,2026_csv.zip,
+BPS,nu_processo_compra,15705,15705.0,100.0,930,024.00102731/2025-78,2026_csv.zip,
+BPS,nu_ata,15705,15445.0,98.34,979,PERP 013/2026,2026_csv.zip,
+BPS,un_fornecimento,15705,15702.0,99.98,36,FRASCO,2026_csv.zip,
+BPS,registro_anvisa,15705,11213.0,71.4,3889,1161802860021,2026_csv.zip,
+BPS,modalidade,15705,15705.0,100.0,5,Pregão,2026_csv.zip,
+BPS,vl_capacidade,15705,5711.0,36.36,81,100.0,2026_csv.zip,
+BPS,vl_preco_unitario,15705,15705.0,100.0,5655,5029.73,2026_csv.zip,
+BPS,vl_preco_total,15705,15705.0,100.0,10914,3636494.79,2026_csv.zip,
+BPS,co_seq_bps,15705,15705.0,100.0,15705,36909385,2026_csv.zip,
+Medicamentos Transparentes,ocid,5182,,100.0,993,ocds-ye9ov3-8761140000194_2024_67,awards,PB
+Medicamentos Transparentes,id,5182,,100.0,993,08761140000194-1-000067/2024,awards,PB
+Medicamentos Transparentes,awards/id,5182,,100.0,20,1,awards,PB
+Medicamentos Transparentes,awards/title,5182,,100.0,967,Edital - 19.000.000132.2024,awards,PB
+Medicamentos Transparentes,awards/description,5182,,100.0,921,REGISTRO DE PREÇO PARA AQUISIÇÃO DE MEDICAMENTOS HEMATOLÓGICOS.,awards,PB
+Medicamentos Transparentes,awards/date,5182,,100.0,464,2024-11-18T03:00:00Z,awards,PB
+Medicamentos Transparentes,awards/hasSubcontracting,5182,,100.0,1,False,awards,PB
+Medicamentos Transparentes,awards/value/amount,5182,,100.0,2814,24336.0,awards,PB
+Medicamentos Transparentes,awards/value/currency,5182,,100.0,1,BRL,awards,PB
+Medicamentos Transparentes,ocid,5182,,100.0,993,ocds-ye9ov3-8761140000194_2024_67,awa_items,PB
+Medicamentos Transparentes,id,5182,,100.0,993,08761140000194-1-000067/2024,awa_items,PB
+Medicamentos Transparentes,awards/id,5182,,100.0,20,1,awa_items,PB
+Medicamentos Transparentes,awards/items/id,5182,,100.0,206,1,awa_items,PB
+Medicamentos Transparentes,awards/items/description,5182,,100.0,2666,"ANAGRELIDA 0,5 mg cápsula.",awa_items,PB
+Medicamentos Transparentes,awards/items/status,5182,,100.0,2,Informado,awa_items,PB
+Medicamentos Transparentes,awards/items/quantity,5182,,100.0,886,720,awa_items,PB
+Medicamentos Transparentes,awards/items/unit/name,5182,,100.0,265,Cap,awa_items,PB
+Medicamentos Transparentes,awards/items/unit/value/amount,5182,,100.0,1565,33.8,awa_items,PB
+Medicamentos Transparentes,awards/items/unit/value/currency,5182,,100.0,1,BRL,awa_items,PB
+Medicamentos Transparentes,awards/items/relatedLot,5182,,100.0,206,lot-1,awa_items,PB
+Medicamentos Transparentes,awards/items/statusDetails,5182,,0.44,7," Considerando o exposto pela Comissão de Contratos através do despacho PBS-DES-2025/28679, para fins de convocação de re",awa_items,PB
+Medicamentos Transparentes,ocid,5182,,100.0,993,ocds-ye9ov3-8761140000194_2024_67,awa_suppliers,PB
+Medicamentos Transparentes,id,5182,,100.0,993,08761140000194-1-000067/2024,awa_suppliers,PB
+Medicamentos Transparentes,awards/id,5182,,100.0,20,1,awa_suppliers,PB
+Medicamentos Transparentes,awards/suppliers/id,5182,,100.0,559,BR-CNPJ-30553793000137,awa_suppliers,PB
+Medicamentos Transparentes,awards/suppliers/name,5182,,100.0,601,JASMED DISTRIBUIDORA DE MEDICAMENTOS LTDA,awa_suppliers,PB
+Medicamentos Transparentes,ocid,5009,,100.0,1883,ocds-ye9ov3-8761140000194_2024_54,parties,PB
+Medicamentos Transparentes,id,5009,,100.0,1883,08761140000194-1-000054/2024,parties,PB
+Medicamentos Transparentes,parties/id,5009,,100.0,831,BR-CNPJ-8761140000194,parties,PB
+Medicamentos Transparentes,parties/name,5009,,100.0,868,SECRETARIA DE ESTADO DA ADMINISTRACAO,parties,PB
+Medicamentos Transparentes,parties/identifier/id,5009,,100.0,831,8761140000194,parties,PB
+Medicamentos Transparentes,parties/identifier/scheme,5009,,100.0,1,BR-CNPJ,parties,PB
+Medicamentos Transparentes,parties/identifier/legalName,5009,,100.0,868,SECRETARIA DE ESTADO DA ADMINISTRACAO,parties,PB
+Medicamentos Transparentes,parties/address/region,5009,,47.25,1,Paraíba,parties,PB
+Medicamentos Transparentes,parties/address/locality,5009,,47.25,196,João Pessoa,parties,PB
+Medicamentos Transparentes,parties/roles,5009,,100.0,2,buyer;procuringEntity,parties,PB
+Medicamentos Transparentes,parties/address/countryName,5009,,52.75,1,BRA,parties,PB
+Medicamentos Transparentes,parties/details/scale,5009,,51.57,3,small,parties,PB
+Medicamentos Transparentes,ocid,2367,,100.0,1883,ocds-ye9ov3-8761140000194_2024_54,par_additionalIdentifiers,PB
+Medicamentos Transparentes,id,2367,,100.0,1883,08761140000194-1-000054/2024,par_additionalIdentifiers,PB
+Medicamentos Transparentes,parties/id,2367,,100.0,272,BR-CNPJ-8761140000194,par_additionalIdentifiers,PB
+Medicamentos Transparentes,parties/additionalIdentifiers/id,2367,,100.0,235,19101,par_additionalIdentifiers,PB
+Medicamentos Transparentes,parties/additionalIdentifiers/legalName,2367,,100.0,359,SECRETARIA DE ESTADO DA ADMINISTRACAO,par_additionalIdentifiers,PB
+Medicamentos Transparentes,ocid,10083,,100.0,1883,ocds-ye9ov3-8761140000194_2024_54,par_det_classifications,PB
+Medicamentos Transparentes,id,10083,,100.0,1883,08761140000194-1-000054/2024,par_det_classifications,PB
+Medicamentos Transparentes,parties/id,10083,,100.0,831,BR-CNPJ-8761140000194,par_det_classifications,PB
+Medicamentos Transparentes,parties/details/classifications/id,10083,,96.13,18,BRA-ESFERA-E,par_det_classifications,PB
+Medicamentos Transparentes,parties/details/classifications/scheme,10083,,100.0,5,BRA-ESFERA,par_det_classifications,PB
+Medicamentos Transparentes,parties/details/classifications/description,10083,,73.8,15,Estadual,par_det_classifications,PB
+Medicamentos Transparentes,ocid,2367,,100.0,1883,ocds-ye9ov3-8761140000194_2024_54,releases,PB
+Medicamentos Transparentes,id,2367,,100.0,1883,08761140000194-1-000054/2024,releases,PB
+Medicamentos Transparentes,date,2367,,100.0,1883,2024-09-13T11:14:38Z,releases,PB
+Medicamentos Transparentes,tag,2367,,100.0,1,tender;award,releases,PB
+Medicamentos Transparentes,initiationType,2367,,100.0,1,tender,releases,PB
+Medicamentos Transparentes,buyer/id,2367,,100.0,272,BR-CNPJ-8761140000194,releases,PB
+Medicamentos Transparentes,buyer/name,2367,,100.0,267,SECRETARIA DE ESTADO DA ADMINISTRACAO,releases,PB
+Medicamentos Transparentes,language,2367,,100.0,1,pt,releases,PB
+Medicamentos Transparentes,tender/id,2367,,100.0,1776,19.000.000125.2024,releases,PB
+Medicamentos Transparentes,tender/title,2367,,100.0,1785,Edital - 19.000.000125.2024,releases,PB
+Medicamentos Transparentes,tender/description,2367,,100.0,1624,REGISTRO DE PREÇOS PARA AQUISIÇÃO DE ANTISSÉPTICOS,releases,PB
+Medicamentos Transparentes,tender/procuringEntity/id,2367,,100.0,272,BR-CNPJ-8761140000194,releases,PB
+Medicamentos Transparentes,tender/procuringEntity/name,2367,,100.0,267,SECRETARIA DE ESTADO DA ADMINISTRACAO,releases,PB
+Medicamentos Transparentes,tender/value/amount,2367,,100.0,1654,3355070.31,releases,PB
+Medicamentos Transparentes,tender/value/currency,2367,,100.0,1,BRL,releases,PB
+Medicamentos Transparentes,tender/procurementMethod,2367,,100.0,4,open,releases,PB
+Medicamentos Transparentes,tender/procurementMethodDetails,2367,,100.0,14,tipoInstrumentoConvocatorioCodigo: 1; tipoInstrumentoConvocatorioNome: Edital; modalidadeId: 6; modalidadeNome: Pregão -,releases,PB
+Medicamentos Transparentes,tender/procurementMethodRationale,2367,,100.0,22,"amparoLegalCodigo: 1; amparoLegalNome: Lei 14.133/2021, Art. 28, I; amparoLegalDescricao: pregão: modalidade de licitaçã",releases,PB
+Medicamentos Transparentes,tender/mainProcurementCategory,2367,,100.0,1,goods,releases,PB
+Medicamentos Transparentes,tender/submissionMethod,2367,,78.83,2,electronicSubmission,releases,PB
+Medicamentos Transparentes,tender/submissionMethodDetails,2367,,100.0,5,Pregão - Eletrônico,releases,PB
+Medicamentos Transparentes,tender/tenderPeriod/startDate,2367,,84.66,1282,2024-09-25T12:00:00Z,releases,PB
+Medicamentos Transparentes,tender/tenderPeriod/endDate,2367,,84.66,1293,2024-09-26T02:59:59Z,releases,PB
+Medicamentos Transparentes,tender/tenderPeriod/maxExtentDate,2367,,84.66,1293,2024-09-26T02:59:59Z,releases,PB
+Medicamentos Transparentes,tender/tenderPeriod/durationInDays,2367,,84.66,38,0,releases,PB
+Medicamentos Transparentes,ocid,11907,,100.0,1883,ocds-ye9ov3-8761140000194_2024_54,ten_items,PB
+Medicamentos Transparentes,id,11907,,100.0,1883,08761140000194-1-000054/2024,ten_items,PB
+Medicamentos Transparentes,tender/id,11907,,100.0,1776,19.000.000125.2024,ten_items,PB
+Medicamentos Transparentes,tender/items/id,11907,,100.0,237,1,ten_items,PB
+Medicamentos Transparentes,tender/items/description,11907,,100.0,5036,"ÁLCOOL ETÍLICO 70%, gel antisséptico de uso tópico, frasco 1000 mL.",ten_items,PB
+Medicamentos Transparentes,tender/items/classification/id,11907,,100.0,1294,380018,ten_items,PB
+Medicamentos Transparentes,tender/items/classification/scheme,11907,,100.0,1,CATMAT,ten_items,PB
+Medicamentos Transparentes,tender/items/classification/description,11907,,100.0,1294,"380018 - Álcool Etílico, Teor Alcoólico:70% V/V, Composição Básica:Com Emoliente, Forma Farmacêutica:Gel",ten_items,PB
+Medicamentos Transparentes,tender/items/classification/uri,11907,,100.0,1294,https://cnbs.estaleiro.serpro.gov.br/cnbs-api/material/v1/recuperaDadosItemMaterialPorCodigo?codigo_item_material=380018,ten_items,PB
+Medicamentos Transparentes,tender/items/dosageForm,11907,,17.23,76,Gel,ten_items,PB
+Medicamentos Transparentes,tender/items/quantity,11907,,100.0,1189,21450,ten_items,PB
+Medicamentos Transparentes,tender/items/unit/value/amount,11907,,100.0,2897,7.678,ten_items,PB
+Medicamentos Transparentes,tender/items/unit/value/currency,11907,,100.0,1,BRL,ten_items,PB
+Medicamentos Transparentes,tender/items/unit/name,11907,,100.0,330,FRASCO,ten_items,PB
+Medicamentos Transparentes,tender/items/relatedLot,11907,,100.0,237,lot-1,ten_items,PB
+Medicamentos Transparentes,tender/items/administrationRoute,11907,,37.69,91,Solução Injetável,ten_items,PB
+Medicamentos Transparentes,tender/items/immediateContainer/name,11907,,0.89,17,bag in box bico dosador refil,ten_items,PB
+Medicamentos Transparentes,ocid,14328,,100.0,1883,ocds-ye9ov3-8761140000194_2024_54,ten_ite_activeIngredients,PB
+Medicamentos Transparentes,id,14328,,100.0,1883,08761140000194-1-000054/2024,ten_ite_activeIngredients,PB
+Medicamentos Transparentes,tender/id,14328,,100.0,1776,19.000.000125.2024,ten_ite_activeIngredients,PB
+Medicamentos Transparentes,tender/items/id,14328,,100.0,237,1,ten_ite_activeIngredients,PB
+Medicamentos Transparentes,tender/items/activeIngredients/name,14328,,100.0,833,Álcool Etílico,ten_ite_activeIngredients,PB
+Medicamentos Transparentes,tender/items/activeIngredients/strength/value,14328,,89.31,204,0.7,ten_ite_activeIngredients,PB
+Medicamentos Transparentes,tender/items/activeIngredients/strength/unit/id,14328,,80.5,26,% V/V,ten_ite_activeIngredients,PB
+Medicamentos Transparentes,tender/items/activeIngredients/strength/unit/scheme,14328,,80.5,2,UNCEFACT,ten_ite_activeIngredients,PB
+Medicamentos Transparentes,ocid,683,,100.0,362,ocds-ye9ov3-8782146000148_2025_5,ten_ite_attributes,PB
+Medicamentos Transparentes,id,683,,100.0,362,08782146000148-1-000005/2025,ten_ite_attributes,PB
+Medicamentos Transparentes,tender/id,683,,100.0,351,0556/2024,ten_ite_attributes,PB
+Medicamentos Transparentes,tender/items/id,683,,100.0,18,5,ten_ite_attributes,PB
+Medicamentos Transparentes,tender/items/attributes/id,683,,100.0,18,1,ten_ite_attributes,PB
+Medicamentos Transparentes,tender/items/attributes/name,683,,100.0,17,Tipo,ten_ite_attributes,PB
+Medicamentos Transparentes,tender/items/attributes/value,683,,100.0,31,Hidratado,ten_ite_attributes,PB
+Medicamentos Transparentes,ocid,11907,,100.0,1883,ocds-ye9ov3-8761140000194_2024_54,ten_lots,PB
+Medicamentos Transparentes,id,11907,,100.0,1883,08761140000194-1-000054/2024,ten_lots,PB
+Medicamentos Transparentes,tender/id,11907,,100.0,1776,19.000.000125.2024,ten_lots,PB
+Medicamentos Transparentes,tender/lots/id,11907,,100.0,237,lot-1,ten_lots,PB
+Medicamentos Transparentes,tender/lots/statusDetailsId,11907,,100.0,5,5,ten_lots,PB
+Medicamentos Transparentes,tender/lots/statusDetails,11907,,100.0,5,Fracassado,ten_lots,PB
+Medicamentos Transparentes,tender/lots/value/amount,11907,,100.0,4850,164693.1,ten_lots,PB
+Medicamentos Transparentes,tender/lots/value/currency,11907,,100.0,1,BRL,ten_lots,PB
+Medicamentos Transparentes,tender/lots/lotsDetails/awardCriteria,11907,,92.63,1,priceOnly,ten_lots,PB
+Medicamentos Transparentes,tender/lots/lotsDetails/awardCriteriaDetails,11907,,100.0,3,Menor preço,ten_lots,PB
+Medicamentos Transparentes,tender/lots/lotsDetails/benefitType,11907,,20.92,2,1,ten_lots,PB
+Medicamentos Transparentes,tender/lots/lotsDetails/benefitTypeName,11907,,20.92,2,Participação exclusiva para ME/EPP,ten_lots,PB
+Medicamentos Transparentes,tender/lots/otherRequirements/reservedParticipation,11907,,20.06,1,sme,ten_lots,PB
+Medicamentos Transparentes,tender/lots/lotsDetails/confidentialBudget,11907,,18.96,1,True,ten_lots,PB
+Medicamentos Transparentes,tender/lots/lotsDetails/ncmNbsCode,11907,,17.71,135,30043290.0,ten_lots,PB
+Medicamentos Transparentes,tender/lots/lotsDetails/standardPreferenceMarginApplicability,11907,,0.5,1,True,ten_lots,PB
+Medicamentos Transparentes,tender/lots/lotsDetails/standardPreferenceMarginPercentage,11907,,0.5,2,5.0,ten_lots,PB
+Medicamentos Transparentes,ocid,2491,,100.0,432,ocds-ye9ov3-8761140000194_2024_54,ten_lot_sustainability,PB
+Medicamentos Transparentes,id,2491,,100.0,432,08761140000194-1-000054/2024,ten_lot_sustainability,PB
+Medicamentos Transparentes,tender/id,2491,,100.0,421,19.000.000125.2024,ten_lot_sustainability,PB
+Medicamentos Transparentes,tender/lots/id,2491,,100.0,13,lot-2,ten_lot_sustainability,PB
+Medicamentos Transparentes,tender/lots/sustainability/goal,2491,,100.0,1,social.smeInclusion,ten_lot_sustainability,PB
+Medicamentos Transparentes,tender/lots/sustainability/strategies,2491,,100.0,2,reservedParticipation,ten_lot_sustainability,PB
+Medicamentos Transparentes,ocid,1,,100.0,1,ocds-ye9ov3-394452000103_2026_1414,awa_ite_deliveryLocations,PB
+Medicamentos Transparentes,id,1,,100.0,1,00394452000103-1-001414/2026,awa_ite_deliveryLocations,PB
+Medicamentos Transparentes,awards/id,1,,100.0,1,6,awa_ite_deliveryLocations,PB
+Medicamentos Transparentes,awards/items/id,1,,100.0,1,10,awa_ite_deliveryLocations,PB
+Medicamentos Transparentes,awards/items/deliveryLocations/description,1,,100.0,1,Brasil,awa_ite_deliveryLocations,PB

@@ -1,0 +1,1 @@
+{"error":"Failed to initialize ZIP download","message":"Failed to download and zip files: ENOSPC: no space left on device, write"}

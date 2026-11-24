@@ -1,0 +1,32 @@
+fonte,conjunto,classe_temporal,registros,criterio_disponibilidade,destino
+BPS/MS 2020–2026,todos os registros (todas as classes de material),disponivel,286467,dt_insercao <= 29/01/2025 e dt_compra <= dt_insercao,decision_input (só classe 6505)
+BPS/MS 2020–2026,todos os registros (todas as classes de material),indeterminado,2153,dt_insercao <= 29/01/2025 e dt_compra <= dt_insercao,quarentena_temporal
+BPS/MS 2020–2026,todos os registros (todas as classes de material),posterior,87960,dt_insercao <= 29/01/2025 e dt_compra <= dt_insercao,evaluation_only
+PNCP (amostra dirigida),contratacoes,disponivel,84,"dataPublicacaoPncp (contratação) / dataInclusao (item, resultado) <= corte",data\decision_input\nacional
+PNCP (amostra dirigida),contratacoes,posterior,11,"dataPublicacaoPncp (contratação) / dataInclusao (item, resultado) <= corte",data\evaluation_only\nacional
+PNCP (amostra dirigida),contratacoes,indeterminado,0,"dataPublicacaoPncp (contratação) / dataInclusao (item, resultado) <= corte",data\quarentena_temporal
+PNCP (amostra dirigida),itens,disponivel,4988,"dataPublicacaoPncp (contratação) / dataInclusao (item, resultado) <= corte",data\decision_input\nacional
+PNCP (amostra dirigida),itens,posterior,468,"dataPublicacaoPncp (contratação) / dataInclusao (item, resultado) <= corte",data\evaluation_only\nacional
+PNCP (amostra dirigida),itens,indeterminado,0,"dataPublicacaoPncp (contratação) / dataInclusao (item, resultado) <= corte",data\quarentena_temporal
+PNCP (amostra dirigida),resultados,disponivel,269,"dataPublicacaoPncp (contratação) / dataInclusao (item, resultado) <= corte",data\decision_input\nacional
+PNCP (amostra dirigida),resultados,posterior,335,"dataPublicacaoPncp (contratação) / dataInclusao (item, resultado) <= corte",data\evaluation_only\nacional
+PNCP (amostra dirigida),resultados,indeterminado,0,"dataPublicacaoPncp (contratação) / dataInclusao (item, resultado) <= corte",data\quarentena_temporal
+Compras.gov.br (pesquisa de preço),registros dos CATMAT dos itens do caso,disponivel,141599,dataResultado <= 29/01/2025 e dataCompra <= dataResultado,data\decision_input\nacional
+Compras.gov.br (pesquisa de preço),registros dos CATMAT dos itens do caso,posterior,87287,dataResultado <= 29/01/2025 e dataCompra <= dataResultado,data\evaluation_only\nacional
+Compras.gov.br (pesquisa de preço),registros dos CATMAT dos itens do caso,indeterminado,3128,dataResultado <= 29/01/2025 e dataCompra <= dataResultado,data\quarentena_temporal
+CMED/Anvisa,lista PF/PMVG publicada em 06/01/2025,disponivel,25549,data de publicação impressa na lista,decision_input
+CMED/Anvisa,lista de 09/11/2026,posterior,26694,data de publicação,fora do pacote (raw)
+Santa Luzia — edital/ETP/TR PE 04/2025,"334 itens, dotações, restrições",disponivel,334,documento interno assinado em 29/01/2025 (PNCP 30/01/2025),decision_input
+Santa Luzia — PE 01/2024 (PNCP),itens e 4 resultados,disponivel,349,publicação 12/01/2024; resultados incluídos 02/09/2024,decision_input
+Santa Luzia — PE 12/2024 (PNCP),3 itens (desconto CMED),disponivel,3,"itens publicados 21/03/2024; resultados incluídos no PNCP em 30/04/2025 — usados como informação interna (contrato próprio, resultado de 11/04/2024)",decision_input
+TCE-PB/SAGRES,despesa farmacológica 2024 do município,disponivel,248,empenhos de 2024 do próprio órgão (informação interna),decision_input
+TCE-PB/SAGRES,despesa 2025–2026,posterior,536,data do empenho > corte,evaluation_only
+Santa Luzia — PE 04/2025,"resultados, contratos, aditivos, execução",posterior,334,datas de resultado/contrato > corte,evaluation_only
+Santa Luzia — PE 25/2025 e PE 09/2026,itens e resultados,posterior,416,publicação > corte,evaluation_only
+BNAFAR/Hórus,estoque nov/2026,posterior,4240,posição de 17–18/11/2026,fora do pacote (raw)
+Medicamentos Transparentes,índice de contratações,indeterminado,86068,plataforma publicada a partir de jun/2025; usada só como índice — datas verificadas no PNCP,não entra no pacote
+Etapa 2 — CATMAT via BPS dez/2025,299 itens,posterior,299,derivado de registros inseridos em 22/12/2025,evaluation_only/auditoria (refeito pré-corte)
+TCE-PB/SAGRES,receitas SUS 2024 do município,disponivel,74,receitas de 2024 do próprio órgão (informação interna),decision_input
+IBGE,população estimada 2024 de Santa Luzia,disponivel,1,estimativa 2024 publicada em 2024; a de 2025 é posterior e não é usada,decision_input (recursos.csv)
+BNAFAR/Hórus,estoque em 12/2024 e 01/2025,indeterminado,0,API sem posição histórica (consultas vazias em 23/11/2026),lacuna documentada
+CONFAZ / SEFAZ-PB,Conv. ICMS 87/02; Lei 6.379/96 consolidada em 02/10/2023,disponivel,2,normas vigentes em 29/01/2025 (versões publicadas antes do corte),regra em cmed_precos.aliquota_aplicavel_pb

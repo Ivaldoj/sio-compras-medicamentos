@@ -1,0 +1,36 @@
+execução 2024 = 1,953,288.72; PE 12/2024 = 1,223,231.57 (62.6%); repasse AF 2024 = 191,055.78 (9.8% da execução)
+R0/execução 2024 = 2.535; E1 central/execução 2024 = 0.928; E1 faixa/execução = 0.768–1.287
+R0−R1 (excesso acima do teto; não é economia) = 1,398,646.80
+Economia potencial E1 vs R1: central 1,740,672.10; faixa 1,040,787.97 a 2,053,523.88; % de R1: 49.0%
+Economia potencial E1 vs E2 (E2[cenário] − E1[cenário]):
+   E2 baixo   − E1 baixo   = 800,988.23
+   E2 baixo   − E1 central = 488,136.45
+   E2 baixo   − E1 alto    = -211,747.68
+   E2 central − E1 baixo   = 2,535,485.35
+   E2 central − E1 central = 2,222,633.56
+   E2 central − E1 alto    = 1,522,749.44
+   E2 alto    − E1 baixo   = 3,046,622.43
+   E2 alto    − E1 central = 2,733,770.64
+   E2 alto    − E1 alto    = 2,033,886.51
+   central 2,222,633.56 (55.1% de E2); mesmos cenários: 800,988.23 a 2,033,886.51; extremos: -211,747.68 a 3,046,622.43
+E3 vs E1 (central) = 100,566.45
+desconto de empate aproximado Genérico: 85.6% (hoje 60.11%)
+desconto de empate aproximado Similar: 82.4% (hoje 51.01%)
+desconto de empate aproximado éticos: 70.5% (hoje 18.01%)
+E1 +5% (correção monetária não aplicada) = +90,655.96
+insulinas: R0 1,407,331.00 (28.42%); E1 173,221.80 (9.55%); faixa 145,351.79–185,897.80
+   item 194: R0 19,568.00 (0.40%) | E1 14,158.00 (0.78%) | p_org/teto_max = nan
+   item 195: R0 19,476.00 (0.39%) | E1 3,235.00 (0.18%) | p_org/teto_max = nan
+   item 196: R0 1,158,120.00 (23.38%) | E1 120,912.00 (6.67%) | p_org/teto_max = 9.58
+   item 197: R0 27,745.00 (0.56%) | E1 13,440.00 (0.74%) | p_org/teto_max = 1.09
+   item 198: R0 5,590.00 (0.11%) | E1 2,500.00 (0.14%) | p_org/teto_max = 1.12
+   item 199: R0 176,832.00 (3.57%) | E1 18,976.80 (1.05%) | p_org/teto_max = 9.32
+item 197 tetos: BAHIAFARMA INSULINA HUMANA NPH PMVG 0% 29.82; INSULINA HUMANA RECOMBINANTE NPH PF 0% 33.73; INSUNORM N PF 0% 45.55; NOVOLIN N PF 0% 50.36; HUMULIN N PF 0% 50.77
+item 197: teto máx. sem HUMULIN 70N/30R = 50.77; estimativa do órgão 55.49 > esse teto
+acima do teto: excesso 1,398,646.80; das canetas 196+199 = 1,195,063.20 (85.4%)
+sem teto utilizável: 108 itens; R0 1,098,600.50 (22.2%)
+E1 alto / R0 = 50.7%; E1 alto × 1,25 = 3,141,254.04
+estimativa 2025 / homologado próprio 2024: item 120: 2.14; item 181: 2.14; item 179: 1.92
+a conferir (exceto canetas): mediana de p_org/conf_med = 1.54 (n=23)
+
+--- stderr ---

@@ -1,0 +1,36 @@
+base,recorte,metrica,valor,observacao
+BPS,2025_csv.zip,registros,37641,
+BPS,2025_csv.zip,instituicoes_cnpj,229,
+BPS,2025_csv.zip,ufs,23,
+BPS,2025_csv.zip,catmat_distintos,5362,
+BPS,2025_csv.zip,pct_classe_6505_medicamentos,81.72,
+BPS,2025_csv.zip,soma_vl_preco_total_RS,51012799079.06,dominada por outliers; ver docs/03
+BPS,2025_csv.zip,mediana_vl_preco_total_RS,4200.0,
+BPS,2025_csv.zip,dt_compra_min,2025-01-01,
+BPS,2025_csv.zip,dt_compra_max,2025-12-30,
+BPS,2026_csv.zip,registros,15705,
+BPS,2026_csv.zip,instituicoes_cnpj,137,
+BPS,2026_csv.zip,ufs,20,
+BPS,2026_csv.zip,catmat_distintos,3976,
+BPS,2026_csv.zip,pct_classe_6505_medicamentos,79.4,
+BPS,2026_csv.zip,soma_vl_preco_total_RS,24235930499.67,dominada por outliers; ver docs/03
+BPS,2026_csv.zip,mediana_vl_preco_total_RS,6110.22,
+BPS,2026_csv.zip,dt_compra_min,2026-01-02,
+BPS,2026_csv.zip,dt_compra_max,2026-11-11,
+BPS,PB 2025-2026,registros,4205,
+BPS,PB 2025-2026,instituicoes_cnpj,21,
+BPS,PB 2025-2026,catmat_distintos,1048,
+MT,PB coletas 2025-01..2026-09,linhas_releases,2367,
+MT,PB coletas 2025-01..2026-09,contratacoes_ocid_unicas,1883,
+MT,PB coletas 2025-01..2026-09,compradores,272,
+MT,PB coletas 2025-01..2026-09,itens_licitacao_unicos,9206,
+MT,PB coletas 2025-01..2026-09,itens_adjudicados_unicos,4449,
+MT,PB coletas 2025-01..2026-09,catmat_distintos,1281,
+MT,PB coletas 2025-01..2026-09,fornecedores,559,
+MT,Brasil coletas 2025-01..2026-09,contratacoes_ocid_unicas,86068,
+MT,Brasil coletas 2025-01..2026-09,itens_licitacao_unicos,324999,
+MT,Brasil coletas 2025-01..2026-09,compradores_soma_por_UF,7564,um mesmo CNPJ pode contar em mais de uma UF
+MT,Brasil coletas 2025-01..2026-09,posicao_PB_em_contratacoes,11,de 28 códigos de UF (inclui EX)
+Integração,MT-PB x BPS nacional,catmat_MT_PB_presentes_no_BPS_pct,72.6,930 de 1281
+Integração,MT-PB x BPS-PB,catmat_MT_PB_presentes_no_BPS_PB_pct,42.3,542 de 1281
+Integração,MT-PB x BPS nacional,itens_MT_PB_com_catmat_no_BPS_pct,82.7,

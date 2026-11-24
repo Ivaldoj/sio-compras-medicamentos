@@ -1,0 +1,6 @@
+CMED: apresentações 25549 | linhas de preço 941578 | alíquota PB: {'20%': 22089, '0%': 3460}
+conversões aceitas: 4876 | com alerta: 210 | inspecionadas (amostra IA): 327
+itens: 334 | identificação: {'validada por atributos (1 CATMAT)': 227, 'ausente': 66, 'validada por atributos (vários CATMAT equivalentes)': 27, 'incompleta (forma não confirmada)': 14}
+preço praticado: {'disponível': 253, 'ausente': 56, 'a conferir': 25} | teto CMED: {'disponível (conversão por regra)': 226, 'bloqueado/incompatível': 55, 'a conferir': 33, 'ausente': 20}
+itens com qtd licitada em 2024: 206 | estimativa acima do teto CMED (alíquota PB): 40
+manifesto: 21 arquivos, 22572229 bytes

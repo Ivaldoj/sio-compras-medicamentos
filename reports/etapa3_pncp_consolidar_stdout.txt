@@ -1,0 +1,6 @@
+﻿pncp_comparaveis_contratacoes 14 {'disponivel': 13, 'posterior': 1}
+pncp_comparaveis_itens 1151 {'disponivel': 1091, 'posterior': 60}
+pncp_comparaveis_resultados 275 {'posterior': 173, 'disponivel': 102}
+arquivos ilegíveis ignorados: 0 []
+contratações selecionadas: 66 | consolidadas: 14 | sem download concluído: 52
+itens comparáveis a itens do caso (disponíveis): 344 | itens do caso com ≥1 comparável PNCP disponível: 156

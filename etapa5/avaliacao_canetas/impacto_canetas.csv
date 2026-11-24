@@ -1,0 +1,5 @@
+item,tipo,unidade_documentada,quantidade,preco_homologado,propostas_no_certame,marca_declarada,referencia_agente,canetas_cmed_compativeis,teto_por_caneta_min,teto_por_caneta_max,razao_hom_sobre_teto_max,excesso_sobre_teto_max,hipotese_nao_documentada_caixa5_teto_max,hipotese_caixa5_razao,teto_usado_na_avaliacao
+194,ANÁLOGA DE AÇÃO PROLONGADA,"caneta (D1, D2, D6, D7) / UN (D3)",100.0,195.68,1,EQUIPLEX (sem insulina na CMED),141.58,17,23.766666666666666,169.972,1.1512484409196808,2570.7999999999997,849.86,0.23024968818393618,
+195,ANÁLOGA DE AÇÃO RÁPIDA,"caneta (D1, D2, D6, D7) / UN (D3)",100.0,194.76,1,EQUIPLEX (sem insulina na CMED),26.52,6,28.82,35.138,5.542717286128977,15962.199999999999,175.69,1.1085434572257955,
+196,NPH,"caneta (D1, D2, D6, D7) / UN (D3)",6000.0,193.02,1,EQUIPLEX (sem insulina na CMED),20.152,2,20.14,20.152,9.578205637157602,1037208.0,100.76,1.9156411274315204,20.152
+199,REGULAR,"caneta (D1, D2, D6, D7) / UN (D3)",1200.0,147.36,1,EQUIPLEX (sem insulina na CMED),15.814,2,15.8,15.813999999999998,9.318325534336665,157855.2,79.07,1.863665106867333,15.814

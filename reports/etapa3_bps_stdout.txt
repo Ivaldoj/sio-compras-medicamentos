@@ -1,0 +1,16 @@
+﻿2020_csv.zip 85041 registros, 35 colunas
+2021_csv.zip 85095 registros, 35 colunas
+2022_csv.zip 89614 registros, 35 colunas
+2023_csv.zip 33916 registros, 35 colunas
+2024_csv.zip 29568 registros, 35 colunas
+2025_csv.zip 37641 registros, 35 colunas
+2026_csv.zip 15705 registros, 35 colunas
+colunas comuns a todos os anos: 35 | diferenças: []
+
+classe temporal: {'disponivel': 286467, 'posterior': 87960, 'indeterminado': 2153}
+motivos indeterminado: {'data ausente ou inválida': 2141, 'dt_insercao anterior a dt_compra': 12}
+disponíveis: compras 2020-01-01..2024-10-30 | inserção 2020-01-02..2024-12-13 | UFs 23 | instituições 760 | CATMAT 11857
+disponíveis por ano de compra: {2020: 84446, 2021: 82927, 2022: 86750, 2023: 25008, 2024: 7336}
+disponíveis por região: {'S': 90621, 'SE': 79861, 'NE': 69381, 'N': 36584, 'CO': 10020}
+disponíveis medicamentos (6505): 225518 | flags: {'flag_preco_extremo': 5547, 'flag_total_inconsistente': 0, 'flag_duplicata_negocio': 483}
+excluídos do pacote por não serem medicamentos (classe != 6505) entre os disponíveis: 60949

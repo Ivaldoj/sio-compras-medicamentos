@@ -1,0 +1,16 @@
+K_LOW=0.8462 K_HIGH=1.2500 R_MED=2.0438 R_P75=2.5679 (n itens base=246)
+teto suspeito: [268] | preço próprio usado: [120]
+                                                 n      v_org         v_ref
+fonte_ref                                                                  
+PNCP estimado por outro órgão                   17  1382300.0  1.577527e+05
+PNCP homologado por outro órgão                  6    54957.0  1.710039e+04
+estimativa do órgão ÷ sobre-estimação mediana   63   444019.0  2.172507e+05
+homologado no próprio PE 01/2024                 1    26880.0  1.257000e+04
+praticado compatível                           247  3044282.0  1.407457e+06
+itens com teto confirmado: 226 | com teto (todos os vínculos) no pacote: 226
+ref limitada ao teto: 2
+acima teto pacote: 40 1924304.0 | acima teto confirmado: 41 1932504.0
+a conferir: 25 1470360.0
+sem referência externa: 63 444019.0
+R0 org=4,952,438.00  R1 org_lim_teto=3,556,151.20  E1 central=1,812,130.41 low=1,499,015.78 high=2,508,721.52
+razão mediana municipal/mediana geral (itens com ambos): mediana=0.9697 p25=0.9301 p75=1.0000

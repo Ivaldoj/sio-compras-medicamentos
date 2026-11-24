@@ -1,0 +1,85 @@
+﻿== releases: 2367 | ocid distintos: 1883 | id distintos: 1883
+ocids presentes em >1 coleta mensal: 391 | máx coletas por ocid: 5
+ocid duplicado dentro da mesma coleta: 1
+colunas que mudam entre coletas do mesmo ocid: ['tender/id', 'tender/title', 'tender/description', 'tender/value/amount', 'tender/procurementMethodDetails', 'tender/procurementMethodRationale', 'tender/tenderPeriod/startDate', 'tender/tenderPeriod/endDate', 'tender/tenderPeriod/maxExtentDate', 'tender/tenderPeriod/durationInDays']
+tags: {'tender;award': 2367}
+release/date: min 2023-05-17 10:01:30+00:00 max 2026-09-30 18:21:37+00:00
+coleta == mês de release/date: 49.5%
+exemplos coleta x date_mes: {('2025-03', '2025-03'): 100, ('2025-02', '2025-02'): 98, ('2025-05', '2025-05'): 83, ('2025-09', '2025-09'): 75, ('2025-07', '2025-07'): 70, ('2025-04', '2025-04'): 70, ('2025-01', '2025-01'): 70, ('2025-08', '2025-08'): 56}
+releases por coleta:
+ coleta
+2025-01    102
+2025-02    144
+2025-03    236
+2025-04    129
+2025-05    127
+2025-06     97
+2025-07    115
+2025-08     95
+2025-09    211
+2025-10     95
+2025-11     75
+2025-12    104
+2026-01     82
+2026-02     52
+2026-03     82
+2026-04    136
+2026-05    133
+2026-06     63
+2026-07     84
+2026-08    104
+2026-09    100
+
+modalidade (procurementMethodDetails contém):
+0
+Pregão - Eletrônico    1818
+Dispensa                476
+Pregão - Presencial      48
+Inexigibilidade          13
+Credenciamento           12
+SRP (registro de preços): {'False': 1311, 'True': 1056}
+mainProcurementCategory: {'goods': 2367}
+
+compradores distintos (buyer/id): 272
+                                                                             contratacoes  valor_estimado
+buyer/id               buyer/name                                                                        
+BR-CNPJ-8778268000160  SECRETARIA DE ESTADO DA SAUDE - SES                            192    1.410831e+08
+BR-CNPJ-8761140000194  SECRETARIA DE ESTADO DA ADMINISTRACAO                          132    1.763205e+09
+BR-CNPJ-38111778000140 FUNDACAO PARAIBANA DE GESTAO EM SAUDE -PB  SAUDE                60    5.680568e+07
+BR-CNPJ-8715618000140  FUNDO MUNICIPAL DE SAUDE                                        57    9.781620e+07
+BR-CNPJ-15126437000305 EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH            46    7.694939e+07
+BR-CNPJ-8761124000100  ESTADO DA PARAIBA                                               41    1.912668e+08
+BR-CNPJ-15126437000143 EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES                     41    2.892910e+10
+BR-CNPJ-8948697000139  MUNICIPIO DE POMBAL                                             26    6.741731e+06
+BR-CNPJ-8993917000146  MUNICIPIO DE CAMPINA GRANDE                                     21    8.554370e+07
+BR-CNPJ-24513574000121 FUNDO MUNICIPAL DE SAUDE DE CAMPINA GRANDE                      20    8.708083e+06
+BR-CNPJ-1612690000100  MUNICIPIO DE SAO BENTINHO                                       17    7.621052e+06
+BR-CNPJ-394452000103   COMANDO DO EXERCITO                                             17    3.635243e+07
+BR-CNPJ-35501733000194 INSTITUTO CANDIDA VARGAS                                        17    3.512771e+06
+BR-CNPJ-8782146000148  MUNICIPIO DE DONA INES                                          17    6.980446e+06
+BR-CNPJ-8742264000122  MUNICIPIO DE QUEIMADAS                                          16    2.430082e+07
+esfera (contratações únicas): {'Municipal': 1196, 'Estadual': 475, 'Federal': 145, 'Não se aplica': 66, 'Distrital': 1}
+
+== itens de licitação únicos (ocid+item): 9206
+classification/scheme: {'CATMAT': 9206}
+CATMAT distintos: 1281
+quantidade preenchida 100.0% | valor unitário estimado preenchido 100.0%
+unit/name top: {'Comprimido': 1838, 'Unidade': 1142, 'Frasco': 644, 'Ampola': 527, 'UND': 228, 'Frasco-Ampola': 227, 'Cápsula': 209, 'Amp': 190, 'Caixa': 179, 'COMPRIMIDO': 168, 'Comp.': 167, 'FRASCO': 146}
+unit/name distintos: 330
+dosageForm preenchido 17.5% | administrationRoute 38.4%
+valor unitário estimado = 0: 1782
+
+status dos lotes/itens: {'Em andamento': 4433, 'Homologado': 3910, 'Fracassado': 568, 'Deserto': 208, 'Anulado/Revogado/Cancelado': 87}
+orçamento sigiloso: {None: 7451, 'True': 1755}
+
+== itens adjudicados únicos: 4449 | status: {'Informado': 4403, 'Cancelado': 46}
+itens de licitação com adjudicação correspondente (ocid+item id): 48.0%
+razão unitário adjudicado/estimado: n=4084, quantis {0.05: 0.267, 0.25: 0.57, 0.5: 0.802, 0.75: 0.98, 0.95: 1.0}
+adjudicado > estimado: 56 | razão >10 ou <0.1: 48
+quantidade adjudicada ≠ quantidade licitada: 0.1%
+mesmo nome de unidade (licitado x adjudicado): 100.0%
+
+contratações cujo objeto cita 'medicament': 1039 de 1883
+objeto cita 'odontol' / 'laborat' / 'material': 141 87 348
+
+fornecedores distintos: 559

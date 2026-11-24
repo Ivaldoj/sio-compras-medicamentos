@@ -1,0 +1,5 @@
+ano,licitacao,valor_empenhado,valor_liquidado,valor_pago,empenhos,credores,fonte,base_disponibilidade,classe_temporal
+2024,000000000 | Sem Licitação,73830.9,73830.9,51785.25,7,3,TCE-PB/SAGRES (despesa do próprio município),interna: empenhos de 2024 do próprio órgão,disponivel
+2024,000012024 | Pregão (Lei 14.133/21),656016.25,656016.25,600825.29,123,9,TCE-PB/SAGRES (despesa do próprio município),interna: empenhos de 2024 do próprio órgão,disponivel
+2024,000032024 | Pregão (Lei 14.133/21),210.0,210.0,210.0,1,1,TCE-PB/SAGRES (despesa do próprio município),interna: empenhos de 2024 do próprio órgão,disponivel
+2024,000122024 | Pregão (Lei 14.133/21),1223231.57,1223231.57,1223231.57,117,1,TCE-PB/SAGRES (despesa do próprio município),interna: empenhos de 2024 do próprio órgão,disponivel

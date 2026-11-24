@@ -1,0 +1,20 @@
+{
+ "prompt_identico_ao_enunciado": true,
+ "chamadas_de_ferramenta": 56,
+ "chamadas_nao_conformes": [
+  {
+   "seq": 54,
+   "ferramenta": "Write",
+   "problemas": "conteúdo escrito cita caminho/acesso proibido: ../"
+  }
+ ],
+ "resultados_com_exposicao_a_dados_de_avaliacao": [],
+ "scripts_com_caminho_proibido": [],
+ "entradas_do_ambiente_alteradas": [],
+ "arquivos_novos_fora_de_trabalho_saida": [
+  "scripts/__pycache__/consulta_agente.cpython-313.pyc"
+ ],
+ "pacote_original_alterado": [],
+ "entregaveis_ausentes": [],
+ "plano_por_item_linhas": 334
+}

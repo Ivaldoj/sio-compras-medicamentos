@@ -1,0 +1,6 @@
+registros disponíveis atualizados na fonte após o corte: 45871
+registros: 232014 {'disponivel': 141599, 'posterior': 87287, 'indeterminado': 3128} | possíveis duplicatas BPS (disponíveis): 1058
+pares item×registro disponíveis por compatibilidade: {'compativel': 111377, 'incompativel_capacidade': 26799, 'a_conferir: forma do CATMAT não confirmada': 14162, 'a_conferir: conteúdo do item não extraído': 5726, 'a_conferir: capacidade não informada': 4042, 'incompativel: refil/frasco sem sistema de aplicação': 820, 'incompativel_unidade': 151, 'a_conferir: unidade de fornecimento não informada': 22, 'a_conferir: sistema de aplicação não explícito no registro': 10}
+itens-alvo com ≥1 preço compatível (Compras.gov.br, pré-corte): 246 | itens com só 'a conferir': 27
+item 196: {'incompativel: refil/frasco sem sistema de aplicação': 340, 'a_conferir: unidade de fornecimento não informada': 11, 'a_conferir: sistema de aplicação não explícito no registro': 4}
+item 199: {'incompativel: refil/frasco sem sistema de aplicação': 342, 'a_conferir: unidade de fornecimento não informada': 9, 'a_conferir: sistema de aplicação não explícito no registro': 6}

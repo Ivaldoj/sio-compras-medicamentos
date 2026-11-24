@@ -1,0 +1,6 @@
+id,tabela,alteracao,origem
+E-01,"item_catmat_candidatos, item_catmat_catalogo_oficial, item_bps_grupos, item_comprasgov_registros","removidos 4 pares item×CATMAT com TIPO de insulina diferente do item: [(194, '440255'), (194, '442012'), (195, '442012'), (195, '468664')]",F1
+E-02,item_bps_grupos,1 grupos TUBETE/REFIL/FRASCO em item que exige sistema de aplicação: compativel → incompativel,F1
+E-03,"item_cmed_vinculos, regras_conversao","pré-mistura vinculada a NPH/Regular → incompativel: [(197, '1126001780013')]",F2
+E-04,itens_santa_luzia,"colunas derivadas recalculadas para os itens [194, 195, 197]","F1, F2"
+E-05,LEIA-ME.md,"nota: a lista CMED não publica 20% para produtos do Convênio 87/02 (fonte, não falha)",F4

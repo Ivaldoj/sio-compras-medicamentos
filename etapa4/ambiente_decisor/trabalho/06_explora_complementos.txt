@@ -1,0 +1,112 @@
+   tipo_preco aliquota_icms  count_star()
+0          PF            0%         25549
+1          PF           12%         22089
+2          PF       12% ALC         22089
+3          PF           17%         22089
+4          PF       17% ALC         22089
+5          PF         17,5%         22089
+6          PF     17,5% ALC         22089
+7          PF           18%         22089
+8          PF       18% ALC         22089
+9          PF           19%         22089
+10         PF       19% ALC         22089
+11         PF         19,5%         22089
+12         PF     19,5% ALC         22089
+13         PF           20%         22089
+14         PF       20% ALC         22089
+15         PF         20,5%         22089
+16         PF           21%         22089
+17         PF       21% ALC         22089
+18         PF           22%         22089
+19         PF       22% ALC         22089
+20         PF   Sem Imposto         25549
+21       PMVG            0%         25549
+22       PMVG           12%         22089
+23       PMVG       12% ALC         22089
+24       PMVG           17%         22089
+25       PMVG       17% ALC         22089
+26       PMVG         17,5%         22089
+27       PMVG     17,5% ALC         22089
+28       PMVG           18%         22089
+29       PMVG       18% ALC         22089
+30       PMVG           19%         22089
+31       PMVG       19% ALC         22089
+32       PMVG         19,5%         22089
+33       PMVG     19,5% ALC         22089
+34       PMVG           20%         22089
+35       PMVG       20% ALC         22089
+36       PMVG         20,5%         22089
+37       PMVG           21%         22089
+38       PMVG       21% ALC         22089
+39       PMVG           22%         22089
+40       PMVG       22% ALC         22089
+41       PMVG   Sem Imposto         25549 
+
+   esfera    srp           modalidade                                              criterio_selecao   n                   d0                   d1
+0       M   True  Pregão - Eletrônico                                          CATMAT indexado (MT)  39  2023-09-01T07:03:18  2025-01-28T09:33:42
+1       M   True  Pregão - Eletrônico  descrição do item (MT) comparável a item sem preço praticado   9  2024-07-18T18:31:08  2024-11-22T06:52:36
+2       E   True  Pregão - Eletrônico  descrição do item (MT) comparável a item sem preço praticado   9  2024-05-07T21:38:44  2025-01-02T12:25:46
+3       N   True  Pregão - Eletrônico                                          CATMAT indexado (MT)   6  2024-05-17T08:56:42  2024-11-27T10:37:10
+4       M  False  Pregão - Eletrônico                                          CATMAT indexado (MT)   6  2024-02-28T10:33:06  2025-01-13T13:42:43
+5       E   True  Pregão - Eletrônico                                          CATMAT indexado (MT)   5  2023-07-13T07:00:17  2024-11-21T07:54:34
+6       M  False  Pregão - Eletrônico  descrição do item (MT) comparável a item sem preço praticado   4  2024-12-04T18:30:46  2025-01-07T17:51:26
+7       M  False             Dispensa                                          CATMAT indexado (MT)   2  2024-05-24T16:06:36  2025-01-07T08:33:34
+8       M   True  Pregão - Presencial                                          CATMAT indexado (MT)   1  2025-01-21T16:33:08  2025-01-21T16:33:08
+9       E  False             Dispensa                                          CATMAT indexado (MT)   1  2024-10-23T15:49:29  2024-10-23T15:49:29
+10      N   True  Pregão - Eletrônico  descrição do item (MT) comparável a item sem preço praticado   1  2024-11-18T15:48:49  2024-11-18T15:48:49
+11      F   True  Pregão - Eletrônico                                          CATMAT indexado (MT)   1  2023-12-11T07:01:34  2023-12-11T07:01:34 
+
+    uf  count_star()
+0   MG            17
+1   BA            14
+2   SP            14
+3   ES            11
+4   CE             8
+5   PB             5
+6   PR             3
+7   RO             2
+8   GO             2
+9   RS             2
+10  PE             2
+11  RN             1
+12  RJ             1
+13  MS             1
+14  AL             1 
+
+   itens    n
+0    136  268 
+
+    srp esfera  itens    n          d0          d1
+0  True      E      2    2  2024-08-09  2025-01-21
+1  True      N      2    2  2024-07-30  2024-07-30
+2  True      M    134  264  2024-02-23  2025-01-24 
+
+     n        q25        q24  med_razao   p10  p90  iguais
+0  206  3738850.0  3018300.0        1.0  0.75  2.0      94 
+
+   item                                                                   descricao  quantidade_estimada  preco_unitario_estimado_orgao pregoes_proprios_2024_itens  preco_unitario_homologado  quantidade
+0   120  Dexclorfeniramina 0,4 mg/mL +betametasona xarope 0,05 mg/mL (frasco 120mL)               3000.0                           8.96              PE 01/2024#259                       4.19      1000.0
+1   181                                Hemifumarato de Quetiapina 25mg - comprimido              50000.0                           0.30              PE 01/2024#306                       0.14     80000.0
+2   179                               Hemifumarato de Quetiapina 100mg - comprimido              10000.0                           1.02              PE 01/2024#308                       0.53     10000.0 
+
+  pregoes_proprios_2024_itens
+0              PE 01/2024#232
+1              PE 01/2024#233
+2                PE 01/2024#1
+3                PE 01/2024#3
+4              PE 01/2024#324 
+
+     ano mes_ano  codigo_receita                                                                                                                descricao_receita  codigo_fonte_recurso                                                                                                                       descricao_fonte_recurso     valor                                                                fonte                                                   arquivo_origem                        base_disponibilidade classe_temporal
+0   2024  012024        17135041  Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde – Assistência Farmacêutica - Principal                   600  Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde   7626.91  TCE-PB/SAGRES — receitas 2024 do município (download.tce.pb.gov.br)  data/raw/complementares/tcepb/170_santa_luzia_receitas-2024.zip  interna: receitas de 2024 do próprio órgão      disponivel
+1   2024  022024        17135041  Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde – Assistência Farmacêutica - Principal                   600  Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde  13711.77  TCE-PB/SAGRES — receitas 2024 do município (download.tce.pb.gov.br)  data/raw/complementares/tcepb/170_santa_luzia_receitas-2024.zip  interna: receitas de 2024 do próprio órgão      disponivel
+2   2024  032024        17135041  Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde – Assistência Farmacêutica - Principal                   600  Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde   7626.91  TCE-PB/SAGRES — receitas 2024 do município (download.tce.pb.gov.br)  data/raw/complementares/tcepb/170_santa_luzia_receitas-2024.zip  interna: receitas de 2024 do próprio órgão      disponivel
+3   2024  042024        17135041  Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde – Assistência Farmacêutica - Principal                   600  Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde  35179.85  TCE-PB/SAGRES — receitas 2024 do município (download.tce.pb.gov.br)  data/raw/complementares/tcepb/170_santa_luzia_receitas-2024.zip  interna: receitas de 2024 do próprio órgão      disponivel
+4   2024  052024        17135041  Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde – Assistência Farmacêutica - Principal                   600  Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde  16568.85  TCE-PB/SAGRES — receitas 2024 do município (download.tce.pb.gov.br)  data/raw/complementares/tcepb/170_santa_luzia_receitas-2024.zip  interna: receitas de 2024 do próprio órgão      disponivel
+5   2024  062024        17135041  Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde – Assistência Farmacêutica - Principal                   600  Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde  10568.85  TCE-PB/SAGRES — receitas 2024 do município (download.tce.pb.gov.br)  data/raw/complementares/tcepb/170_santa_luzia_receitas-2024.zip  interna: receitas de 2024 do próprio órgão      disponivel
+6   2024  072024        17135041  Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde – Assistência Farmacêutica - Principal                   600  Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde  19510.79  TCE-PB/SAGRES — receitas 2024 do município (download.tce.pb.gov.br)  data/raw/complementares/tcepb/170_santa_luzia_receitas-2024.zip  interna: receitas de 2024 do próprio órgão      disponivel
+7   2024  082024        17135041  Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde – Assistência Farmacêutica - Principal                   600  Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde  10568.85  TCE-PB/SAGRES — receitas 2024 do município (download.tce.pb.gov.br)  data/raw/complementares/tcepb/170_santa_luzia_receitas-2024.zip  interna: receitas de 2024 do próprio órgão      disponivel
+8   2024  092024        17135041  Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde – Assistência Farmacêutica - Principal                   600  Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde  10568.85  TCE-PB/SAGRES — receitas 2024 do município (download.tce.pb.gov.br)  data/raw/complementares/tcepb/170_santa_luzia_receitas-2024.zip  interna: receitas de 2024 do próprio órgão      disponivel
+9   2024  102024        17135041  Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde – Assistência Farmacêutica - Principal                   600  Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde  16568.85  TCE-PB/SAGRES — receitas 2024 do município (download.tce.pb.gov.br)  data/raw/complementares/tcepb/170_santa_luzia_receitas-2024.zip  interna: receitas de 2024 do próprio órgão      disponivel
+10  2024  112024        17135041  Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde – Assistência Farmacêutica - Principal                   600  Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde   9411.71  TCE-PB/SAGRES — receitas 2024 do município (download.tce.pb.gov.br)  data/raw/complementares/tcepb/170_santa_luzia_receitas-2024.zip  interna: receitas de 2024 do próprio órgão      disponivel
+11  2024  122024        17135041  Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde – Assistência Farmacêutica - Principal                   600  Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde  33143.59  TCE-PB/SAGRES — receitas 2024 do município (download.tce.pb.gov.br)  data/raw/complementares/tcepb/170_santa_luzia_receitas-2024.zip  interna: receitas de 2024 do próprio órgão      disponivel 
+

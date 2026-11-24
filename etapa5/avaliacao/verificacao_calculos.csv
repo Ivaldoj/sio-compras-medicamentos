@@ -1,0 +1,21 @@
+id,verificacao,declarado_pelo_agente,recalculado,confere,observacao
+B1,E1 central = Σ valor de referência do plano por item,"R$ 1.812.130,41","R$ 1.812.130,40",True,"Σ quantidade × preço unitário do plano difere em R$ 4,37 (preços unitários arredondados a 4 casas no CSV)"
+B1,E1 faixa (baixo–alto),"R$ 1.499.015,78 – R$ 2.508.721,52","R$ 1.499.015,80 – R$ 2.508.721,52",True,
+B2,economia potencial central E2 − E1,"R$ 2.220.000,00","R$ 2.223.619,50",True,
+B2,faixa plausível: E2 baixo − E1 baixo,"R$ 800.000,00","R$ 800.988,21",True,
+B2,faixa plausível: E2 alto − E1 alto,"R$ 2.030.000,00","R$ 2.034.872,44",True,
+B2,extremo cruzado: E2 baixo − E1 alto,"R$ -210.000,00","R$ -208.717,51",True,
+B2,extremo cruzado: E2 alto − E1 baixo,"R$ 3.040.000,00","R$ 3.044.578,16",True,
+B2,economia vs R1 (estimativa limitada ao teto): R1 − E1,"R$ 1.740.000,00","R$ 1.744.020,80",True,
+B2,faixa vs R1: R1 − E1 alto,"R$ 1.050.000,00","R$ 1.047.429,68",True,
+B2,faixa vs R1: R1 − E1 baixo,"R$ 2.060.000,00","R$ 2.057.135,40",True,
+B3,referência central ≤ teto máximo aplicável (itens com teto),sempre,0 itens acima,True,
+B4,nenhum preço 'a conferir' como referência central,0,0,True,
+B5,teto máximo usado é teto de vínculo aceito (exata/compatível) na alíquota da PB,sempre,0 itens fora,True,[]
+B6,uma categoria de valor por referência,sim,5 categorias; nulos 0,True,preco_unitario_praticado_por_unidade_fornecimento (mediana): 247; derivado: preco_estimado_pelo_orgao ÷ razão mediana estimativa/praticado: 63; preco_unitario_estimado_por_outro_orgao (por unidade do item): 17; preco_unitario_homologado (por unidade do item): 6; preco_unitario_homologado (próprio órgão): 1
+B7,itens com estimativa acima do teto (confirmados),41,41,True,
+B7,itens sem referência externa,63,63,True,
+B7,itens a conferir,25,25,True,
+B7,excesso das estimativas sobre o teto,"R$ 1.396.000,00","R$ 1.396.286,34",True,
+B7,parte do excesso nas canetas 196 e 199,"85,6%",85.6%,True,
+B8,exclusivos ME/EPP pelo critério declarado (valor de referência do agente ≤ R$ 80.000),332 itens,332 marcados; 0 acima de R$ 80 mil,True,"pela estimativa ORIGINAL do órgão o resultado muda: marcados com estimativa > R$ 80 mil = [28, 100, 199, 294]; não marcados com estimativa ≤ R$ 80 mil = [32]. O critério do agente só vale se a referência saneada virar o valor estimado do edital (o que ele recomenda)"

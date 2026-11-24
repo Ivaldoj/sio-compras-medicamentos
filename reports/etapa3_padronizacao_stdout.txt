@@ -1,0 +1,11 @@
+﻿CATMAT pré-corte: {'unico': 210, 'nao_identificado': 78, 'multiplo': 32, 'parcial': 14} | pares: 311
+CMED pré-corte: pares 20369 | por classe: {'incompativel': 15205, 'compativel_conversao': 4616, 'exata': 252, 'indeterminada': 232, 'provavel_conferencia': 64}
+CMED pré-corte por item (melhor classe): {'compativel_conversao': 186, 'incompativel': 55, 'exata': 36, 'sem_candidato': 22, 'indeterminada': 19, 'provavel_conferencia': 16}
+
+Revisão Etapa 2: itens 259 | pares 1023 | pares por classe: {'compativel_conversao': 599, 'incompativel': 315, 'indeterminada': 50, 'exata': 42, 'provavel_conferencia': 17}
+  por item (melhor classe): {'compativel_conversao': 148, 'incompativel': 69, 'exata': 20, 'indeterminada': 13, 'provavel_conferencia': 9} | pares também achados pré-corte: 931
+
+auditoria: itens com CATMAT nas duas abordagens: 217 | concordância: 95.9%
+pendências de conversão: {'bloqueado: apresentação distinta (não converter)': 1611, 'exige conferência humana': 296} | itens envolvidos: 152
+item 196: {'incompativel': 27, 'exata': 1, 'compativel_conversao': 1}
+item 28: {'incompativel': 109, 'compativel_conversao': 2, 'exata': 1, 'indeterminada': 1}

@@ -1,0 +1,4 @@
+{'PASSOU': 108}
+Empty DataFrame
+Columns: [grupo, teste, resultado, detalhe]
+Index: []

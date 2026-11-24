@@ -1,0 +1,4 @@
+item,descricao,quantidade,preco_estimado_orgao,mediana_praticada_compat_v1,n_v1,mediana_praticada_compat_v2,n_v2,valor_ref_mediana_v1,valor_ref_mediana_v2,teto_max_v1,teto_max_v2,alerta_acima_teto_v1,alerta_acima_teto_v2,excesso_sobre_teto_v2
+194,Insulina análoga de ação prolongada 100UI/mL Solução Injetável com sistema de aplicação 3ml,100.0,195.68,25.498,14,141.58,2,2549.8,14158.000000000002,,,False,False,
+195,Insulina análoga de ação rápida  100UI/mL Solução Injetável com sistema de aplicação 3ml,100.0,194.76,25.498,14,32.35,3,2549.8,3235.0,,,False,False,
+197,Insulina Humana NPH 100UI/mL- suspensão injetável (frasco 10ml),500.0,55.49,21.82,445,21.82,445,10910.0,10910.0,63.46,50.77,False,True,2359.9999999999995

@@ -1,0 +1,17 @@
+﻿CMED jan/2025: linha de cabeçalho 52 | apresentações: 25549 | colunas: 65 | registros distintos: 25549
+tamanho do registro: {13: 25547, 9: 1, 12: 1}
+regime: {'Regulado': 22791, 'Liberado': 2758} | CAP=Sim: 2568 | restrição hospitalar=Sim: 3911
+PF sem impostos vazio: 0 | PMVG sem impostos vazio: 0
+colunas só em jan/2025: ['COMERCIALIZAÇÃO 2022', 'DESTINAÇÃO COMERCIAL', 'PF 12%', 'PF 12% ALC', 'PF 17%', 'PF 17% ALC', 'PF 17,5%', 'PF 17,5% ALC', 'PF 18%', 'PF 18% ALC', 'PF 19%', 'PF 19% ALC', 'PF 19,5%', 'PF 19,5% ALC', 'PF 20%', 'PF 20% ALC', 'PF 20,5%2', 'PF 21%', 'PF 21% ALC', 'PF 22%', 'PF 22% ALC', 'PMVG 0%', 'PMVG 12%', 'PMVG 12% ALC', 'PMVG 17%', 'PMVG 17% ALC', 'PMVG 17,5%', 'PMVG 17,5% ALC', 'PMVG 18%', 'PMVG 18% ALC', 'PMVG 19%', 'PMVG 19% ALC', 'PMVG 19,5%', 'PMVG 19,5% ALC', 'PMVG 20%', 'PMVG 20% ALC', 'PMVG 20,5%', 'PMVG 21%', 'PMVG 21% ALC', 'PMVG 22%', 'PMVG 22% ALC', 'PMVG Sem Imposto']
+colunas só em nov/2026: ['COMERCIALIZAÇÃO 2025', 'DESTINAÇÃO COMERCIAL 9', 'PF 12 %', 'PF 12 %  ALC', 'PF 17 %', 'PF 17 %  ALC', 'PF 17,5 %', 'PF 17,5 %  ALC', 'PF 18 %', 'PF 18 %  ALC', 'PF 19 %', 'PF 19 %  ALC', 'PF 19,5 %', 'PF 19,5 %  ALC', 'PF 20 %', 'PF 20 %  ALC', 'PF 20,5 %', 'PF 20,5 %  ALC', 'PF 21 %', 'PF 21 %  ALC', 'PF 22 %', 'PF 22 %  ALC', 'PF 22,5 %', 'PF 22,5 %  ALC', 'PF 23 %', 'PF 23 %  ALC', 'PMVG 0 %', 'PMVG 12 %', 'PMVG 12 %  ALC', 'PMVG 17 %', 'PMVG 17 %  ALC', 'PMVG 17,5 %', 'PMVG 17,5 %  ALC', 'PMVG 18 %', 'PMVG 18 %  ALC', 'PMVG 19 %', 'PMVG 19 %  ALC', 'PMVG 19,5 %', 'PMVG 19,5 %  ALC', 'PMVG 20 %', 'PMVG 20 %  ALC', 'PMVG 20,5 %', 'PMVG 20,5 %  ALC', 'PMVG 21 %', 'PMVG 21 %  ALC', 'PMVG 22 %', 'PMVG 22 %  ALC', 'PMVG 22,5 %', 'PMVG 22,5 %  ALC', 'PMVG 23 %', 'PMVG 23 %  ALC', 'PMVG Sem Impostos']
+
+itens: 334 | com CATMAT: 299 | com registro Anvisa no BPS pré-decisão: 263 | com ≥1 apresentação na CMED jan/2025: 259 (79.7% do valor estimado)
+apresentações por item (itens vinculados): mediana 3, máx 17
+itens vinculados com CAP=Sim em alguma apresentação: 14
+
+exemplos (3 maiores itens):
+                                                                                descricao      PRODUTO                                       APRESENTAÇÃO  PF Sem Impostos  PMVG Sem Imposto  CAP
+item                                                                                                                                                                                            
+28                                    Amoxicilina 50 mg/ml - Pó para suspensão Oral 60mL  AMOXICILINA  50 MG/ML PO SUS OR CT FR PLAS OPC X 150 ML  + COP            31.64             24.83  Não
+196     Insulina Humana NPH 100UI/mL- suspensão injetável  3 mL com sistema de aplicação    NOVOLIN N           100 UI/ML SUS INJ CT FA VD TRANS X 10 ML            50.36             39.52  Não
+199   Insulina Humana Regular 100UI/mL - solução injetável 3 mL com sistema de aplicação    NOVOLIN R           100 UI/ML SOL INJ CT FA VD TRANS X 10 ML            50.36             39.52  Sim

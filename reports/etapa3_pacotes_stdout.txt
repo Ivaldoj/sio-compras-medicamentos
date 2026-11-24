@@ -1,0 +1,4 @@
+CMED: apresentações 25549 | linhas de preço 941578
+itens: 334 | identificação: {'validada por atributos (1 CATMAT)': 210, 'ausente': 78, 'validada por atributos (vários CATMAT equivalentes)': 32, 'incompleta (forma não confirmada)': 14}
+preço praticado: {'disponível': 234, 'ausente': 90, 'a conferir': 10} | teto CMED: {'disponível (conversão por regra)': 222, 'bloqueado/incompatível': 55, 'a conferir': 35, 'ausente': 22}
+manifesto: 17 arquivos, 15574504 bytes

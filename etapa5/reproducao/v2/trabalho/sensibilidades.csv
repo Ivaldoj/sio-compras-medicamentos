@@ -1,0 +1,10 @@
+cenario,E1_central,E2_central,E2_menos_E1,obs
+base,1813119.1025490197,4035752.6669000695,2222633.5643510497,
+a conferir = compatível,1818753.6419607843,4048899.2063118345,2230145.56435105,usa mediana dos registros a conferir (limitada ao teto) nos itens a conferir que os têm
+a conferir = incompatível,1813119.1025490197,4035752.6669000695,2222633.5643510497,idêntico ao base: o central nunca usa preço a conferir
+mediana só municipal,1810919.9825490196,4034290.9019000693,2223370.9193510497,
+canetas 196/199 substituídas por frasco (custo por UI),1730614.3025490197,,,"só medicamento; sem seringas/agulhas; decisão clínica, não de compra"
+referência = estimativa do órgão limitada ao teto (R1),3553791.2012698418,,,pior caso de E1 se o pregão aceitasse lances até a referência inflada
+E2 fornecedor escolhe livremente (mediana dos registros),1813119.1025490197,4546889.743062925,2733770.640513905,
+E2 extremo: fornecedor entrega o registro de maior preço,1813119.1025490197,10288524.059038624,8475404.956489604,
+E2 fornecedor escolhe o registro de menor preço,1813119.1025490197,2301255.550092566,488136.4475435461,

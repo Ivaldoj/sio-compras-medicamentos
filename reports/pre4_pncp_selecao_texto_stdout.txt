@@ -1,0 +1,2 @@
+MT pré-corte: 14042 contratações | 59005 itens indexados | contratações com item-alvo por descrição: 102
+selecionadas: 29 | itens-alvo cobertos: 35 de 100 | % do valor dos itens-alvo: 78.4 | alvo cobertos: [26, 27, 48, 50, 52, 69, 77, 83, 97, 101, 111, 112, 113, 116, 118, 120, 145, 146, 172, 173, 196, 199, 202, 207, 215, 216, 221, 231, 232, 233, 246, 255, 279, 280, 310]

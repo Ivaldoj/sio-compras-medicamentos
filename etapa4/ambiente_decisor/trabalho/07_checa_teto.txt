@@ -1,0 +1,16 @@
+   itens  iguais_pacote  so_alerta  muda_com_alerta
+0    226            226          0               51 
+
+   item       registro                                              apresentacao  fator_conversao tipo_preco  valor_embalagem  valor_por_unidade_item                                                                                     status
+0   142  1134302190046         50 MG/ML SOL INJ IM/IV CX 25 AMP VD TRANS X 10 ML             25.0         PF          1583.37                 63.3348  aceita por regra; verificação automática COM ALERTA (conferir); validação humana pendente
+1   142  1134302190062        50 MG/ML SOL INJ IM/IV CX 100 AMP VD TRANS X 10 ML            100.0         PF          6333.49                 63.3349  aceita por regra; verificação automática COM ALERTA (conferir); validação humana pendente
+2   142  1134302190054         50 MG/ML SOL INJ IM/IV CX 50 AMP VD TRANS X 10 ML             50.0         PF          3166.74                 63.3348  aceita por regra; verificação automática COM ALERTA (conferir); validação humana pendente
+3   157  1029800810159          0,05 MG/ML SOL INJ IM/IV CX 25 FA VD AMB X 10 ML             25.0         PF           494.15                 19.7660  aceita por regra; verificação automática COM ALERTA (conferir); validação humana pendente
+4   157  1029800810231         0,05 MG/ML SOL INJ IM/IV CX 5 FA VD TRANS X 10 ML              5.0         PF           117.29                 23.4580  aceita por regra; verificação automática COM ALERTA (conferir); validação humana pendente
+5   157  1029800810256    0,05 MG/ML SOL INJ IM/IV CX 25 FA VD AMB TP BR X 10 ML             25.0         PF           494.15                 19.7660  aceita por regra; verificação automática COM ALERTA (conferir); validação humana pendente
+6   157  1029800810280        0,05 MG/ML SOL INJ IM/IV CX 25 FA VD TRANS X 10 ML             25.0         PF           494.15                 19.7660  aceita por regra; verificação automática COM ALERTA (conferir); validação humana pendente
+7   157  1029800810272  0,05 MG/ML SOL INJ IM/IV CX 25 FA VD TRANS TP BR X 10 ML             25.0         PF           494.15                 19.7660  aceita por regra; verificação automática COM ALERTA (conferir); validação humana pendente 
+
+     n  com_teto
+0  334       226 
+

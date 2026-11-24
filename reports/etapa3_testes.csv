@@ -1,0 +1,109 @@
+grupo,teste,resultado,detalhe
+temporal,nacional/bps_precos_praticados.parquet: só classe 'disponivel',PASSOU,{'disponivel': 225518}
+temporal,nacional/bps_precos_praticados.parquet: max(data_disponibilidade) <= corte,PASSOU,2024-12-13 00:00:00
+temporal,nacional/bps_precos_praticados.parquet: max(data_insercao) <= corte,PASSOU,2024-12-13 00:00:00
+temporal,nacional/cmed_2025_01_apresentacoes.parquet: max(data_disponibilidade) <= corte,PASSOU,2025-01-06 00:00:00
+temporal,nacional/cmed_2025_01_precos.parquet: max(data_disponibilidade) <= corte,PASSOU,2025-01-06 00:00:00
+temporal,nacional/comprasgov_precos_praticados.parquet: só classe 'disponivel',PASSOU,{'disponivel': 141599}
+temporal,nacional/comprasgov_precos_praticados.parquet: max(data_disponibilidade) <= corte,PASSOU,2025-01-29 00:00:00
+temporal,nacional/pncp_comparaveis_contratacoes.parquet: só classe 'disponivel',PASSOU,{'disponivel': 84}
+temporal,nacional/pncp_comparaveis_contratacoes.parquet: max(data_disponibilidade) <= corte,PASSOU,2025-01-28 09:33:42
+temporal,nacional/pncp_comparaveis_contratacoes.parquet: max(data_publicacao_pncp) <= corte,PASSOU,2025-01-28 09:33:42
+temporal,nacional/pncp_comparaveis_itens.parquet: só classe 'disponivel',PASSOU,{'disponivel': 4988}
+temporal,nacional/pncp_comparaveis_itens.parquet: max(data_disponibilidade) <= corte,PASSOU,2025-01-28 09:33:42
+temporal,nacional/pncp_comparaveis_itens.parquet: max(data_inclusao) <= corte,PASSOU,2025-01-28 09:33:42
+temporal,nacional/pncp_comparaveis_resultados.parquet: só classe 'disponivel',PASSOU,{'disponivel': 269}
+temporal,nacional/pncp_comparaveis_resultados.parquet: max(data_disponibilidade) <= corte,PASSOU,2025-01-28 11:19:16
+temporal,nacional/pncp_comparaveis_resultados.parquet: max(data_inclusao) <= corte,PASSOU,2025-01-28 11:19:16
+temporal,organizacional/execucao_farmaco_2024_mensal.csv: só classe 'disponivel',PASSOU,{'disponivel': 10}
+temporal,organizacional/execucao_farmaco_2024_por_licitacao.csv: só classe 'disponivel',PASSOU,{'disponivel': 4}
+temporal,organizacional/historico_proprio_pregoes_2024.parquet: só classe 'disponivel',PASSOU,{'disponivel': 352}
+temporal,organizacional/historico_proprio_pregoes_2024.parquet: max(data_publicacao_pncp) <= corte,PASSOU,2024-03-21 21:47:05
+temporal,organizacional/itens_santa_luzia.parquet: só classe 'disponivel',PASSOU,{'disponivel': 334}
+temporal,organizacional/itens_santa_luzia.parquet: max(data_disponibilidade) <= corte,PASSOU,2025-01-29 00:00:00
+vazamento,organizacional/itens_santa_luzia.parquet: sem colunas de resultado do PE 04/2025,PASSOU,set()
+temporal,organizacional/receitas_sus_2024.csv: só classe 'disponivel',PASSOU,{'disponivel': 74}
+temporal,organizacional/recursos.csv: só classe 'disponivel',PASSOU,{'disponivel': 7}
+temporal,organizacional/recursos.csv: max(data_disponibilidade) <= corte,PASSOU,2025-01-29 00:00:00
+temporal,organizacional/restricoes.csv: só classe 'disponivel',PASSOU,{'disponivel': 8}
+temporal,organizacional/restricoes.csv: max(data_disponibilidade) <= corte,PASSOU,2025-01-29 00:00:00
+proveniência,padronizacao/item_bps_grupos.parquet: tem data/base de disponibilidade ou é derivado documentado,PASSOU,derivado de tabelas pré-corte
+vazamento,padronizacao/item_bps_grupos.parquet: sem colunas de resultado do PE 04/2025,PASSOU,set()
+proveniência,padronizacao/item_catmat_candidatos.parquet: tem data/base de disponibilidade ou é derivado documentado,PASSOU,derivado de tabelas pré-corte
+vazamento,padronizacao/item_catmat_candidatos.parquet: sem colunas de resultado do PE 04/2025,PASSOU,set()
+proveniência,padronizacao/item_catmat_catalogo_oficial.parquet: tem data/base de disponibilidade ou é derivado documentado,PASSOU,derivado de tabelas pré-corte
+vazamento,padronizacao/item_catmat_catalogo_oficial.parquet: sem colunas de resultado do PE 04/2025,PASSOU,set()
+proveniência,padronizacao/item_cmed_vinculos.parquet: tem data/base de disponibilidade ou é derivado documentado,PASSOU,derivado de tabelas pré-corte
+vazamento,padronizacao/item_cmed_vinculos.parquet: sem colunas de resultado do PE 04/2025,PASSOU,set()
+proveniência,padronizacao/item_comprasgov_registros.parquet: tem data/base de disponibilidade ou é derivado documentado,PASSOU,derivado de tabelas pré-corte
+vazamento,padronizacao/item_comprasgov_registros.parquet: sem colunas de resultado do PE 04/2025,PASSOU,set()
+vazamento,padronizacao/regras_conversao.csv: sem colunas de resultado do PE 04/2025,PASSOU,set()
+vazamento,nomes de arquivo e textos sem identificadores/valores pós-corte,PASSOU,[]
+vazamento,BPS do pacote sem compras de Santa Luzia de 2025,PASSOU,0
+vazamento,nenhuma coluna dos itens reproduz o preço homologado,PASSOU,[]
+vazamento,"preço estimado do órgão é pré-corte (coincidência com homologado registrada, não vazamento)",PASSOU,12.9% dos itens com estimado = homologado
+vazamento,comparáveis PNCP sem contratações de 2025/2026 de Santa Luzia,PASSOU,0
+temporal,todo resultado PNCP disponível tem item disponível,PASSOU,0
+reprodutibilidade,hashes do manifesto conferem,PASSOU,[]
+reprodutibilidade,todo arquivo do pacote está no manifesto,PASSOU,[]
+vazamento,manifesto não aponta para evaluation_only/reports,PASSOU,
+temporal,CMED do pacote é a lista de 06/01/2025,PASSOU,"[{'a': Timestamp('2025-01-06 00:00:00'), 'b': Timestamp('2025-01-06 00:00:00')}]"
+vazamento,módulo de consulta recusa caminho fora de decision_input,PASSOU,
+integridade referencial,item_cmed.item ⊆ itens,PASSOU,0
+integridade referencial,item_cmed.registro ⊆ cmed_apresentacoes,PASSOU,0
+integridade referencial,cmed_precos.registro ⊆ cmed_apresentacoes,PASSOU,0
+integridade referencial,item_catmat.item ⊆ itens,PASSOU,0
+integridade referencial,item_catmat.catmat ⊆ bps,PASSOU,0
+integridade referencial,item_bps_grupos ⊆ item_catmat,PASSOU,0
+integridade referencial,pncp_itens ⊆ pncp_contratacoes,PASSOU,0
+unicidade,itens.item,PASSOU,0
+unicidade,bps.id_origem,PASSOU,0
+unicidade,cmed_apresentacoes.registro,PASSOU,0
+unicidade,"item_cmed (item, registro)",PASSOU,0
+unicidade,"item_catmat (item, catmat)",PASSOU,0
+unicidade,pncp_contratacoes,PASSOU,0
+unicidade,"pncp_itens (contratação, item)",PASSOU,0
+duplicidade,BPS: duplicatas de negócio marcadas (não removidas),PASSOU,"[{'dup': 473.0, 'ext': 3008.0, 'n': 225518}]"
+consistência,"334 itens, soma R$ 4.952.438,00, total = qtd × preço, qtd > 0",PASSOU,"[{'n': 334, 'v': 4952438.0, 'inc': 0.0, 'q0': 0.0}]"
+consistência,"BPS: preços >= 0, quantidades > 0, total = unitário × quantidade",PASSOU,"[{'neg': 0.0, 'q0': 0.0, 'tot': 0.0}]"
+consistência,CMED: valores não negativos,PASSOU,0.0
+consistência,"PMVG publicado = PF × (1 − 21,53%) (CAP já aplicado; não reaplicar)",PASSOU,0.0 pares fora de ±1 p.p.
+compatibilidade de unidades,vínculos aceitos têm fator inteiro >= 1 (exata = 1),PASSOU,"[{'n': 0.0, 'e': 0.0}]"
+validade das correspondências,reclassificação dos vínculos aceitos é determinística,PASSOU,0
+validade das correspondências,insulina 3 mL (item 196) não converte frasco de 10 mL,PASSOU,0
+validade das correspondências,amoxicilina 60 mL (item 28) não converte 150 mL,PASSOU,0
+proveniência,"bps: fonte, id_origem, arquivo_origem preenchidos",PASSOU,0
+proveniência,"item_cmed: fonte, origem_vinculo preenchidos",PASSOU,0
+proveniência,item_catmat: fonte preenchidos,PASSOU,0
+proveniência,cmed_apresentacoes: fonte preenchidos,PASSOU,0
+ICMS PB,no máximo uma alíquota aplicável por apresentação e tipo de preço,PASSOU,0
+ICMS PB,"alíquota aplicável = 0% (isento ou Conv. 87/02) ou 20% (demais), conforme a regra documentada",PASSOU,0.0
+ICMS PB,apresentações sem preço na alíquota aplicável (informativo),PASSOU,0 apresentações sem a coluna aplicável preenchida na lista
+ICMS PB,teto_cmed() devolve por padrão só a alíquota aplicável na PB,PASSOU,"['0%', '20%']"
+temporal,Compras.gov.br: resultado <= corte e compra <= resultado,PASSOU,"[{'r': Timestamp('2025-01-29 00:00:00'), 'inv': 0.0, 'n': 141599, 'u': 141599}]"
+unicidade,comprasgov.id_origem,PASSOU,0
+integridade referencial,item_comprasgov.id_origem ⊆ comprasgov,PASSOU,0
+validade das correspondências,"insulinas em caneta (196, 199): refil/frasco do Compras.gov.br nunca compatível",PASSOU,0
+integridade referencial,item_catmat_oficial.item ⊆ itens,PASSOU,0
+validade das correspondências,registros de teste da lista CMED fora dos vínculos,PASSOU,0
+validade das correspondências,'CX C/5 AMP' converte 5 ampolas (erro achado na inspeção),PASSOU,5.0
+validade das correspondências,liberação modificada nunca aceita para item de liberação convencional,PASSOU,0
+validade das correspondências,contagem implausível 'CX 50 BL … X 350' não é aceita,PASSOU,0
+validade das correspondências,item 199 (insulina Regular em caneta) só converte solução com sistema de aplicação,PASSOU,"[{'n': 2, 'ok': 2.0}]"
+verificação de conversões,toda conversão aceita tem verificação automática registrada,PASSOU,"{'aceita por regra; verificação automática sem alerta; validação humana pendente': 4666, 'aceita por regra; verificação automática COM ALERTA (conferir); validação humana pendente': 210}"
+verificação de conversões,status mantém 'validação humana pendente',PASSOU,
+verificação de conversões,amostra inspecionada registrada com veredito por apresentação,PASSOU,"{'fator confere com a contagem impressa na apresentação': 323, 'ERRO': 4, 'fator confere; RESSALVA': 3}"
+organizacional,recursos: repasse federal de Assistência Farmacêutica 2024 registrado (TCE-PB),PASSOU,[191055.78]
+organizacional,"itens: quantidade licitada nos pregões próprios de 2024 (sinal de demanda, não consumo)",PASSOU,206
+temporal,varredura: nenhuma coluna de data do pacote > corte (salvo exceção documentada),PASSOU,[]
+vazamento,"sem colunas de situação/atualização atuais (ex.: 'Homologado' posterior, status do catálogo em 2026)",PASSOU,[]
+vazamento,resultados PNCP: cancelamento só marcado se ocorreu até o corte,PASSOU,0
+separação,BPS: nenhum registro ao mesmo tempo no pacote e em evaluation_only,PASSOU,0
+separação,Compras.gov.br: nenhum registro ao mesmo tempo no pacote e em evaluation_only,PASSOU,0
+separação,PNCP resultados: nenhum registro ao mesmo tempo no pacote e em evaluation_only,PASSOU,0
+separação,PNCP itens: nenhum registro ao mesmo tempo no pacote e em evaluation_only,PASSOU,0
+consultas,recupera as 334 necessidades e as restrições (inclui armazenamento),PASSOU,334 itens; 8 restrições
+consultas,histórico nacional elegível do item 76 (cefalexina 500 mg),PASSOU,"768 registros, 22 UFs, 2020-01-03 00:00:00..2024-09-27 00:00:00"
+consultas,preços compatíveis com fonte e categoria (item 76),PASSOU,"{('BPS', 'preco_unitario_praticado_por_unidade_fornecimento'): 768, ('Compras.gov.br', 'preco_unitario_praticado (homologado no Compras.gov.br, por unidade de fornecimento)'): 1032, ('PNCP', 'preco_unitario_estimado_por_outro_orgao (por unidade do item)'): 8, ('PNCP', 'preco_unitario_homologado (por unidade do item)'): 2}"
+consultas,referências CMED do item 28 com aplicabilidade e alíquotas preservadas,PASSOU,6 linhas; alíquotas 2
+consultas,bloqueados do item 196 incluem frasco 10 mL,PASSOU,27 linhas bloqueadas

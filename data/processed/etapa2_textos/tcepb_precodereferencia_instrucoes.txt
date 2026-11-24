@@ -1,0 +1,616 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+2 
+ 
+ 
+ 
+Resumo da Ferramenta 3 
+Informações Importantes 4 
+Passo a Passo 7 
+1. Criando uma LISTA DE PRODUTOS 7 
+2. Definindo os REQUISITOS TÉCNICOS 8 
+3. Definindo os FILTROS 12 
+4. Gerando a COTAÇÃO DE PREÇOS 14 
+5. Gerando o CERTIFICADO ELETRÔNICO 20 
+  
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+3 
+ 
+Neste Guia Rápido , apresentaremos as instruções de uso do painel de Preço de 
+Referência, plataforma desenvolvida a partir de parceria realizada entre o Tribunal de 
+Contas do Estado da Paraíba, Governo do Estado da Paraíba e a Universidade 
+Federal da Paraíba. 
+Com esta ferramenta, as divisões de licitação  e compras  dos órgãos públicos e 
+entidades dos Poderes Executivo, Legislativo e Judiciário do Estado e dos Municípios 
+da Paraíba terão acesso a um vasto histórico de preços de produtos vendidos a Pessoa 
+Física e Jurídica de nossa região. 
+Todos os gestores públicos poderão utilizar o Preço de Referência como ferramenta 
+auxiliar em seus processos de cotação  de preços (mapas e planilhas de preços) 
+a serem adquiridos pelos órgãos, a partir do banco de dados de cupons e notas fiscais 
+eletrônicas da Secretaria de Estado da Fazenda da Paraíba. 
+Inicialmente destacamos que, diferente de outr os sites disponíveis em meio digital 
+atualmente, a plataforma Preço de Referência possui dois aspectos relevantes a serem 
+destacados: 
+1. Os preços computados levam em consideração todas as compras ocorridas  na 
+Paraíba nos últimos doze meses, seja por sites da internet ou presencialmente 
+nos estabelecimentos, desde que geradoras do  correspondente documento 
+fiscal (NFE e NFC-e) cujo destinatário seja pessoa física ou jurídica localizad a 
+na Paraíba; 
+2. Não se trata apenas de preços praticados nas aquisições realizadas pela 
+administração pública. Como será visto adiante, os preços calcula dos são 
+divididos entre valor médio das vendas a pessoa física, pessoa jurídica e, 
+separadamente, órgãos públicos. 
+Por fim, antes de iniciarmos o passo a passo da utilização do software, registramos que, 
+independentemente do uso do Preço de Referência, todas as normas constitucionais, 
+legais e infralegais atinentes a processos licitatórios vigentes no país devem 
+continuar sendo observadas. 
+ 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+4 
+ 
+ 
+ 
+1. Por que utilizar o painel de “Preço de Referência”? 
+O sistema foi desenvolvido para auxiliar os gestores públicos, especialmente as divisões 
+de licitações e compras dos órgãos públicos em todas as cidades da Paraíba, durante 
+a fase de elaboração dos mapas de preços, colaborando na geração dos valores de 
+referência praticados nos processos licitatórios. 
+A partir do Preço de Referência as equipes terão acesso aos preços médio, mínimo e 
+máximo praticados no mercado nos últimos doze meses, a partir do banco de dados de 
+todos os cupons e notas fiscais emitidos para consumidores na Paraíba, sejam Pessoa 
+Física ou Jurídica, inclusive órgãos públicos. 
+ 
+2. O “Preço de Referência ” altera alguma lei ou norma dos 
+processos de licitação? 
+Todas as leis e normas vigentes relacionadas aos processos licitatórios devem continuar 
+sendo observadas, sejam elas atinentes aos pregões, convites, tomada de preços, 
+concorrências, dispensas, inexigibilidades etc.  
+A ferramenta Preço de Referência auxilia os gestores na pesquisa dos preços praticados 
+em todas as cidades da Paraíba , especialmente durante a  elaboração de mapas e 
+planilhas de preços, mantendo-se, contudo, todas as exigências normativas atinentes 
+aos processos licitatórios executados. 
+ 
+3. De onde vêm os dados que o “Preço de Referência” utiliza? 
+Todos os preços apresentados pela plataforma são oriundos da base de dados de Notas 
+e Cupons Fiscais Eletrônicos (SEFAZ-PB), emitidos sempre que um  estabelecimento 
+vende para consumidores localizados no Estado da Paraíba, sejam estes Pessoa Física 
+ou Jurídica. 
+O sistema exibe os preços mínimo, máximo e médi o praticados pelo mercado , 
+oficialmente registrados na base de dados do Governo do Estado da Paraíba . As 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+5 
+informações apresentadas pela plataforma, tais como pre ço, descrição do produto e 
+número do código de barras são obtidas diretamente dos campos existentes nos cupons 
+e notas fiscais, sendo de responsabilidade direta das empresas contribuintes. 
+Além desses dados , também foram usados no Preço de Referência  as se guintes 
+informações: Código Internacional de Produtos (GTIN); Divisão Territorial do Brasil e 
+Comissão Nacional de Classificação  (CONCLA), Instituto Brasileiro de Geografia e 
+Estatística (IBGE); Base cadastral dos contribuintes, Receita Estadual da Paraíba (SER-
+PB); Códigos dos Produtos, Agência Nacional do Petróleo, Gás Natural e 
+Biocombustíveis (ANP);  Tabelas de Classificação da Nomenclatura Comum do 
+Mercosul (NCM), Ministério da Indústria, Comércio Exterior e  Serviços (MDIC); 
+Geodados, Google Maps ; Câmara de Regulação do Mercado de Medicamentos 
+(CMED), Agência Nacional de Vigilância Sanitária (ANVISA). 
+ 
+4. Encontro cotação de qualquer produto no  “Preço de 
+Referência”? 
+Todos os produtos vendidos para consumidores da Paraíba, mediante emissão de 
+cupom ou nota fiscal, serão registrados no banco de dados pesquisado pelo Preço de 
+Referência. 
+Todavia as consultas realizadas pelo sistema consideram o código de barras  dos 
+produtos para cotar o preço de cada um deles. Sendo assim, são levadas em conta as 
+vendas realizadas cujos estabelecimentos preencham esses códigos nos documentos 
+fiscais. 
+Também é importante registrar que as cotações podem considerar os dados de até doze 
+meses de venda no mercado, além de se terem disponíveis filtros por regiões ou 
+municípios específicos do Estado da Paraíba.  
+De modo a se garantir segurança estatística na geração das cotações, só são exibidos 
+os preços de produtos com mais de trinta notas fiscais  emitidas no período 
+consultado. 
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+6 
+ 
+CONSIDERANDO A COMPOSIÇÃO E LIMITAÇÕES DO 
+BANCO DE DADOS UTILIZADO PELA FERRAMENTA, 
+ESPECIALMENTE NO TOCANTE A DADOS CONSTANTES 
+DE ALGUNS CUPONS E NOTAS FISCAIS EMITIDOS COM 
+IMPRECISÃO, RECOMENDA-SE O COTEJAM ENTO DOS 
+PREÇOS GERADOS PELO SISTEMA COM OUTRAS 
+FONTE DE COTAÇÃO. 
+ 
+5. Por que devo ler e seguir todas as orientações contidas nestas 
+Instruções de Uso do “Preço de Referência”? 
+A utilização inadequada da plataforma, sem que as instruções de uso deste documento 
+sejam devidamente seguidas, poderá gerar valores super ou subestimados na cotação 
+de preços. Em outras palavras, o gestor público correrá o risco de estar definindo, para 
+seu processo licitatório, um preço limite para as aquisições muito acima ou muito abaixo 
+do mercado. 
+No primeiro caso, uma das consequências danosas seria o gasto a maior nas compras 
+públicas. Conforme previsto nas normas vigentes, os preços máximos estabelecidos 
+pela administração pública devem ser corretamente referenciados de acordo com 
+valores do mercado.  
+Já no caso das cotações subestimadas, muito abaixo do valor de mercado, com preços 
+equivalentes, por exemplo, a 30% ou menos que o praticado no mercado, surge – entre 
+outros riscos – o da licitação deserta ou de propostas inexequíveis. 
+ 
+CONSIDERANDO QUE A PLATAFORMA É UMA 
+FERRAMENTA AUXILIAR  NOS PROCESSOS DE 
+COTAÇÃO DE PREÇOS, RECOMENDAMOS QUE OS 
+VALORES GERADOS SEJAM CONSISTIDOS A PARTIR DE 
+OUTRAS FONTES DE COTAÇÃO DISPONÍVEIS. 
+ 
+ 
+  
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+7 
+ 
+1. Criando um LISTA DE PRODUTOS 
+ 
+O primeiro passo da ferramenta é a criação da LISTA DE PRODUTOS cujas cotações 
+de preços serão geradas. Para isso, o usuário deverá entrar no endereço abaixo e em 
+seguida clicar na opção “CALCULAR PREÇOS”: 
+http://www.precodereferencia.pb.gov.br 
+Em seguida , você deve cadastrar quais os produtos que terão seu preço médio 
+consultados pelo sistema. Para isso, basta digitar o nome do produto e clicar no botão 
+ADICIONAR:
+ 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+8 
+Feito isso, sua lista de produtos a terem os preços cotados já está cadastrada em seu 
+computador, sem necessidade de salvar nenhum documento. Até o fim do processo, 
+quando será gerado seu Certificado Eletrônico com a cotação de todos os produtos, sua 
+lista será mantida em seu computador, mesmo que precise desligá-lo e retornar noutro 
+momento. 
+Neste momento você já pode clicar no botão AVANÇAR, entrando na tela que exigirá 
+seu máximo de atenção. Isso porque é nesse momento, como demonstrado no passo a 
+seguir, que o usuário identific a para o sistema quais são as possíveis MARCAS e 
+MODELOS de produtos que devem ser consideradas durante a cotação dos preços. 
+ 
+2. Definindo os REQUISITOS TÉCNICOS 
+Neste momento, todos os requisitos técnicos relacionados à aquisição deverão estar 
+disponíveis ao usuário do sistema. 
+Seja para cotação de materiais de consumo ou bens permanentes, é necessário que 
+estejam definidas as características dos produtos, tais como peso, volume, unidade de 
+medida ou características específicas do que será adquirido. 
+No exemplo de uma cotação para compra de café, algumas informações básicas sobre 
+o produto devem estar definidas, tais como: 
+❖ Produto: CAFÉ 
+❖ Peso: 250 GRAMAS 
+❖ Embalagem: ALMOFADA 
+❖ Processamento: TORRADO E MOÍDO  
+Noutra situação hipotética, para cotação de preços de água mineral, poderíamos ter a 
+seguinte especificação: 
+❖ Produto: ÁGUA MINERAL 
+❖ Embalagem: 20 LITROS 
+A partir dessas informações, precisamos preencher o campo onde está escrito 
+PESQUISE AQUI com  as palavras-chave que estejam associadas às especificações 
+pré-estabelecidas. No exemplo abaixo, digitamos as palavras-chave ÁGUA MINERAL 
+20 LITROS e depois clicamos no botão BUSCAR. 
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+9 
+Veja que será exibida uma lista de produtos que contém pelo menos uma das palavras-
+chave pesquisadas: 
+ 
+ 
+AS MARCAS DOS PRODUTOS FORAM RETIRADAS DAS 
+IMAGENS DEMONSTRATIVAS. 
+Outra forma de consulta é simplesmente digitando o CÓDIGO DE BARRAS de um ou 
+mais produtos, separados por vírgula, como no exemplo abaixo: 
+ 
+Para cada marca/modelo relacionados na lista de resultados, o usuário deverá 
+observar quais itens atendem aos requisitos pré -estabelecidos (as exigências 
+técnicas devem se limitar à necessidade justificada da aquisição, evitando -se 
+produtos com características especiais dispensáveis à compra, como nos casos 
+dos “padrões-premium” que extrapolem as características procuradas). 
+Em caso positivo, deverá ser dado um clique sobre o ícone , onde a SETA VERDE 
+da imagem anterior está apontando, situação diversa do indicado pela SETA 
+VERMELHA, que deverá ser desconsiderado nesta cotação. 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+10 
+Destacamos que deverá ser incluído  nas pesquisas o maior número de 
+marcas/modelo possível, limitado a trinta itens.  
+No caso de material de consumo, muitos produtos possuem dezenas de fabricantes 
+em potencial. Neste sentido, quanto mais itens são escolhidos, mais precisa e segura 
+será a cotação realizada. 
+Para ter certeza de que o item selecionado está de acordo com as especificações 
+previstas, há ainda a possibilidade de se visualizar todas as de scrições que lhe fazem 
+referência. 
+Nesse momento é importante entender que um mesmo item pode receber várias 
+descrições. Isso se deve ao fato de que essas descrições são preenchidas por 
+diferentes estabelecimentos, quando da emissão dos cupons e notas fisc ais, muitas 
+vezes utilizando abreviaturas ou palavras em ordem distintas nos nomes dos produtos. 
+Apesar da primeira descrição ser a mais utilizada pelo mercado  (maior número de 
+notas e cupons fiscais emitidos), as demais devem ser conferidas pelos usuários , 
+principalmente se houver dúvida sobre o item, bastando clicar no ícone à direita da tela, 
+quando serão exibidos os demais nomes associados aquele código de barras: 
+ 
+ 
+ 
+É IMPORTANTE SEMPRE OBSERVAR TODAS AS 
+DESCRIÇÕES DISPONÍVEIS. EM ALGUMAS SITUAÇÕES 
+OS ESTABELECIMENTOS PREENCHEM 
+IMPRECISAMENTE O CUPOM OU NOTA FISCAL, E O 
+USUÁRIO DEVERÁ AVALIAR SE, A PARTIR DAS DEMAIS 
+DESCRIÇÕES LISTADAS, O ITEM SELECIONADO É 
+COMPATÍVEL COM OS REQUISITOS DA AQUISIÇÃO. 
+ 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+11 
+O mesmo processo deve ser s eguido para os bens permanentes que, como descrito 
+abaixo, também se inicia com a escolha de palavras -chave que representem seus 
+requisitos técnicos: 
+ 
+❖ Produto: AR CONDICIONADO 
+i. Modelo: SPLIT 
+ii. Potência: 12.000 BTUS 
+PALAVRAS-CHAVE: “AR CONDICIONADO SPLIT 12000 BTUS” 
+❖ Produto: TELEVISÃO 
+i. Tecnologia: LED 
+ii. Dimensão: 49 POLEGADAS 
+PALAVRAS-CHAVE: “TV LED 49 POLEGADAS” 
+❖ Produto: IMPRESSORA 
+i. Modelo: MULTIFUNCIONAL 
+ii. Tipo: DESKJET 
+PALAVRAS-CHAVE: “IMPRESSORA MULTIFUNCIONAL DESKJET” 
+❖ Produto: NOTEBOOK 
+i. Processador: I5 
+ii. Memória: 8 GB RAM 
+iii. Disco: 1 TB 
+PALAVRAS-CHAVE: “NOTEBOOK I5 8GB RAM 1 TB” 
+ 
+ 
+OS REQUISITOS TÉCNICOS LISTADOS NESTE MANUAL 
+SÃO MERAMENTE ILUSTRATIVOS . CABERÁ À 
+ADMINISTRAÇÃO PÚBLICA DEFINIR, PARA CADA 
+COTAÇÃO PRETENDIDA, ESPECIFICAR COM EXATIDÃO 
+AS CARACTERÍSTICAS DOS PRODUTOS PERQUIRIDOS. 
+ 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+12 
+Destacamos que, a qualquer momento, o usuário poderá, caso tenha clicado em algum 
+item equivocadamente, excluí-lo da relaçã o, bastando clicar em LISTAR ITENS e em 
+seguida no apontado na imagem a seguir. 
+ 
+Finalmente, quando o usuário concluir a relação de itens (marcas/modelo) que atendam 
+a determinado produto, ele poderá passar para o próximo produto a ser cotado, clicando 
+na opção MUDAR PRODUTO, como na imagem a seguir: 
+ 
+Concluídas as listas de itens de todos os produtos, passamos a próxima etapa, onde 
+definiremos os filtros a serem utilizados na cotação, clicando no botão AVANÇAR. 
+ 
+3. Definindo os FILTROS da pesquisa 
+Nesta etapa, o usuário deve atentar para o período e localid ades a partir d os quais a 
+cotação será processada. 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+13 
+Em relação à PERIODICIDADE, poderão ser considerad os todas os cupons e notas 
+fiscais dos últimos 365 dias (doze meses). Essa é a opção marcada originalmente pelo 
+sistema, podendo qualquer outro período, dentro desse intervalo, ser definido pelo 
+usuário: 
+ 
+Já quanto ao filtro LOCALIDADES, as seguintes opções estão disponíveis: 
+❖ BRASIL: aqui serão consideradas todos os cupons e notas emitidas em 
+todo o país, destinados a consumidores da Paraíba, seja mediante compra 
+feita pela internet ou em comércio local; 
+❖ PARAÍBA: nesta opção, todos os cupons e notas emitidos dentro da 
+Paraíba serão consultados. E, caso o usuário precise refinar ainda mais sua 
+consulta, basta digitar – onde a seta verde abaixo está indicando – o nome 
+de qualquer macrorregião, microrregião ou município paraibano: 
+ 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+14 
+Encerradas essas últimas configurações, agora a plataforma está pronta p ara gerar 
+automaticamente as cotações! Clicando no botão AVANÇAR , o processamento d e 
+milhões de cupons e notas fiscais será executado. 
+ 
+4. Gerando a COTAÇÃO DE PREÇOS 
+O resultado das cotações traz os preços divididos em três categorias: 
+❖ PESSOAS FÍSICAS : cotação dos preços praticados pelo mercado para 
+vendas ao consumidor final Pessoa Física (em decorrência da não exigência 
+normativa do preenchimento do CPF ou CNP J para vendas até R$ 500,00, 
+são considerados , para o cálculo do preço médio exibido aqui, além das 
+notas e cupons com CPF registrado, os demais documentos que não tiveram 
+o campo destinatário preenchido); 
+❖ PESSOAS JURÍDICAS: cotação dos preços praticados p elo mercado para 
+vendas ao consumidor final Pessoa Jurídica, inclusive órgãos públicos; 
+❖ ÓRGÃOS PÚBLICOS: cotação dos preços praticados pelo mercado para 
+vendas aos órgãos públicos localizados na Paraíba. 
+Para cada produto pesquisado, é exibida a informação  com a Média Ponderad a 
+Ajustada, dividida por categoria: 
+ 
+Todas os filtros utilizados e o detalhamento do resultado pode m ser consultados nas 
+seguintes seções, apontadas pelas setas verdes:   
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+15 
+ 
+Clicando sobre o nome do produto, são exibidas duas importantes informações: 
+❖ ITENS – Total de itens encontrados e considerados na geração das cotações 
+exibidas. Quanto mais itens constatados, maior será a precisão da cotação 
+realizada; 
+❖ TRÊS OU MAIS EMPRESAS  – Aqui será exibida a resposta SIM ou NÃO 
+para a existência de três ou mais fornecedores considerados no cálculo dos 
+preços de referência gerados. Essa é uma informação crucial na decisão do 
+gestor quanto à utilização ou não da cotação encontrada; 
+❖ TRINTA OU MAIS NFE/NFC-e – Só serão disponibilizadas as cotações em 
+que mais de trinta preços praticados pelo mercado sejam encontrados. Essa 
+característica é definida a partir da quantidade de cupons e notas fiscais 
+constantes do cálculo das cotações. 
+Além dessas informações, temos o total de itens encontrados na pesquisa, as médias 
+SIMPLES e PONDERADA, bem como os preços MÍNIMO e MÁXIMO , para Pessoas 
+Físicas, Pessoas Jurídicas e Órgãos Públicos: 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+16 
+ 
+ 
+RESPEITADAS AS ORIENTAÇÕES LEGAIS E 
+NORMATIVAS, BEM COMO A DEFINIÇÃO CORRETA DAS 
+ESPECIFICAÇÕES DOS PRODUTOS A SEREM 
+ADQUIRIDOS, O PREÇO MÍNIMO REPRESENTA UM 
+RELEVANTE BALIZADOR NA DEFINIÇÃO DO PREÇO DE 
+REFERÊNCIA. 
+ 
+Além das informações destacadas acima, vale também mencionar que todos os preços 
+estão divididos em três médias distintas, AJUSTADA, NORMALIZADA I e 
+NORMALIZADA II, explicadas a seguir. 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+17 
+ 
+A Média Ponderada Ajustada basicamente considera como mais relevante, no cálculo 
+da média, os preços dos itens mais vendidos por cada categoria de consumidor, Pessoa 
+Física, Pessoa Jurídica e Órgãos Públicos. Ou seja, para a categoria Pessoa Física, os 
+preços que mais afetarão sua média são os dos itens que foram mais vend idos para 
+este perfil. Mesma coisa ocorrendo para as Pessoas Jurídicas e Órgãos Públicos. 
+A Média Ponderada Normalizada I considera como mais relevante, no cálculo da média, 
+os preços dos itens mais vendidos por todas as categorias somadas. Em outros termos, 
+o peso utilizado no cômputo da média será sempre proporcional ao total de vendas 
+daqueles itens, para todas as entidades juntas, Pessoa Física, Pessoa Jurídica e 
+Órgãos Públicos. 
+Já a Média Ponderada Normalizada II é semelhante à Normalizada I, contudo só leva 
+em consideração, durante o cálculo  das médias, as marcas/modelo de  produtos que, 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+18 
+além de terem sido vendidos a Pessoas Físicas e Jurídicas, necessariamente  tenham 
+sido vendidos a Órgãos Públicos. Em outras palavras, os itens que for am vendidos a 
+Pessoas Físicas ou Jurídicas, mas não a Órgãos Públicos, serão descartados do 
+cálculo. 
+A explicação técnica mais detalhada está disposta a seguir: 
+❖ ESTATÍSTICAS AJUSTADAS - Cotações calculadas pela média dos preços 
+dos produtos ponderadas pela quantidade vendida específica de cada item, 
+com controle amostral de observações atípicas ("pontos fora da curva") e 
+tamanho mínimo da amostra definido em 30 notas fiscais emitidas no 
+intervalo de tempo selecionado. Nessas estimativas de preços, não é 
+realizada a normalização de produtos entre os diferentes destinatários 
+(Pessoa Física, Pessoa Jurídica e Setor Público), em que a base de cálculo 
+pode variar em termos da frequência e disponibilidade de itens para cada um 
+dos destinatários. 
+❖ ESTATÍSTICAS NORMALIZADAS I - Cotações calculadas pela média dos 
+preços dos produtos ponderadas pela quantidade vendida global de cada 
+item, com controle amostral de observações atípicas ("pontos fora da curva") 
+e tamanho mínimo da amostra definido em 30 notas fiscais emiti das no 
+intervalo de tempo selecionado. Nessas estimativas de preços, é realizada a 
+normalização de itens entre os diferentes produtos e destinatários 
+(PESSOAS FÍSICAS, PESSOAS JURÍDICAS E ÓRGÃOS PÚBLICOS), ou 
+seja, só serão considerados nos cálculos os itens pesquisados que tiveram, 
+necessariamente, vendas para PESSOAS FÍSICAS, PESSOAS JURÍDICAS 
+e ÓRGÃOS PÚBLICOS. A quantidade vendida de cada produto é 
+uniformizada pelo perfil de compras dos itens em todo o Estado da Paraíba 
+(independente do destinatário) a fim de estabelecer uma métrica de preços 
+que permita uma comparabilidade direta entre as diferentes médias 
+ponderadas dos preços de um dado produto entre PESSOAS FÍSICAS, 
+PESSOAS JURÍDICAS e ÓRGÃOS PÚBLICOS. 
+❖ ESTATÍSTICAS NORMALIZADAS II - Cotações calculadas pela média dos 
+preços dos produtos ponderadas pelo perfil de compras dos ÓRGÃOS 
+PÚBLICOS de cada item, com controle amostral de observações atípicas 
+("pontos fora da curva") e tamanho mínimo da amostra definido em 30 notas 
+fiscais emitidas no intervalo de tempo selecionado. Nessas estimativas de 
+preços, é realizada a normalização de itens entre os diferentes produtos e 
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+19 
+destinatários (PESSOAS FÍSICAS, PESSOAS JURÍDICAS E ÓRGÃOS 
+PÚBLICOS), de modo que só serão considerados nos cálculos os itens 
+pesquisados que tiveram, necessariamente, vendas para ÓRGÃOS 
+PÚBLICOS. A quantidade vendida de cada produto é uniformizada pelo perfil 
+das compras dos ÓRGÃOS PÚBLICOS a fim de estabelecer uma métrica de 
+preços que permita uma melhor comparabilidade entre as diferentes médias 
+ponderadas dos preços de um dado produto entre PESSOAS FÍSICAS, 
+PESSOAS JURÍDICAS e ÓRGÃOS PÚBLICOS. 
+Mais dois importantes indicadores são conceituados abaixo: 
+❖ TAXA DE REPRESENTATIVIDADE - A Taxa de Representatividade indica 
+a porcentagem de vend as feitas abaixo ou no preço da Média Ponderada 
+encontrada. Ou seja, quanto maior esta taxa, mais significativa é a 
+representatividade do preço exibido; 
+❖ COEFICIENTE DE VARIAÇÃO  - É uma medida padronizada para 
+representar a dispersão relativa dos valores, dada em porcentagem. Quanto 
+menor for o valor do coeficiente de variação, mais homogêneos serão os 
+dados, ou seja, menor será a dispersão em torno da média. 
+ 
+REPRESENTATIVIDADE E VARIAÇÃO DOS PREÇOS : 
+DEVEM SER DESCARTADAS AS COTAÇÕES COM T AXA 
+DE REPRESENTATIVIDADE BAIXA OU COEFICIENTE DE 
+VARIAÇÃO MUITO ELEVADO. 
+ 
+Vale destacar que, para fins de geração de cotações precisas, o sistema elimina do 
+processamento os preços atípicos, que estão muito acima ou muito abaixo da média 
+dos demais. Adicionalmente, são exigid os pelo menos 30 cupons ou notas fiscais  
+válidas para cada produto, de modo a se assumir uma distribuição estatística normal, 
+estatisticamente precisa. 
+ 
+VENDAS INSUFICIENTES:  A FERRAMENTA EXIGE QUE 
+PELO MENOS TRINTA CUPONS OU NOTAS FISCAIS  
+TENHAM SIDO EMITIDOS PARA CADA PRODUTO. CASO 
+ESSE NÚMERO NÃO SEJA ALCANÇADO, SERÁ EXIBIDO 
+UM ÍCONE COMO OS DA FIGURA AO LADO. 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+20 
+Além disso, os valores significativamente muito altos ou muito baixos são eliminados da 
+amostra. Em termos mais técnicos, p ara classificar as informações de preços como 
+atípicas, o Preço de Referência  se baseia no Intervalo Interquartil dos preços 
+consultados. o Intervalo Interquartil (IIQ) é definido como a diferença entre o terceiro e 
+o primeiro quartis da amostra de preços de cada categoria de produto. São considerados 
+preços atípicos (ou outliers) os preços 1,5 x IIQ abaixo do primeiro quartil e 1,5 x IIQ 
+acima do terceiro quartil. 
+Encerrado o processo , clicando no botão AVANÇAR, será impresso o  respectivo 
+Certificado Eletrônico, com todas as cotações realizadas. 
+ 
+IMPORTANTE: A QUALQUER MOMENTO, O USUÁRIO 
+PODERÁ ENCERRAR A COTAÇÃO EM ANDAMENTO E 
+COMEÇAR UM NOVO PROCESSO, BASTANDO PARA 
+ISSO CLICAR NA OPÇÃO REINICIAR, LOCALIZADA NO 
+RODAPÉ DAS TELAS DO SISTEMA. 
+ 
+5. Gerando o CERTIFICADO ELETRÔNICO 
+Chegando à tela do certificado, indicada abaixo, os usuários poderão imprimir uma cópia 
+deste documento no formato PDF , clicando no botão IMPRIMIR, além de guardar o 
+número de sua CHAVE DE ACESSO, para consultas futuras: 
+ 
+ 
+De posso desse número, a qualquer momento, os certificados poderão ser consultados 
+no sistema mediante acesso a sua tela inicial, como demonstrado a seguir: 
+
+ 
+ 
+  
+PÁGINA 
+ 
+ 
+21 
+ 
+ 
+ 
+ENVIO AO TCE-PB: OS CERTIFICADOS, QUANDO UTILIZADOS 
+OFICIALMENTE NA COMPOSIÇÃO DAS COTAÇÕES , DEVEM 
+SEGUIR AS MESMAS REGRAS DE ENVIO AO TCE-PB DAS 
+DEMAIS COTAÇÕES UTILIZADAS NO PROCESSO. 
+  
+ 
+ 
+ 
+ 
+Tribunal de Contas do Estado da Paraíba, 
+Governo do Estado da Paraíba, 
+Universidade Federal da Paraíba. 
+Abril de 2020 
+João Pessoa, Paraíba 

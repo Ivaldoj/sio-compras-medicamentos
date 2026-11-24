@@ -1,0 +1,7 @@
+estrategia,central,baixo,alto
+"R0 estimativa do órgão (referência, não estratégia)",4952438.0,4952438.0,4952438.0
+R1 estimativa do órgão limitada ao teto CMED (referência),3556151.2012698418,3556151.2012698418,3556151.2012698418
+"E1 SRP por item, menor preço, referência saneada",1812130.4056756757,1499015.7750430568,2508721.517193782
+E2 SRP maior desconto sobre CMED (itens sem teto via E1),4035749.8997767256,2300004.0077638277,4543593.961302225
+E3 adesão a atas (carona) + E1 no restante,1711563.9556756755,1457405.0750430566,2262118.9425199702
+E4 contrato quantidade fixa (preço E1; demanda comprometida),1812130.4056756757,1499015.7750430568,2508721.517193782

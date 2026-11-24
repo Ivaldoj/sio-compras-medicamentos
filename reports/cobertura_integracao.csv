@@ -1,0 +1,33 @@
+fonte,metrica,itens_ou_registros,base,pct_valor_estimado
+CATMAT (BPS pré-corte),status_identificacao=ausente,66,itens (334),36.0
+CATMAT (BPS pré-corte),status_identificacao=incompleta (forma não confirmada),14,itens (334),1.2
+CATMAT (BPS pré-corte),status_identificacao=validada por atributos (1 CATMAT),227,itens (334),51.4
+CATMAT (BPS pré-corte),status_identificacao=validada por atributos (vários CATMAT equivalentes),27,itens (334),11.5
+preço praticado (BPS/Compras.gov.br/PNCP),status_preco_praticado=a conferir,25,itens (334),29.7
+preço praticado (BPS/Compras.gov.br/PNCP),status_preco_praticado=ausente,56,itens (334),7.7
+preço praticado (BPS/Compras.gov.br/PNCP),status_preco_praticado=disponível,253,itens (334),62.6
+CMED jan/2025,status_teto_cmed=a conferir,33,itens (334),7.6
+CMED jan/2025,status_teto_cmed=ausente,20,itens (334),3.0
+CMED jan/2025,status_teto_cmed=bloqueado/incompatível,55,itens (334),11.6
+CMED jan/2025,status_teto_cmed=disponível (conversão por regra),226,itens (334),77.8
+CMED jan/2025,pares item×apresentação classe=incompativel,15265,pares,
+CMED jan/2025,pares item×apresentação classe=exata,263,pares,
+CMED jan/2025,pares item×apresentação classe=indeterminada,230,pares,
+CMED jan/2025,pares item×apresentação classe=provavel_conferencia,55,pares,
+CMED jan/2025,pares item×apresentação classe=compativel_conversao,4613,pares,
+revisão 259 (Etapa 2),itens melhor classe=compativel_conversao,147,itens dos 259 candidatos,
+revisão 259 (Etapa 2),itens melhor classe=exata,21,itens dos 259 candidatos,
+revisão 259 (Etapa 2),itens melhor classe=incompativel,70,itens dos 259 candidatos,
+revisão 259 (Etapa 2),itens melhor classe=indeterminada,13,itens dos 259 candidatos,
+revisão 259 (Etapa 2),itens melhor classe=provavel_conferencia,8,itens dos 259 candidatos,
+BPS pré-corte,registros de medicamentos disponíveis,225518,registros,
+BPS pré-corte,registros compatíveis com itens do caso,95126,registros (um registro pode servir a mais de um item),
+PNCP pré-corte,contratações comparáveis,84,contratações,
+PNCP pré-corte,itens comparáveis a itens do caso,1149,itens PNCP,
+PNCP pré-corte,resultados disponíveis,269,resultados,
+PNCP pré-corte,itens do caso com ≥1 comparável PNCP,243,itens (334),83.0
+Compras.gov.br pré-corte,registros de preço disponíveis,141599,registros,
+Compras.gov.br pré-corte,itens do caso com ≥1 registro compatível,246,itens (334),60.6
+conversões CMED,aceitas sem alerta na verificação automática,4666,vínculos aceitos,
+conversões CMED,aceitas com alerta (conferir),210,vínculos aceitos,
+estimativa do órgão,itens com estimativa acima do teto CMED unitário (alíquota PB),40,itens (334),38.9

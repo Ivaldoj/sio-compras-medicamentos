@@ -1,0 +1,197 @@
+{
+ "pacote": "decision_input",
+ "data_corte": "2025-01-29",
+ "gerado_em_utc": "2026-11-23T18:43:23+00:00",
+ "gerado_por": "scripts/24_bps_historico_temporal.py, 25_padronizacao_vinculos.py, 26_pncp_comparaveis.py, 29_comprasgov_precos.py, 27_montar_pacotes.py",
+ "arquivos": [
+  {
+   "arquivo": "data/decision_input/LEIA-ME.md",
+   "bytes": 7852,
+   "sha256": "10b1d5291ba0b2f697bbaf7898bd93a9c31f077e20a17d16c80dfc3ca2d79021",
+   "registros": NaN,
+   "fonte": "",
+   "periodo": "",
+   "limitacoes": ""
+  },
+  {
+   "arquivo": "data/decision_input/nacional/bps_precos_praticados.parquet",
+   "bytes": 7409632,
+   "sha256": "a77a232340a1e6a0200e0d2ad7cad4f772bf30a09795edb4a53a43c138d27fff",
+   "registros": 225518.0,
+   "fonte": "BPS/MS 2020–2024 (registros inseridos até o corte), classe 6505",
+   "periodo": "compras 2020-01-01..2024-10-30; inserção até 2024-12-13",
+   "limitacoes": "cobertura parcial dos compradores do SUS; sem esfera federal; outliers marcados, não removidos"
+  },
+  {
+   "arquivo": "data/decision_input/nacional/cmed_2025_01_apresentacoes.parquet",
+   "bytes": 1193317,
+   "sha256": "252235014b7635695d431096131d614fe96afffc87f9730717e70e4e49a59809",
+   "registros": 25549.0,
+   "fonte": "CMED/Anvisa lista PF/PMVG de 06/01/2025",
+   "periodo": "vigente em 29/01/2025",
+   "limitacoes": "preço por embalagem; alíquota PB: 0% (isentos/Conv. 87/02) ou 20%"
+  },
+  {
+   "arquivo": "data/decision_input/nacional/cmed_2025_01_precos.parquet",
+   "bytes": 4587401,
+   "sha256": "729a2477a69df89445b67b5df375868def5010a379d342276a8586002ab1d9fd",
+   "registros": 941578.0,
+   "fonte": "CMED/Anvisa lista PF/PMVG de 06/01/2025",
+   "periodo": "vigente em 29/01/2025",
+   "limitacoes": "limites regulatórios, não preços praticados; aliquota_aplicavel_pb marca a coluna válida"
+  },
+  {
+   "arquivo": "data/decision_input/nacional/comprasgov_precos_praticados.parquet",
+   "bytes": 4418012,
+   "sha256": "04cb085e5102125d106c54e73a6a270d81d3857b18c32c4d6cde8a8f7cd92c2d",
+   "registros": 141599.0,
+   "fonte": "Compras.gov.br — dados abertos, módulo Pesquisa de Preço",
+   "periodo": "resultado (dataResultado) até o corte",
+   "limitacoes": "registros de órgãos que usam o Compras.gov.br; possível sobreposição com BPS marcada"
+  },
+  {
+   "arquivo": "data/decision_input/nacional/pncp_comparaveis_contratacoes.parquet",
+   "bytes": 33359,
+   "sha256": "bcafc2d84666294bff403d32d5a0000613b009948787fa9e63fa0a15ff68bd6f",
+   "registros": 84.0,
+   "fonte": "PNCP API (amostra dirigida; índice MT por CATMAT e por descrição)",
+   "periodo": "publicação até o corte",
+   "limitacoes": "amostra, não censo"
+  },
+  {
+   "arquivo": "data/decision_input/nacional/pncp_comparaveis_itens.parquet",
+   "bytes": 274365,
+   "sha256": "4c313de9cbec79fbfda05d8e8bd84c315b6034c3a9a29522d75183e7ff345493",
+   "registros": 4988.0,
+   "fonte": "PNCP API",
+   "periodo": "itens incluídos até o corte",
+   "limitacoes": "amostra; CATMAT ausente no PNCP"
+  },
+  {
+   "arquivo": "data/decision_input/nacional/pncp_comparaveis_resultados.parquet",
+   "bytes": 23152,
+   "sha256": "fbcc0f5d8d26a42171fe02323275555d9590561943a42989f1112eb1c533e927",
+   "registros": 269.0,
+   "fonte": "PNCP API",
+   "periodo": "resultados incluídos até o corte",
+   "limitacoes": "amostra"
+  },
+  {
+   "arquivo": "data/decision_input/organizacional/execucao_farmaco_2024_mensal.csv",
+   "bytes": 1591,
+   "sha256": "9ae34eaf9899ef4d5de8ec70f47439b53c5359bfd76dfa46d5feb2dc70fb600f",
+   "registros": 10.0,
+   "fonte": "",
+   "periodo": "",
+   "limitacoes": ""
+  },
+  {
+   "arquivo": "data/decision_input/organizacional/execucao_farmaco_2024_por_licitacao.csv",
+   "bytes": 821,
+   "sha256": "1dd8ec84b27ed26274362aedad48bb1dfb337898db9138e927848b24093b463c",
+   "registros": 4.0,
+   "fonte": "",
+   "periodo": "",
+   "limitacoes": ""
+  },
+  {
+   "arquivo": "data/decision_input/organizacional/historico_proprio_pregoes_2024.parquet",
+   "bytes": 22242,
+   "sha256": "12c08ddbaed45604a8cfb8c119fee72c7280394a79fab183d1992dbe9ed21e87",
+   "registros": 352.0,
+   "fonte": "PNCP (pregões 01/2024 e 12/2024 do próprio órgão)",
+   "periodo": "2024",
+   "limitacoes": "PE 01/2024 com 4 resultados apenas"
+  },
+  {
+   "arquivo": "data/decision_input/organizacional/itens_santa_luzia.parquet",
+   "bytes": 65150,
+   "sha256": "6ccf5d828019b54b928bc5b30ab299a203506d2c0e6245d13daa997f1a7b1260",
+   "registros": 334.0,
+   "fonte": "Edital/ETP/TR PE 04/2025 (assinado 29/01/2025) + padronização",
+   "periodo": "necessidade de 12 meses",
+   "limitacoes": "sem consumo por item"
+  },
+  {
+   "arquivo": "data/decision_input/organizacional/receitas_sus_2024.csv",
+   "bytes": 37756,
+   "sha256": "8f3da9d9b9937c345f13bc67103972167a3924b51d19d4af91ba6775a613a70d",
+   "registros": 74.0,
+   "fonte": "TCE-PB/SAGRES receitas 2024 do município",
+   "periodo": "2024",
+   "limitacoes": "repasses federais SUS; sem saldo de dotação"
+  },
+  {
+   "arquivo": "data/decision_input/organizacional/recursos.csv",
+   "bytes": 1203,
+   "sha256": "a5bbe92359c38d8e2e8328141e00dc46f34ccc937728652f6aab35c725ab0219",
+   "registros": 7.0,
+   "fonte": "",
+   "periodo": "",
+   "limitacoes": ""
+  },
+  {
+   "arquivo": "data/decision_input/organizacional/restricoes.csv",
+   "bytes": 1231,
+   "sha256": "f822140ac1ea4fe89d59431611f5a30f306780508cac831e54b772d04c2f0f3d",
+   "registros": 8.0,
+   "fonte": "",
+   "periodo": "",
+   "limitacoes": ""
+  },
+  {
+   "arquivo": "data/decision_input/padronizacao/item_bps_grupos.parquet",
+   "bytes": 15656,
+   "sha256": "b6f8551f31c3c09a19ed4b270dd8e897cfb55eaf92ea6d05bef8f916c93d0031",
+   "registros": 525.0,
+   "fonte": "",
+   "periodo": "",
+   "limitacoes": ""
+  },
+  {
+   "arquivo": "data/decision_input/padronizacao/item_catmat_candidatos.parquet",
+   "bytes": 15585,
+   "sha256": "1ae431e8bc7a47c426d368e60c24200d780c42abc60d5c389274ff4f9955e162",
+   "registros": 318.0,
+   "fonte": "",
+   "periodo": "",
+   "limitacoes": ""
+  },
+  {
+   "arquivo": "data/decision_input/padronizacao/item_catmat_catalogo_oficial.parquet",
+   "bytes": 31657,
+   "sha256": "7fb33caa82ff4822ff768e1e12b914d93ef8261c8e4a2b40ad39bc5ae26a6dba",
+   "registros": 728.0,
+   "fonte": "Catálogo CATMAT oficial (Compras.gov.br) + catálogo BPS pré-corte",
+   "periodo": "catálogo atual; existência no corte indicada",
+   "limitacoes": "código sem registro pré-corte = existência não comprovada"
+  },
+  {
+   "arquivo": "data/decision_input/padronizacao/item_cmed_vinculos.parquet",
+   "bytes": 264816,
+   "sha256": "e9534db478c9e8d6f635c2274e25d8a5b7340150b1d926be088121e5e87aa0dc",
+   "registros": 20426.0,
+   "fonte": "",
+   "periodo": "",
+   "limitacoes": ""
+  },
+  {
+   "arquivo": "data/decision_input/padronizacao/item_comprasgov_registros.parquet",
+   "bytes": 1786423,
+   "sha256": "3822fe100ce6659f65042312e27772b60adae21f42773ad508521ff46bdd5a62",
+   "registros": 163109.0,
+   "fonte": "padronização: item × registro Compras.gov.br",
+   "periodo": "pré-corte",
+   "limitacoes": "compatibilidade por unidade de fornecimento/capacidade"
+  },
+  {
+   "arquivo": "data/decision_input/padronizacao/regras_conversao.csv",
+   "bytes": 2381008,
+   "sha256": "0ce5717b22bf5658440a17eb48a0d5ecb390f011e0680ec4f65fd428b44d8423",
+   "registros": 4876.0,
+   "fonte": "",
+   "periodo": "",
+   "limitacoes": ""
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+﻿mesmas colunas 2025/2026: True
+registros por arquivo: {'2025_csv.zip': 37641, '2026_csv.zip': 15705}
+falhas de convers�o num�rica: {'qt_medicamento': 0, 'vl_preco_unitario': 0, 'vl_preco_total': 0}
+falhas de convers�o de data: {'dt_compra': 0, 'dt_insercao': 0}
+dt_compra min/max: 2025-01-01 00:00:00 2026-11-11 00:00:00
+dt_insercao min/max: 2025-03-14 00:00:00 2026-11-19 00:00:00
+ano_compra x ano(dt_compra) divergentes: 0
+defasagem inser��o-compra (dias):  {'count': 53346.0, 'mean': 156.7, 'std': 133.9, 'min': 0.0, '25%': 50.0, '50%': 111.0, '75%': 233.0, '90%': 354.0, 'max': 644.0}
+inser��o antes da compra: 0
+
+ds_esfera:
+ ds_esfera
+MUNICIPAL    44540
+ESTADUAL      8806
+
+tp_compra:
+ tp_compra
+ADMINISTRATIVA    49979
+JUDICIAL           3367
+
+modalidade:
+ modalidade
+Preg�o                          41067
+Registro de Pre�os              10470
+Dispensa de Licita��o            1759
+Inexigibilidade de Licita��o       26
+Leil�o                             23
+Di�logo Competitivo                 1
+
+no_classe:
+ no_classe
+DROGAS E MEDICAMENTOS                                                               43231
+INSTRUMENTOS, EQUIPAMENTOS E SUPRIMENTOS M�DICOS E CIR�RGICOS                        4758
+INSTRUMENTOS, EQUIPAMENTOS E SUPRIMENTOS DENT�RIOS                                   2196
+MATERIAIS CIR�RGICOS PARA CURATIVOS                                                   732
+VESTU�RIO HOSPITALAR E CIR�RGICO E ITENS CORRELATOS DE FINALIDADES ESPECIAIS          698
+SUBST�NCIAS PARA DIAGN�STICO "IN VITRO", REAGENTES, CONJUNTOS E JOGOS PARA TESTE      653
+ALIMENTOS ESPECIAIS DIET�TICOS E PREPARADOS ALIMENT�CIOS                              278
+MOBILI�RIO, EQUIPAMENTOS, UTENS�LIOS E SUPRIMENTOS HOSPITALARES                       148
+EQUIPAMENTOS E SUPRIMENTOS DE RAIOS-X DE USO M�DICO, DENT�RIO E VETERIN�RIO           131
+COSM�TICOS E ARTIGOS DE TOUCADOR DE NATUREZA MEDICINAL                                127
+EQUIPAMENTOS E ARTIGOS DE LABORAT�RIO                                                 123
+PRODUTOS QU�MICOS                                                                     116
+JOGOS E CONJUNTOS M�DICOS                                                              82
+PESTICIDAS E DESINFETANTES                                                             60
+DROGAS E PRODUTOS BIOL�GICOS DE USO VETERIN�RIO                                         9
+
+fg_generico:
+ fg_generico
+S      19691
+N      19275
+NaN    14380
+
+sg_unidade_medida:
+ sg_unidade_medida
+NaN      33619
+ML       15876
+G         2033
+UN         779
+DOSES      569
+M          386
+L           50
+KG          26
+MCL          4
+MG           2
+KUI          1
+DOSE         1
+
+un_fornecimento:
+ un_fornecimento
+COMPRIMIDO       19442
+FRASCO            8625
+UNIDADE           7388
+AMPOLA            6357
+C�PSULA           2795
+FRASCO-AMPOLA     2481
+BISNAGA           1609
+SERINGA            667
+BOLSA              623
+CAIXA              466
+ROLO               393
+TUBETE             332
+DR�GEA             270
+EMBALAGEM          255
+GRAMA              232
+
+classes (co_classe) distintas: 16 | CATMAT distintos: 6345 | PDM distintos: 1428
+institui��es (CNPJ) distintas: 262 | nomes distintos: 205
+
+total vs unit*qtd: |dif| <=1%: 53346 | >1%: 0 | n�o calcul�vel: 0
+qt<=0: 0 | pre�o unit <=0: 0
+pre�o unit�rio (R$) quantis: {0.0: 0.003, 0.01: 0.03, 0.25: 0.36, 0.5: 2.07, 0.75: 8.0208, 0.99: 2721.6965, 1.0: 1149000.0}
+valor total (R$) soma por arquivo: {'2025_csv.zip': 51012799079.06, '2026_csv.zip': 24235930499.67}
+
+co_seq_bps duplicados: 0
+duplicados na chave de neg�cio ['cnpj_instituicao', 'dt_compra', 'co_catmat', 'cnpj_fornecedor', 'qt_medicamento', 'vl_preco_unitario', 'nu_processo_compra'] : 306
+id�nticos exceto co_seq_bps/dt_insercao: 74
+
+PB registros: 4205 | institui��es: 21
+
+grupos CATMAT+un_fornecimento com n>=30: 408 | raz�o max/min mediana: 67.1
+CATMATs com >1 un_fornecimento: 250

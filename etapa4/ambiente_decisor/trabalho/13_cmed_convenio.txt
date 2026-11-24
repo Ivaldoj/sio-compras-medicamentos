@@ -1,0 +1,22 @@
+        registro tipo_preco aliquota_icms  valor_embalagem                                       aplicabilidade  aliquota_aplicavel_pb
+0  1176600030115         PF            0%            20.14  não é o teto para governo: produto com CAP usa PMVG                   True
+1  1176600030115         PF   Sem Imposto            20.14  não é o teto para governo: produto com CAP usa PMVG                  False
+2  1176600030115       PMVG            0%            15.80                   teto obrigatório (produto com CAP)                   True
+3  1176600030115       PMVG   Sem Imposto            15.80                   teto obrigatório (produto com CAP)                  False
+4  1176600040099         PF            0%            20.14                    teto para compras administrativas                   True
+5  1176600040099         PF   Sem Imposto            20.14                    teto para compras administrativas                  False
+6  1176600040099       PMVG            0%            15.80        somente compras por força de decisão judicial                   True
+7  1176600040099       PMVG   Sem Imposto            15.80        somente compras por força de decisão judicial                  False 
+
+        registro    produto tipo_produto    cap  icms_isento_so_0pct  convenio_confaz_87 teto_compras_administrativas aliquota_icms_pb
+0  1176600030115  NOVOLIN R      Similar   True                False                True                         PMVG               0%
+1  1176600030123  NOVOLIN R      Similar   True                False                True                         PMVG               0%
+2  1176600040099  NOVOLIN N         Novo  False                False                True                           PF               0%
+3  1176600040102  NOVOLIN N         Novo  False                False                True                           PF               0% 
+
+   registros_conv87_com_coluna_20pct
+0                                  0 
+
+   registros_conv87
+0              2810 
+

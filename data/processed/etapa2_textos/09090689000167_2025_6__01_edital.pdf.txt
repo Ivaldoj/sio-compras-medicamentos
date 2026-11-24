@@ -1,0 +1,3376 @@
+=== página 1
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+EDITAL DE LICITAÇÃO  
+PREGÃO ELETRÔNICO Nº 00004/2025 - LEI 14.133/21 
+ 
+O MUNICÍPIO DE SANTA LUZIA /PB, TORNA PÚBLICO, PARA CONHECIMENTO DOS 
+INTERESSADOS, QUE A PREFEITURA MUNICIPAL, REALIZARÁ LICITAÇÃO, NA 
+MODALIDADE PREGÃO, NA FORMA ELETRÔNICA, COM CRITÉRIO DE JULGAMENTO 
+MENOR PREÇO POR ITEM, NOS TERMOS DA LEI Nº 14.133, DE 01 DE ABRIL DE 2021, NA LEI 
+COMPLEMENTAR N° 123, DE 14 DE DEZEMBRO DE 2006 E 147/2014, E AS EXIGÊNCIAS 
+ESTABELECIDAS NESTE EDITAL E DEMAIS LEGISLAÇÃO, SOB AS CONDIÇÕES 
+ESTABELECIDAS NESTE ATO CONVOCATÓRIO E ANEXOS. 
+ 
+Os trabalhos serão conduzidos por servidor designado, denominad a pregoeira , mediante a inserção e 
+monitoramento de dados gerados ou transferidos diretamente para a página eletrônica 
+www.portaldecompraspublicas.com.br. O  servidor terá, dentre outras, as seguintes atribuições: 
+coordenar o processo licitatório; receber, examinar e decidir as impugnações e consultas ao edital, 
+apoiado pela sua equipe responsável pela sua elaboração; conduzir a sessão pública na internet; verificar a 
+conformidade da proposta com os requisitos estabelecidos neste edital; dirigir a etapa de lances; verificar 
+e julgar as condições de habilitação; receber, examinar e decidir os recursos, encaminhando à autoridade 
+competente quando mantiver sua decisão; indicar o vencedor do certame; conduzir os trabalhos da equipe 
+de apoio; e encaminhar o processo devidamente instruído a autoridade responsável  pela adjudicação e 
+propor a homologação. 
+ 
+ÓRGÃO INTERESSADO: PREFEITURA MUNICIPAL DE SANTA LUZIA 
+DATA E HORA INICIO DAS 
+PROPOSTAS: 
+07:59 H/MIN DO DIA 30/01/2025 (HORÁRIO DE 
+BRASÍLIA). 
+RECEBIMENTO DE PEDIDOS DE 
+ESCLARECIMENTO 
+23:59 H/MIN DO DIA 10/02/2025 (HORÁRIO 
+DE BRASÍLIA). 
+RECEBIMENTO DE  PEDIDOS DE 
+IMPUGNAÇÃO 
+23:59 H/MIN DO DIA 10/02/2025 (HORÁRIO 
+DE BRASÍLIA). 
+DATA E HORA FINAL DAS 
+PROPOSTAS: 
+07:59 H/MIN DO DIA 13/02/2025 (HORÁRIO 
+DE BRASÍLIA). 
+DATA DE ABERTURA DAS 
+PROPOSTAS – SESSÃO PÚBLICA: 
+08:00 H/MIN DO DIA 13/02/2025 (HORÁRIO 
+DE BRASÍLIA). 
+LOCAL: www.portaldecompraspublicas.com.br 
+MODO DE DISPUTA ABERTO 
+EMAIL: licitacao@santaluzia.pb.gov.br 
+REFERÊNCIA DE TEMPO  (HORÁRIO DE BRASÍLIA). 
+ 
+1.0. DO OBJETO. 
+1.1. O objeto da presente licitação é a escolha da proposta mais vantajosa  para contratação de empresa 
+para fornecimento parcelado de medicamentos diversos destinados a Assistência Farmacêutica 
+Básica, Assistência Farmacêutica Especializada e medicamentos que não fazem parte do RENAME 
+para atendimento às necessidades do município de Santa Luzia/PB. 
+1.2. A licitação será por item, conforme planilha constante do Termo de Referência. 
+
+=== página 2
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+1.3. O critério de julgamento adotado será o menor preço do ITEM , observadas as exigências contidas 
+neste Edital e seus Anexos quanto às especificações do objeto.  
+1.4. Em caso de discrepância entre as especificações deste objeto descritas no Sistema de Compras 
+Públicas e as constantes no edital, prevalecerão as do edital. 
+ 
+2.0. DOS RECURSOS ORÇAMENTÁRIOS 
+2.1. As despesas para atender a esta licitação estão programadas em dotação orçamentária, prevista no 
+orçamento para o exercício 2025 e correrão por conta da seguinte dotação - Recursos:  
+02.030 - SECRETARIA MUNICIPAL DE SAÚDE 
+10.301.2016.2018 - Manutenção das Atividades da Secretaria Municipal de Saúde 
+3390.30 - 1.500.1002 - Material de Consumo 
+3390.32 - 1.500.0000 - Material, Bem ou Serviço para Distribuição Gratuita 
+02.090 - FUNDO MUNICIPAL DE SAÚDE 
+10.301.1006.2061 - Manutenção dos Recursos do SUS 
+3390.30 - 1.600.0000 - Material de Consumo. 
+3390.32 - 1.600.0000 - Material, Bem ou Serviço para Distribuição Gratuita 
+10.301.1006.2067 - Manutenção da Farmácia Básica. 
+3390.30 - 1.500.1002 - Material de Consumo. 
+3390.30 - 1.600.0000 - Material de Consumo 
+3390.32 - 1.500.1002 - Material, Bem ou Serviço para Distribuição Gratuita 
+3390.32 - 1.600.0000 - Material, Bem ou Serviço para Distribuição Gratuita 
+10.302.1008.2069 - Manutenção dos Serviços de Atendimento Móvel as Urgências - SAMU 192 
+3390.30 - 1.600.0000 - Material de Consumo 
+10.302.1008.2071 - Manutenção das Atividades do Centro de Atendimento Médico Especializado - Policlínica 
+3390.30 - 1.500.1002 - Material de Consumo 
+3390.30 - 1.600.0000 - Material de Consumo 
+10.301.2016.2072 - Manutenção das atividades do Fundo Municipal de Saúde – Recursos Próprios 
+3390.30 - 1.500.1002 - Material de Consumo 
+3390.32 - 1.500.0000 - Material, Bem ou Serviço para Distribuição Gratuita 
+ 
+3.0. DO CREDENCIAMENTO. 
+3.1. O Credenciamento é o nível básico do Registro Cadastral no PORTAL DE COMPRAS PUBLICAS 
+que permite a participação dos interessados na modalidade LICITATÓRIA PREGÃO, em sua FORMA 
+ELETRÔNICA. 
+3.2. O cadastro deverá ser feito no Portal de Compras Publicas, no sítio 
+www.portaldecompraspublicas.com.br; 
+3.3. O credenciamento junto ao provedor do sistema implica a responsabilidade do licitante ou  de seu 
+representante legal e a presunção de sua capacidade técnica para realização das transações inerentes a este 
+Pregão. 
+3.4. O licitante responsabiliza -se exclusiva e formalmente pelas transações efetuadas em  seu nome, 
+assume como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados diretamente 
+ou por seu representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade 
+promotora da licitação por eventuais danos decorrentes de uso indevido das credenciais de acesso, ainda 
+que por terceiros. 
+3.5. É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais no PORTAL DE 
+COMPRAS PUBLICAS e mantê-los atualizados junto aos órgãos responsáveis pela informação, devendo 
+
+=== página 3
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+proceder, imediatamente, à correção ou à alteração dos registros tão logo identifique incorreção ou 
+aqueles se tornem desatualizados. 
+3.5.1. A não observância do disposto no subitem anterior poderá ensejar desclassificação no momento da 
+habilitação. 
+ 
+4.0. DA PARTICIPAÇÃO NO PREGÃO. 
+4.1. Poderão participar deste Pregão interessados cujo ramo de atividade seja compatível com o objeto 
+desta licitação, e que estejam com Credenciamento regular no PORTAL DE COMPRAS PUBLICAS. 
+4.2. Será concedido tratamento favorecido para as microempresas e empresas de pequeno porte, para as 
+sociedades cooperativas mencionadas no artigo 34 da Lei nº 11.488, de 2007 e para o microempreendedor 
+individual - MEI, nos limites previstos da Lei Complementar nº 123, de 2006. 
+4.5. Não poderão participar desta licitação os interessados: 
+4.5.1.Pessoa jurídica que se encontre, ao tempo da licitação, impossibilitada de participar da licitação em 
+decorrência de sanção que lhe foi imposta; 
+4.5.2. Pessoa que mantenha vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou 
+civil com dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na 
+licitação ou atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou 
+parente em linha reta, colateral ou por afinidade, até o terceiro grau, devendo essa proibição constar 
+expressamente do edital de licitação; 
+4.5.3.Empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de dezembro 
+de 1976, concorrendo entre si; 
+4.5.4.Pessoa jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido condenada 
+judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por submissão de 
+trabalhadores a condições análogas às de escravo ou por contratação de adolescentes nos casos vedados 
+pela legislação trabalhista; 
+4.5.5.Suspensos de participar de licitações e impedidos de contratar no âmbito da Administração Pública 
+direta e indireta Municipal, nos termos do art. 156, III, § 4º, da Lei n. 14.133/2021; 
+4.5.6.Declarados inidôneos para licitar ou contratar com a Administração Pública, na forma do art. 156, 
+IV, § 5º, da Lei n. 14.133/2021; 
+4.5.7.Estrangeiros que não tenham representação legal no Brasil com poderes expressos para receber 
+citação e responder administrativa e judicialmente; 
+4.5.8.O impedimento de que trata o item 4.3.1 será também aplicado ao licitante que atue em substituição 
+a outra pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a ela aplicada, inclusive 
+a sua controladora, controlada ou coligada, desde que devidamente comprovado o ilícito ou a utilização 
+fraudulenta da personalidade jurídica do licitante. 
+4.6. Como condição para participação no Pregão, a licitante assinalará “sim” ou “não” em campo 
+próprio do sistema eletrônico, relativo às seguintes declarações: 
+ 
+4.6.1.Que cumpre os requisitos estabelecidos no artigo 3° da Lei Complementar nº 123, de 2006, estando 
+apta a usufruir do tratamento favorecido estabelecido em seus arts. 42 a 49;  
+4.6.1.1. Declaro, sob as penas da Lei, que não ultrapassei o limite de faturamento e cumpro os requisitos 
+estabelecidos no Art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006, sendo apto a usufruir 
+do tratamento favorecido estabelecido nos artigos 42 ao 49 da referida Lei Complementar, se for o caso; 
+4.6.2.Que está ciente e concorda com as condições contidas no Edital e seus anexos; 
+=== página 4
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+4.6.3.Que cumpre os requisitos para a habilitação definidos no Edital e que a proposta apresentada está 
+em conformidade com as exigências editalícias; 
+4.6.4.Que inexistem fatos impeditivos para sua habilitação no certame, ciente da obrigatoriedade de 
+declarar ocorrências posteriores; 
+4.6.5.Que não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não emprega 
+menor de 16 anos, salvo menor, a partir de 14 anos, na condição de aprendiz, nos termos do artigo 7°, 
+XXXIII, da Constituição; 
+4.6.6.Que a proposta foi elaborada de forma independente, nos termos da Instrução Normativa SLTI/MP 
+nº 2, de 16 de setembro de 2009. 
+4.6.7.Que não possui, em sua cadeia produtiva, empregados executando trabalho degradante ou forçado, 
+observando o disposto nos incisos III e IV do art. 1º e no inciso III do art. 5º da Constituição Federal; 
+4.6.8.Que os serviços são prestados por empresas que comprovem cumprimento de reserva de cargos 
+prevista em lei para pessoa com deficiência ou para reabilitado da Previdência Social e que atendam às 
+regras de acessibilidade previstas na legislação, conforme disposto no art. 93 da Lei nº 8.213, de 24 de 
+julho de 1991. 
+4.7.A declaração falsa relativa ao cumprimento de qualquer condição sujeitará o licitante às sanções 
+previstas em lei e neste Edital. 
+ 
+5.0. DA APRESENTAÇÃO E GARANTIA DA PROPOSTA 
+ 
+5.1. Os licitantes encaminharão, exclusivamente por meio do sistema, proposta com a descrição do objeto 
+ofertado e o preço, até a data e o horário estabelecidos para abertura da sessão pública, quando, então, 
+encerrar-se-á automaticamente a etapa de envio de propostas. 
+5.1.1. O envio da proposta, exigidos neste Edital, ocorrerá por meio de chave de acesso e senha. 
+5.2. A empresa necessita mostrar sua saúde financeira, o que fundamenta as exigências deste edital.  
+5.3. Conforme a legislação vigente a garantia da proposta a extensiva a todas as licitações.  
+5.4. A garantia da proposta será inserida junto com a proposta atualizada, garantindo o sigilo da proposta 
+inicial.  
+5.5. As empresas participantes deverão apresentar garantia da proposta, de acordo com art. 58, da lei nº 
+14.133/2021. 
+5.6. A licitante melhor classificada deverá apresentar no prazo de 12 (doze) horas , a Garantia 
+(caução) de proposta na presente licitação no percentual de 1% (um por cento) sobre o valor total 
+da proposta de preços atualizada ao último lance , a contar da solicitação da Pregoeira no sistema 
+eletrônico Portal de Compras Públicas. 
+a.1.) A garantia da proposta deverá ser enviada junto com a proposta de preços atualizada, e caberá ao 
+licitante vencedor optar por uma das seguintes modalidades de garantia, nos termos da art. 96 da Lei n. 
+14.133/2021:  
+I - Caução em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural, mediante registro 
+em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil, e avaliados 
+por seus valores econômicos, conforme definido pelo Ministério da Economia;  
+II - Seguro-garantia;  
+III - Fiança bancária emitida por banco ou instituição financeira devidamente autorizada a operar no País 
+pelo Banco Central do Brasil.  
+IV - Título de capitalização custeado por pagamento único, com resgate pelo valor total.  
+=== página 5
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+a.2.) Quando a garantia for realizada através de seguro -garantia, a mesma deverá ser emitida por 
+instituição devidamente autorizada pela Superintendência de Seguros Privados -SUSEP e quando se tratar 
+de fiança bancária junto ao Banco Central do Brasil, conforme dispõe o Acórdão TCU n.º 498/2011 - 
+plenário. 
+5.7. Caso a caução do valor referente a garantia da proposta, seja em dinheiro, deverá ser transferido a 
+conta: Agência nº 1127-4 - Conta Corrente nº 5.123-3, Banco do Brasil, em nome da Prefeitura Municipal 
+de Santa Luzia – CNPJ nº 09.090.689/0001-67 e o comprovante de pagamento depositado junto com a 
+proposta atualizada.  
+I - Caução em dinheiro será validado a entrada na conta especifica do município.  
+OBRIGATORIAMENTE, caso seja deposito será identificado pela empresa licitante que realizou o 
+depósito. 
+II - Caso de apólices: deverá sua vigência ser renovada enquanto perdurar a necessidade de manutenção 
+da referida garantia.  
+III - Veda Cheque.  
+5.8. A garantia de proposta será devolvida aos licitantes no prazo de 10 (dez) dias úteis, contado da 
+assinatura do contrato ou da data em que for declarada fracassada a licitação, após requerimento da 
+empresa.  
+5.9. Implicará execução, pelo município, do valor integral da garantia de proposta a recusa em assinar o 
+contrato ou a não apresentação dos documentos para a contratação. Conforme o § 3º art. 58 da lei 
+14.133/2021.  
+5.10. A empresa inadimplente quanto a garantia da proposta, por execução não paga, será inscrita na 
+dívida ativa do município. Podendo ser executada judicialmente como o valor ser retido em pagamentos 
+posteriores de qualquer outra contratação.  
+5.11. A não apresentação da garantia gera a desclassificação da proponente. 
+5.12. A garantia da proposta da empresa, respeitado o contraditório, será executada, cobrada, 
+imediatamente quando: 
+I - Caso a empresa vencedora não assine contrato;  
+II - Caso a empresa desista de sua proposta. O limite de desistência direta, das empresas, será até o fim da 
+fase de lance. 
+ 
+5.13. As Microempresas e Empresas de Pequeno Porte deverão encaminhar a documentação de 
+habilitação, ainda que haja alguma restrição de regularidade fiscal e trabalhista, nos termos do art. 43, § 1º 
+da LC nº 123, de 2006. 
+5.14. Incumbirá ao licitante acompanhar as operações no sistema eletrônico durante a sessão pública do 
+Pregão, ficando responsável pelo ônus decorrente da perda de negócios, diante da inobservância de 
+quaisquer mensagens emitidas pelo sistema ou de sua desconexão. 
+5.15. Até a abertura da sessão pública, os licitantes poderão retirar ou substituir a proposta anteriormente 
+inseridos no sistema;  
+5.16. Não será estabelecida, nessa etapa do certame, ordem de classificação entre as propostas 
+apresentadas, o que somente ocorrerá após a realização dos procedimentos de negociação e julgamento da 
+proposta. 
+5.17. Os documentos que compõem a proposta do licitante melhor classificado somente serão 
+disponibilizados para avaliação d a pregoeira  e para acesso público após o encerramento do envio de 
+lances. 
+=== página 6
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+5.18. Será exigida a apresentação dos documentos de habilitação apenas pelo licitante vencedor, o qual 
+será convocado em campo próprio do sistema. 
+ 
+6.0. DO PREENCHIMENTO DA PROPOSTA. 
+6.1. O licitante deverá enviar sua proposta mediante o preenchimento, no sistema eletrônico, dos 
+seguintes campos: 
+6.1.1. Valor unitário e total do item; 
+6.1.2. Descrição detalhada do objeto, contendo as informações similares à especificação do Termo de 
+Referência: indicando, no que for aplicável, o modelo, prazo de validade ou de garantia, número do 
+registro ou inscrição do bem no órgão competente, quando for o caso; 
+6.1.3. Marca. 
+6.2. Todas as especificações do objeto contidas na proposta vinculam a Contratada. 
+6.3. Nos valores propostos estarão inclusos todos os custos operacionais, encargos previdenciários, 
+trabalhistas, tributários, comerciais e quaisquer outros que incidam direta ou indiretamente no serviço. 
+6.4. Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de exclusiva 
+responsabilidade do licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob alegação de 
+erro, omissão ou qualquer outro pretexto. 
+6.5. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de sua 
+apresentação. 
+6.6. Os licitantes devem respeitar os preços máximos estabelecidos nas normas de regência de 
+contratações públicas, quando participarem de licitações públicas. 
+ 
+7.0. DA ABERTURA DA SESSÃO, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO DE 
+LANCES. 
+ 
+7.1.A abertura da presente licitação dar -se-á em sessão pública, por meio de sistema eletrônico, na data, 
+horário e local indicados neste Edital. 
+7.2.A pregoeira verificará as propostas apresentadas, desclassificando desde logo aquelas que não estejam 
+em conformidade com os requisitos estabelecidos neste Edital, contenham vícios insanáveis ou não 
+apresentem as especificações técnicas exigidas no Termo de Referência. 
+7.2.1.Também será desclassificada a proposta que identifique o licitante. 
+7.2.2.A desclassificação será sempre fundamentada e registrada no sistema, com acompanhamento em 
+tempo real por todos os participantes. 
+7.2.3.A não desclassificação da proposta não impede o seu julgamento definitivo em sentido contrário, 
+levado a efeito na fase de aceitação. 
+7.3.O sistema ordenará automaticamente as propostas classificadas, sendo que somente estas participarão 
+da fase de lances.  
+7.4.O sistema disponibilizará campo próprio para troca de mensagens entre a pregoeira e os licitantes. 
+7.5.Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por meio do 
+sistema eletrônico, sendo imediatamente informados do seu recebimento e do valor consignado no 
+registro. 
+7.5.1.O lance deverá ser ofertado pelo valor unitário do item. 
+7.6.Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura da sessão 
+e as regras estabelecidas no Edital. 
+=== página 7
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+7.7.O licitante somente poderá oferecer lance de valor inferior ou percentual de desconto superior ao 
+último por ele ofertado e registrado pelo sistema. 
+7.8.O intervalo mínimo de diferença de valores ou percentuais entre os lances, que incidirá tanto em 
+relação aos lances intermediários quanto em relação à proposta que cobrir a melhor oferta deverá ser R$ 
+0,01 (um) centavo. 
+7.9. Será adotado para o envio de lances no pregão eletrônico o modo de disputa aberto , em que os 
+licitantes apresentarão lances públicos e sucessivos, com prorrogações. 
+7.10. A etapa de lances da sessão pública terá duração de dez minutos e, após isso, será prorrogada 
+automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do período de 
+duração da sessão pública. 
+7.11. A prorrogação automática da etapa de lances, de que trata o item anterior, será de dois minutos e 
+ocorrerá sucessivamente sempre que houver lances enviados nesse período de prorrogação, inclusive no 
+caso de lances intermediários. 
+7.12.Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão pública encerrar -se-á 
+automaticamente. 
+7.13. Encerrada a fase competitiva sem que haja a prorrogação automática pelo sistema, poderá a 
+pregoeira, assessorado pela equipe de apoio, justificadamente, admitir o reinício da sessão pública de 
+lances, em prol da consecução do melhor preço. 
+7.14. Em caso de empate entre duas ou mais propostas, serão utilizados os seguintes critérios de 
+desempate, nesta ordem: 
+7.14.1.Disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em ato 
+contínuo à classificação; 
+7.14.2. Avaliação do desempenho contratual prévio dos licitantes, para a qual deverão preferencialmente 
+ser utilizados registros cadastrais para efeito de atesto de cumprimento de obrigações previstos nesta Lei; 
+7.14.3. Desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de 
+trabalho, conforme regulamento específico; 
+7.14.4. Desenvolvimento pelo licitante de programa de integridade, conforme orientações dos órgãos de 
+controle. 
+7.15. Em igualdade de condições, se não houver desempate, será assegurada preferência, sucessivamente, 
+aos bens e serviços produzidos ou prestados por: 
+7.15.1. Empresas estabelecidas no território no território do Estado em que este se localize; 
+7.15.2. Empresas brasileiras; 
+7.15.3. Empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País; 
+7.15.4. Empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187, de 29 de dezembro 
+de 2009. 
+7.16. As regras previstas no item 7.14 desta cláusula não prejudicarão a aplicação do disposto no art. 44 
+da Lei Complementar nº 123, de 14 de dezembro de 2006. 
+7.17. No caso de desconexão com a pregoeira, no decorrer da etapa competitiva do Pregão, o sistema 
+eletrônico poderá permanecer acessível aos licitantes para a recepção dos lances. 
+7.18. Quando a desconexão do sistema eletrônico para a pregoeira  persistir por tempo superior a dez 
+minutos, a sessão pública será suspensa e terá reinício somente após comunicação expressa d a pregoeira 
+aos participantes do certame, publicada no Portal de Compras Públicas, 
+http://www.portaldecompraspublicas.com.br, quando serão divulgadas data e hora para a sua reabertura. 
+E será reiniciada somente após decorridas vinte e quatro horas da comunicação do fato pel a pregoeira aos 
+participantes, no sítio eletrônico utilizado para divulgação. 
+=== página 8
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+7.19. O Critério de julgamento adotado será o menor preço, conforme definido neste Edital e seus anexos. 
+7.20. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta. 
+7.21. Em relação a itens não exclusivos para participação de microempresas e empresas de pequeno porte, 
+uma vez encerrada a etapa de lances, será efetivada a verificação automática, junto à Receita Federal, do 
+porte da entidade empresarial. O sistema identificará em coluna própria as microempresas e empresas de 
+pequeno porte participantes, procedendo à comparação com os valores da primeira colocada, se esta for 
+empresa de maior porte, assim como das demais classificadas, para o fim de aplicar-se o disposto nos arts. 
+44 e 45 da LC nº 123, de 2006, regulamentada pelo Decreto nº 8.538, de 2015. 
+7.22. Nessas condições, as propostas de microempresas e empresas de pequeno porte que se encontrarem 
+na faixa de até 5% (cinco por cento) acima da melhor proposta ou melhor lance serão consideradas 
+empatadas com a primeira colocada. 
+7.23. A melhor classificada nos termos do item anterior terá o direito de encaminhar uma última oferta 
+para desempate, obrigatoriamente em valor inferior ao da primeira colocada, no prazo de 5 (cinco) 
+minutos controlados pelo sistema, contados após a comunicação automática para tanto. 
+7.24. Caso a microempresa ou a empresa de pequeno porte melhor classificada desista ou não se 
+manifeste no prazo estabelecido, serão convocadas as demais licitantes microempresa e empresa de 
+pequeno porte que se encontrem naquele intervalo de 5% (cinco por cento), na ordem de classificação, 
+para o exercício do mesmo direito, no prazo estabelecido no subitem anterior. 
+7.25. No caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno 
+porte que se encontrem nos intervalos estabelecidos nos subitens anteriores, será realizado sorteio entre 
+elas para que se identifique aquela que primeiro poderá apresentar melhor oferta. 
+7.26. Encerrada a etapa de envio de lances da sessão pública, a pregoeira deverá encaminhar, pelo sistema 
+eletrônico, contraproposta ao licitante que tenha apresentado o melhor preço, para que seja obtida melhor 
+proposta, vedada a negociação em condições diferentes das previstas neste Edital. 
+7.26.1. A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais 
+licitantes. 
+7.26.2. Também será considerada a proposta final gerada e enviada pelo sistema Compras Públicas. 
+7.26.4. O não envio da proposta readequada, enseja a desclassificação da licitante do certame. 
+7.27. Após a negociação do preço, a pregoeira iniciará a fase de aceitação e julgamento da proposta. 
+ 
+8.0. DA ACEITABILIDADE DA PROPOSTA VENCEDORA. 
+ 
+8.1. Encerrada a etapa de negociação, a pregoeira examinará a proposta classificada em primeiro lugar 
+quanto à adequação ao objeto e à compatibilidade do preço em relação ao máximo estipulado para 
+contratação no edital, e verificará a habilitação do licitante conforme disposições deste edital. 
+8.2. Será desclassificada a proposta ou o lance vencedor, que apresentar preço final superior ao preço 
+máximo fixado (Acórdão nº 1455/2018 -TCU - Plenário), desconto menor do que o mínimo exigido ou 
+que apresentar preço manifestamente inexequível. 
+8.2.1. No caso de bens e serviços em geral, é indício de inexequibilidade das propostas valores inferiores 
+a 50% (cinquenta por cento) do valor orçado pela Administração. 
+8.2.1.1. A inexequibilidade, na hipótese de que trata o item 8.3.1, só será considerada após diligência do 
+agente de contratação/Pregoeiro, que comprove: 
+8.2.1.1.1. Que o custo do licitante ultrapassa o valor da proposta; e; 
+8.2.1.1.2. Inexistirem custos de oportunidade capazes de justificar o vulto da oferta. 
+=== página 9
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+8.3. Qualquer interessado poderá requerer que se realizem diligências para aferir a exequibilidade e a 
+legalidade das propostas, devendo apresentar as provas ou os indícios que fundamentam a suspeita; 
+8.4. Na hipótese de necessidade de suspensão da sessão pública para a realização de diligências, com 
+vistas ao saneamento das propostas, a sessão pública somente poderá ser reiniciada mediante aviso prévio 
+no sistema com, no mínimo, vinte e quatro horas de antecedência, e a ocorrência será registrada em ata; 
+8.5. A pregoeira  poderá convocar o licitante para enviar  proposta readequada não enviada no 
+prazo ou documento digital complementar, por meio de funcionalidade disponível no sistema, no 
+prazo de até 30 (TRINTA) MINUTOS sob pena de não aceitação da proposta. 
+8.5.1. É facultado a pregoeira prorrogar o prazo estabelecido, a partir de solicitação fundamentada feita no 
+chat pelo licitante, antes de findo o prazo. 
+8.5.2. Dentre os documentos passíveis de solicitação pel a pregoeira, destacam- se os que contenham as 
+características dos serviços ofertados, tais como marca, modelo, tipo, fabricante e procedência, além de 
+outras informações pertinentes, a exemplo de catálogos, folhetos ou propostas, encaminhados por meio 
+eletrônico, ou, se for o caso, por outro meio e prazo indicados pela pregoeira, sem prejuízo do seu ulterior 
+envio pelo sistema eletrônico, sob pena de não aceitação da proposta. 
+8.5.3. Caso a compatibilidade com as especificações demandadas, sobretudo quanto a padrões de 
+qualidade e desempenho, não possa ser aferida pelos meios previstos nos subitens acima, a pregoeira  
+exigirá que o licitante classificado em primeiro lugar apresente amostra, sob pena de não aceitação da 
+proposta, no local a ser indicado e dentro de 10 (dez) dias úteis contados da solicitação. 
+8.5.3.1. Por meio de mensagem no sistema, será divulgado o local e horário de realização do 
+procedimento para a avaliação das amostras, cuja presença será facultada a todos os interessados, 
+incluindo os demais licitantes. 
+8.5.3.2. Os resultados das avaliações serão divulgados por meio de mensagem no sistema. 
+8.5.3.3. No caso de não haver entrega da amostra ou ocorrer atraso na entrega, sem justificativa aceita 
+pela pregoeira, ou havendo entrega de amostra fora das especificações previstas neste Edital, a proposta 
+do licitante será recusada. 
+8.5.3.4. Se a(s) amostra(s) apresentada(s) pelo primeiro classificado não for(em) aceita(s), a pregoeira  
+analisará a aceitabilidade da proposta ou lance ofertado pelo segundo classificado. Seguir -se-á com a 
+verificação da(s) amostra(s) e, assim, sucessivamente, até a verificação de uma que atenda às 
+especificações constantes no Termo de Referência. 
+8.5.3.5. Os exemplares colocados à disposição da Administração serão tratados como protótipos, podendo 
+ser manuseados e desmontados pela equipe técnica responsável pela análise, não gerando direito a 
+ressarcimento. 
+8.5.3.6. Após a divulgação do resultado final da licitação, as amostras entregues deverão ser recolhidas 
+pelos licitantes no prazo de 10 (dez) dias, após o qual poderão ser descartadas pela Administração, sem 
+direito a ressarcimento. 
+8.5.3.7. Os licitantes deverão colocar à disposição da Administração todas as condições indispensáveis à 
+realização de testes e fornecer, sem ônus, os manuais impressos em língua portuguesa, necessários ao seu 
+perfeito manuseio, quando for o caso. 
+8.6. Se a proposta ou lance vencedor for desclassificado, a pregoeira  examinará a proposta ou lance 
+subsequente, e, assim sucessivamente, na ordem de classificação. 
+8.7. Havendo necessidade, a pregoeira suspenderá a sessão, informando no “chat” a nova data e horário 
+para a sua continuidade. 
+=== página 10
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+8.8. A pregoeira  poderá encaminhar, por meio do sistema eletrônico, contraproposta ao licitante que 
+apresentou o lance mais vantajoso, com o fim de negociar a obtenção de melhor preço, vedada a 
+negociação em condições diversas das previstas neste Edital. 
+8.8.1. Também nas hipóteses em que a pregoeira não aceitar a proposta e passar à subsequente, poderá 
+negociar com o licitante para que seja obtido preço melhor. 
+8.8.2. A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais 
+licitantes. 
+8.9. Nos itens não exclusivos para a participação de microempresas e empresas de pequeno porte, sempre 
+que a proposta não for aceita, e antes de a pregoeira passar à subsequente, haverá nova verificação, pelo 
+sistema, da eventual ocorrência do empate ficto, previsto nos artigos 44 e 45 da LC nº 123, de 2006, 
+seguindo-se a disciplina antes estabelecida, se for o caso. 
+8.10. Encerrada a análise quanto à aceitação da proposta, a pregoeira verificará a habilitação do licitante, 
+observado o disposto neste Edital. 
+  
+9.0. DA HABILITAÇÃO. 
+9.1. Encerrada a análise e aceitação da proposta de preço, o licitante melhor classificado será 
+convocado via chat para apresentar os documentos de habilitação no prazo de até 02 (duas) horas, 
+os quais deverão ser enviados via sistema Compras Públicas. 
+9.1.1. Os documentos de habilitação deverão estar válidos na data da abertura da sessão ou da convocação 
+para apresentação dos documentos, nos casos em que a convocação ocorrer em data diferente da abertura. 
+9.2. Como condição prévia ao exame da documentação de habilitação do licitante detentor da proposta 
+classificada em primeiro lugar, a pregoeira  verificará o eventual descumprimento das condições de 
+participação, especialmente quanto à existência de sanção que impeça a participação no certame ou a 
+futura contratação, mediante a consulta aos seguintes cadastros: 
+ 
+9.3. Possuir Cadastro do Portal de Compras Públicas; 
+9.4. Cadastro Nacional de Empresas Inidôneas e Suspensas – CEIS e o e o Cadastro Nacional de 
+Empresas Punidas – CNEP (www.portaldatransparencia.gov.br/); 
+9.5. Cadastro Nacional de Condenações Cíveis por Atos de Improbidade Administrativa, mantido
+ pelo Conselho Nacional de Justiça 
+(www.cnj.jus.br/improbidade_adm/consultar_requerido.php). 
+9.6. Lista de Inidôneos, mantida pelo Tribunal de Contas da União – TCU 
+https://contas.tcu.gov.br/ords/f?p=1660:3:0 
+ 
+9.7. A consulta aos cadastros será realizada em nome da empresa licitante. 
+9.8. Caso conste na Consulta de Situação do Fornecedor a existência de Ocorrências Impeditivas 
+Indiretas, o gestor diligenciará para verificar se houve fraude por parte das empresas apontadas no 
+Relatório de Ocorrências Impeditivas Indiretas. 
+9.9. A tentativa de burla será verificada por meio dos vínculos societários, linhas de fornecimento 
+similares, dentre outros. 
+9.10. O licitante será convocado para manifestação previamente à sua desclassificação. 
+9.11. Constatada a existência de sanção, a pregoeira reputará o licitante inabilitado, por falta de condição 
+de participação. 
+
+=== página 11
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+9.12. No caso de inabilitação, haverá nova verificação, pelo sistema, da eventual ocorrência do empate 
+ficto, previsto nos arts. 44 e 45 da Lei Complementar nº 123, de 2006, seguindo - se a disciplina antes 
+estabelecida para aceitação da proposta subsequente. 
+9.13. Caso atendidas as condições de participação, a habilitação dos licitantes será verificada por meio do 
+PORTAL DE COMPRAS PUBLICAS, em relação à habilitação jurídica, à regularidade fiscal e 
+trabalhista, à qualificação econômico-financeira e habilitação técnica. 
+9.14. É dever do licitante atualizar previamente as comprovações constantes do PORTAL DE COMPRAS 
+PUBLICAS, para que estejam vigentes na data da abertura da sessão pública, ou encaminhar, em 
+conjunto com a apresentação da proposta, a respectiva documentação atualizada. 
+9.15. Havendo a necessidade de envio de documentos de habilitação complementares, necessários à 
+confirmação daqueles exigidos neste Edital e já apresentados, o licitante será convocado a encaminhá-los, 
+em formato digital, via sistema, no prazo de até 02 (duas) horas, sob pena de inabilitação. 
+9.16. Somente haverá a necessidade de comprovação do preenchimento de requisitos mediante 
+apresentação dos documentos originais não -digitais quando houver dúvida em relação à integridade do 
+documento digital. 
+9.17. Não serão aceitos documentos de habilitação com indicação de CNPJ/CPF diferentes, salvo aqueles 
+legalmente permitidos. 
+9.18. Se o licitante for a matriz, todos os documentos deverão estar em nome da matriz, e se o licitante for 
+a filial, todos os documentos deverão estar em nome da filial, exceto aqueles documentos que, pela 
+própria natureza, comprovadamente, forem emitidos somente em nome da matriz. 
+9.19. Serão aceitos registros de CNPJ de licitante matriz e filial com diferenças de números de 
+documentos pertinentes ao CND e ao CRF/FGTS, quando for comprovada a centralização do 
+recolhimento dessas contribuições. 
+9.20. Ressalvado o disposto no item 5, os licitantes deverão encaminhar, nos termos deste Edital, a 
+documentação relacionada nos itens a seguir, para fins de habilitação: 
+9.21. A pregoeira  poderá consultar sítios oficiais de órgãos e entidades emissores de certidões para 
+verificar as condições de habilitação dos licitantes. 
+ 
+9.21. Das Declarações: 
+9.21.1. Que cumpre os requisitos estabelecidos no artigo 3° da Lei Complementar nº 123, de 2006, 
+estando apta a usufruir do tratamento favorecido estabelecido em seus arts. 42 a 49;  
+9.21.1.1. Declaro, sob as penas da Lei, que não ultrapassei o limite de faturamento e cumpro os requisitos 
+estabelecidos no Art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006, sendo apto a usufruir 
+do tratamento favorecido estabelecido nos artigos 42 ao 49 da referida Lei Complementar, se for o caso; 
+9.21.2. Que está ciente e concorda com as condições contidas no Edital e seus anexos; 
+9.21.3. Que cumpre os requisitos para a habilitação definidos no Edital e que a proposta apresentada está 
+em conformidade com as exigências editalícias; 
+9.21.4. Que inexistem fatos impeditivos para sua habilitação no certame, ciente da obrigatoriedade de 
+declarar ocorrências posteriores; 
+9.21.5.Que não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e não emprega 
+menor de 16 anos, salvo menor, a partir de 14 anos, na condição de aprendiz, nos termos do artigo 7°, 
+XXXIII, da Constituição; 
+9.21.6.Que a proposta foi elaborada de forma independente, nos termos da Instrução Normativa SLTI/MP 
+nº 2, de 16 de setembro de 2009. 
+=== página 12
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+9.21.7.Que não possui, em sua cadeia produtiva, empregados executando trabalho degradante ou forçado, 
+observando o disposto nos incisos III e IV do art. 1º e no inciso III do art. 5º da Constituição Federal; 
+9.21.8.Que os serviços são prestados por empresas que comprovem cumprimento de reserva de cargos 
+prevista em lei para pessoa com deficiência ou para reabilitado da Previdência Social e que atendam às 
+regras de acessibilidade previstas na legislação, conforme disposto no art. 93 da Lei nº 8.213, de 24 de 
+julho de 1991. 
+9.21.10. As declarações acima mencionadas serão apresentadas através do sistema Compras Públicas, 
+devendo as licitantes assinalarem os campos respectivos no sistema. 
+ 
+9.22. HABILITAÇÃO PESSOA JURÍDICA: 
+9.22.1. As participantes, em se tratando de Sociedades Comerciais, deverão apresentar devidamente 
+registrados no Órgão de Registro do Comércio local de sua sede os respectivos Contratos Sociais e todas 
+as suas alterações subsequentes ou o respectivo instrumento de Consolidação Contratual em vigor, com as 
+posteriores alterações, se houver; 
+9.22.2. As participantes, em se tratando de Sociedades Civis, deverão apresentar os seus respectivos Atos 
+Constitutivos e todas as alterações subsequentes em vigor, devidamente inscritos no Cartório de Registro 
+Civil, acompanhados de prova da diretoria em exercício; 
+9.22.3. As participantes, em se tratando de Sociedades por Ações, deverão apresentar as publicações nos 
+Diários Oficiais dos seus respectivos Estatutos Sociais em vigor, acompanhados dos documentos de 
+eleição de seus administradores. 
+9.22.4. No caso de empresário individual, inscrição no Registro Público de Empresas Mercantis; 
+9.22.5. Para as sociedades empresárias ou empresas individuais de responsabilidade limitada , ato 
+constitutivo, estatuto ou contrato social em vigor, devidamente registrado na Junta Comercial da 
+respectiva sede, acompanhado de documento comprobatório de seus administradores; 
+9.22.6. Os documentos acima deverão estar acompanhados de todas as alterações ou da consolidação 
+respectiva. 
+9.22.7. Cópia de Documento de Identidade e CPF ou outro equivalente dos sócios das empresas licitantes. 
+ 
+9.23. REGULARIDADE FISCAL E TRABALHISTA: 
+9.23.1. Cadastro Nacional da Pessoa Jurídica (CNPJ); 
+9.23.2. Inscrição no cadastro de contribuintes estadual e/ou municipal, se houver, relativo ao domicílio 
+ou sede do licitante, pertinente ao seu ramo de atividade e compatível com o objeto contratual; 
+9.23.3. Prova de regularidade com a Fazenda Nacional, relativos aos Tributos federais, inclusive 
+contribuições previdenciárias, tanto no âmbito Federal quanto no âmbito da procuradoria da Fazenda 
+Nacional (Certidão Unificada, conforme portaria MF 358, de 05 de setembro de 2014, alterada pela 
+Portaria MF nº 443, de 17 de outubro de 2014), assegurada a regra para as microempresas e empresas de 
+pequeno porte, nos termos do art. 43 da Lei Complementar Nº 123, de 14 de dezembro de 2006; 
+9.23.4. Prova de regularidade com a Fazenda Estadual do domicílio ou sede da interessada, assegurada a 
+regra para as microempresas e empresas de pequeno porte, nos termos do art. 43 da Lei Complementar Nº 
+123, de 14 de dezembro de 2006; 
+9.23.5. Prova de regularidade com a Fazenda Municipal do domicílio ou sede da interessada, assegurada 
+a regra para as microempresas e empresas de pequeno porte, nos termos do art. 43 da Lei Complementar 
+Nº 123, de 14 de dezembro de 2006; 
+9.23.6. Prova de regularidade relativa ao Fundo de Garantia do Tempo de Serviço  - FGTS: Certidão de 
+Regularidade de Situação - CRF, emitida pela Caixa Econômica Federal; 
+=== página 13
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+9.23.6. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a 
+apresentação de certidão negativa, nos termos do Título VII -A da Consolidação das Leis do Trabalho, 
+aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943; 
+9.23.7. Caso o licitante seja considerado isento dos tributos estaduais relacionados ao objeto licitatório, 
+deverá comprovar tal condição mediante declaração da Fazenda Estadual do seu domicílio ou sede, ou 
+outra equivalente, na forma da lei; 
+9.23.8. Caso o licitante detentor do menor preço seja qualificado como microempresa ou empresa de 
+pequeno porte deverá apresentar toda a  documentação exigida para efeito de comprovação de 
+regularidade fiscal, mesmo que esta apresente alguma restrição, sob pena de inabilitação. 
+ 
+9.24. QUALIFICAÇÃO ECONÔMICO-FINANCEIRA. 
+9.24.1. Certidão negativa de feitos sobre falência expedida pelo distribuidor da sede do licitante, datado 
+dos últimos 30 (trinta) dias, ou que esteja dentro do prazo de validade expresso na própria Certidão. 
+ 
+9.25. QUALIFICAÇÃO TÉCNICA 
+9.25.1. Atestado de Capacidade Técnica da Licitante, emitido por entidade da Administração Federal, 
+Estadual ou Municipal, direta ou indireta, e/ou empresa privada que comprove, de maneira satisfatória 
+aptidão para desempenho de atividade pertinente e compatível em características, quantidades e prazos 
+com o objeto da presente licitação. 
+ 
+9.26. A existência de restrição relativamente à regularidade fiscal, social e trabalhista não impede que a 
+licitante qualificada como microempresa ou empresa de pequeno porte seja declarada vencedora, uma vez 
+que atenda a todas as demais exigências do edital. 
+9.26.1. A declaração do vencedor acontecerá no momento imediatamente posterior à fase de habilitação. 
+9.27. Caso a proposta mais vantajosa seja ofertada por licitante qualificada como microempresa ou 
+empresa de pequeno porte, e uma vez constatada a existência de alguma restrição no que tange à 
+regularidade fiscal e trabalhista, a mesma será convocada para, no prazo de 5 (cinco) dias úteis, após a 
+declaração do vencedor, comprovar a regularização. O prazo poderá ser prorrogado por igual período, a 
+critério da administração pública, quando requerida pelo licitante, mediante apresentação de justificativa. 
+9.28. A não -regularização fiscal e trabalhista no prazo previsto no subitem anterior acarretará a 
+inabilitação do licitante, sem prejuízo das sanções previstas neste Edital, sendo facultada a convocação 
+dos licitantes remanescentes, na ordem de classificação. Se, na ordem de classificação, seguir -se outra 
+microempresa, empresa de pequeno porte ou sociedade cooperativa com alguma restrição na 
+documentação fiscal e trabalhista, será concedido o mesmo prazo para regularização. 
+9.29. Havendo necessidade de analisar minuciosamente os documentos exigidos, a pregoeira suspenderá a 
+sessão, informando no “chat” a nova data e horário para a continuidade da mesma. 
+9.30. Havendo erros, falhas ou omissões dos documentos de habilitação, a pregoeira poderá sanar através 
+da abertura de diligência, desde que não alterem a substância dos documentos e sua validade jurídica, 
+mediante despacho fundamentado registrado e acessível a todos, atribuindo -lhes eficácia para fins de 
+habilitação e classificação. 
+9.31. A vedação à inclusão de novo documento, não alcança documento ausente, comprobatório de 
+condição atendida pelo licitante quando apresentou sua proposta, que não foi juntado com os demais 
+comprovantes de habilitação e da proposta, por equívoco ou falha, o qual deverá ser solicitado e avaliado 
+pela pregoeira (Acórdão 1211/2021-Plenário TCU). 
+9.31. Será inabilitado o licitante que não comprovar sua habilitação, seja por não apresentar quaisquer dos 
+documentos exigidos, ou apresentá-los em desacordo com o estabelecido neste Edital. 
+=== página 14
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+9.32. Nos itens não exclusivos a microempresas e empresas de pequeno porte, em havendo inabilitação, 
+haverá nova verificação, pelo sistema, da eventual ocorrência do empate ficto, previsto nos artigos 44 e 
+45 da LC nº 123, de 2006, seguindo -se a disciplina antes estabelecida para aceitação da proposta 
+subsequente. 
+9.33. Constatado o atendimento às exigências de habilitação fixadas no Edital, o licitante será declarado 
+vencedor. 
+ 
+10.0 DO ENCAMINHAMENTO DA PROPOSTA VENCEDORA. 
+ 
+10.1. A proposta final do licitante declarado vencedor deverá ser encaminhada no prazo de 12 
+(doze) horas, juntamente com a garantia de proposta  (caução) no percentual de 1% (um por cento) 
+sobre o valor total da proposta de preços atualizada ao último lance , a contar da solicitação d a 
+Pregoeira no sistema eletrônico Portal de Compras Públicas e deverá: 
+10.1.1. Ser redigida em língua portuguesa, datilografada ou digitada, em uma via, sem emendas, rasuras, 
+entrelinhas ou ressalvas, devendo a última folha ser assinada e as demais rubricadas pelo licitante ou seu 
+representante legal. 
+10.1.2. Conter a indicação do banco, número da conta e agência do licitante vencedor, para fins de 
+pagamento. 
+10.1.3. Também será considerada a proposta final gerada e enviada pelo sistema Compras Públicas. 
+10.1.4. O não cumprimento do disposto no item 10.1 enseja a desclassificação da licitante do certame. 
+10.2. A proposta final deverá ser documentada nos autos e será levada em consideração no decorrer da 
+execução do contrato e aplicação de eventual sanção à Contratada, se for o caso. 
+10.2.1. Todas as especificações do objeto contidas na proposta, tais como marca, modelo, tipo, fabricante 
+e procedência, vinculam a Contratada. 
+10.3. Os preços deverão ser expressos em moeda corrente nacional, o valor unitário em algarismos e o 
+valor global em algarismos e por extenso. 
+10.3.1. Ocorrendo divergência entre os preços unitários e o preço global, prevalecerão os primeiros; no 
+caso de divergência entre os valores numéricos e os valores expressos por extenso, prevalecerão estes 
+últimos. 
+10.4. A oferta deverá ser firme e precisa, limitada, rigorosamente, ao objeto deste Edital, sem conter 
+alternativas de preço ou de qualquer outra condição que induza o julgamento a mais de um resultado, sob 
+pena de desclassificação. 
+10.5. A proposta deverá obedecer aos termos deste Edital e seus Anexos, não sendo considerada aquela 
+que não corresponda às especificações ali contidas ou que estabeleça vínculo à proposta de outro licitante. 
+10.6. As propostas que contenham a descrição do objeto, o valor e os documentos complementares 
+estarão disponíveis na internet, após a homologação. 
+ 
+11.0. DOS RECURSOS. 
+11.1. Cabe recurso em face de: 
+11.1.1. Julgamento das propostas; 
+11.1.2. Ato de habilitação ou inabilitação de licitante; 
+11.1.3. Anulação ou revogação da licitação 
+11.2. Nos recursos de julgamento das propostas e de ato de habilitação ou inabilitação de licitante serão 
+observadas as seguintes disposições: 
+11.2.1. A intenção de recorrer deverá ser manifestada imediatamente, sob pena de preclusão, e o prazo 
+para apresentação das razões recursais de 3 (três) dias úteis será iniciado na data de intimação ou de 
+lavratura da ata de habilitação ou inabilitação ou, na hipótese de adoção da inversão de fases prevista no § 
+1º do art. 17 da Lei n. 14.133/2021, da ata de julgamento; 
+11.2.2. A apreciação se dará em fase única. 
+=== página 15
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+11.2.3. Declarado o vencedor, a pregoeira abrirá prazo de 30 (trinta) minutos, durante o qual qualquer 
+licitante poderá, de forma imediata e motivada, em campo próprio do sistema eletrônico, manifestar sua 
+intenção de recurso. 
+11.2.4. A falta de manifestação no prazo estabelecido autoriza a pregoeira  a adjudicar o objeto ao 
+licitante vencedor. 
+11.2.5. Não será admitida intenção de recurso de caráter protelatório, fundada em mera insatisfação do 
+licitante, ou baseada em fatos genéricos. 
+11.2.6. A pregoeira examinará a intenção de recurso, aceitando -a ou, motivadamente, rejeitando -a, em 
+campo próprio do sistema eletrônico. 
+11.2.7. O licitante que tiver sua intenção de recurso aceita deverá registrar as razões do recurso em 
+campo próprio do sistema no prazo de 3 (três) dias úteis, ficando os demais licitantes, desde logo, 
+intimados a apresentar contrarrazões, também via sistema, em igual prazo, que começará a correr a partir 
+do término do prazo do recorrente. 
+11.2.8. Para justificar sua intenção de recorrer e fundamentar suas razões ou contrarrazões de recurso, o 
+licitante interessado poderá solicitar vista dos autos a partir do encerramento da fase de lances. 
+11.2.9. As intenções de recurso não admitidas e os recursos rejeitados pel a pregoeira  serão a ele 
+dirigidos, que, se não reconsiderar o ato ou a decisão no prazo de 3 (três) dias úteis, encaminhará o 
+recurso com a sua motivação à autoridade superior, a qual deverá proferir sua decisão no prazo máximo 
+de 10 (dez) dias úteis, contado do recebimento dos autos. 
+11.2.10. O acolhimento do recurso implicará a invalidação apenas dos atos não suscetíveis de 
+aproveitamento. 
+ 
+12.0. DA REABERTURA DA SESSÃO PÚBLICA. 
+12.1. A sessão pública poderá ser reaberta: 
+12.1.1. Nas hipóteses de provimento de recurso que leve à anulação de atos anteriores à realização da 
+sessão pública precedente ou em que seja anulada a própria sessão pública, situação em que serão 
+repetidos os atos anulados e os que dele dependam. 
+12.1.2. Quando houver erro na aceitação do preço mais bem classificado ou quando o licitante declarado 
+vencedor não assinar o contrato, não retirar o instrumento equivalente ou não comprovar a regularização 
+fiscal e trabalhista, nos termos do art. 43, §1º da LC nº 123/2006. Nessas hipóteses, serão adotados os 
+procedimentos imediatamente posteriores ao encerramento da etapa de lances. 
+12.2. Todos os licitantes remanescentes deverão ser convocados para acompanhar a sessão reaberta. 
+12.2.1. A convocação se dará por meio do sistema eletrônico (“chat”), e -mail, de acordo com a fase do 
+procedimento licitatório. 
+12.2.2. A convocação feita por e -mail dar-se-á de acordo com os dados contidos no CADASTRO DO 
+PORTAL DE COMPRAS PUBLICAS, sendo responsabilidade do licitante manter seus dados cadastrais 
+atualizados. 
+ 
+13.0. DA ADJUDICAÇÃO E HOMOLOGAÇÃO. 
+13.1. O objeto da licitação será adjudicado ao licitante declarado vencedor, por ato da autoridade 
+competente, após a regular decisão dos recursos apresentados. 
+13.2. Após a fase recursal, constatada a regularidade dos atos praticados, a autoridade competente 
+homologará o procedimento licitatório. 
+ 
+14.0. DA GARANTIA DE EXECUÇÃO. 
+14.1. A licitante deverá apresentar garantia contratual exigida no art. 96 da Lei Federal nº 14.133/2021, 
+equivalente a 5% (cinco por cento) do valor inicial do contrato.  
+14.2. Caberá ao contratado optar por uma das seguintes modalidades de garantia:  
+14.2.1. caução em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural, mediante 
+registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil, e 
+avaliados por seus valores econômicos, conforme definido pelo Ministério da Economia;  
+=== página 16
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+14.2.2. seguro-garantia;  
+14.2.3. fiança bancária emitida por banco ou instituição financeira devidamente autorizada a operar no 
+País pelo Banco Central do Brasil.  
+14.3. O prazo de vigência da apólice será igual ou superior ao prazo estabelecido no contrato principal e 
+deverá acompanhar as modificações referentes à vigência deste mediante a emissão do respectivo endosso 
+pela seguradora.  
+14.4. O seguro -garantia continuará em vigor mesmo se o contratado não tiver pago o prêmio nas datas 
+convencionadas. 
+14.5. Quando o contratado optar pela modalidade seguro-garantia, terá o prazo de 1 (um) mês, contado da 
+data de homologação da licitação e anterior à assinatura do contrato, para a prestação da garantia.  
+14.6. A garantia prestada pelo contratado será liberada ou restituída após a fiel execução do contrato ou 
+após a sua extinção por culpa exclusiva da Administração e, quando em dinheiro, atualizada 
+monetariamente.  
+14.7. Quando a garantia for realizada através de seguro -garantia, a mesma deverá ser emitida por 
+instituição devidamente autorizada pela Superintendência de Seguros Privados -SUSEP e quando se tratar 
+de fiança bancária junto ao Banco Central do Brasil, conforme dispõe o Acórdão TCU n.º 498/2011 - 
+plenário. 
+14.8. A garantia será entregue no ato da assinatura do contrato, sob pena de decair o direito de 
+contratação, exceto quando a adjudicatária informar que a garantia será através da modalidade seguro-
+garantia, que terá o prazo de 1 (um) mês, contado da data de homologação, conforme § 3º, do art. 96 da 
+Lei 14.133/21. 
+ 
+15.0. DO TERMO DE CONTRATO OU INSTRUMENTO EQUIVALENTE 
+15.1. Após a homologação da licitação, em sendo realizada a contratação, será firmado Termo de 
+Contrato ou emitido instrumento equivalente. 
+15.2. O adjudicatário terá o prazo de 05 (CINCO) dias úteis, contados a partir da data de sua convocação, 
+para assinar o Termo de Contrato ou aceitar instrumento equivalente, conforme o caso (Nota de 
+Empenho/Carta Contrato/Autorização), sob pena de decair do direito à contratação, sem prejuízo das 
+sanções previstas neste Edital. 
+15.2.1. Alternativamente à convocação para comparecer perante o órgão ou entidade para a assinatura do 
+Termo de Contrato ou aceite do instrumento equivalente, a Administração poderá encaminhá -lo para 
+assinatura ou aceite da Adjudicatária, mediante correspondência postal com aviso de recebimento (AR) 
+ou meio eletrônico, para que seja assinado ou aceito no prazo de 05 (CINCO) dias, a contar da data de seu 
+recebimento. 
+15.2.2. O prazo previsto no subitem anterior poderá ser prorrogado, por igual período, por solicitação 
+justificada do adjudicatário e aceita pela Administração. 
+15.3. O Aceite da Nota de Empenho ou do instrumento equivalente, emitida à empresa adjudicada, 
+implica no reconhecimento de que: 
+15.3.1. Referida Nota está substituindo o contrato, aplicando -se à relação de negócios ali estabelecida as 
+disposições da Lei nº 14.133/2021; 
+15.3.2. A contratada se vincula à sua proposta e às previsões contidas no edital e seus anexos; 
+15.3.3. A contratada reconhece que as hipóteses de extinção do contrato são aquelas previstas no artigo 
+137 da Lei nº 14.133/2021 e reconhece os direitos da Administração previstos no artigo 139 da mesma 
+Lei. 
+15.4. O prazo do contrato será de 12 (doze) meses , contados da data da sua publicação, podendo ser 
+prorrogado nos termos dos arts. 105 e 107, da Lei 14.133/2021. 
+15.5. Previamente à contratação a Administração realizará consultas para identificar possível suspensão 
+temporária de participação em licitação, no âmbito do órgão ou entidade, proibição de contratar com o 
+Poder Público, bem como ocorrências impeditivas indiretas, observado o disposto no art. 29, da Instrução 
+Normativa nº 3, de 26 de abril de 2018, e nos termos do art. 6º, III, da Lei nº 10 .522, de 19 de julho de 
+2002, consulta prévia ao CADIN. 
+=== página 17
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+15.6. Na assinatura do contrato, será exigida a comprovação das condições de habilitação consignadas 
+no edital, que deverão ser mantidas pelo licitante durante a vigência do contrato. 
+15.7. Na hipótese de o vencedor da licitação não comprovar as condiçõe s de habilitação consignadas no 
+edital ou se recusar a assinar o contrato, a Administração, sem prejuízo da aplicação das sanções das 
+demais cominações legais cabíveis a esse licitante, poderá convocar outro licitante, respeitada a ordem de 
+classificação, para, após a comprovação dos requisitos para habilitação, analisada a proposta e eventuais 
+documentos complementares e, feita a negociação, assinar o contrato ou a ata de registro de preços. 
+ 
+16.0. DO REAJUSTAMENTO EM SENTIDO GERAL. 
+16.1. As regras acerca do reajustamento em sentido geral do valor contratual são as estabelecidas no 
+Termo de Referência, anexo a este Edital. 
+ 
+17.0. DO RECEBIMENTO, DA ACEITAÇÃO E DA FISCALIZAÇÃO. 
+17.1. Os critérios de recebimento e aceitação do objeto e de fiscalização estão previstos no Termo de 
+Referência. 
+ 
+18.0. DAS OBRIGAÇÕES DA CONTRATANTE E DA CONTRATADA. 
+18.1. As obrigações da Contratante e da Contratada são as estabelecidas no Termo de Referência. 
+ 
+19.0. DO PAGAMENTO. 
+19.1. As regras acerca do pagamento são as estabelecidas no Termo de Referência, anexo a este Edital. 
+ 
+20.0. DAS SANÇÕES ADMINISTRATIVAS. 
+20.1. As regras acerca das sanções são as estabelecidas no Termo de Referência, anexo a este Edital. 
+ 
+21.0. DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO. 
+21.1. Até 03 (três) dias úteis antes da data designada para a abertura da sessão pública, qualquer pessoa 
+poderá impugnar este Edital. 
+21.2. A IMPUGNAÇÃO DEVERÁ ser realizada EXCLUSIVAMENTE por FORMA ELETRÔNICA no 
+sistema www.portaldecompraspublicas.com.br. 
+21.3. Caberá aa pregoeira, auxiliado pelo órgão de assessoramento jurídico, decidir sobre a impugnação 
+no prazo de três dias úteis, limitado ao último dia útil anterior à data da abertura do certame. 
+21.4. Acolhida a impugnação, será definida e publicada nova data para a realização do certame. 
+24.5. Os pedidos de esclarecimentos referentes ao processo licitatório serão enviados aa pregoeira, até três 
+dias úteis anteriores à data fixada para abertura da sessão pública, por meio eletrônico, na forma do edital, 
+exclusivamente por meio eletrônico via internet, em campo próprio do Sistema Portal de Compras 
+Públicas no endereço eletrônico www.portaldecompraspublicas.com.br. 
+21.6. A pregoeira responderá aos pedidos de esclarecimentos no prazo de até 3 (três) dias úteis, limitado 
+ao último dia útil anterior à data da abertura do certame. 
+21.7. As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no certame. 
+21.8. A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser motivada pel a 
+pregoeira, nos autos do processo de licitação. 
+21.9. As respostas aos pedidos de esclarecimentos serão divulgadas pelo sistema e vincularão os 
+participantes e a administração. 
+21.10. As respostas às impugnações e aos esclarecimentos solicitados, bem como outros avisos de ordem 
+geral, serão cadastradas no sítio www.portaldecompraspublicas.com.br, sendo de responsabilidade dos 
+licitantes, seu acompanhamento. 
+21.11. Não serão conhecidas as impugnações apresentadas após o respectivo prazo legal ou, no caso de 
+empresas, que estejam subscritas por representante não habilitado legalmente ou não identificado no 
+processo para responder pela proponente. 
+=== página 18
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+21.12. A petição de impugnação apresentada por empresa deve ser firmada por sócio, pessoa designada 
+para a administração da sociedade empresária, ou procurador, e vir acompanhada, conforme o caso, de 
+estatuto ou contrato social e suas posteriores alterações, se houver, do ato de designação do 
+administrador, ou de procuração pública ou particular (instrumento de mandato com poderes para 
+impugnar o Edital). 
+ 
+22.0. DAS DISPOSIÇÕES GERAIS. 
+22.1. Da sessão pública do Pregão divulgar-se-á Ata no sistema eletrônico. 
+22.2. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a realização do 
+certame na data marcada, a sessão será automaticamente transferida para o primeiro dia útil subsequente, 
+no mesmo horário anteriormente estabelecido, desde que não haja comunicação em contrário, pel a 
+pregoeira. 
+22.3. Todas as referências de tempo no Edital, no aviso e durante a sessão pública observarão o horário de 
+Brasília – DF. 
+22.4. No julgamento das propostas e da habilitação, a pregoeira  poderá sanar erros ou falhas que não 
+alterem a substância das propostas, dos documentos e sua validade jurídica, mediante despacho 
+fundamentado, registrado em ata e acessível a todos, atribuindo -lhes validade e eficácia para fins de 
+habilitação e classificação. 
+22.5. A homologação do resultado desta licitação não implicará direito à contratação. 
+22.6. As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação da disputa 
+entre os interessados, desde que não comprometam o interesse da Administração, o princípio da isonomia, 
+a finalidade e a segurança da contratação. 
+22.7. Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e a 
+Administração não será, em nenhum caso, responsável por esses custos, independentemente da condução 
+ou do resultado do processo licitatório.  
+22.8. Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir -se-á o dia do início e 
+incluir-se-á o do vencimento. Só se iniciam e vencem os prazos em dias de expediente na Administração. 
+22.9. O desatendimento de exigências formais não essenciais não importará o afastamento do licitante, 
+desde que seja possível o aproveitamento do ato, observados os princípios da isonomia e do interesse 
+público. 
+22.10. Em caso de divergência entre disposições deste Edital e de seus anexos ou demais peças que 
+compõem o processo, prevalecerá as deste Edital. 
+22.11. O Edital está disponibilizado, na íntegra, no endereço eletrônico: 
+www.portaldecompraspublicas.com.br, e também poderão ser lidos e/ou obtidos no Portal do TCE/PB e 
+site oficial do Município. 
+22.12. Integram este Edital, para todos os fins e efeitos, os seguintes anexos: 
+ANEXO I - ESTUDO TÉCNICO PRELIMINAR; 
+ANEXO II - TERMO DE REFERÊNCIA; 
+ANEXO III - MODELO DE PROPOSTA DE PREÇOS;  
+ANEXO IV - MINUTA DO CONTRATO. 
+ 
+Santa Luzia - PB, 29 de janeiro de 2025. 
+ 
+ 
+ 
+Francisco Moisés Alvino de Almeida 
+Secretário Municipal de Saúde 
+ 
+ 
+ 
+ 
+=== página 19
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+ANEXO I - ESTUDO TÉCNICO PRELIMINAR 
+ 
+INTRODUÇÃO 
+ 
+Em atenção aos princípios da eficiência e economicidade que regem a Administração 
+Pública, somado à transparência que deve nortear as despesas custeadas com orçamento público, é 
+primordial que seja implementada a sistemática da realização de estudos preliminares para a aquisição de 
+bens ou prestação de serviços, como forma de obter melhoria da qualidade dos gastos e conduzir a uma 
+gestão eficiente dos recursos públicos. 
+Vale observar que o planejamento tem por finalidade identificar problema(s) e elaborar 
+estudos de solução(ões), por meio da observação, registro das ocorrências e levantamento da 
+documentação com o fim de reunir e organizar elementos fáticos necessários e suficientes para permitir a 
+escolha de solução mais adequada e eficiente. 
+O presente Estudo Técnico Preliminar regulamenta a fase preparatória para aquisição de 
+medicamentos diversos destinados a Assistência Farmacêutica Básica, Assistência Farmacêutica 
+Especializada e medicamentos que não fazem parte do RENAME para atendimento às necessidades do 
+município de Santa Luzia/PB objetivando abastecer os órgãos municipais responsáveis pela prestação de 
+serviços de saúde à população , tem por objetivo  identificar e analisar os cenários para o atendimento da 
+necessidade que consta no Documento de Oficialização da Demanda, bem como demonstrar a viabilidade 
+técnica e econômica das soluções identificadas, fornecendo as informações necessárias para subsidiar o 
+respectivo processo, nos termos a seguir expostos. 
+  
+I. DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO 
+A Prefeitura Municipal de Santa Luzia, tem como missão planejar, executar e gerir os serviços públicos a 
+nível local/municipal em consonância com princípios determinados pela Constituição Federal de 1988, 
+buscando excelência nas ações. 
+A aquisição dos medicamentos ora propostos proporcionará as condições e elementos necessários para a 
+manutenção do atendimento clínico no município, realizado pelo Médico, prestando assistência médica a 
+população.  
+A contratação é essencial e sua interrupção pode comprometer o andamento das atividades institucionais, 
+bem como a saúde dos pacientes que necessitam dos medicamentos para suprir suas necessidades. 
+  
+II. ALINHAMENTO COM O PLANEJAMENTO DA ADMINISTRAÇÃO 
+A presente contratação está alinhada com o Planejamento das Contratações Públicas Municipais. 
+ 
+III. REQUISITOS DA CONTRATAÇÃO 
+Trata-se de uma compra de material de consumo contínuo, a ser contratado mediante licitação na 
+modalidade Pregão Eletrônico, nos termos da Lei n° 14.133/2021. 
+A aquisição se refere a fornecimentos contínuos, a qual é realizada pela Administração Pública para a 
+manutenção da atividade administrativa, decorrentes de necessidades permanentes ou prolongadas, cujo 
+interrupção ocasionará prejuízos a pessoas e serviços essenciais.  
+Os bens de consumo pretendidos se enquadram como de categoria comum, nos termos do Decreto 
+Municipal que regulamenta a matéria.  
+A garantia consiste na prestação pela empresa, de todas as obrigações previstas na Lei no 8.078, de 
+11/09/1990 – Código de Defesa do Consumidor - e alterações subsequentes.  
+A empresa fornecedora dos produtos será responsável pela substituição, troca ou reposição dos produtos 
+porventura entregues com defeito, danificados, ou não compatíveis com as especificações do Termo.  
+Os produtos classificados pela ANVISA como “Produtos para Sa úde” devem possuir REGISTRO nos 
+termos da RDC ANVISA no 185, de 22 de outubro de 2001. 
+A Contratada deverá adotar todas as práticas necessárias no  fornecimento do item e estar em dia com 
+todas as obrigações relacionadas ao comércio destes produtos, seja da ordem fiscal, financeira, logística 
+=== página 20
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+ou sustentável, ou outra que por ventura necessitar de acordo com as leis que regem este tipo de 
+transação.  
+A contratação se refere à aquisição de medicamentos, realizada anualmente conforme solicitado pelo 
+Médico, a fim de atender a demanda de atendimentos efetuados pelo profissional da área de saúde deste 
+município. 
+Como se trata de aquisição de medicamentos, será exigido que o (s) produto(s) a ser entregue 
+deverá(ão) possuir junto à Agência Nacional de Vigilância Sanitária - ANVISA, exceto para aquele 
+que não possua a obrigatoriedade do referido registro. 
+Será exigido que a validade mínima do(s) produto(s) ofertado(s) é de 75% ou mais de sua vida útil 
+ou produto(s) com tempo remanescente de consumo superior a 365 dias, conforme orientação do 
+painel de medicamentos e insumos farmacêuticos do Tribunal de Contas do Estado da Paraíba -
+TCE/PB. 
+ 
+IV. ESTIMATIVA DO QUANTITATIVO 
+As estimativas foram baseadas na utilização anual dos anos anteriores, sendo:  
+ 
+ITEM DESCRIÇÃO DO PRODUTO UNID. QUANT. 
+01 Acetilcisteina adulto 40mg/ml xarope (frasco 120ml) Frasco 2.000 
+02 Acetilcisteina pediatrico 20mg/ml xarope (frasco 120ml) Frasco 1.200 
+03 Aciclovir 200mg – comprimido. Comprimido 10.000 
+04 Aciclovir 50mg/g (5%) 10g Creme 500 
+05 Ácido acetilsalicílico 100 mg - comprimido. Comprimido 100.000 
+06 ACIDO ASCORBICO (VITAMINA C) 100 mg/mL solução injetável 
+intravenosa (ampola 5 mL). Ampola 1.200 
+07 Ácido ascórbico 200mg/ml solução oral (frasco 20ml) Frasco 1.000 
+08 Ácido ascórbico 500 mg comprimido Comprimido 30.000 
+09 Ácido fólico 5 mg - comprimido. Comprimido 50.000 
+10 ACIDO TRANEXAMICO 50 mg/mL solução injetável intravenosa 
+(ampola 5 mL). Ampola 300 
+11 Acido Valproico 250mg caps./comprimido. Cáps/comp 30.000 
+12 Acido valproico 500mg comprimido. Comprimido 30.000 
+13 ADENOSINA 3 mg/mL solução injetável intravenosa (ampola 2 mL) Ampola 200 
+14 Albendazol 40 mg/ml - Susp. Oral 10mL Frasco 2.000 
+15 Albendazol mastigável 400 mg -comprimido. Comprimido 1.000 
+16 Alendronato de sódio 70 mg -comprimido. Comprimido 30.000 
+17 Alprazolam 0,5mg comprimido Comprimido 8.000 
+18 Alprazolam 1mg comprimido Comprimido 8.000 
+19 Alprazolam 2mg comprimido Comprimido 8.000 
+20 Ambroxol  6mg/ml xarope (frasco 100ml) Frasco 1.200 
+21 Ambroxol 3mg/ml xarope (frasco 100ml) Frasco 1.200 
+22 AMIODARONA 50 mg/mL solução injetável intravenosa (ampola 3 
+mL) Ampola 200 
+23 Amiodarona, Cloridrato  200 mg -comprimido. Comprimido 8.000 
+24 Amitriptilina, cloridrato de 25 mg -comprimido. Comprimido 60.000 
+25 Amitriptilina, cloridrato de 75 mg -comprimido. Comprimido 10.000 
+26 Amoxicilina + clavulanato de potássio 50 mg + 12,5 mg/ml - Susp. Oral 
+75mL Frasco 600 
+27 Amoxicilina + clavulanato de potássio 500 mg + 125 mg -comprimido. Comprimido 7.000 
+28 Amoxicilina 50 mg/ml - Pó para suspensão Oral 60mL Frasco 5.000 
+29 Amoxicilina 500 mg - Cápsula Comprimido 50.000 
+30 Anlodipino, besilato de 10 mg -comprimido. Comprimido 50.000 
+=== página 21
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+31 Anlodipino, besilato de 5 mg -comprimido. Comprimido 50.000 
+32 Aripiprazol 1mg/ml Suspensão oral (frasco 100mL) Frasco 500 
+33 Atenolol 100 mg -comprimido. Comprimido 20.000 
+34 Atenolol 50 mg -comprimido. Comprimido 30.000 
+35 Atorvastatina calcica 20mg - comprimido Comprimido 1.000 
+36 Atorvastatina calcica 40mg - comprimido Comprimido 1.000 
+37 ATROPINA 0,25 mg/mL solução injetável intravenosa (ampola 1 mL). Ampola 200 
+38 Azitromicina 40 mg/ml - Pó para Suspensão Oral 15mL Frasco 2.000 
+39 Azitromicina 500 mg -comprimido. Comprimido 12.000 
+40 Beclometasona 200 mcg/dose solução para inalação oral 200 doses Frasco 200 
+41 Beclometasona 250 mcg/dose solução para inalação oral 200 doses Frasco 200 
+42 Beclometasona 50 mcg/dose solução para inalação oral 200 doses Frasco 200 
+43 Beclometasona 50 mcg/dose suspensão para inalação nasal spray 200 
+doses Frasco 100 
+44 BENZILPENICILINA BENZATINA 1.200.000 UI pó liofílico para 
+suspensão injetável intramuscular (frasco ampola). 
+Frasco - 
+Ampola 1.200 
+45 BENZILPENICILINA BENZATINA 600.000 UI pó liofílico para 
+suspensão injetável intramuscular (frasco ampola). 
+Frasco - 
+Ampola 1.000 
+46 
+BENZILPENICILINA PROCAÍNA 300.000 UI + 
+BENZILPENICILINA POTÁSSICA 100.000 UI pó liofílico para 
+suspensão injetável intramuscular (frasco ampola). 
+Frasco - 
+Ampola 500 
+47 Benzoilmetronidazol 40 mg/ml - Suspensão Oral 100 mL Frasco 200 
+48 BETAMETASONA acetato 3mg/mL + BETAMETASONA fosfato 
+dissódico 3mg/mL suspensão injetável intramuscular (ampola 1 mL). Ampola 300 
+49 Betametasona, acetonato + Betametasona, fostato dissodico 
+5mg/ml+2mg/ml (ampola 1ml) Ampola 300 
+50 Bicarbonato de sódio 1 mEq/mL (8,4%) Injetável 10mL Ampola 200 
+51 Biperideno, cloridrato de 2 mg - comprimido Comprimido 20.000 
+52 Biperideno, cloridrato de 4 mg - comprimido de liberação controlada Comprimido 6.000 
+53 Bromazepam 3mg comprimido Comprimido 12.000 
+54 Brometo de ipratrópio 0,25 mg/mL – solução para inalação (frasco 
+20mL) Frasco 100 
+55 Bromoprida 10 mg comprimido Comprimido 6.000 
+56 Bromoprida 4mg/ml  solução oral (frasco 20ml) Frasco 400 
+57 BROMOPRIDA 5 mg/mL solução injetável intravenosa (ampola 2 mL). Ampola 300 
+58 Budesonida 32 mcg - suspensão para inalação nasal 120 doses Frasco 300 
+59 Budesonida 50mcg - suspensão para inalação nasal 120 doses Frasco 200 
+60 Budesonida 64 mcg - suspensão para inalação nasal 120 doses Frasco 400 
+61 Bupropiona 150mg comprimido de liberação prolongada - comprimido Comprimido 15.000 
+62 Cabergolina 0,5 mg comprimido. Comprimido 1.000 
+63 Captopril 25 mg - comprimido. Comprimido 100.000 
+64 Carbamazepina 200 mg - comprimido. Comprimido 50.000 
+65 Carbamazepina 400 mg - comprimido. Comprimido 20.000 
+66 Carbamazepina xarope 20 mg/ml – suspensão oral (frasco 100mL) Frasco 600 
+67 Carbonato de cálcio + colecalciferol 500 mg CaCO3 + 400 UI - 
+comprimido. Comprimido 12.000 
+68 Carbonato de cálcio + colecalciferol 600 mg CaCO3 + 400 UI - 
+comprimido. Comprimido 12.000 
+69 Carbonato de cálcio 1250 mg (equivalente a 500mg Ca - comprimido.) Comprimido 6.000 
+70 Carbonato de lítio 300 mg - comprimido. Comprimido 40.000 
+71 Carvedilol  12,5 mg - comprimido. Comprimido 50.000 
+72 Carvedilol  3,125 mg - comprimido. Comprimido 70.000 
+=== página 22
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+73 Carvedilol 25 mg - comprimido. Comprimido 50.000 
+74 Carvedilol 6,25 mg - comprimido. Comprimido 70.000 
+75 Cefalexina 50 mg/ml - Suspensão Oral (frascco 60mL após 
+reconstituição) Frasco 2.000 
+76 Cefalexina 500 mg- Cápsula/comprimido. Cáps/comp 50.000 
+77 CEFTRIAXONA 1g pó liofílico para solução injetável intramuscular 
+com diuente próprio (frasco ampola). 
+Frasco-
+ampola 3.000 
+78 CEFTRIAXONA 500 mg pó liofílico para solução injetável 
+intramuscular com diuente próprio (frasco ampola). 
+Frasco-
+ampola 1.000 
+79 Cetoconazol 200mg - comprimido Comprimido 2.000 
+80 Cetoconazol 20mg/g - 2% xampu (frasco 100mL) Frasco 300 
+81 Cetoconazol 20mg/g creme dermatológico 30g Bisnaga 400 
+82 CETOPROFENO 100 mg pó liofílico para solução injetável (frasco 
+ampola). 
+Frasco-
+ampola 300 
+83 Cetoprofeno 150mg comprimido Comprimido 10.000 
+84 Ciclobenzaprina 10mg comprimido Comprimido 5.000 
+85 CIMETIDINA 150 mg/mL solução injetável intravenosa e 
+intramuscular (ampola 2 mL). Ampola 200 
+86 Ciprofibrato 100 mg - comprimido Comprimido 1.000 
+87 Ciprofloxacino, cloridrato de 500 mg - comprimido. Comprimido 12.000 
+88 Citalopram 20mg comprimido Comprimido 12.000 
+89 Claritromicina 500 mg - Cápsula/Comprimido Cáps/comp 10.000 
+90 Clindamicina, cloridrato 300 mg - cápsula Cápsula 3.000 
+91 Clomipramina, cloridrato de 10 mg – comprimido. Comprimido 5.000 
+92 Clomipramina, cloridrato de 25 mg – comprimido. Comprimido 15.000 
+93 Clonazepam   2,5 mg/ml - Sol. Oral 20mL Frasco 3.000 
+94 Clonazepam 0,5mg comprimido Comprimido 20.000 
+95 Clonazepam 2mg comprimido Comprimido 40.000 
+96 Clopidogrel 75mg - comprimido Comprimido 10.000 
+97 Cloreto de potássio 2,56 mEq/ml (19,1%)  solução injetável (ampola 10 
+mL). Ampola 1.000 
+98 CLORETO DE SODIO 0,9% solução injetável sistema fechado 
+(frasco/bolsa 100 mL) 
+Frasco/ampo
+la 10.000 
+99 CLORETO DE SODIO 0,9% solução injetável sistema fechado 
+(frasco/bolsa 250 mL) 
+Frasco/ampo
+la 4.000 
+100 CLORETO DE SODIO 0,9% solução injetável sistema fechado 
+(frasco/bolsa 500 mL) 
+Frasco/ampo
+la 12.000 
+101 Cloreto de sódio 3,4 mEq/ml  (20%)  solução injetável (ampola 10 mL). Ampola 200 
+102 Cloridrato de Donepezila 10mg - comprimido Comprimido 6.000 
+103 Cloridrato de Donepezila 5mg -comprimido Comprimido 6.000 
+104 Cloridrato de Tramadol 50mg cápsula Cápsula 5.000 
+105 Clorpromazina, cloridrato de 100 mg - comprimido. Comprimido 12.000 
+106 Clorpromazina, cloridrato de 25 mg - comprimido. Comprimido 6.000 
+107 Clorpromazina, cloridrato de 40 mg/ml - Sol.Oral (frasco 20mL Frasco 500 
+108 Clorpromazina, cloridrato de 5 mg/ml - Injetável 5mL Ampola 100 
+109 Colagenase +clorafenicol 0,6ui+10mg/g 30g pomada Bisnaga 200 
+110 Colagenase 0,6ui /g 30g pomada Bisnaga 200 
+111 Colecalciferol (Vitamina D3) 1000 Ui Cápsula/comprimido Cáps/comp 10.000 
+112 Colecalciferol (Vitamina D3) 2000 Ui Cápsula/comprimido Cáps/comp 20.000 
+113 Colecalciferol (Vitamina D3) 7000 Ui Cápsula/comprimido Cáps/comp 10.000 
+114 DESLANOSIDEO 0,2 mg/mL solução injetável (ampola 2 mL). Ampola 100 
+115 Dexametasona    4 mg - comprimido. Comprimido 6.000 
+=== página 23
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+116 Dexametasona   creme 1mg/G (0,1%) 10g Bisnaga 1.000 
+117 Dexametasona elixir 0,1 mg/ml (frasco 100mL) Frasco 400 
+118 Dexametasona suspensão oftálmica 1mg/mL (0,1%) ( frasco 5mL) Frasco 100 
+119 Dexametasona, fosfato dissódico 4mg/mL solução injetável (ampola 10 
+mL). Ampola 600 
+120 Dexclorfeniramina 0,4 mg/mL +betametasona xarope 0,05 mg/mL 
+(frasco 120mL) frasco 3.000 
+121 Dexclorfeniramina, maleato 0,4 mg/ml - xarope ( frasco 100mL) Frasco 2.000 
+122 Dexclorfeniramina, maleato 2mg Comprimido 20.000 
+123 Diazepam 10 mg – comprimido. Comprimido 30.000 
+124 Diazepam 5 mg - comprimido. Comprimido 6.000 
+125 Diazepam 5 mg/ml – Solução Injetável l (ampola 2 mL). Ampola 300 
+126 DICLOFENACO POTASSICO 25 mg/mL solução injetável (ampola 3 
+mL). Ampola 200 
+127 DICLOFENACO SODICO 25 mg/mL solução injetável (ampola 3 mL). Ampola 200 
+128 Digoxina 0,25 mg - comprimido. Comprimido 50.000 
+129 Dipirona sódica 500 mg – comprimido. Comprimido 100.000 
+130 Dipirona sódica 500 mg/ml Solução Injetável  (ampola 2 mL) Ampola 2.000 
+131 Dipirona sódica 500 mg/ml -Solução Oral ( frasco 10ml) Frasco 1.000 
+132 Dobutamina, Cloridrato  12,5mg/ml solução injetável (ampola 20mL) Ampola 100 
+133 Domperidona 10mg comprimido Comprimido 20.000 
+134 Dopamina, Cloridrato 5mg/ml (ampola 10mL) Ampola 100 
+135 Enalapril, maleato de 10 mg –comprimido. Comprimido 40.000 
+136 Enalapril, maleato de 20 mg –comprimido. Comprimido 50.000 
+137 Enalapril, maleato de 5 mg –comprimido. Comprimido 50.000 
+138 Enoxaparina sódica 20mg/0,2 ml solução injetável seringa 1.000 
+139 Enoxaparina sódica 40mg/0,4 ml solução injetável seringa 1.200 
+140 Enoxaparina Sódica 60 mg/0,6 mL solução injetável seringa 1.000 
+141 Epinefrina (adrenalina) 1 mg/ml  - Solução Injetável (ampola 1ml) Ampola 300 
+142 ESCETAMINA 50 mg/mL solução injetável (frasco ampola 10 mL). Ampola 100 
+143 Escitalopram 10mg comprimido Comprimido 50.000 
+144 Escitalopram 20mg comprimido Comprimido 30.000 
+145 ESCOPOLAMINA 20 mg/mL solução injetável (ampola 1 mL). Ampola 200 
+146 ESCOPOLAMINA 4 mg/mL + DIPIRONA 500 mg/mL solução 
+injetável (ampola 5 mL). Ampola 300 
+147 Espironolactona 100mg - comprimido Comprimido 10.000 
+148 Espironolactona 25 mg – comprimido. Comprimido 30.000 
+149 Estriol creme vaginal 1 mg/g 50g Bisnaga 300 
+150 Etinilestradiol + levonorgestrel 0,03 mg + 0,15 mg - comprimido. Comprimido 20.000 
+151 ETOMIDATO 2 mg/mL solução injetável (ampola 10 mL). Ampola 500 
+152 Fenitoína 100 mg -comprimido. Comprimido 20.000 
+153 Fenitoína sódica 50 mg/ml – Solução Injetável (ampola 5ml) Ampola 200 
+154 Fenobarbital 100 mg -comprimido. Comprimido 40.000 
+155 Fenobarbital 100 mg/ml – Solução Injetável (ampola 2ml) Ampola 200 
+156 Fenobarbital 40 mg/ml - Sol.Oral (frasco 20ml) Frasco 300 
+157 FENTANILA 50 mcg/mL solução injetável intravenosa e intramuscular 
+(ampola 10 mL). Ampola 500 
+158 Finasterida 5mg comprimido Comprimido 600 
+159 FITOMENADIONA (VITAMINA K1) 10 mg/mL solução injetável 
+intramuscular e subcutânea (ampola 1 mL). Ampola 100 
+160 Fluconazol 150 mg - Cápsula Cápsula 2.000 
+161 Flumazenil 01mg/ml - solução injetável (ampola 5ml) Ampola 300 
+=== página 24
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+162 Fluoxetina 20mg/mL - solução oral (frasco 20ml) Frasco 600 
+163 Fluoxetina, cloridrato  20 mg - cápsula Cápsula 75.000 
+164 Furosemida 10 mg/ml Solução Injetável (ampola 2ml) Ampola 300 
+165 Furosemida 40 mg - comprimido. Comprimido 50.000 
+166 Gabapentina 300mg - cápsula Cápsula 30.000 
+167 Glibenclamida  5 mg -comprimido. Comprimido 50.000 
+168 Gliclazida de liberação prolongada de 30 mg - comprimido. Comprimido 20.000 
+169 Gliclazida de liberação prolongada de 60 mg - comprimido. Comprimido 20.000 
+170 GLICOSE 5 % solução injetável sistema fechado (frasco/bolsa 250 
+mL). Frasco/bolsa 1.200 
+171 GLICOSE 5 % solução injetável sistema fechado (frasco/bolsa 500 
+mL). Frasco/bolsa 2.400 
+172 Glicose 500 mg/mL (50%) - solução injetável (ampola 10ml) Ampola 600 
+173 GLICONATO DE CALCIO 100 mg/mL (10%) solução injetável 
+(ampola 10 mL). Ampola 200 
+174 Haloperidol 1 mg -comprimido. Comprimido 6.000 
+175 Haloperidol 2 mg/ml - Sol. Oral (frasco 20ml) Frasco 200 
+176 Haloperidol 5 mg -comprimido. Comprimido 24.000 
+177 Haloperidol 5 mg/ml - Sol. Injetável (ampola 1ml) Ampola 200 
+178 Haloperidol, decanoato de solução injetável 50 mg/mL (ampola 1ml) Ampola 200 
+179 Hemifumarato de Quetiapina 100mg - comprimido Comprimido 10.000 
+180 Hemifumarato de Quetiapina 200mg - comprimido Comprimido 10.000 
+181 Hemifumarato de Quetiapina 25mg - comprimido Comprimido 50.000 
+182 HEPARINA 5000 UI/mL solução injetável intravenosa (frasco ampola 
+5 mL). 
+Frasco-
+ampola 50 
+183 Heparina sódica 5000UI/0,25ml solução injetável (ampola 0,25ml) Ampola 50 
+184 HIDRALAZINA 20 mg/mL solução injetável (ampola 1 mL). Ampola 200 
+185 Hidroclorotiazida 25 mg -comprimido. Comprimido 80.000 
+186 HIDROCORTISONA 100 mg pó liofílico para solução injetável (frasco 
+ampola) 
+Frasco-
+ampola 300 
+187 HIDROCORTISONA 500 mg pó liofílico para solução injetável (frasco 
+ampola) 
+Frasco-
+ampola 300 
+188 Hidrocortisona, acetato de creme 10mg/g (1%)  20g Bisnaga 300 
+189 Hidróxido de alumínio - suspensão oral 61,5 mg/mL (frasco com 100 
+mL) Frasco 200 
+190 Ibuprofeno 300 mg - comprimido. Comprimido 30.000 
+191 Ibuprofeno 50 mg/ml - Suspensão Oral (frasco 30ml) Frasco 2.000 
+192 Ibuprofeno 600 mg -comprimido. Comprimido 50.000 
+193 Imiquimode 50 mg/g creme dermatológico sachês de 250 mg sachê 600 
+194 Insulina análoga de ação prolongada 100UI/mL Solução Injetável com 
+sistema de aplicação 3ml Caneta 100 
+195 Insulina análoga de ação rápida  100UI/mL Solução Injetável com 
+sistema de aplicação 3ml Caneta 100 
+196 Insulina Humana NPH 100UI/mL - suspensão injetável  3 mL com 
+sistema de aplicação caneta 6.000 
+197 Insulina Humana NPH 100UI/mL- suspensão injetável (frasco 10ml) Frasco 500 
+198 Insulina Humana Regular 100UI/mL - solução injetável (frasco 10ml) Frasco 100 
+199 Insulina Humana Regular 100UI/mL - solução injetável 3 mL com 
+sistema de aplicação caneta 1.200 
+200 Isossorbida, dinitrato 5 mg -comprimido sublingual. Comprimido 3.000 
+201 Isossorbida, mononitrato de 20 mg -comprimido. Comprimido 6.000 
+202 Isossorbida, mononitrato de 40 mg -comprimido. Comprimido 6.000 
+=== página 25
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+203 Itraconazol 100mg cápsula Cápsula 1.200 
+204 Ivermectina 6 mg -comprimido. Comprimido 2.000 
+205 Levodopa + benzerazida 200 mg + 50 mg - comprimido. Comprimido 6.000 
+206 Levodopa + benzerazida BD 100+25mg - comprimido Comprimido 25.000 
+207 Levodopa + benzerazida HBS 100 mg + 25 mg -Caps Cápsula 12.000 
+208 Levodopa + carbidopa 250 mg + 25 mg -comprimido. Comprimido 6.000 
+209 Levomepromazina 100mg comprimido Comprimido 20.000 
+210 Levomepromazina 25mg comprimido Comprimido 10.000 
+211 Levonorgestrel 1,5 mg -comprimido. Comprimido 600 
+212 Levotiroxina sódica 100 µg -comprimido. Comprimido 6.000 
+213 Levotiroxina sódica25 µg -comprimido. Comprimido 5.000 
+214 Levotiroxina sódica50 µg -comprimido. Comprimido 8.000 
+215 LIDOCAINA 100 mg/mL (10%) solução aerossol (frasco 50 mL). Frasco 20 
+216 Lidocaína, Cloridrato  (20mg/ml) 2% solução injetável sem 
+vasoconstrictor (frasco 20ml) Ampola 100 
+217 Lidocaína, Cloridrato Gel (20mg/g) 2% 30g Bisnaga 400 
+218 Loratadina 10 mg  -comprimido. Comprimido 6.000 
+219 Loratadina xarope 1 mg/ml (frasco 100ml) Frasco 500 
+220 Losartana potássica 50 mg  -comprimido. Comprimido 60.000 
+221 Magnésio, Sulfato – solução injetável 10% (0,81 mEq/mL Mg++) 
+(ampola 10ml) Ampola 200 
+222 Magnésio, Sulfato - solução injetável 50% (4,05 mEq/mL Mg++) 
+(ampola 10ml) Ampola 200 
+223 Medroxiprogesterona, acetato de solução injetável 150 mg/ml (ampola 
+1ml) Ampola 200 
+224 Memantina 10 mg - comprimido Comprimido 6.000 
+225 Metformina, cloridrato de 500 mg  -comprimido. Comprimido 60.000 
+226 Metformina, cloridrato de 850 mg  -comprimido. Comprimido 100.000 
+227 Metildopa  250 mg -comprimido. Comprimido 15.000 
+228 METILERGOMETRINA 0,2 mg/mL solução injetável (ampola 1 mL). Ampola 200 
+229 Metoclopramida, Cloridrato  5 mg/ml solução injetável (ampola 2ml) Ampola 200 
+230 METOPROLOL 1 mg/mL solução injetável (ampola 5 mL). Ampola 50 
+231 Metoprolol, succinato de liberação prolongada  25 mg -comprimido. Comprimido 15.000 
+232 Metoprolol, succinato de liberação prolongada 100 mg -comprimido. Comprimido 6.000 
+233 Metoprolol, succinato de liberação prolongada 50 mg -comprimido. Comprimido 15.000 
+234 Metotrexato 2,5mg - comprimido Comprimido 1.000 
+235 Metronidazol  250 mg -comprimido. Comprimido 10.000 
+236 Metronidazol  gel vaginal 10mg/g (10%) 50g Bisnaga 1.200 
+237 Metronidazol 400mg - comprimido. Frasco 3.000 
+238 Miconazol, nitrato de - Loção 2% (frasco 30ml) Frasco 100 
+239 Miconazol, nitrato de creme 2% toópico (20mg/g) 28g Bisnaga 300 
+240 Miconazol, nitrato de creme vaginal 2% (20mg/g) 80g Bisnaga 300 
+241 MIDAZOLAM 5 mg/mL (50 mg) solução injetável (ampola 10 mL). Ampola 600 
+242 Mirtazapina 15mg comprimido orodispersível Comprimido 10.000 
+243 Mirtazapina 30 mg caixa comprimido  orodispersível Comprimido 8.000 
+244 MORFINA 10 mg/mL solução injetável (ampola 1 mL). Ampola 200 
+245 Naloxona, Cloridrato  0,4 mg/ml solução injetável (ampola 1ml) Ampola 50 
+246 NEOMICINA 5 mg/g + BACITRACINA 250 UI/g pomada (bisnaga 10 
+g) Bisnaga 1.000 
+247 Nifedipino 10mg comprimido Comprimido 6.000 
+248 Nimesulida 100mg comprimido Comprimido 16.000 
+249 Nistatina 100.000 UI/ml – Suspensão Oral (frasco 50ml) Frasco 2.000 
+=== página 26
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+250 Nistatina 25.000ui creme vaginal 50g Bisnaga 1.000 
+251 Nitrofurantoina 100mg - cápsula Cápsula 6.000 
+252 NITROGLICERINA 5 mg/mL solução injetável (ampola 5 mL). Ampola 50 
+253 NITROPRUSSETO (NITROPRUSSIATO) DE SÓDIO 25 mg/mL 
+solução injetável (ampola 2 mL). Ampola 100 
+254 Norepinefrina, (noradrenalina) hemitartarato 2 mg/mL - solução 
+injetável (ampola 4ml) Ampola 200 
+255 Noretisterona 0,35 mg - comprimido Comprimido 5.000 
+256 Noretisterona, Enanato +  Estradiol, Valerato 50mg/mL + 5 mg/mL - 
+Solução Injetável 1ml Ampola 1.000 
+257 Nortriptilina, cloridrato de 10 mg - Caps. Cápsula 6.000 
+258 Nortriptilina, cloridrato de 25 mg - Caps. Cápsula 8.000 
+259 Nortriptilina, cloridrato de 50 mg - Caps. Cápsula 4.000 
+260 Nortriptilina, cloridrato de 75 mg - Caps. Cápsula 3.000 
+261 OCITOCINA 5 UI/mL solução injetável (ampola 1 mL). Ampola 100 
+262 Olanzapina 10mg - comprimido Comprimido 3.000 
+263 Olanzapina 2,5mg - comprimido Comprimido 3.000 
+264 Olanzapina 5mg - comprimido Comprimido 3.000 
+265 OLEO MINERAL 1 mL/mL (100%) solução oral e tópico (frasco 100 
+mL). Frasco 200 
+266 Omeprazol  20 mg - Cápsula Cápsula 100.000 
+267 OMEPRAZOL 40 mg pó liofílico para solução injetável com diluente 
+próprio (frasco ampola). 
+Frasco-
+ampola 300 
+268 ONDANSETRONA 2 mg/mL solução injetável (ampola 4 mL). Ampola 300 
+269 Ondansetrona, Cloridrato  8mg comprimido. / comprimido. 
+orodispersível Comprimido 3.000 
+270 Ondansetrona, Cloridrato 4mg comprimido. / comprimido. 
+orodispersível Comprimido 3.000 
+271 Oxcarbazepina 300mg comprimido Comprimido 10.000 
+272 Oxcarbazepina 60 mg/mL suspensão oral (frasco 100 mL). Frasco 600 
+273 Oxcarbazepina 600mg comprimido Comprimido 12.000 
+274 Paracetamol 200 mg/ml - Sol. Oral 15ml Frasco 2.000 
+275 Paracetamol 500 mg – comprimido. Comprimido 40.000 
+276 Paracetamol 500 mg + codeina 30mg comprimido Comprimido 12.000 
+277 Paroxetina 12,5mg comprimido Comprimido 6.000 
+278 Paroxetina 20mg comprimido Comprimido 15.000 
+279 PERMETRINA 10 mg/mL (1%) loção capilar (frasco 60 mL) Frasco 200 
+280 PERMETRINA 50 mg/mL (5%) loção dermatológica (frasco 60 mL). Frasco 300 
+281 PETIDINA (MEPERIDINA) 50 mg/mL solução injetável (ampola 2 
+mL). Ampola 100 
+282 Piridoxina (vitamina B6), cloridrato de 40 mg – comprimido. Comprimido 3.000 
+283 Prednisolona, fostato sódico de 3 mg/ml - Sol.Oral (frasco 60ml) Frasco 1.000 
+284 Prednisona 20 mg – comprimido. Comprimido 8.000 
+285 Prednisona 5 mg - comprimido. Comprimido 6.000 
+286 Pregabalina 75mg cápsula Cápsula 130.000 
+287 Prometazina, cloridrato 25mg Comprimido 20.000 
+288 Prometazina, cloridrato de solução injetável 25 mg/ml (ampola 2ml) Ampola 300 
+289 Propafenona, cloridrato de 300mg – comprimido. Comprimido 3.000 
+290 Propranolol, cloridrato de 10 mg – comprimido. Comprimido 6.000 
+291 Propranolol, cloridrato de 40 mg – comprimido. Comprimido 50.000 
+292 Ramipril 5mg - comprimido Comprimido 4.000 
+293 Risperidona 1mg - comprimido Comprimido 10.000 
+=== página 27
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+294 Risperidona 1mg/ml solução oral frasco 30ml frasco 2.000 
+295 Risperidona 2mg - comprimido Comprimido 30.000 
+296 Risperidona 3mg - comprimido Comprimido 10.000 
+297 Rivaroxabana 10mg comprimido Comprimido 4.000 
+298 Rivaroxabana 20mg comprimido Comprimido 8.000 
+299 Sais para reidratação oral (NaCl 3,5G + Glicose 20G + Citrato Na 2,9G 
++ KCl 1,5G) 27,9 G Pó para solução envelope 1.000 
+300 SALBUTAMOL 100 mcg/dose aerossol oral (frasco 200 doses). Frasco 600 
+301 Salbutamol, sulfato 5mg/mL solução para inalação  (frasco 10ml) Frasco 100 
+302 Secnidazol 1000mg comprimido Comprimido 1.000 
+303 Sertralina 25mg comprimido Comprimido 12.000 
+304 Sertralina 50mg comprimido Comprimido 100.000 
+305 SIMETICONA 75 mg/mL emulsão oral (frasco 15 mL). Frasco 1.000 
+306 Sinvastatina 20 mg - comprimido. Comprimido 70.000 
+307 Sinvastatina 40 mg - comprimido. Comprimido 100.000 
+308 SOLUÇÃO RINGER COM LACTATO solução injetável sistema 
+fechado (frasco/bolsa 250 mL). Frasco/bolsa 1.000 
+309 SOLUÇÃO RINGER COM LACTATO solução injetável sistema 
+fechado (frasco/bolsa 500 mL). Frasco/bolsa 3.600 
+310 Sulfadiazina de prata – 10mg/g (1%) Creme 50g Bisnaga 1.200 
+311 Sulfametoxazol+ trimetoprima 400mg+80 mg –comprimido. Comprimido 10.000 
+312 Sulfametoxazol+trimetoprima 40mg+8mg/ml - Susp. Oral (frasco 
+100ml) Frasco 200 
+313 Sulfato de morfina 10 mg - comprimido Comprimido 1.000 
+314 Sulfato de morfina 10mg/mL solução oral 60ml Frasco 100 
+315 SULFATO FERROSO 109 mg (40 mg de ferro elementar) comprimido Comprimido 50.000 
+316 SULFATO FERROSO 125 mg/mL (25 mg/mL de ferro elementar) 
+solução oral (frasco 30 mL). Frasco 400 
+317 SUXAMETÔNIO 100 mg pó liofílico para solução injetável (frasco 
+ampola). 
+frasco-
+ampola 400 
+318 TENOXICAM 40 mg pó liofílico para solução injetável intravenosa e 
+intramuscular (frasco ampola). 
+Frasco-
+ampola 1.000 
+319 TERBUTALINA 0,5 mg/mL solução injetável (ampola 1 mL). Ampola 100 
+320 Tiamina, cloridrato de 300 mg – comprimido. Comprimido 3.000 
+321 Timolol, maleato de colírio 5mg/mL (0,5%)  (frasco 5mL) Frasco 100 
+322 Topiramato 25mg - comprimido Comprimido 1.000 
+323 Topiramato 50mg - comprimido Comprimido 2.000 
+324 TRAMADOL 100 mg solução injetável (ampola 2 mL). Ampola 300 
+325 Trazodona 50mg comprimido Comprimido 8.000 
+326 Valproato de sódio 50mg/ml xarope - (frasco 100mL) Frasco 2.000 
+327 Varfarina sódica 5 mg – comprimido. Comprimido 5.000 
+328 Venlafaxina 37,5mg cápsula Cápsula 8.000 
+329 Venlafaxina 75mg cápsula Cápsula 25.000 
+330 Verapamil, cloridrato de 120 mg – comprimido Comprimido 1.000 
+331 Verapamil, cloridrato de 80 mg – comprimido. Comprimido 1.000 
+332 VITAMINAS DO COMPLEXO B composto por vitaminas B1, B2, B3, 
+B5 e B6 comprimido. Comprimido 15.000 
+333 VITAMINAS DO COMPLEXO B composto por vitaminas B1, B2, B3, 
+B5 e B6 solução oral (frasco 100 mL). Frasco 200 
+334 VITAMINAS DO COMPLEXO B composto por vitaminas B1, B2, B3, 
+B5 e B6 solução injetável (ampola 2 mL). Ampola 1.200 
+ 
+=== página 28
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+V. LEVANTAMENTO DE MERCADO 
+A pesquisa de preços gerou uma expectativa para a aquisição de todas as unidades descritas nos itens. 
+Vale ressaltar que o valor serve de base para o fornecimento que será adotado o critério de menor preço. 
+Foi realizado o levantamento de mercado visando buscar a melhor solução para o problema existente, 
+através de pesquisa de mercado para aquisição de medicamentos para atender a demanda das Secretarias 
+Municipais. A pesquisa foi realizada através de Banco de Preços e junto a fornecedores do ramo que 
+participam de processos licitatório no município e região.  
+ 
+VI. ESTIMATIVA DE VALOR 
+O preço estimado da contratação é conforme Orçamento Estimativo no valor total de R$ 4.952.438,00 
+(quatro milhões, novecentos e cinquenta e dois mil, quatrocentos e trinta e oito reais). Os preços unitários 
+estimados da contratação permanecem em sigilo, conforme art. 18, §1º, Inc. VI, da Lei nº 14.133/2021 e 
+somente será disponibilizado após o fim da fase de lances. Permanecendo acessível aos órgãos de 
+controle. 
+Os preços unitários ser ão sigilosos haja vista que traz maior economia e poder de negociação a 
+Administração, pois divulgar o s preços unitários estimados desestimula os licitantes a baixarem seus 
+preços, pois já sabem qual o valor que a Administração pretende pagar. 
+ 
+VII. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO 
+A contratação de empresa para o fornecimento de medicamentos por item, constantes na estimativa de 
+quantitativo acima, será a solução mais adequada para a aquisição de medicamentos, haja vista que é a 
+solução adotada comumente pelos órgãos públicos. 
+ 
+VIII. JUSTIFICATIVA PARA O PARCELAMENTO DA SOLUÇÃO 
+A solução para eventual aquisição de medicamentos será parcelada, sendo a licitação do tipo menor preço 
+por item. Justifica -se o parcelamento, tendo em vista o objeto ser divisível e não haver prejuízo para o 
+conjunto a ser licitado, nos termos do art. 47, inciso II, da Lei 14.133/2021. 
+ 
+IX. DEMONSTRATIVO DOS RESULTADOS PRETENDIDOS 
+Com a aquisição de medicamentos básicos, busca-se o suprimento das necessidades de estoque adequado, 
+visando garantir um atendimento de qualidade em nível primário de atenção à saúde aos munícipes que 
+busquem os órgãos e programas que compõe a Secretaria Municipal de Saúde do Município. 
+ 
+X - PROVIDÊNCIAS A SEREM ADOTADAS PELA ADMINISTRAÇÃO PREVIAMENTE À 
+CELEBRAÇÃO DO CONTRATO  
+As providências nas fases de aquisição são de responsabilidade da Secretaria Requisitante responsável 
+pela autorização dos medicamentos. 
+ 
+XI. CONTRATAÇÕES CORRELATAS E/OU INTERDEPENDENTES 
+Não se faz necessária a realização de contratações correlatas e/ou interdependentes para a viabilidade e 
+contratação desta demanda. 
+ 
+XII - POSSÍVEIS IMPACTOS AMBIENTAIS  
+A presente contratação não gera Impactos ambientais diretos. A Contratada deverá, ainda, respeitar as 
+Normas adotadas pela Agencia Nacional de Saúde – ANVISA. 
+ 
+XIII - MAPEAMENTO DE RISCOS 
+O mapeamento de riscos permite a identificação, avaliação e gerenciamento dos riscos que possam 
+comprometer o sucesso da contratação e da gestão contratual. Para cada risco identificado, define -se: a 
+probabilidade de ocorrência dos eventos, os possíveis danos potenciais, possíveis ações preventivas e  
+contingências, bem como a identificação de responsáveis por ação. 
+Após a identificação e classificação, deve-se executar uma análise qualitativa e quantitativa dos riscos. A 
+análise quantitativa dos riscos consiste na classificação conforme a relação entre a probabilidade e o  
+=== página 29
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+impacto. Tal classificação resultará no nível do risco e direcionará as ações relacionadas aos riscos 
+durante a fase de planejamento e gestão do contrato. 
+A tabela abaixo apresenta uma síntese dos riscos de planejamento e de gestão dos serviços identificados e 
+classificados neste documento. 
+ 
+RISCO PROBABILIDADE IMPACTO 
+Questionamentos excessivos na licitação Baixa Baixa 
+Contratada se recusar a assinar o contrato Baixa Alto 
+Pedidos de reequilíbrio econômico-financeiro do contrato Médio Alto 
+ 
+RISCOS DO PROCESSO DE CONTRATAÇÃO E DA EXECUÇÃO 
+ 
+RISCO 1 QUESTIONAMENTOS EXCESSIVOS NA LICITAÇÃO 
+Probabilidade Baixa 
+Impacto Baixa 
+Dano Legitimidade da licitação ser colocada em questão 
+Ação Preventiva Definir as regras gerais da contratação de forma clara no Termo de 
+Referência e atentar à legislação vigente. 
+Ação de Contingência Estudar e aplicar a legislação ao caso concreto. 
+RISCO 2 Contratada se recusar a assinar o contrato. 
+Probabilidade Baixa 
+Impacto Alto 
+Dano A(s) contratada(s) podem não assinar o(s) contrato(s) devido a prática de 
+Mergulho. 
+Ação Preventiva Definir punição no Termo de Referência para empresa contratada que não  
+assinar o contrato dentro do prazo estipulado. 
+Ação de Contingência Convocar novo fornecedor e punir os licitantes que descumpriram a avença. 
+RISCO 3 Pedidos de reequilíbrio econômico-financeiro do contrato 
+Probabilidade Médio 
+Impacto Alto 
+Dano Variações nos preços 
+Ação Preventiva Prever cláusula de reequilíbrio econômico-financeiro 
+Estabelecer os requisitos para requerimento. 
+Exigir documentação comprovatória que os preços extrapolaram a álea  
+extraordinária. 
+Ação de Contingência Gestão/Fiscalização do contrato com análise da viabilidade. 
+ 
+XIV - DECLARAÇÃO DE VIABILIDADE 
+A viabilidade deste ETP verifica -se visto que a necessidade da contratação atende adequadamente as 
+demandas formuladas, os benefícios a serem alcançados são adequados, os custos previstos são 
+compatíveis e caracteriza uma economicidade, os riscos envolvidos são administráveis. Considerando as 
+informações do presente ETP, entende-se que a presente contratação se configura tecnicamente VIÁVEL. 
+ 
+ 
+ 
+ 
+Francisco Moisés Alvino de Almeida 
+Secretário Municipal de Saúde 
+ 
+ 
+Antônio César de Lira Nóbrega 
+Secretário Municipal de Planejamento e Infraestrutura 
+=== página 30
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+ANEXO II – TERMO DE REFERÊNCIA 
+ 
+1.0. FUNDAMENTAÇÃO 
+1.1. A presente contratação tem fundamento com base na Lei 14.133/2021. 
+ 
+2.0. OBJETIVO. 
+2.1. Contratação de empresa para fornecimento parcelado de medicamentos diversos destinados a 
+Assistência Farmacêutica Básica, Assistência Farmacêutica Especializada e medicamentos que não 
+fazem parte do RENAME para atendimento às necessidades do município de Santa Luzia/PB , conforme 
+condições, quantidades e exigências estabelecidas neste instrumento: 
+ 
+2.2. Estimativas de Demanda: 
+ 
+ITEM DESCRIÇÃO DO PRODUTO UNID. QUANT. 
+01 Acetilcisteina adulto 40mg/ml xarope (frasco 120ml) Frasco 2.000 
+02 Acetilcisteina pediatrico 20mg/ml xarope (frasco 120ml) Frasco 1.200 
+03 Aciclovir 200mg – comprimido. Comprimido 10.000 
+04 Aciclovir 50mg/g (5%) 10g Creme 500 
+05 Ácido acetilsalicílico 100 mg - comprimido. Comprimido 100.000 
+06 ACIDO ASCORBICO (VITAMINA C) 100 mg/mL solução injetável 
+intravenosa (ampola 5 mL). Ampola 1.200 
+07 Ácido ascórbico 200mg/ml solução oral (frasco 20ml) Frasco 1.000 
+08 Ácido ascórbico 500 mg comprimido Comprimido 30.000 
+09 Ácido fólico 5 mg - comprimido. Comprimido 50.000 
+10 ACIDO TRANEXAMICO 50 mg/mL solução injetável intravenosa 
+(ampola 5 mL). Ampola 300 
+11 Acido Valproico 250mg caps./comprimido. Cáps/comp 30.000 
+12 Acido valproico 500mg comprimido. Comprimido 30.000 
+13 ADENOSINA 3 mg/mL solução injetável intravenosa (ampola 2 mL) Ampola 200 
+14 Albendazol 40 mg/ml - Susp. Oral 10mL Frasco 2.000 
+15 Albendazol mastigável 400 mg -comprimido. Comprimido 1.000 
+16 Alendronato de sódio 70 mg -comprimido. Comprimido 30.000 
+17 Alprazolam 0,5mg comprimido Comprimido 8.000 
+18 Alprazolam 1mg comprimido Comprimido 8.000 
+19 Alprazolam 2mg comprimido Comprimido 8.000 
+20 Ambroxol  6mg/ml xarope (frasco 100ml) Frasco 1.200 
+21 Ambroxol 3mg/ml xarope (frasco 100ml) Frasco 1.200 
+22 AMIODARONA 50 mg/mL solução injetável intravenosa (ampola 3 
+mL) Ampola 200 
+23 Amiodarona, Cloridrato  200 mg -comprimido. Comprimido 8.000 
+24 Amitriptilina, cloridrato de 25 mg -comprimido. Comprimido 60.000 
+25 Amitriptilina, cloridrato de 75 mg -comprimido. Comprimido 10.000 
+26 Amoxicilina + clavulanato de potássio 50 mg + 12,5 mg/ml - Susp. Oral 
+75mL Frasco 600 
+27 Amoxicilina + clavulanato de potássio 500 mg + 125 mg -comprimido. Comprimido 7.000 
+28 Amoxicilina 50 mg/ml - Pó para suspensão Oral 60mL Frasco 5.000 
+29 Amoxicilina 500 mg - Cápsula Comprimido 50.000 
+30 Anlodipino, besilato de 10 mg -comprimido. Comprimido 50.000 
+31 Anlodipino, besilato de 5 mg -comprimido. Comprimido 50.000 
+32 Aripiprazol 1mg/ml Suspensão oral (frasco 100mL) Frasco 500 
+33 Atenolol 100 mg -comprimido. Comprimido 20.000 
+=== página 31
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+34 Atenolol 50 mg -comprimido. Comprimido 30.000 
+35 Atorvastatina calcica 20mg - comprimido Comprimido 1.000 
+36 Atorvastatina calcica 40mg - comprimido Comprimido 1.000 
+37 ATROPINA 0,25 mg/mL solução injetável intravenosa (ampola 1 mL). Ampola 200 
+38 Azitromicina 40 mg/ml - Pó para Suspensão Oral 15mL Frasco 2.000 
+39 Azitromicina 500 mg -comprimido. Comprimido 12.000 
+40 Beclometasona 200 mcg/dose solução para inalação oral 200 doses Frasco 200 
+41 Beclometasona 250 mcg/dose solução para inalação oral 200 doses Frasco 200 
+42 Beclometasona 50 mcg/dose solução para inalação oral 200 doses Frasco 200 
+43 Beclometasona 50 mcg/dose suspensão para inalação nasal spray 200 
+doses Frasco 100 
+44 BENZILPENICILINA BENZATINA 1.200.000 UI pó liofílico para 
+suspensão injetável intramuscular (frasco ampola). 
+Frasco - 
+Ampola 1.200 
+45 BENZILPENICILINA BENZATINA 600.000 UI pó liofílico para 
+suspensão injetável intramuscular (frasco ampola). 
+Frasco - 
+Ampola 1.000 
+46 
+BENZILPENICILINA PROCAÍNA 300.000 UI + 
+BENZILPENICILINA POTÁSSICA 100.000 UI pó liofílico para 
+suspensão injetável intramuscular (frasco ampola). 
+Frasco - 
+Ampola 500 
+47 Benzoilmetronidazol 40 mg/ml - Suspensão Oral 100 mL Frasco 200 
+48 BETAMETASONA acetato 3mg/mL + BETAMETASONA fosfato 
+dissódico 3mg/mL suspensão injetável intramuscular (ampola 1 mL). Ampola 300 
+49 Betametasona, acetonato + Betametasona, fostato dissodico 
+5mg/ml+2mg/ml (ampola 1ml) Ampola 300 
+50 Bicarbonato de sódio 1 mEq/mL (8,4%) Injetável 10mL Ampola 200 
+51 Biperideno, cloridrato de 2 mg - comprimido Comprimido 20.000 
+52 Biperideno, cloridrato de 4 mg - comprimido de liberação controlada Comprimido 6.000 
+53 Bromazepam 3mg comprimido Comprimido 12.000 
+54 Brometo de ipratrópio 0,25 mg/mL – solução para inalação (frasco 
+20mL) Frasco 100 
+55 Bromoprida 10 mg comprimido Comprimido 6.000 
+56 Bromoprida 4mg/ml  solução oral (frasco 20ml) Frasco 400 
+57 BROMOPRIDA 5 mg/mL solução injetável intravenosa (ampola 2 mL). Ampola 300 
+58 Budesonida 32 mcg - suspensão para inalação nasal 120 doses Frasco 300 
+59 Budesonida 50mcg - suspensão para inalação nasal 120 doses Frasco 200 
+60 Budesonida 64 mcg - suspensão para inalação nasal 120 doses Frasco 400 
+61 Bupropiona 150mg comprimido de liberação prolongada - comprimido Comprimido 15.000 
+62 Cabergolina 0,5 mg comprimido. Comprimido 1.000 
+63 Captopril 25 mg - comprimido. Comprimido 100.000 
+64 Carbamazepina 200 mg - comprimido. Comprimido 50.000 
+65 Carbamazepina 400 mg - comprimido. Comprimido 20.000 
+66 Carbamazepina xarope 20 mg/ml – suspensão oral (frasco 100mL) Frasco 600 
+67 Carbonato de cálcio + colecalciferol 500 mg CaCO3 + 400 UI - 
+comprimido. Comprimido 12.000 
+68 Carbonato de cálcio + colecalciferol 600 mg CaCO3 + 400 UI - 
+comprimido. Comprimido 12.000 
+69 Carbonato de cálcio 1250 mg (equivalente a 500mg Ca - comprimido.) Comprimido 6.000 
+70 Carbonato de lítio 300 mg - comprimido. Comprimido 40.000 
+71 Carvedilol  12,5 mg - comprimido. Comprimido 50.000 
+72 Carvedilol  3,125 mg - comprimido. Comprimido 70.000 
+73 Carvedilol 25 mg - comprimido. Comprimido 50.000 
+74 Carvedilol 6,25 mg - comprimido. Comprimido 70.000 
+75 Cefalexina 50 mg/ml - Suspensão Oral (frascco 60mL após Frasco 2.000 
+=== página 32
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+reconstituição) 
+76 Cefalexina 500 mg- Cápsula/comprimido. Cáps/comp 50.000 
+77 CEFTRIAXONA 1g pó liofílico para solução injetável intramuscular 
+com diuente próprio (frasco ampola). 
+Frasco-
+ampola 3.000 
+78 CEFTRIAXONA 500 mg pó liofílico para solução injetável 
+intramuscular com diuente próprio (frasco ampola). 
+Frasco-
+ampola 1.000 
+79 Cetoconazol 200mg - comprimido Comprimido 2.000 
+80 Cetoconazol 20mg/g - 2% xampu (frasco 100mL) Frasco 300 
+81 Cetoconazol 20mg/g creme dermatológico 30g Bisnaga 400 
+82 CETOPROFENO 100 mg pó liofílico para solução injetável (frasco 
+ampola). 
+Frasco-
+ampola 300 
+83 Cetoprofeno 150mg comprimido Comprimido 10.000 
+84 Ciclobenzaprina 10mg comprimido Comprimido 5.000 
+85 CIMETIDINA 150 mg/mL solução injetável intravenosa e 
+intramuscular (ampola 2 mL). Ampola 200 
+86 Ciprofibrato 100 mg - comprimido Comprimido 1.000 
+87 Ciprofloxacino, cloridrato de 500 mg - comprimido. Comprimido 12.000 
+88 Citalopram 20mg comprimido Comprimido 12.000 
+89 Claritromicina 500 mg - Cápsula/Comprimido Cáps/comp 10.000 
+90 Clindamicina, cloridrato 300 mg - cápsula Cápsula 3.000 
+91 Clomipramina, cloridrato de 10 mg – comprimido. Comprimido 5.000 
+92 Clomipramina, cloridrato de 25 mg – comprimido. Comprimido 15.000 
+93 Clonazepam   2,5 mg/ml - Sol. Oral 20mL Frasco 3.000 
+94 Clonazepam 0,5mg comprimido Comprimido 20.000 
+95 Clonazepam 2mg comprimido Comprimido 40.000 
+96 Clopidogrel 75mg - comprimido Comprimido 10.000 
+97 Cloreto de potássio 2,56 mEq/ml (19,1%)  solução injetável (ampola 10 
+mL). Ampola 1.000 
+98 CLORETO DE SODIO 0,9% solução injetável sistema fechado 
+(frasco/bolsa 100 mL) 
+Frasco/ampo
+la 10.000 
+99 CLORETO DE SODIO 0,9% solução injetável sistema fechado 
+(frasco/bolsa 250 mL) 
+Frasco/ampo
+la 4.000 
+100 CLORETO DE SODIO 0,9% solução injetável sistema fechado 
+(frasco/bolsa 500 mL) 
+Frasco/ampo
+la 12.000 
+101 Cloreto de sódio 3,4 mEq/ml  (20%)  solução injetável (ampola 10 mL). Ampola 200 
+102 Cloridrato de Donepezila 10mg - comprimido Comprimido 6.000 
+103 Cloridrato de Donepezila 5mg -comprimido Comprimido 6.000 
+104 Cloridrato de Tramadol 50mg cápsula Cápsula 5.000 
+105 Clorpromazina, cloridrato de 100 mg - comprimido. Comprimido 12.000 
+106 Clorpromazina, cloridrato de 25 mg - comprimido. Comprimido 6.000 
+107 Clorpromazina, cloridrato de 40 mg/ml - Sol.Oral (frasco 20mL Frasco 500 
+108 Clorpromazina, cloridrato de 5 mg/ml - Injetável 5mL Ampola 100 
+109 Colagenase +clorafenicol 0,6ui+10mg/g 30g pomada Bisnaga 200 
+110 Colagenase 0,6ui /g 30g pomada Bisnaga 200 
+111 Colecalciferol (Vitamina D3) 1000 Ui Cápsula/comprimido Cáps/comp 10.000 
+112 Colecalciferol (Vitamina D3) 2000 Ui Cápsula/comprimido Cáps/comp 20.000 
+113 Colecalciferol (Vitamina D3) 7000 Ui Cápsula/comprimido Cáps/comp 10.000 
+114 DESLANOSIDEO 0,2 mg/mL solução injetável (ampola 2 mL). Ampola 100 
+115 Dexametasona    4 mg - comprimido. Comprimido 6.000 
+116 Dexametasona   creme 1mg/G (0,1%) 10g Bisnaga 1.000 
+117 Dexametasona elixir 0,1 mg/ml (frasco 100mL) Frasco 400 
+118 Dexametasona suspensão oftálmica 1mg/mL (0,1%) ( frasco 5mL) Frasco 100 
+=== página 33
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+119 Dexametasona, fosfato dissódico 4mg/mL solução injetável (ampola 10 
+mL). Ampola 600 
+120 Dexclorfeniramina 0,4 mg/mL +betametasona xarope 0,05 mg/mL 
+(frasco 120mL) frasco 3.000 
+121 Dexclorfeniramina, maleato 0,4 mg/ml - xarope ( frasco 100mL) Frasco 2.000 
+122 Dexclorfeniramina, maleato 2mg Comprimido 20.000 
+123 Diazepam 10 mg – comprimido. Comprimido 30.000 
+124 Diazepam 5 mg - comprimido. Comprimido 6.000 
+125 Diazepam 5 mg/ml – Solução Injetável l (ampola 2 mL). Ampola 300 
+126 DICLOFENACO POTASSICO 25 mg/mL solução injetável (ampola 3 
+mL). Ampola 200 
+127 DICLOFENACO SODICO 25 mg/mL solução injetável (ampola 3 mL). Ampola 200 
+128 Digoxina 0,25 mg - comprimido. Comprimido 50.000 
+129 Dipirona sódica 500 mg – comprimido. Comprimido 100.000 
+130 Dipirona sódica 500 mg/ml Solução Injetável  (ampola 2 mL) Ampola 2.000 
+131 Dipirona sódica 500 mg/ml -Solução Oral ( frasco 10ml) Frasco 1.000 
+132 Dobutamina, Cloridrato  12,5mg/ml solução injetável (ampola 20mL) Ampola 100 
+133 Domperidona 10mg comprimido Comprimido 20.000 
+134 Dopamina, Cloridrato 5mg/ml (ampola 10mL) Ampola 100 
+135 Enalapril, maleato de 10 mg –comprimido. Comprimido 40.000 
+136 Enalapril, maleato de 20 mg –comprimido. Comprimido 50.000 
+137 Enalapril, maleato de 5 mg –comprimido. Comprimido 50.000 
+138 Enoxaparina sódica 20mg/0,2 ml solução injetável seringa 1.000 
+139 Enoxaparina sódica 40mg/0,4 ml solução injetável seringa 1.200 
+140 Enoxaparina Sódica 60 mg/0,6 mL solução injetável seringa 1.000 
+141 Epinefrina (adrenalina) 1 mg/ml  - Solução Injetável (ampola 1ml) Ampola 300 
+142 ESCETAMINA 50 mg/mL solução injetável (frasco ampola 10 mL). Ampola 100 
+143 Escitalopram 10mg comprimido Comprimido 50.000 
+144 Escitalopram 20mg comprimido Comprimido 30.000 
+145 ESCOPOLAMINA 20 mg/mL solução injetável (ampola 1 mL). Ampola 200 
+146 ESCOPOLAMINA 4 mg/mL + DIPIRONA 500 mg/mL solução 
+injetável (ampola 5 mL). Ampola 300 
+147 Espironolactona 100mg - comprimido Comprimido 10.000 
+148 Espironolactona 25 mg – comprimido. Comprimido 30.000 
+149 Estriol creme vaginal 1 mg/g 50g Bisnaga 300 
+150 Etinilestradiol + levonorgestrel 0,03 mg + 0,15 mg - comprimido. Comprimido 20.000 
+151 ETOMIDATO 2 mg/mL solução injetável (ampola 10 mL). Ampola 500 
+152 Fenitoína 100 mg -comprimido. Comprimido 20.000 
+153 Fenitoína sódica 50 mg/ml – Solução Injetável (ampola 5ml) Ampola 200 
+154 Fenobarbital 100 mg -comprimido. Comprimido 40.000 
+155 Fenobarbital 100 mg/ml – Solução Injetável (ampola 2ml) Ampola 200 
+156 Fenobarbital 40 mg/ml - Sol.Oral (frasco 20ml) Frasco 300 
+157 FENTANILA 50 mcg/mL solução injetável intravenosa e intramuscular 
+(ampola 10 mL). Ampola 500 
+158 Finasterida 5mg comprimido Comprimido 600 
+159 FITOMENADIONA (VITAMINA K1) 10 mg/mL solução injetável 
+intramuscular e subcutânea (ampola 1 mL). Ampola 100 
+160 Fluconazol 150 mg - Cápsula Cápsula 2.000 
+161 Flumazenil 01mg/ml - solução injetável (ampola 5ml) Ampola 300 
+162 Fluoxetina 20mg/mL - solução oral (frasco 20ml) Frasco 600 
+163 Fluoxetina, cloridrato  20 mg - cápsula Cápsula 75.000 
+164 Furosemida 10 mg/ml Solução Injetável (ampola 2ml) Ampola 300 
+=== página 34
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+165 Furosemida 40 mg - comprimido. Comprimido 50.000 
+166 Gabapentina 300mg - cápsula Cápsula 30.000 
+167 Glibenclamida  5 mg -comprimido. Comprimido 50.000 
+168 Gliclazida de liberação prolongada de 30 mg - comprimido. Comprimido 20.000 
+169 Gliclazida de liberação prolongada de 60 mg - comprimido. Comprimido 20.000 
+170 GLICOSE 5 % solução injetável sistema fechado (frasco/bolsa 250 
+mL). Frasco/bolsa 1.200 
+171 GLICOSE 5 % solução injetável sistema fechado (frasco/bolsa 500 
+mL). Frasco/bolsa 2.400 
+172 Glicose 500 mg/mL (50%) - solução injetável (ampola 10ml) Ampola 600 
+173 GLICONATO DE CALCIO 100 mg/mL (10%) solução injetável 
+(ampola 10 mL). Ampola 200 
+174 Haloperidol 1 mg -comprimido. Comprimido 6.000 
+175 Haloperidol 2 mg/ml - Sol. Oral (frasco 20ml) Frasco 200 
+176 Haloperidol 5 mg -comprimido. Comprimido 24.000 
+177 Haloperidol 5 mg/ml - Sol. Injetável (ampola 1ml) Ampola 200 
+178 Haloperidol, decanoato de solução injetável 50 mg/mL (ampola 1ml) Ampola 200 
+179 Hemifumarato de Quetiapina 100mg - comprimido Comprimido 10.000 
+180 Hemifumarato de Quetiapina 200mg - comprimido Comprimido 10.000 
+181 Hemifumarato de Quetiapina 25mg - comprimido Comprimido 50.000 
+182 HEPARINA 5000 UI/mL solução injetável intravenosa (frasco ampola 
+5 mL). 
+Frasco-
+ampola 50 
+183 Heparina sódica 5000UI/0,25ml solução injetável (ampola 0,25ml) Ampola 50 
+184 HIDRALAZINA 20 mg/mL solução injetável (ampola 1 mL). Ampola 200 
+185 Hidroclorotiazida 25 mg -comprimido. Comprimido 80.000 
+186 HIDROCORTISONA 100 mg pó liofílico para solução injetável (frasco 
+ampola) 
+Frasco-
+ampola 300 
+187 HIDROCORTISONA 500 mg pó liofílico para solução injetável (frasco 
+ampola) 
+Frasco-
+ampola 300 
+188 Hidrocortisona, acetato de creme 10mg/g (1%)  20g Bisnaga 300 
+189 Hidróxido de alumínio - suspensão oral 61,5 mg/mL (frasco com 100 
+mL) Frasco 200 
+190 Ibuprofeno 300 mg - comprimido. Comprimido 30.000 
+191 Ibuprofeno 50 mg/ml - Suspensão Oral (frasco 30ml) Frasco 2.000 
+192 Ibuprofeno 600 mg -comprimido. Comprimido 50.000 
+193 Imiquimode 50 mg/g creme dermatológico sachês de 250 mg sachê 600 
+194 Insulina análoga de ação prolongada 100UI/mL Solução Injetável com 
+sistema de aplicação 3ml Caneta 100 
+195 Insulina análoga de ação rápida  100UI/mL Solução Injetável com 
+sistema de aplicação 3ml Caneta 100 
+196 Insulina Humana NPH 100UI/mL - suspensão injetável  3 mL com 
+sistema de aplicação caneta 6.000 
+197 Insulina Humana NPH 100UI/mL- suspensão injetável (frasco 10ml) Frasco 500 
+198 Insulina Humana Regular 100UI/mL - solução injetável (frasco 10ml) Frasco 100 
+199 Insulina Humana Regular 100UI/mL - solução injetável 3 mL com 
+sistema de aplicação caneta 1.200 
+200 Isossorbida, dinitrato 5 mg -comprimido sublingual. Comprimido 3.000 
+201 Isossorbida, mononitrato de 20 mg -comprimido. Comprimido 6.000 
+202 Isossorbida, mononitrato de 40 mg -comprimido. Comprimido 6.000 
+203 Itraconazol 100mg cápsula Cápsula 1.200 
+204 Ivermectina 6 mg -comprimido. Comprimido 2.000 
+205 Levodopa + benzerazida 200 mg + 50 mg - comprimido. Comprimido 6.000 
+=== página 35
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+206 Levodopa + benzerazida BD 100+25mg - comprimido Comprimido 25.000 
+207 Levodopa + benzerazida HBS 100 mg + 25 mg -Caps Cápsula 12.000 
+208 Levodopa + carbidopa 250 mg + 25 mg -comprimido. Comprimido 6.000 
+209 Levomepromazina 100mg comprimido Comprimido 20.000 
+210 Levomepromazina 25mg comprimido Comprimido 10.000 
+211 Levonorgestrel 1,5 mg -comprimido. Comprimido 600 
+212 Levotiroxina sódica 100 µg -comprimido. Comprimido 6.000 
+213 Levotiroxina sódica25 µg -comprimido. Comprimido 5.000 
+214 Levotiroxina sódica50 µg -comprimido. Comprimido 8.000 
+215 LIDOCAINA 100 mg/mL (10%) solução aerossol (frasco 50 mL). Frasco 20 
+216 Lidocaína, Cloridrato  (20mg/ml) 2% solução injetável sem 
+vasoconstrictor (frasco 20ml) Ampola 100 
+217 Lidocaína, Cloridrato Gel (20mg/g) 2% 30g Bisnaga 400 
+218 Loratadina 10 mg  -comprimido. Comprimido 6.000 
+219 Loratadina xarope 1 mg/ml (frasco 100ml) Frasco 500 
+220 Losartana potássica 50 mg  -comprimido. Comprimido 60.000 
+221 Magnésio, Sulfato – solução injetável 10% (0,81 mEq/mL Mg++) 
+(ampola 10ml) Ampola 200 
+222 Magnésio, Sulfato - solução injetável 50% (4,05 mEq/mL Mg++) 
+(ampola 10ml) Ampola 200 
+223 Medroxiprogesterona, acetato de solução injetável 150 mg/ml (ampola 
+1ml) Ampola 200 
+224 Memantina 10 mg - comprimido Comprimido 6.000 
+225 Metformina, cloridrato de 500 mg  -comprimido. Comprimido 60.000 
+226 Metformina, cloridrato de 850 mg  -comprimido. Comprimido 100.000 
+227 Metildopa  250 mg -comprimido. Comprimido 15.000 
+228 METILERGOMETRINA 0,2 mg/mL solução injetável (ampola 1 mL). Ampola 200 
+229 Metoclopramida, Cloridrato  5 mg/ml solução injetável (ampola 2ml) Ampola 200 
+230 METOPROLOL 1 mg/mL solução injetável (ampola 5 mL). Ampola 50 
+231 Metoprolol, succinato de liberação prolongada  25 mg -comprimido. Comprimido 15.000 
+232 Metoprolol, succinato de liberação prolongada 100 mg -comprimido. Comprimido 6.000 
+233 Metoprolol, succinato de liberação prolongada 50 mg -comprimido. Comprimido 15.000 
+234 Metotrexato 2,5mg - comprimido Comprimido 1.000 
+235 Metronidazol  250 mg -comprimido. Comprimido 10.000 
+236 Metronidazol  gel vaginal 10mg/g (10%) 50g Bisnaga 1.200 
+237 Metronidazol 400mg - comprimido. Frasco 3.000 
+238 Miconazol, nitrato de - Loção 2% (frasco 30ml) Frasco 100 
+239 Miconazol, nitrato de creme 2% toópico (20mg/g) 28g Bisnaga 300 
+240 Miconazol, nitrato de creme vaginal 2% (20mg/g) 80g Bisnaga 300 
+241 MIDAZOLAM 5 mg/mL (50 mg) solução injetável (ampola 10 mL). Ampola 600 
+242 Mirtazapina 15mg comprimido orodispersível Comprimido 10.000 
+243 Mirtazapina 30 mg caixa comprimido  orodispersível Comprimido 8.000 
+244 MORFINA 10 mg/mL solução injetável (ampola 1 mL). Ampola 200 
+245 Naloxona, Cloridrato  0,4 mg/ml solução injetável (ampola 1ml) Ampola 50 
+246 NEOMICINA 5 mg/g + BACITRACINA 250 UI/g pomada (bisnaga 10 
+g) Bisnaga 1.000 
+247 Nifedipino 10mg comprimido Comprimido 6.000 
+248 Nimesulida 100mg comprimido Comprimido 16.000 
+249 Nistatina 100.000 UI/ml – Suspensão Oral (frasco 50ml) Frasco 2.000 
+250 Nistatina 25.000ui creme vaginal 50g Bisnaga 1.000 
+251 Nitrofurantoina 100mg - cápsula Cápsula 6.000 
+252 NITROGLICERINA 5 mg/mL solução injetável (ampola 5 mL). Ampola 50 
+=== página 36
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+253 NITROPRUSSETO (NITROPRUSSIATO) DE SÓDIO 25 mg/mL 
+solução injetável (ampola 2 mL). Ampola 100 
+254 Norepinefrina, (noradrenalina) hemitartarato 2 mg/mL - solução 
+injetável (ampola 4ml) Ampola 200 
+255 Noretisterona 0,35 mg - comprimido Comprimido 5.000 
+256 Noretisterona, Enanato +  Estradiol, Valerato 50mg/mL + 5 mg/mL - 
+Solução Injetável 1ml Ampola 1.000 
+257 Nortriptilina, cloridrato de 10 mg - Caps. Cápsula 6.000 
+258 Nortriptilina, cloridrato de 25 mg - Caps. Cápsula 8.000 
+259 Nortriptilina, cloridrato de 50 mg - Caps. Cápsula 4.000 
+260 Nortriptilina, cloridrato de 75 mg - Caps. Cápsula 3.000 
+261 OCITOCINA 5 UI/mL solução injetável (ampola 1 mL). Ampola 100 
+262 Olanzapina 10mg - comprimido Comprimido 3.000 
+263 Olanzapina 2,5mg - comprimido Comprimido 3.000 
+264 Olanzapina 5mg - comprimido Comprimido 3.000 
+265 OLEO MINERAL 1 mL/mL (100%) solução oral e tópico (frasco 100 
+mL). Frasco 200 
+266 Omeprazol  20 mg - Cápsula Cápsula 100.000 
+267 OMEPRAZOL 40 mg pó liofílico para solução injetável com diluente 
+próprio (frasco ampola). 
+Frasco-
+ampola 300 
+268 ONDANSETRONA 2 mg/mL solução injetável (ampola 4 mL). Ampola 300 
+269 Ondansetrona, Cloridrato  8mg comprimido. / comprimido. 
+orodispersível Comprimido 3.000 
+270 Ondansetrona, Cloridrato 4mg comprimido. / comprimido. 
+orodispersível Comprimido 3.000 
+271 Oxcarbazepina 300mg comprimido Comprimido 10.000 
+272 Oxcarbazepina 60 mg/mL suspensão oral (frasco 100 mL). Frasco 600 
+273 Oxcarbazepina 600mg comprimido Comprimido 12.000 
+274 Paracetamol 200 mg/ml - Sol. Oral 15ml Frasco 2.000 
+275 Paracetamol 500 mg – comprimido. Comprimido 40.000 
+276 Paracetamol 500 mg + codeina 30mg comprimido Comprimido 12.000 
+277 Paroxetina 12,5mg comprimido Comprimido 6.000 
+278 Paroxetina 20mg comprimido Comprimido 15.000 
+279 PERMETRINA 10 mg/mL (1%) loção capilar (frasco 60 mL) Frasco 200 
+280 PERMETRINA 50 mg/mL (5%) loção dermatológica (frasco 60 mL). Frasco 300 
+281 PETIDINA (MEPERIDINA) 50 mg/mL solução injetável (ampola 2 
+mL). Ampola 100 
+282 Piridoxina (vitamina B6), cloridrato de 40 mg – comprimido. Comprimido 3.000 
+283 Prednisolona, fostato sódico de 3 mg/ml - Sol.Oral (frasco 60ml) Frasco 1.000 
+284 Prednisona 20 mg – comprimido. Comprimido 8.000 
+285 Prednisona 5 mg - comprimido. Comprimido 6.000 
+286 Pregabalina 75mg cápsula Cápsula 130.000 
+287 Prometazina, cloridrato 25mg Comprimido 20.000 
+288 Prometazina, cloridrato de solução injetável 25 mg/ml (ampola 2ml) Ampola 300 
+289 Propafenona, cloridrato de 300mg – comprimido. Comprimido 3.000 
+290 Propranolol, cloridrato de 10 mg – comprimido. Comprimido 6.000 
+291 Propranolol, cloridrato de 40 mg – comprimido. Comprimido 50.000 
+292 Ramipril 5mg - comprimido Comprimido 4.000 
+293 Risperidona 1mg - comprimido Comprimido 10.000 
+294 Risperidona 1mg/ml solução oral frasco 30ml frasco 2.000 
+295 Risperidona 2mg - comprimido Comprimido 30.000 
+296 Risperidona 3mg - comprimido Comprimido 10.000 
+=== página 37
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+297 Rivaroxabana 10mg comprimido Comprimido 4.000 
+298 Rivaroxabana 20mg comprimido Comprimido 8.000 
+299 Sais para reidratação oral (NaCl 3,5G + Glicose 20G + Citrato Na 2,9G 
++ KCl 1,5G) 27,9 G Pó para solução envelope 1.000 
+300 SALBUTAMOL 100 mcg/dose aerossol oral (frasco 200 doses). Frasco 600 
+301 Salbutamol, sulfato 5mg/mL solução para inalação  (frasco 10ml) Frasco 100 
+302 Secnidazol 1000mg comprimido Comprimido 1.000 
+303 Sertralina 25mg comprimido Comprimido 12.000 
+304 Sertralina 50mg comprimido Comprimido 100.000 
+305 SIMETICONA 75 mg/mL emulsão oral (frasco 15 mL). Frasco 1.000 
+306 Sinvastatina 20 mg - comprimido. Comprimido 70.000 
+307 Sinvastatina 40 mg - comprimido. Comprimido 100.000 
+308 SOLUÇÃO RINGER COM LACTATO solução injetável sistema 
+fechado (frasco/bolsa 250 mL). Frasco/bolsa 1.000 
+309 SOLUÇÃO RINGER COM LACTATO solução injetável sistema 
+fechado (frasco/bolsa 500 mL). Frasco/bolsa 3.600 
+310 Sulfadiazina de prata – 10mg/g (1%) Creme 50g Bisnaga 1.200 
+311 Sulfametoxazol+ trimetoprima 400mg+80 mg –comprimido. Comprimido 10.000 
+312 Sulfametoxazol+trimetoprima 40mg+8mg/ml - Susp. Oral (frasco 
+100ml) Frasco 200 
+313 Sulfato de morfina 10 mg - comprimido Comprimido 1.000 
+314 Sulfato de morfina 10mg/mL solução oral 60ml Frasco 100 
+315 SULFATO FERROSO 109 mg (40 mg de ferro elementar) comprimido Comprimido 50.000 
+316 SULFATO FERROSO 125 mg/mL (25 mg/mL de ferro elementar) 
+solução oral (frasco 30 mL). Frasco 400 
+317 SUXAMETÔNIO 100 mg pó liofílico para solução injetável (frasco 
+ampola). 
+frasco-
+ampola 400 
+318 TENOXICAM 40 mg pó liofílico para solução injetável intravenosa e 
+intramuscular (frasco ampola). 
+Frasco-
+ampola 1.000 
+319 TERBUTALINA 0,5 mg/mL solução injetável (ampola 1 mL). Ampola 100 
+320 Tiamina, cloridrato de 300 mg – comprimido. Comprimido 3.000 
+321 Timolol, maleato de colírio 5mg/mL (0,5%)  (frasco 5mL) Frasco 100 
+322 Topiramato 25mg - comprimido Comprimido 1.000 
+323 Topiramato 50mg - comprimido Comprimido 2.000 
+324 TRAMADOL 100 mg solução injetável (ampola 2 mL). Ampola 300 
+325 Trazodona 50mg comprimido Comprimido 8.000 
+326 Valproato de sódio 50mg/ml xarope - (frasco 100mL) Frasco 2.000 
+327 Varfarina sódica 5 mg – comprimido. Comprimido 5.000 
+328 Venlafaxina 37,5mg cápsula Cápsula 8.000 
+329 Venlafaxina 75mg cápsula Cápsula 25.000 
+330 Verapamil, cloridrato de 120 mg – comprimido Comprimido 1.000 
+331 Verapamil, cloridrato de 80 mg – comprimido. Comprimido 1.000 
+332 VITAMINAS DO COMPLEXO B composto por vitaminas B1, B2, B3, 
+B5 e B6 comprimido. Comprimido 15.000 
+333 VITAMINAS DO COMPLEXO B composto por vitaminas B1, B2, B3, 
+B5 e B6 solução oral (frasco 100 mL). Frasco 200 
+334 VITAMINAS DO COMPLEXO B composto por vitaminas B1, B2, B3, 
+B5 e B6 solução injetável (ampola 2 mL). Ampola 1.200 
+ 
+3.0. JUSTIFICATIVA E OBJETIVO DA CONTRATAÇÃO. 
+3.1. A Secretaria Municipal de Saúde do Município, Estado da Paraíba, tem como missão planejar, executar e 
+gerir os serviços de saúde em consonância com princípios do SUS, buscando excelência nas ações 
+=== página 38
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+direcionadas à integralidade na saúde e qualidade de vida aos cidadãos. Em concordância com a Lei Orgânica 
+da Saúde (Lei n° 8.080, de 19 de setembro de 1990 e Lei n° 8.142, de 28 de dezembro de 1990) que apresenta 
+como princípios e diretrizes a universalidade de acesso aos serviços de saúde, integralidade de assistência e a 
+igualdade da assistência à saúde. Santa Luzia é um Município brasileiro do estado da Paraíba, possui uma 
+população de aproximadamente 14.959 habitantes (IBGE, 2022).  Necessita garantir a continuidade dos 
+atendimentos essenciais, visando a não interrupção dos atendimentos que são de responsabilidade da Secretaria 
+Municipal de Saúde, faz-se necessário o processo para aquisição de medicamentos básicos. Ressaltando, que a 
+falta de alguns medicamentos representa iminente risco à saúde das pessoas que necessitam de assistência 
+imediata e consequentemente poderá ocasionar na morte de alguns pacientes que adentram na Unidade de 
+Saúde deste Município. Tal situação nos faz agir com rapidez, no entanto, desta feita, é importante advertir que 
+não existiu por parte da Assistência Farmacêutica a falta de planejamento, imprudência ou negligência, pois os 
+medicamentos são insumos estratégicos de suporte às ações de saúde, cuja falta pode significar interrupções 
+constantes no tratamento, o que afeta a qualidade de vida dos usuários e a credibilidade dos serviços 
+farmacêuticos e do sistema de saúde como um todo. A presente proposição de contratação tomou como base o 
+princípio da teoria de livre mercado, no qual os fornecedores concorrem na busca de oferecer o menor preço, 
+sem com isso, comprometer a qualidade, a confiabilidade, a continuidade de serviço. Tal princípio trar á́ 
+benefícios e economia substanciais ao serviço público, cujas políticas e diretrizes devem estar orientadas para 
+garantir e maximizar a qualidade e a quantidade da prestação de seus serviços à população, ao menor preço 
+possível. 
+ 
+4.0. DOS REQUISITOS DA CONTRATAÇÃO 
+4.1. Trata -se de uma compra de mat erial de consumo contínuo, a ser contratado mediante licitação na 
+modalidade Pregão Eletrônico, nos termos da Lei n° 14.133/2021. 
+4.2. A aquisição se refere a fornecimentos contínuos, a qual é realizada pela Administração Pública para a 
+manutenção da atividade administrativa, decorrentes de necessidades permanentes ou prolongadas, cujo 
+interrupção ocasionará prejuízos a pessoas e serviços essenciais.  
+4.3. Os bens de consumo pretendidos se enquadram como de categoria comum, nos termos do Decreto 
+Municipal que regulamenta a matéria.  
+4.4. A garantia consiste na prestação pela empresa, de todas as obrigações previstas na Lei no 8.078, de 
+11/09/1990 – Código de Defesa do Consumidor - e alterações subsequentes.  
+4.5. A empresa fornecedora dos produtos será responsável pela substituição, troca ou reposição dos 
+produtos porventura entregues com defeito, danificados, ou não compatíveis com as especificações do 
+Termo.  
+4.6.A Contratada deverá adotar todas as práticas necessárias no fornecimento do item e estar em dia com 
+todas as obrigações relacionadas ao comércio destes produtos, seja da ordem fiscal, financeira, logística 
+ou sustentável, ou outra que por ventura necessitar de acordo com as leis que regem este tipo de 
+transação.  
+4.7. A contratação se refere à aquisição de medicamentos, realizada anualmente conforme solicitado pelo 
+Médico, a fim de atender a demanda de atendimentos efetuados pelo profissional da área de saúde deste 
+município. 
+4.8. Como se trata de aquisição de medicamentos, será exigido que o (s) produto(s) a ser entregue 
+deverá(ão) possuir junto à Agência Nacional de Vigilância Sanitária - ANVISA, exceto para aquele 
+que não possua a obrigatoriedade do referido registro. 
+4.9. Será exigido que a validade mínima do(s) produto(s) ofertado(s) é de 75% ou mais de sua vida 
+útil ou produto(s) com tempo remanescente de consumo superior a 365 dias, conforme orientação 
+do painel de medicamentos e insumos farmacêuticos do Tribunal de Contas do Estado da Paraíba -
+TCE/PB. 
+ 
+5.0. DA EXECUÇÃO, GESTÃO E FISCALIZAÇÃO DO CONTRATO 
+5.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as 
+normas da Lei nº 14.133, de 2021, e cada parte responderá pelas consequências de sua inexecução total ou 
+parcial. 
+=== página 39
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+5.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução 
+será prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante 
+simples apostila. 
+5.3. As comunicações entre o órgão ou entidade e a contratada devem ser realizadas por escrito sempre 
+que o ato exigir tal formalidade, admitindo-se o uso de mensagem eletrônica para esse fim. 
+5.4. O órgão ou entidade poderá convocar representante da empresa para adoção de providências que 
+devam ser cumpridas de imediato. 
+5.5. Após a assinatura do contrato ou instrumento equivalente, o órgão ou entidade poderá convocar o 
+representante da empresa contratada para reunião inicial para apresentação do plano de fiscalização, que 
+conterá informações acerca das obrigações contratuais, dos mecanismos de fiscalização, das estratégias 
+para execução do objeto, do plano complementar de execução da contratada, quando houver, do método 
+de aferição dos resultados e das sanções aplicáveis, dentre outros. 
+Fiscalização 
+5.6. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do contrato, ou pelos 
+respectivos substitutos (Lei nº 14.133, de 2021, art. 117, caput). 
+Fiscalização Técnica 
+5.7. O fiscal técnico do contrato acompanhará a execução do contrato, para que sejam cumpridas todas as 
+condições estabelecidas no contrato, de modo a assegurar os melhores resultados para a Administração.  
+5.7.1. O fiscal técnico do contrato anotará no histórico de gerenciamento do contrato todas as ocorrências 
+relacionadas à execução do contrato, com a descrição do que for necessário para a regularização das faltas 
+ou dos defeitos observados. (Lei nº 14.133, de 2021, art. 117, §1º, e Decreto nº 11.246, de 2022, art. 22, 
+II); 
+5.7.2. Identificada qualquer inexatidão ou irregularidade, o fiscal técnico do contrato emitirá notificações 
+para a correção da execução do contrato, determinando prazo para a correção.  
+5.7.3. O fiscal técnico do contrato informará ao gestor do contato, em tempo hábil, a situação que 
+demandar decisão ou adoção de medidas que ultrapassem sua competência, para que adote as medidas 
+necessárias e saneadoras, se for o caso. 
+5.7.4. No caso de ocorrências que possam inviabilizar a execução do contrato nas datas aprazadas, o fiscal 
+técnico do contrato comunicará o fato imediatamente ao gestor do contrato.  
+5.7.5. O fiscal técnico do contrato comunicará ao gestor do contrato, em tempo hábil, o término do 
+contrato sob sua responsabilidade, com vistas à renovação tempestiva ou à prorrogação contratual. 
+Fiscalização Administrativa quando for o caso 
+5.8. O fiscal administrativo do contrato verificará a manutenção das condições de habilitação da 
+contratada, acompanhará o empenho, o pagamento, as garantias, as glosas e a formalização de 
+apostilamento e termos aditivos, solicitando quaisquer documentos comprobatórios pertinentes, caso 
+necessário. 
+5.8.1. Caso ocorra descumprimento das obrigações contratuais, o fiscal administrativo do contrato atuará 
+tempestivamente na solução do problema, reportando ao gestor do contrato para que tome as providências 
+cabíveis, quando ultrapassar a sua competência;  
+Gestor do Contrato 
+5.9. O gestor do contrato coordenará a atualização do processo de acompanhamento e fiscalização do 
+contrato contendo todos os registros formais da execução no histórico de gerenciamento do contrato, a 
+exemplo da ordem de serviço, do registro de ocorrências, das alterações e das prorrogações contratuais, 
+elaborando relatório com vistas à verificação da necessidade de adequações do contrato para fins de 
+atendimento da finalidade da administração.  
+5.10. O gestor do contrato acompanhará os registros realizados pelos fiscais do contrato, de todas as 
+ocorrências relacionadas à execução do contrato e as medidas adotadas, informando, se for o caso, à 
+autoridade superior àquelas que ultrapassarem a sua competência.  
+5.11. O gestor do contrato acompanhará a manutenção das condições de habilitação da contratada, para 
+fins de empenho de despesa e pagamento, e anotará os problemas que obstem o fluxo normal da 
+liquidação e do pagamento da despesa no relatório de riscos eventuais.  
+=== página 40
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+5.12. O gestor do contrato emitirá documento comprobatório da avaliação realizada pelos fiscais técnico, 
+administrativo e setorial quanto ao cumprimento de obrigações assumidas pelo contratado, com menção 
+ao seu desempenho na execução contratual, baseado nos indicadores objetivamente definidos e aferidos, e 
+a eventuais penalidades aplicadas, devendo constar do cadastro de atesto de cumprimento de obrigações.  
+5.13. O gestor do contrato tomará providências para a formalização de processo administrativo de 
+responsabilização para fins de aplicação de sanções, a ser conduzido pela comissão de que trata o art. 158 
+da Lei nº 14.133, de 2021, ou pelo agente ou pelo setor com competência para tal, conforme o caso.  
+5.14. O gestor do contrato deverá elaborar relatório final com informações sobre a consecução dos 
+objetivos que tenham justificado a contratação e eventuais condutas a serem adotadas para o 
+aprimoramento das atividades da Administração.   
+5.15. O gestor do contrato deverá enviar a documentação pertinente ao setor de contratos para a 
+formalização dos procedimentos de liquidação e pagamento, no valor dimensionado pela fiscalização e 
+gestão nos termos do contrato. 
+ 
+6.0. OBRIGAÇÕES DA CONTRATANTE. 
+6.1. São obrigações da contratante: 
+6.1.1. Receber o objeto no prazo e condições estabelecidas no contrato; 
+6.1.2.  Verificar minuciosamente, no prazo fixado, a conformidade dos bens recebidos provisoriamente 
+com as especificações constantes do contrato e da proposta, para fins de aceitação e recebimento 
+definitivo; 
+6.1.3. Comunicar à Contratada, por escrito, sobre imperfeiçoes, falhas ou irregularidades verificadas no 
+objeto fornecido, para que seja substituído, reparado ou corrigido; 
+6.1.4. Acompanhar e fiscalizar o cumprimento das obrigações da Contratada, através de 
+comissão/servidor especialmente designado; 
+6.1.5. Efetuar o pagamento à Contratada no valor correspondente ao fornecimento do objeto, no prazo e 
+forma estabelecidos no Edital e seus anexos;  
+6.1.6. A Administração não responderá por quaisquer compromissos assumidos pela Contratada com 
+terceiros, ainda que vinculados à execução do presente Termo de Contrato, bem como por qualquer dano 
+causado a terceiros em decorrências de ato da Contratada, de seus empregados, prepostos ou 
+subordinados. 
+ 
+7.0. OBRIGAÇÕES DA CONTRATADA. 
+7.1. A Contratada deve cumprir todas as obrigações constantes deste Termo de Referência e sua proposta, 
+assumindo como exclusivamente seus os riscos e as despesas decorrentes da boa e perfeita execução do 
+objeto e, ainda: 
+7.1.1. Executar devidamente os serviços/fornecimentos descritos na Cláusula correspondente do presente 
+contrato, dentro dos melhores parâmetros de qualidade estabelecidos para o ramo de atividade relacionada 
+ao objeto contratual, com observância aos prazos estipulados. 
+7.1.2. Efetuar a entrega do objeto em perfeitas condições, conforme especificações, prazo e local  
+constantes  no  Termo  de  Referência  e  sua  proposta,  acompanhado  da  respectiva  nota fiscal, na qual 
+constarão as indicações referentes a marca. 
+7.1.3. Responsabilizar-se pelos vícios e danos decorrentes do objeto, de acordo com os artigos 12, 13 e 17 
+a 27, do Código de Defesa do Consumidor (Lei no 8.078, de 1990); 
+7.1.4. Substituir,  reparar  ou  corrigir,  às  suas  expensas,  no  prazo  fixado  neste  Termo  de Referência, 
+o objeto com avarias ou defeitos; 
+7.1.5. Comunicar à Contratante, no prazo máximo de 24 (vinte e quatro) horas que antecede a data da 
+entrega, os motivos que impossibilitem o cumprimento do prazo previsto, com a devida comprovação; 
+7.1.6. Manter, durante toda a execução do contrato, em compatibilidade com as obrigações assumidas, 
+todas as condições de habilitação e qualificação exigidas na licitação; 
+7.1.7. Indicar preposto para representá-la durante a execução do contrato. 
+=== página 41
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+7.1.8. Emitir Nota Fiscal correspondente à sede ou filial da empresa que apresentou a documentação na 
+fase de habilitação. 
+7.1.9. Executar todas as obrigações assumidas com observância a melhor t écnicas vigente, enquadrando-
+se, rigorosamente, dentro dos preceitos legais, normas e especificações técnicas correspondentes. 
+7.1.10. Se responsabilizar validade mínima do(s) produto(s) ofertado(s) é de 75% ou mais de sua vida útil 
+ou produto(s) com tempo remanescente de consumo superior a 365 dias, conforme orientação  do painel 
+de medicamentos e insumos farmacêuticos do Tribunal de Contas do Estado da Paraíba-TCE/PB. 
+ 
+8.0. DOS PRAZOS E LOCAL DE ENTREGA 
+8.1. O prazo do contrato será de 12 (doze) meses, contados da data da sua publicação, podendo ser 
+prorrogado nos termos dos arts. 105 e 107, da Lei 14.133/2021. 
+8.2. Nos casos de fornecimento, os contratos poderão ter prazo de até 5 (cinco) anos, podendo ser 
+prorrogados até o prazo máximo de 10 (dez) anos. 
+8.3. O objeto desta contratação será entregue no endereço  da Secretaria Municipal de Saúde , endereço 
+Rua Doze Irmãos, S/N – Bairro Antônio Bento, CEP: 58600 -000, ou em local ainda a ser determinado 
+pelo SETOR DEMANDANTE.  
+8.4. Os medicamentos/insumos devem ser entregues no prazo de até 05 (cinco) dias úteis  a contar da 
+realização do pedido/ordem de fornecimento, tendo -se em vista a administração não possuir local 
+adequado para armazenamento dos medicamentos/insumos em questão.  
+8.5. Para recebimento dos serviços/bens deverá ser observado o seguinte: 
+8.5.1. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório, 
+quando em desacordo com as especificações constantes no Termo de Referência e na proposta, devendo 
+ser substituídos no prazo de até 05 (cinco) dias úteis, a contar da notificação da contratada, às suas custas, 
+sem prejuízo da aplicação das penalidades. 
+8.5.2. O recebimento definitivo ocorrerá no prazo de até 05 (cinco) dias úteis, a contar do recebimento da 
+nota fiscal ou instrumento de cobrança equivalente pela Administração, após a verificação da qualidade e 
+quantidade do material e consequente aceitação mediante termo detalhado. 
+ 
+9.0. DA SUBCONTRATAÇÃO. 
+9.1. Não será admitida a subcontratação do objeto licitatório. 
+ 
+10.0. DO PAGAMENTO. 
+10.1. Para fins de pagamento, o valor será por unidade solicitado. 
+10.2. O fornecimento será realizado de acordo com a demanda da  Secretaria de Saúde, de forma 
+parcelada. 
+10.3. O pagamento será realizado mediante processo regular e em observância às normas e procedimentos 
+adotados pelo Contratante, da seguinte maneira: para ocorrer no prazo de trinta dias, contados do período 
+de liquidação do empenho. 
+10.4. A(s) Nota(s) Fiscal(is) emitida(s) deverá(ão) ser encaminhadas para o endereço eletrônico 
+setordecompras@santaluzia.pb.gov.br. 
+ 
+11.0. DO REAJUSTE. 
+11.1. Os preços contratados serão fixos e irreajustáveis, pelo período de 12 (doze) meses a partir da 
+data do orçamento estimado. 
+11.2. O valor do contrato será fixo e irreajustável, porém poderá ser corrigido anualmente mediante 
+requerimento da contratada, após o interregno mínimo de um ano, contado a partir da data limite do 
+=== página 42
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+orçamento estimado, pela variação do IGP-M (Índice Geral de Preços do Mercado), tomando -se por base 
+a data da apresentação da proposta. 
+11.3. A periodicidade do reajuste é anual, aplicado somente aos pagamentos de valores referentes a 
+eventos físicos realizados a partir do 1° (primeiro) dia imediatamente subsequente ao término do 12º 
+(décimo segundo) mês e, assim, sucessivamente, contado desde a data da apresentação da proposta e de 
+acordo com a vigência do contrato. 
+11.4. Após a aplicação do reajuste nos termos deste documento, o novo valor da parcela ou saldo 
+contratual terá vigência e passará a ser praticado, pelo próximo período de 01 (um) ano, sem reajuste 
+adicional e, assim, sucessivamente, durante a existência jurídica do contrato. 
+11.5. Ocorrendo o desequilíbrio econômico-financeiro do contrato, poderá ser restabelecida a relação que 
+as partes pactuaram inicialmente, nos termos do Art. 124, Inciso II, Alínea d, da Lei 14.133/2021, 
+mediante comprovação documental e requerimento expresso do Contratado. 
+11.6. O reequilíbrio econômico deverá ser precedido de pesquisa de preços prévia no mercado, banco de 
+dados, índices ou tabelas oficiais e/ou outros meios disponíveis que assegurem o levantamento adequado 
+das condições de mercado, envolvendo todos os elementos veículos para fins de guardar a justa 
+remuneração do objeto contratado e no embasamento da decisão de deferir ou rejeitar o pedido. 
+ 
+12.0. DA GARANTIA DE EXECUÇÃO. 
+12.1. A licitante deverá apresentar garantia contratual exigida no art. 96 da Lei Federal nº 14.133/2021, 
+equivalente a 5% (cinco por cento) do valor inicial do contrato. 
+12.2. Caberá ao contratado optar por uma das seguintes modalidades de garantia: 
+12.2.1. Caução em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural, mediante 
+registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil, e 
+avaliados por seus valores econômicos, conforme definido pelo Ministério da Economia; 
+12.2.2. Seguro-garantia; 
+12.2.3. Fiança bancária emitida por banco ou instituição financeira devidamente autorizada a operar no 
+País pelo Banco Central do Brasil. 
+12.3. O prazo de vigência da apólice será igual ou superior ao prazo estabelecido no contrato principal e 
+deverá acompanhar as modificações referentes à vigência deste mediante a emissão do respectivo endosso 
+pela seguradora. 
+12.4. O seguro -garantia continuará em vigor mesmo se o contratado não tiver pago o prêmio nas datas 
+convencionadas. 
+12.5. Quando o contratado optar pela modalidade seguro-garantia, terá o prazo de 1 (um) mês, contado da 
+data de homologação da licitação e anterior à assinatura do contrato, para a prestação da garantia. 
+12.6. A garantia prestada pelo contratado será liberada ou restituída após a fiel execução do contrato ou 
+após a sua extinção por culpa exclusiva da Administração e, quando em dinheiro, atualizada 
+monetariamente. 
+12.7. Quando a garantia for realizada através de seguro -garantia, a mesma deverá ser emitida por 
+instituição devidamente autorizada pela Superintendência de Seguros Privados -SUSEP e quando se tratar 
+de fiança bancária junto ao Banco Central do Brasil, conforme dispõe o Acórdão TCU n.º 498/2011 - 
+plenário. 
+ 
+13.0. DAS SANÇÕES ADMINISTRATIVAS. 
+13.1. O licitante ou o contratado será responsabilizado administrativamente pelas seguintes infrações: 
+I- dar causa à inexecução parcial do contrato; 
+II- dar causa à inexecução parcial do contrato que cause grave dano à Administração, ao funcionamento 
+dos serviços públicos ou ao interesse coletivo; 
+III- dar causa à inexecução total do contrato; 
+=== página 43
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+IV- deixar de entregar a documentação exigida para o certame; 
+V- não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado; VI - não 
+celebrar o contrato ou não entregar a documentação exigida para a contratação, quando convocado dentro 
+do prazo de validade de sua proposta; 
+VII- ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo justificado; 
+VIII- apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa 
+durante a licitação ou a execução do contrato; 
+IX- fraudar a licitação ou praticar ato fraudulento na execução do contrato;  
+X - comportar-se de modo inidôneo ou cometer fraude de qualquer natureza; XI - praticar atos ilícitos 
+com vistas a frustrar os objetivos da licitação; 
+XII - praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013. 
+13.2. Serão aplicadas ao responsável pelas infrações administrativas previstas nesta Lei as seguintes 
+sanções: 
+I - advertência;  
+II - multa; 
+III- impedimento de licitar e contratar; 
+IV- declaração de inidoneidade para licitar ou contratar. 
+12.2.1. Na aplicação das sanções serão considerados: 
+I - a natureza e a gravidade da infração cometida;  
+II - as peculiaridades do caso concreto; 
+III- as circunstâncias agravantes ou atenuantes; 
+IV- os danos que dela provierem para a Administração Pública; 
+V- a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos 
+órgãos de controle. 
+13.2.3. A sanção prevista no inciso I do item 1 3.2, será aplicada exclusivamente pela infração 
+administrativa prevista no inciso I do caput do art. 155 da Lei 14.133/2021, quando não se justificar a 
+imposição de penalidade mais grave. 
+ 13.2.4. A sanção prevista no inciso II do item 1 3.2, calculada na forma do contrato, será de 15% (quinze 
+por cento) do valor do contrato celebrado e será aplicada ao responsável por qualquer das infrações 
+administrativas previstas no art. 155 da Lei 14.133/2021. 
+13.2.5. A sanção prevista no inciso III do item 1 3.2 deste termo será aplicada ao responsável pelas 
+infrações administrativas previstas nos incisos II, III, IV, V, VI e VII do caput do art. 155 da Lei 
+14.133/2021, quando não se justificar a imposição de penalidade mais grave, e impedirá o responsável de 
+licitar ou contratar no âmbito da Administração Pública direta e indireta da Prefeitura Municipal de 
+SANTA LUZIA, pelo prazo de 3 (três) anos. 
+13.2.6. A sanção prevista no inciso IV do item 1 3.2. deste termo será aplicada ao responsável pelas 
+infrações administrativas previstas nos incisos VIII, IX, X, XI e XII do caput do art. 155 da Lei 
+14.133/2021, bem como pelas infrações administrativas previstas nos incisos II, III, IV, V, VI e VII do 
+caput do referido artigo que justifiquem a imposição de penalidade mais grave que a sanção referida no 
+item 13.2.6, e impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e 
+indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos. 
+13.2.7. A sanção estabelecida no inciso IV do item 1 3.2 deste termo será precedida de análise jurídica e 
+observará as seguintes regras: 
+I- quando aplicada por órgão do Poder Executivo, será de competência exclusiva do prefeito municipal. 
+=== página 44
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+13.2.8. As sanções previstas nos incisos I, III e IV do item 1 3.2. deste termo, poderão ser aplicadas 
+cumulativamente com a prevista no inciso II do mesmo item. 
+13.2.9. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento 
+eventualmente devido pela Administração ao contratado, além da perda desse valor, a diferença será 
+descontada da garantia prestada ou será cobrada judicialmente. 
+13.2.10. A aplicação das sanções previstas no item 1 3.2 não exclui, em hipótese alguma, a obrigação de 
+reparação integral do dano causado à Administração Pública. 
+13.2.11. Na aplicação da sanção prevista no inciso II do item 13.2. deste termo, será facultada a defesa do 
+interessado no prazo de 15 (quinze) dias úteis, contado da data de sua intimação. 
+13.2.12. A aplicação das sanções previstas nos incisos III e IV do item 1 3.2. requererá a instauração de 
+processo de responsabilização, a ser conduzido por comissão composta de 2 (dois) ou mais servidores, 
+que avaliará fatos e circunstâncias conhecidos e intimará o contratado para, no prazo de 15 (quinze) dias 
+úteis, contado da data de intimação, apresentar defesa escrita e especificar as provas que pretenda 
+produzir. 
+13.2.13. DA FRAUDE E DA CORRUPÇÃO - Os licitantes e o contratado devem observar e fazer 
+observar, por seus fornecedores e subcontratados, se admitida à subcontratação, o mais alto padrão de 
+ética durante todo o processo de licitação, de contratação e de execução do objeto contratual.  
+13.2.14. PARA OS PROPÓSITOS DESTA CLÁUSULA, DEFINEM-SE AS SEGUINTES PRÁTICAS:  
+a) PRÁTICA CORRUPTA: Oferecer, dar, receber ou solicitar, direta ou indiretamente, qualquer 
+vantagem com o objetivo de influenciar a ação de servidor público no processo de licitação ou na 
+execução do contrato;  
+b) PRÁTICA FRAUDULENTA: A falsificação ou omissão dos fatos, com o objetivo de influenciar o 
+processo de licitação ou de execução do contrato;  
+c) PRÁTICA CONCERTADA: Esquematizar ou estabelecer um acordo entre dois ou mais licitantes, com 
+ou sem o conhecimento de representantes ou prepostos do órgão licitador, visando estabelecer preços em 
+níveis artificiais e não-competitivos;  
+d) PRÁTICA COERCITIVA: Causar danos ou ameaçar causar dano, direta ou indiretamente, às pessoas 
+ou sua propriedade, visando influenciar sua participação em um processo licitatório ou afetar a execução 
+do contrato.  
+e) PRÁTICA OBSTRUTIVA: Destruir, falsificar, alterar ou ocultar provas em inspeções ou fazer 
+declarações falsas aos representantes do organismo financeiro multilateral, com o objetivo de impedir 
+materialmente a apuração de alegações de  prática prevista acima; atos cuja intenção seja impedir 
+materialmente o exercício do direito de o organismo financeiro multilateral promover inspeção. 
+ 
+14.0. ESTIMATIVA DE PREÇOS E PREÇOS REFERENCIAIS. 
+O preço estimado da contratação é conforme Orçamento Estimativo no valor total de R$ 4.952.438,00 
+(quatro milhões, novecentos e cinquenta e dois mil, quatrocentos e trinta e oito reais). Os preços unitários 
+estimados da contratação permanecem em sigilo, conforme art. 18, §1º, Inc. VI, da Lei nº 14.133/2021 e 
+somente será disponibilizado após o fim da fase de lances. Permanecendo acessível aos órgãos de 
+controle. 
+Os preços unitários serão sigilosos haja vista que traz maior economia e poder de negociação a 
+Administração, pois divulgar os preços unitários estimados desestimula os licitantes a baixarem seus 
+preços, pois já sabem qual o valor que a Administração pretende pagar. 
+ 
+15.0. FORMA E CRITÉRIO DE SELEÇÃO DO FORNECEDOR 
+15.1. O critério de seleção de fornecedor será obtido através do menor preço por item. 
+=== página 45
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+15.2. Para fins de habilitação, deverá o licitante comprovar os seguintes requisitos: 
+ 
+HABILITAÇÃO PESSOA JURÍDICA: 
+15.2.1. As participantes, em se tratando de Sociedades Comerciais, deverão apresentar devidamente 
+registrados no Órgão de Registro do Comércio local de sua sede os respectivos Contratos Sociais e todas 
+as suas alterações subsequentes ou o respectivo instrumento de Consolidação Contratual em vigor, com as 
+posteriores alterações, se houver; 
+15.2.2. As participantes, em se tratando de Sociedades Civis, deverão apresentar os seus respectivos Atos 
+Constitutivos e todas as alterações subsequentes em vigor, devidamente inscritos no Cartório de Registro 
+Civil, acompanhados de prova da diretoria em exercício; 
+15.2.3. As participantes, em se tratando de Sociedades por Ações, deverão apresentar as publicações nos 
+Diários Oficiais dos seus respectivos Estatutos Sociais em vigor, acompanhados dos documentos de 
+eleição de seus administradores. 
+15.2.4. No caso de empresário individual, inscrição no Registro Público de Empresas Mercantis; 
+15.2.5. Para as sociedades empresárias ou empresas individuais de responsabilidade limitada, ato 
+constitutivo, estatuto ou contrato social em vigor, devidamente registrado na Junta Comercial da 
+respectiva sede, acompanhado de documento comprobatório de seus administradores; 
+15.2.6. Os documentos acima deverão estar acompanhados de todas as alterações ou da consolidação 
+respectiva; 
+15.2.7. Cópia de Documento de Identidade e CPF ou outro equivalente dos sócios das empresas licitantes. 
+ 
+REGULARIDADE FISCAL E TRABALHISTA: 
+15.2.8. Cadastro Nacional da Pessoa Jurídica (CNPJ); 
+15.2.9. Inscrição no cadastro de contribuintes estadual e/ou municipal, se houver, relativo ao domicílio 
+ou sede do licitante, pertinente ao seu ramo de atividade e compatível com o objeto contratual 
+15.2.10. Prova de regularidade com a Fazenda Nacional, relativos aos Tributos federais, inclusive 
+contribuições previdenciárias, tanto no âmbito Federal quanto no âmbito da procuradoria da Fazenda 
+Nacional (Certidão Unificada, conforme portaria MF 358, de 05 de setembro de 2014, alterada pela 
+Portaria MF nº 443, de 17 de outubro de 2014), assegurada a regra para as microempresas e empresas de 
+pequeno porte, nos termos do art. 43 da Lei Complementar Nº 123, de 14 de dezembro de 2006; 
+15.2.11. Prova de regularidade com a Fazenda Estadual do domicílio ou sede da interessada, assegurada a 
+regra para as microempresas e empresas de pequeno porte, nos termos do art. 43 da Lei Complementar Nº 
+123, de 14 de dezembro de 2006; 
+15.2.12. Prova de regularidade com a Fazenda Municipal do domicílio ou sede da interessada, assegurada 
+a regra para as microempresas e empresas de pequeno porte, nos termos do art. 43 da Lei Complementar 
+Nº 123, de 14 de dezembro de 2006; 
+15.2.13. Prova de regularidade relativa ao Fundo de Garantia do Tempo de Serviço  – FGTS: Certidão de 
+Regularidade de Situação - CRF, emitida pela Caixa Econômica Federal; 
+15.2.14. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a 
+apresentação de certidão negativa, nos termos do Título VII -A da Consolidação das Leis do Trabalho, 
+aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943; 
+15.2.15. Caso o licitante seja considerado isento dos tributos estaduais relacionados ao objeto licitatório, 
+deverá comprovar tal condição mediante declaração da Fazenda Estadual do seu domicílio ou sede, ou 
+outra equivalente, na forma da lei; 
+=== página 46
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+15.2.16. Caso o licitante detentor do menor preço seja qualificado como microempresa ou empresa de 
+pequeno porte deverá apresentar toda a documentação exigida para efeito de comprovação de 
+regularidade fiscal, mesmo que esta apresente alguma restrição, sob pena de inabilitação. 
+ 
+QUALIFICAÇÃO ECONÔMICO-FINANCEIRA. 
+15.2.17. Certidão negativa de feitos sobre falência expedida pelo distribuidor da sede do licitante, datado 
+dos últimos 30 (trinta) dias, ou que esteja dentro do prazo de validade expresso na própria Certidão. 
+ 
+QUALIFICAÇÃO TÉCNICA 
+15.2.18. Atestado de Capacidade Técnica da Licitante, emitido por entidade da Administração Federal, 
+Estadual ou Municipal, direta ou indireta, e/ou empresa privada que comprove, de maneira satisfatória 
+aptidão para desempenho de atividade pertinente e compatível em características, quantidades e prazos 
+com o objeto da presente licitação. 
+ 
+16.0. DOS RECURSOS ORÇAMENTÁRIOS. 
+16.1. As despesas para atender a esta licitação estão programadas em dotação orçamentária própria, 
+prevista no orçamento e correrão por conta da seguinte dotação:  
+02.030 - SECRETARIA MUNICIPAL DE SAÚDE 
+10.301.2016.2018 - Manutenção das Atividades da Secretaria Municipal de Saúde 
+3390.30 - 1.500.1002 - Material de Consumo 
+3390.32 - 1.500.0000 - Material, Bem ou Serviço para Distribuição Gratuita 
+02.090 - FUNDO MUNICIPAL DE SAÚDE 
+10.301.1006.2061 - Manutenção dos Recursos do SUS 
+3390.30 - 1.600.0000 - Material de Consumo. 
+3390.32 - 1.600.0000 - Material, Bem ou Serviço para Distribuição Gratuita 
+10.301.1006.2067 - Manutenção da Farmácia Básica. 
+3390.30 - 1.500.1002 - Material de Consumo. 
+3390.30 - 1.600.0000 - Material de Consumo 
+3390.32 - 1.500.1002 - Material, Bem ou Serviço para Distribuição Gratuita 
+3390.32 - 1.600.0000 - Material, Bem ou Serviço para Distribuição Gratuita 
+10.302.1008.2069 - Manutenção dos Serviços de Atendimento Móvel as Urgências - SAMU 192 
+3390.30 - 1.600.0000 - Material de Consumo 
+10.302.1008.2071 - Manutenção das Atividades do Centro de Atendimento Médico Especializado - Policlínica 
+3390.30 - 1.500.1002 - Material de Consumo 
+3390.30 - 1.600.0000 - Material de Consumo 
+10.301.2016.2072 - Manutenção das atividades do Fundo Municipal de Saúde - Recursos Próprios 
+3390.30 - 1.500.1002 - Material de Consumo 
+3390.32 - 1.500.0000 - Material, Bem ou Serviço para Distribuição Gratuita 
+ 
+ 
+Francisco Moisés Alvino de Almeida 
+Secretário Municipal de Saúde 
+ 
+ 
+Antônio César de Lira Nóbrega 
+Secretário Municipal de Planejamento e Infraestrutura 
+ 
+ 
+=== página 47
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+ANEXO III – PROPOSTA DE PREÇOS (MODELO) 
+ 
+PREGÃO ELETRÔNICO Nº 00004/2025 
+ 
+SESSÃO PÚBLICA: ----/----/2025, ÀS ----H----MIN (----) HORAS. 
+LOCAL:  PREFEITURA MUNCIPAL DE _______________/UF 
+ 
+IDENTIFICAÇÃO DA PROPONENTE 
+NOME DE FANTASIA: 
+RAZÃO SOCIAL OU PESSOA FISICA 
+CNPJ OU CPF 
+INSC. EST.: SE HOUVER 
+OPTANTE PELO SIMPLES? SIM (    ) NÃO(    ) 
+ENDEREÇO: 
+BAIRRO: CIDADE: 
+CEP: E-MAIL: 
+TELEFONE: FAX: 
+CONTATO DA LICITANTE: TELEFONE: 
+BANCO DA LICITANTE:  CONTA BANCÁRIA DA LICITANTE: 
+Nº DA AGÊNCIA: 
+ITEN
+S DESCRIÇÃO MARC
+A QUANT. UNIDAD
+E 
+VALOR 
+UNITÁRIO R$ 
+VALOR 
+TOTAL R$ 
+       
+TOTAL POR EXTENSO:   
+A EMPRESA: ............................................ DECLARA QUE: 
+ESTÃO INCLUSAS NO VALOR COTADO TODAS AS DESPESAS COM MÃO DE OBRA E, BEM 
+COMO, TODOS OS TRIBUTOS E ENCARGOS FISCAIS, SOCIAIS, TRABALHISTAS, 
+PREVIDENCIÁRIOS E COMERCIAIS E, AINDA, OS GASTOS COM TRANSPORTE E 
+ACONDICIONAMENTO DOS PRODUTOS EM EMBALAGENS ADEQUADAS. 
+VALIDADE DA PROPOSTA: 60 (SESSENTA) DIAS. 
+PRAZO DE INICIO DE FORNECIMENTO/EXECUÇÃO DOS SERVIÇOS DE ACORDO COM O 
+ESTABELECIDO NO TERMO DE REFERENCIA (ANEXO I) DO EDITAL DESSE PROCESSO. 
+QUE NÃO POSSUI COMO SÓCIO, GERENTE E DIRETORES, SERVIDORES DA PREFEITURA 
+MUNICIPAL DE SANTA LUZIA/PB, E AINDA CÔNJUGE, COMPANHEIRO OU PARENTE ATÉ 
+TERCEIRO GRAU. 
+ 
+LOCAL E DATA 
+_____________________________________ 
+CARIMBO DA EMPRESA/ASSINATURA DO RESPONSÁVEL 
+ 
+OBS. SERÃO DESCLASSIFICADAS AS PROPOSTAS QUE APRESENTAREM COTAÇÕES 
+CONTENDO PREÇOS EXCESSIVOS, SIMBÓLICOS, DE VALOR ZERO OU INEXEQUÍVEIS, NA 
+FORMA DA LEGISLAÇÃO EM VIGOR, OU AINDA, QUE OFEREÇAM PREÇOS OU 
+VANTAGENS BASEADAS NAS OFERTAS DOS DEMAIS LICITANTES. 
+ 
+ 
+ 
+ 
+ 
+ 
+=== página 48
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+ANEXO IV – MINUTA DO CONTRATO ADMINISTRATIVO Nº ___/2025 
+PREGÃO ELETRÔNICO Nº 00004/2025 
+ 
+TERMO DE CONTRATO QUE ENTRE SI 
+CELEBRAM A PREFEITURA MUNICIPAL DE 
+SANTA LUZIA E ........., PARA FORNECIMENTO 
+CONFORME DISCRIMINADO NESTE 
+INSTRUMENTO NA FORMA ABAIXO: 
+ 
+Pelo presente instrumento particular, de um lado a PREFEITURA MUNICIPAL DE SANTA LUZIA, 
+ESTADO DA PARAÍBA, CNPJ nº 09.090.689/0001-67, com sede na Praça Estanislau de Medeiros, s/n, 
+Bairro Antônio Bento de Morais, nesta cidade de Santa Luzia - PB - CEP N° 58.600 -000, neste ato 
+representada pelo Prefeito Municipal,  Sr. Henry Maldiney de Lira Nóbrega, brasileiro, casado, 
+empresário, RG Nº 2.316.628 SSP/PB e CPF Nº 033.424.594 -09, residente e domiciliado na Rua José 
+Alves Dantas, S/N, Antônio Bento de Morais, Santa Luzia -PB, infra -assinados doravante designado 
+simplesmente CONTRATANTE, e do outro lado ......... - ......... - ......... - ......... - ..., CNPJ nº ........., neste 
+ato representado por .... residente e domiciliado na ...., ......... - ......... - ......... - ......... - ..., CPF nº ........., 
+Carteira de Identidade nº ...., doravante simplesmente CONTRATADO, decidiram as partes contratantes 
+assinar o presente contrato, o qual se regerá pelas cláusulas e condições seguintes: 
+ 
+CLÁUSULA PRIMEIRA - DOS FUNDAMENTOS DO CONTRATO: 
+1.1 - O presente contrato é decorrente do proce sso licitatório, na modalidade P regão Eletrônico nº 
+00004/2025, realizada com base na Lei nº 14.133/2021, artigo 37 da Constituição Federal. 
+ 
+CLÁUSULA SEGUNDA - DO OBJETO DO CONTRATO: 
+2.1. O objeto do presente Termo de Contrato é a contratação de empresa para fornecimento parcelado 
+de medicamentos diversos destinados a Assistência Farmacêutica Básica, Assistência Farmacêutica 
+Especializada e medicamentos que não fazem parte do RENAME para atendimento às necessidades 
+do município de Santa Luzia/PB , conforme especificações e quantitativos estabelecidos no Termo de 
+Referência, anexo do Edital. 
+2.2. Este Termo de Contrato vincula -se ao Edital do Pregão, identificado no preâmbulo e à proposta 
+vencedora, independentemente de transcrição. 
+ 
+2.3. Discriminação do objeto: 
+ 
+ITENS DESCRIÇÃO QUANT. UNID. VALOR 
+UNITÁRIO 
+VALOR 
+TOTAL 
+      
+VALOR TOTAL:   
+  
+CLÁUSULA TERCEIRA – DO PRAZO DE ENTREGA, DE EXECUÇÃO E VIGÊNCIA DO 
+CONTRATO 
+3.1. O prazo do contrato será de 12 (doze) meses , contados da data da sua publicação, podendo ser 
+prorrogado nos termos dos arts. 105 e 107, da Lei 14.133/2021. 
+3.2. Nos casos de fornecimento, os contratos poderão ter prazo de até 5 (cinco) anos, podendo ser 
+prorrogados até o prazo máximo de 10 (dez) anos. 
+3.3. O objeto desta contratação será entregue no endereço  da Secretaria Municipal de Saúde, endereço 
+Rua Doze Irmãos, S/N – Bairro Antônio Bento, CEP: 58600 -000, ou em local ainda a ser determinado 
+pelo SETOR DEMANDANTE. 
+=== página 49
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+3.4. Os medicamentos/insumos devem ser entregues no prazo de até 05 (cinco) dias úteis  a contar da 
+realização do  pedido/ordem de fornecimento, tendo -se em vista a administração não possuir local 
+adequado para armazenamento dos medicamentos/insumos em questão.  
+ 
+CLÁUSULA QUARTA – PREÇO. 
+4.1. O valor do presente Termo de Contrato é de R$ ............ (...............). 
+4.2. No valor acima estão incluídas todas as despesas ordinárias diretas e indiretas decorrentes da 
+execução contratual, inclusive tributos e/ou impostos, encargos sociais, trabalhistas, previdenciários, 
+fiscais e comerciais incidentes, taxa de administração, frete, seguro e outros necessários ao cumprimento 
+integral do objeto da contratação. 
+ 
+CLÁUSULA QUINTA – DOTAÇÃO ORÇAMENTÁRIA. 
+5.1. As despesas para atender a esta licitação estão programadas em dotação orçamentária própria, 
+prevista no orçamento e correrão por conta da seguinte dotação: Recursos: 
+02.030 - SECRETARIA MUNICIPAL DE SAÚDE 
+10.301.2016.2018 - Manutenção das Atividades da Secretaria Municipal de Saúde 
+3390.30 - 1.500.1002 - Material de Consumo 
+3390.32 - 1.500.0000 - Material, Bem ou Serviço para Distribuição Gratuita 
+02.090 - FUNDO MUNICIPAL DE SAÚDE 
+10.301.1006.2061 - Manutenção dos Recursos do SUS 
+3390.30 - 1.600.0000 - Material de Consumo. 
+3390.32 - 1.600.0000 - Material, Bem ou Serviço para Distribuição Gratuita 
+10.301.1006.2067 - Manutenção da Farmácia Básica. 
+3390.30 - 1.500.1002 - Material de Consumo. 
+3390.30 - 1.600.0000 - Material de Consumo 
+3390.32 - 1.500.1002 - Material, Bem ou Serviço para Distribuição Gratuita 
+3390.32 - 1.600.0000 - Material, Bem ou Serviço para Distribuição Gratuita 
+10.302.1008.2069 - Manutenção dos Serviços de Atendimento Móvel as Urgências - SAMU 192 
+3390.30 - 1.600.0000 - Material de Consumo 
+10.302.1008.2071 - Manutenção das Atividades do Centro de Atendimento Médico Especializado - 
+Policlínica 
+3390.30 - 1.500.1002 - Material de Consumo 
+3390.30 - 1.600.0000 - Material de Consumo 
+10.301.2016.2072 - Manutenção das atividades do Fundo Municipal de Saúde – Recursos Próprios 
+3390.30 - 1.500.1002 - Material de Consumo 
+3390.32 - 1.500.0000 - Material, Bem ou Serviço para Distribuição Gratuita 
+ 
+CLÁUSULA SEXTA – PAGAMENTO. 
+6.1. Para fins de pagamento, o valor será por unidade solicitado. 
+6.2. O fornecimento será realizado de acordo com a demanda da Secretaria Municipal de Saúde de forma 
+parcelada. 
+6.3. O pagamento será realizado mediante processo regular e em observância às normas e procedimentos 
+adotados pelo Contratante, da seguinte maneira: para ocorrer no prazo de trinta dias, contados do período 
+de liquidação do empenho. 
+6.4. A(s) Nota(s) Fiscal(is) emitida(s) deverá(ão) ser encaminhadas para o endereço eletrônico 
+setordecompras@santaluzia.pb.gov.br. 
+ 
+CLÁUSULA SÉTIMA – REAJUSTE. 
+7.1. Os preços contratados serão fixos e irreajustáveis, pelo período de 12 (doze) meses a partir da data do 
+orçamento estimado. 
+=== página 50
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+7.2. O valor do contrato será fixo e irreajustável, porém poderá ser corrigido anualmente mediante 
+requerimento da contratada, após o interregno mínimo de um ano, contado a partir da data limite do 
+orçamento estimado, pela variação do IGP-M (Índice Geral de Preços do Mercado), tomando -se por base 
+a data da apresentação da proposta. 
+7.3. A periodicidade do reajuste é anual, aplicado somente aos pagamentos de valores referentes a eventos 
+físicos realizados a partir do 1° (primeiro) dia imediatamente subsequente ao término do 12º (décimo 
+segundo) mês e, assim, sucessivamente, contado desde a data da apresentação da proposta e de acordo 
+com a vigência do contrato. 
+7.4. Após a aplicação do reajuste nos termos deste documento, o novo valor da parcela ou saldo 
+contratual terá vigência e passará a ser praticado, pelo próximo período de 01 (um) ano, sem reajuste 
+adicional e, assim, sucessivamente, durante a existência jurídica do contrato. 
+7.5. Ocorrendo o desequilíbrio econômico -financeiro do contrato, poderá ser restabelecida a relação que 
+as partes pactuaram inicialmente, nos termos do Art. 124, Inciso II, Alínea d, da Lei 14.133/2021, 
+mediante comprovação documental e requerimento expresso do Contratado. 
+7.6. O reequilíbrio econômico deverá ser precedido de pesquisa de preços prévia no mercado, banco de 
+dados, índices ou tabelas oficiais e/ou outros meios disponíveis que assegurem o levantamento adequado 
+das condições de mercado, envolvendo todos os elementos veículos para fins de guardar a justa 
+remuneração do objeto contratado e no embasamento da decisão de deferir ou rejeitar o pedido. 
+ 
+CLÁUSULA OITAVA – GARANTIA DE EXECUÇÃO. 
+8.1. A licitante deverá apresentar garantia contratual exigida no art. 96 da Lei Federal nº 14.133/2021, 
+equivalente a 5% (cinco por cento) do valor inicial do contrato. 
+8.2. Caberá ao contratado optar por uma das seguintes modalidades de garantia: 
+8.2.1. Caução em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural, mediante 
+registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil, e 
+avaliados por seus valores econômicos, conforme definido pelo Ministério da Economia; 
+8.2.2. Seguro-garantia; 
+8.2.3. Fiança bancária emitida por banco ou instituição financeira devidamente autorizada a operar no 
+País pelo Banco Central do Brasil. 
+8.3. O prazo de vigência da apólice será igual ou superior ao prazo estabelecido no contrato principal e 
+deverá acompanhar as modificações referentes à vigência deste mediante a emissão do respectivo endosso 
+pela seguradora. 
+8.4. O seguro -garantia continuará em vigor mesmo se o contratado não tiver pago o prêmio nas datas 
+convencionadas. 
+8.5. Quando o contratado optar pela modalidade seguro -garantia, terá o prazo de 1 (um) mês, contado da 
+data de homologação da licitação e anterior à assinatura do contrato, para a prestação da garantia. 
+8.6. A garantia prestada pelo contratado será liberada ou restituída após a fiel execução do contrato ou 
+após a sua extinção por culpa exclusiva da Administração e, quando em dinheiro, atualizada 
+monetariamente. 
+8.7. Quando a garantia for realizada através de seguro -garantia, a mesma deverá ser emitida por 
+instituição devidamente autorizada pela Superintendência de Seguros Privados -SUSEP e quando se tratar 
+de fiança bancária junto ao Banco Central do Brasil, conforme dispõe o Acórdão TCU n.º 498/2011 - 
+plenário. 
+ 
+CLÁUSULA NONA – DA EXECUÇÃO E GESTÃO CONTRATUAL. 
+9.1. Os modelos de gestão e de execução do objeto constam no Termo de Referência, vinculado a este 
+Contrato. 
+ 
+CLÁUSULA DÉCIMA – OBRIGAÇÕES DA CONTRATANTE  
+10.1. São obrigações da Contratante: 
+10.1.1. Receber o objeto no prazo e condições estabelecidas no contrato; 
+=== página 51
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+10.1.2. Verificar minuciosamente, no prazo fixado, a confo rmidade dos bens recebidos provisoriamente 
+com as especificações constantes do contrato e da proposta, para fins de aceitação e recebimento 
+definitivo; 
+10.1.3. Comunicar à Contratada, por escrito, sobre imperfeiçoes, falhas ou irregularidades verificadas no 
+objeto fornecido, para que seja substituído, reparado ou corrigido; 
+10.1.4. Acompanhar e fiscalizar o cumprimento das obrigações da Contratada, através de 
+comissão/servidor especialmente designado; 
+10.1.5. Efetuar o pagamento à contratada no valor correspondente ao fornecimento do objeto, no prazo e 
+forma estabelecidos no Edital e seus anexos;  
+10.1.6. A Administração não responderá por quaisquer compromissos assumidos pela Contratada com 
+terceiros, ainda que vinculados à execução do presente Termo de Contrato, bem como por qualquer dano 
+causado a terceiros em decorrência de ato da Contratada, de seus empregados, prepostos ou subordinados. 
+ 
+CLÁUSULA DÉCIMA PRIMEIRA – OBRIGAÇÕES DA CONTRATADA. 
+11. São obrigações da Contratada: 
+11.1. A Contratada deve cum prir todas as obrigações constantes deste Termo de Referência e sua 
+proposta, assumindo como exclusivamente seus os riscos e as despesas decorrentes da boa e perfeita 
+execução do objeto e, ainda: 
+11.1.1. Executar devidamente os serviços /fornecimentos descritos na Cláusula correspondente do 
+presente contrato, dentro dos melhores parâmetros de qualidade estabelecidos para o ramo de atividade 
+relacionada ao objeto contratual, com observância aos prazos estipulados. 
+11.1.2. Efetuar a entrega do objeto em perfeitas condições, conforme especificações, prazo e local  
+constantes  no  Termo  de  Referência  e  sua  proposta,  acompanhado  da  respectiva  nota fiscal, na qual 
+constarão as indicações referentes a marca. 
+11.1.3. Responsabilizar-se pelos vícios e danos decorrentes do objeto, de acordo com os artigos 12, 13 e 
+17 a 27, do Código de Defesa do Consumidor (Lei no 8.078, de 1990); 
+11.1.4. Substituir, reparar ou  corrigir,  às  suas  expensas,  no  prazo  fixado  neste  Termo  de 
+Referencia, o objeto com avarias ou defeitos; 
+11.1.5. Comunicar à Contratante, no prazo máximo de 24 (vinte e quatro) horas que antecede a data da 
+entrega, os motivos que impossibilitem o cumprimento do prazo previsto, com a devida comprovação; 
+11.1.6. Manter, durante toda a execução do contrato, em compatibilidade com as obrigações assumidas, 
+todas as condições de habilitação e qualificação exigidas na licitação; 
+11.1.7. Indicar preposto para representá-la durante a execução do contrato. 
+11.1.8. Emitir Nota Fiscal correspondente à sede ou filial da empresa que apresentou a documentação na 
+fase de habilitação. 
+11.1.9. Executar todas as obrigações assumidas com observância a melhor t écnicas vigente, 
+enquadrando-se, rigorosamente, dentro dos preceitos legais, normas e especificações t écnicas 
+correspondentes. 
+11.1.10. Se responsabilizar validade mínima do(s) produto(s) ofertado(s) é de 75% ou mais de sua vid a 
+útil ou produto(s) com tempo remanescente de consumo superior a 365 dias, conforme orientação do 
+painel de medicamentos e insumos farmacêuticos do Tribunal de Contas do Estado da Paraíba-TCE/PB. 
+ 
+CLÁUSULA DÉCIMA SEGUNDA – RESCISÃO. 
+12.1. O PRESENTE TERMO DE CONTRATO PODERÁ SER RESCINDIDO: 
+12.1.1. Por ato unilateral e escrito da Administração, nas situações previstas nos incisos I a XII e XVII do 
+art. 78 da Lei nº 8.666, de 1993, e com as consequências indicadas no art. 80 da mesma Lei, sem prejuízo 
+da aplicação das sanções previstas no Termo de Referência, anexo ao Edital;  
+12.1.2. Amigavelmente, nos termos do art. 79, inciso II, da Lei nº 8.666, de 1993. 
+12.2. Os casos de rescisão contratual serão formalmente motivados, assegurando -se à CONTRATADA o 
+direito à prévia e ampla defesa. 
+=== página 52
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+12.3. A CONTRATADA reconhece os direitos da CONTRATANTE em caso de rescisão administrativa 
+prevista no art. 77 da Lei nº 8.666, de 1993. 
+12.4. O TERMO DE RESCISÃO SERÁ PRECEDIDO DE RELATÓRIO INDICATIVO DOS 
+SEGUINTES ASPECTOS, CONFORME O CASO: 
+12.4.1. Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos; 
+12.4.2. Relação dos pagamentos já efetuados e ainda devidos; 
+1.4.3. Indenizações e multas. 
+ 
+CLÁUSULA DÉCIMA TERCEIRA – SANÇÕES ADMINISTRATIVAS. 
+13.1. O licitante ou o contratado será responsabilizado administrativamente pelas seguintes infrações: 
+I- dar causa à inexecução parcial do contrato; 
+II- dar causa à inexecução parcial do contrato que cause grave dano à Administração, ao funcionamento 
+dos serviços públicos ou ao interesse coletivo; 
+III- dar causa à inexecução total do contrato; 
+IV- deixar de entregar a documentação exigida para o certame; 
+V- não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado; VI - não 
+celebrar o contrato ou não entregar a documentação exigida para a contratação, quando convocado dentro 
+do prazo de validade de sua proposta; 
+VII- ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo justificado; 
+VIII- apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa 
+durante a licitação ou a execução do contrato; 
+IX- fraudar a licitação ou praticar ato fraudulento na execução do contrato;  
+X - comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;  
+XI - praticar atos ilícitos com vistas a frustrar os objetivos da licitação; 
+XII - praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013. 
+13.2. Serão aplicadas ao responsável pelas infrações administrativas previstas nesta Lei as seguintes 
+sanções: 
+I - advertência;  
+II - multa; 
+III- impedimento de licitar e contratar; 
+IV- declaração de inidoneidade para licitar ou contratar. 
+13.2.1. Na aplicação das sanções serão considerados: 
+I - a natureza e a gravidade da infração cometida;  
+II - as peculiaridades do caso concreto; 
+III- as circunstâncias agravantes ou atenuantes; 
+IV- os danos que dela provierem para a Administração Pública; 
+V- a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos 
+órgãos de controle. 
+13.2.3. A sanção prevista no inciso I do item 1 3.2, será aplicada exclusivamente pela infração 
+administrativa prevista no inciso I do caput do art. 155 da Lei 14.133/2021, quando não se justificar a 
+imposição de penalidade mais grave. 
+13.2.4. A sanção prevista no inciso II do item 1 3.2, calculada na forma do contrato, será de 15% (quinze 
+por cento) do valor do contrato celebrado e será aplicada ao responsável por qualquer das infrações 
+administrativas previstas no art. 155 da Lei 14.133/2021. 
+13.2.5. A sanção prevista no inciso III do item 1 3.2 deste termo será aplicada ao responsável pelas 
+infrações administrativas previstas nos incisos II, III, IV, V, VI e VII do caput do art. 155 da Lei 
+14.133/2021, quando não se justificar a imposição de penalidade mais grave, e impedirá o responsável de 
+licitar ou contratar no âmbito da Administração Pública direta e indireta da Prefeitura Municipal de Santa 
+Luzia, pelo prazo de 3 (três) anos. 
+13.2.6. A sanção prevista no inciso IV do item 1 3.2. deste termo será aplicada ao responsável pelas 
+infrações administrativas previstas nos incisos VIII, IX, X, XI e XII do caput do art. 155 da Lei 
+=== página 53
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+14.133/2021, bem como pelas infrações administrativas previstas nos incisos II, III, IV, V, VI e VII do 
+caput do referido artigo que justifiquem a imposição de penalidade mais grave que a sanção referida no 
+item 13.2.6, e impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e 
+indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos. 
+13.2.7. A sanção estabelecida no inciso IV do item 1 3.2 deste termo será precedida de análise jurídica e 
+observará as seguintes regras: 
+I- quando aplicada por órgão do Poder Executivo, será de competência exclusiva do prefeito municipal. 
+13.2.8. As sanções previstas nos incisos I, III e IV do item 1 3.2. deste termo, poderão ser aplicadas 
+cumulativamente com a prevista no inciso II do mesmo item. 
+13.2.9. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento 
+eventualmente devido pela Administração ao contratado, além da perda desse valor, a diferença será 
+descontada da garantia prestada ou será cobrada judicialmente. 
+13.2.10. A aplicação das sanções previstas no item 1 3.2 não exclui, em hipótese alguma, a obrigação de 
+reparação integral do dano causado à Administração Pública. 
+13.2.11. Na aplicação da sanção prevista no inciso II do item 13.2. deste termo, será facultada a defesa do 
+interessado no prazo de 15 (quinze) dias úteis, contado da data de sua intimação. 
+13.2.12. A aplicação das sanções previstas nos incisos III e IV do item 1 3.2. requererá a instauração de 
+processo de responsabilização, a ser conduzido por comissão composta de 2 (dois) ou mais servidores, 
+que avaliará fatos e circunstâncias conhecidos e intimará o contratado para, no prazo de 15 (quinze) dias 
+úteis, contado da data de intimação, apresentar defesa escrita e especificar as provas que pretenda 
+produzir. 
+13.2.13. DA FRAUDE E DA CORRUPÇÃO - Os licitantes e o contratado devem observar e fazer 
+observar, por seus fornecedores e subcontratados, se admitida à subcontratação, o mais alto padrão de 
+ética durante todo o processo de licitação, de contratação e de execução do objeto contratual.  
+13.2.14. PARA OS PROPÓSITOS DESTA CLÁUSULA, DEFINEM-SE AS SEGUINTES PRÁTICAS:  
+a) PRÁTICA CORRUPTA: Oferecer, dar, receber ou solicitar, direta ou indiretamente, qualquer 
+vantagem com o objetivo de influenciar a ação de servidor público no processo de licitação ou na 
+execução do contrato;  
+b) PRÁTICA FRAUDULENTA: A falsificação ou omissão dos fatos, com o objetivo de influenciar o 
+processo de licitação ou de execução do contrato;  
+c) PRÁTICA CONCERTADA: Esquematizar ou estabelecer um acordo entre dois ou mais licitantes, com 
+ou sem o conhecimento de representantes ou prepostos do órgão licitador, visando estabelecer preços em 
+níveis artificiais e não-competitivos;  
+d) PRÁTICA COERCITIVA: Causar danos ou ameaçar causar dano, direta ou indiretamente, às pessoas 
+ou sua propriedade, visando influenciar sua participação em um processo licitatório ou afetar a execução 
+do contrato.  
+e) PRÁTICA OBSTRUTIVA: Destruir, falsificar, alterar ou ocultar provas em inspeções ou fazer 
+declarações falsas aos representantes do organismo financeiro multilateral, com o objetivo de impedir 
+materialmente a apuração de alegações de prática prevista acima; atos cuja intenção seja impedir 
+materialmente o exercício do direito de o organismo financeiro multilateral promover inspeção. 
+ 
+CLÁUSULA DÉCIMA QUARTA – DA EXTINÇÃO DO CONTRATO  
+14.1.Constituirão motivos para extinção do contrato, a qual deverá ser formalmente motivada nos autos 
+do processo, assegurados o contraditório e a ampla defesa, as seguintes situações:  
+I - não cumprimento ou cumprimento irregular de cláusulas contratuais, de especificações, de projetos ou 
+de prazos; 
+II- desatendimento das determinações regulares emitidas pela autoridade designada para acompanhar e 
+fiscalizar sua execução ou por autoridade superior; 
+=== página 54
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+III- alteração social ou modificação da finalidade ou da estrutura da empresa que restrinja sua capacidade 
+de concluir o contrato; 
+IV- decretação de falência ou de insolvência civil, dissolução da sociedade ou falecimento do contratado; 
+V- caso fortuito ou força maior, regularmente comprovados, impeditivos da execução do contrato; 
+VI- razões de interesse público, justificadas pela autoridade máxima do órgão ou da entidade contratante; 
+14.2.O contratado terá direito à extinção do contrato nas seguintes hipóteses: 
+I- supressão, por parte da Administração, de serviços que acarrete modificação do valor inicial do 
+contrato além do limite permitido no art. 125 da Lei 14.133/2021; 
+II- suspensão de execução do contrato, por ordem escrita da Administração, por prazo superior a 3 (três) 
+meses; 
+III- repetidas suspensões que totalizem 90 (noventa) dias úteis, independentemente do pagamento 
+obrigatório de indenização pelas sucessivas e contratualmente imprevistas desmobilizações e 
+mobilizações e outras previstas; 
+IV- atraso superior a 2 (dois) meses, contado da emissão da nota fiscal, dos pagamentos ou de parcelas de 
+pagamentos devidos pela Administração por despesas de obras, serviços ou fornecimentos; 
+V- não liberação pela Administração, nos prazos contratuais, de área, local ou objeto, para execução de 
+obra, serviço ou fornecimento, e de fontes de materiais naturais especificadas no projeto, inclusive devido 
+a atraso ou descumprimento das obrigações atribuídas pelo contrato à Administração relacionadas a 
+desapropriação, a desocupação de áreas públicas ou a licenciamento ambiental. 
+§ 3º As hipóteses de extinção a que se referem os incisos II, III e IV do item 14.2 observarão as seguintes 
+disposições: 
+I- não serão admitidas em caso de calamidade pública, de grave perturbação da ordem interna ou de 
+guerra, bem como quando decorrerem de ato ou fato que o contratado tenha praticado, do qual tenha 
+participado ou para o qual tenha contribuído; 
+II- assegurarão ao contratado o direito de optar pela suspensão do cumprimento das obrigações assumidas 
+até a normalização  da situação, admitido o restabelecimento do equilíbrio econômico -financeiro do 
+contrato, na forma da alínea “d” do inciso II do caput do art. 124 da Lei 14.133/2021. 
+14.3.A extinção do contrato poderá ser: 
+I- determinada por ato unilateral e escrito da A dministração, exceto no caso de descumprimento 
+decorrente de sua própria conduta; 
+II- consensual, por acordo entre as partes, por conciliação, por mediação ou por comitê de resolução de 
+disputas, desde que haja interesse da Administração; 
+ III- determinada por decisão arbitral, em decorrência de cláusula compromissória ou compromisso 
+arbitral, ou por decisão judicial. 
+14.3.1. A extinção determinada por ato unilateral da Administração e a extinção consensual deverão ser 
+precedidas de autorização escrita e fundamentada da autoridade competente e reduzidas a termo no 
+respectivo processo. 
+14.3.2.Quando a extinção decorrer de culpa exclusiva da Administração, o contratado será ressarcido 
+pelos prejuízos regularmente comprovados que houver sofrido e terá direito a: 
+I- devolução da garantia; 
+II- pagamentos devidos pela execução do contrato até a data de extinção; III - pagamento do custo da 
+desmobilização. 
+14.4. A extinção determinada por ato unilateral da Administração poderá acarretar, sem prejuízo das 
+sanções previstas na Lei, as seguintes consequências: 
+I- assunção imediata do objeto do contrato, no estado e local em que se encontrar, por ato próprio da 
+Administração; 
+II- ocupação e utilização do local, das instalações, dos equipamentos, do material e do pessoal 
+empregados na execução do contrato e necessários à sua continuidade; 
+III- execução da garantia contratual para: 
+a) ressarcimento da Administração Pública por prejuízos decorrentes da não execução; 
+b) pagamento de verbas trabalhistas, fundiárias e previdenciárias, quando cabível; 
+=== página 55
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+c) pagamento das multas devidas à Administração Pública; 
+d) exigência  da assunção da execução e da conclusão do objeto do contrato pela seguradora, quando 
+cabível; 
+IV- retenção dos créditos decorrentes do contrato até o limite dos prejuízos causados à Administração 
+Pública e das multas aplicadas. 
+14.4.1.A aplicação das medidas previstas nos incisos I e II deste item ficará a critério da Administração, 
+que poderá dar continuidade à obra ou ao serviço por execução direta ou indireta. 
+14.4.2.Na hipótese do inciso II deste item, o ato deverá ser precedido de autorização expressa da 
+autoridade competente. 
+ 
+CLÁUSULA DÉCIMA QUINTA – ALTERAÇÕES. 
+15.1. Eventuais alterações no contrato devem ser realizadas através de termo aditivo nas hipóteses 
+previstas no art. 124 da Lei 14.133/2021 e serão regulados pelas mesmas condições do contrato resultante 
+da licitação, aplicando-se aos preços base da PMSL, um redutor, no mesmo percentual encontrado entre o 
+valor global da proposta vencedora e o preço base incluso neste edital. 
+15.2. A PMSL, como parte contratante, gestora e fiscalizadora deste contrato, também ficará responsável 
+pela abertura dos processos de aditivos e solicitações de acréscimos e supressões, se houver, do 
+instrumento contratual, inserindo todos os elementos técnicos e jurídicos exigidos por Lei e 
+encaminhando os autos do processo para a secretaria CONTRATANTE para análise, mediante 
+verificação da sua viabilidade técnica e jurídica, dos TERMOS ADITIVOS, sendo posteriormente, 
+conforme o caso, assinado por ambas as contratantes, observado o disposto no art. 124 da Lei Federal nº 
+14.133/2021. 
+ 
+CLÁUSULA DÉCIMA SEXTA - DAS CONDIÇÕES DE SEGURANÇA DO TRABALHO 
+16.1 – Deverão ser observadas pela CONTRATADA, todas as condições de segurança e higiene, 
+medicina e meio ambiente do trabalho, necessárias a preservação da integridade física e saúde de seus 
+colaboradores, do patrimônio da PMSL e ao público afeto e dos materiais envolvidos no serviço, de 
+acordo com as normas regulamentadas pelo Ministério do Trabalho, bem como outros dispositivos legais 
+e normas específicas da /PMSL. 
+16.2 – A PMSL poderá a critério determinar a paralisação do serviço ou fornecimento, suspender 
+pagamentos quando julgar que as condições mínimas de segurança, saúde e higiene do trabalho não 
+estejam sendo observadas pela contratada. Este procedimento não servirá para justificar eventuais atrasos 
+da CONTRATADA, sem prejuízo de outras sanções cabíveis. 
+16.3 – A CONTRATADA se responsabilizará ainda por atrasos ou prejuízos decorrentes da suspensão 
+dos trabalhos quando não acatar a legislação básica vigente na época, no que se referir à Engenharia de 
+Segurança e Medicina do Trabalho. 
+ 
+CLÁUSULA DÉCIMA SÉTIMA – DA PARALISAÇÃO DOS SERVIÇOS/FORNECIMENTOS 
+17.1 – A PMSL, se reserva o direito de paralisar, a qualquer tempo, a execução dos serviços/fornecimento 
+dos bens, cientificando oficialmente à licitante contratada tal decisão. 
+17.1.1 – Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de 
+execução será prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias 
+mediantes simples apostila. 
+ 
+CLÁUSULA DÉCIMA OITAVA – DO RECEBIMENTO DOS BENS 
+18.1– Para recebimento dos serviços/bens deverá ser observado o seguinte: 
+18.1.1. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório, 
+quando em desacordo com as especificações constantes no Termo de Referência e na proposta, devendo 
+ser substituídos no prazo de até 05 (cinco) dias úteis, a contar da notificação da contratada, às suas custas, 
+sem prejuízo da aplicação das penalidades. 
+=== página 56
+ 
+ 
+ 
+ 
+ESTADO DA PARAÍBA 
+PREFEITURA MUNICIPAL DE SANTA LUZIA 
+ 
+ 
+ 
+18.1.2. O recebimento definitivo ocorrerá no prazo de até 05 (cinco) dias úteis, a contar do recebimento 
+da nota fiscal ou instrumento de cobrança equivalente pela Administração, após a verificação da 
+qualidade e quantidade do material e consequente aceitação mediante termo detalhado. 
+ 
+CLÁUSULA DÉCIMA NONA - OBRIGAÇÕES PERTINENTES À LGPD 
+19.1. As partes deverão cumprir a Lei nº 13.709, de 14 de agosto de 2018 (LGPD), quanto a todos os 
+dados pessoais a que tenham acesso em razão do certame ou do contrato administrativo que 
+eventualmente venha a ser firmado, a partir da apresentação da proposta no procedimento de contratação, 
+independentemente de declaração ou de aceitação expressa.  
+19.2. Os dados obtidos somente poderão ser utilizados para as finalidades que justificaram seu acesso e 
+de acordo com a boa-fé e com os princípios do art. 6º da LGPD.  
+19.3. É vedado o compartilhamento com terceiros dos dados obtidos fora das hipóteses permitidas em 
+Lei. 
+ 
+CLÁUSULA VIGÉSIMA – PUBLICAÇÃO 
+20.1 Incumbirá ao contratante divulgar o presente no respectivo sítio oficial na Internet, em atenção ao 
+art. 91, caput, da Lei n.º 14.133, de 2021. 
+ 
+CLÁUSULA VIGÉSIMA PRIMEIRA – FORO. 
+21.1. Fica eleito o FORO da cidade de Santa Luzia, com a expressa renúncia de qualquer outro, por mais 
+privilegiado que seja para dirimir as questões decorrentes da execução deste Contrato. E por estarem 
+assim justas e contratadas, as partes assinam o presente instrumento em 0 2 (duas) vias, de igual teor e 
+forma, na presença das testemunhas abaixo assinadas, para que se produzam seus jurídicos e legais 
+efeitos. 
+Santa Luzia - PB, ... de ............... de 2025. 
+  
+TESTEMUNHAS 
+  ____________________________________ 
+   
+  
+  _____________________________________ 
+PELO CONTRATANTE 
+   
+_______________________________ 
+Prefeito Constitucional 
+  
+PELO CONTRATADO 
+ 
+_______________________________ 
+ 

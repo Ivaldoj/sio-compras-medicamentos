@@ -1,0 +1,10 @@
+cenario,E1,E2,E3,E4,E2_menos_E1,menor_custo_viavel,altera_decisao,obs
+S0 base (modelo do agente),1812130.4056756757,4035749.8997767256,1711563.9556756755,1812130.4056756757,2223619.49410105,E1,False,reproduz os números do agente
+S1 pacote v2 (errata),1813119.1025490197,4035752.6669000695,1712552.6525490195,1813119.1025490197,2222633.5643510497,E1,False,scripts do agente rodados sobre data/decision_input_v2
+S2 teto a 20% nos produtos do Convênio 87/02,1847113.9566007,4193413.3466970143,1746547.5066006999,1847113.9566007,2346299.3900963143,E1,False,tetos do convênio × 1.250; E2 escalado pela mesma razão do teto máximo do item (aproximação)
+S3 sem insulinas humanas 196–199 (fornecimento centralizado do MS),1656301.605675676,3902057.1641467256,1555977.1556756757,1656301.605675676,2245755.5584710496,E1,False,limite superior do efeito: supõe que a cota federal cobre toda a necessidade
+S4 E1 aos preços homologados reais,3105249.6,4097557.3941010498,2974948.49,3105249.6,992307.7941010497,E1,False,E2 e E3 seguem o modelo do agente (assimetria: só E1 tem preço observado)
+S5 E1 à mediana nacional de 2025,1719818.3156756756,3999684.999776726,1653005.865675676,1719818.3156756756,2279866.6841010507,E1,False,mediana 2025 disponível para 247 itens; demais com a referência do agente
+S6 itens sem referência externa pela estimativa limitada ao teto,2038898.73,4262518.22410105,1938332.2799999998,2038898.73,2223619.49410105,E1,False,"em vez da estimativa ÷ 2,04"
+S8 S2 + S3 + S4 combinados,1741497.6,4093779.6362653556,1613738.4899999998,1741497.6,2352282.0362653555,E1,False,"E1 a preços homologados, sem insulinas humanas, E2 com teto a 20% no convênio"
+S7 demanda = fração empenhada observada no PE 04/2025 (18.9%),342448.5729011094,762658.5754732287,323443.9597803501,1812130.4056756757,420210.00257211935,E1,False,"SRP paga d×C; regra do agente para E4 = compromisso C. Ex post, os contratos fixos reais foram executados em 18.9%, isto é, o compromisso não virou gasto"

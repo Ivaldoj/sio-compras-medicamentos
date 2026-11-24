@@ -1,0 +1,35 @@
+﻿empenhos por ano: {'2024': 12729, '2025': 14807, '2026': 12572} | última data: 31/08/2026
+elementos/subelementos usados: {('30', 'Material de Consumo', 'MATERIAL FARMACOLÓGICO'): 419, ('30', 'Material de Consumo', 'Material Farmacológico'): 251}
+elemento 32 com 'medicament' no histórico: empenhos=114, empenhado=1113999.46
+
+anual:
+       valor_empenhado  valor_liquidado  valor_pago  empenhos
+ano                                                         
+2024       1953288.72       1953288.72  1876052.11       248
+2025       1410230.18       1410230.18  1410230.18       251
+2026       1350148.81       1182944.02  1182944.02       285
+
+unidades gestoras: {('2024', 'Prefeitura Municipal de Santa Luzia'): 1953289.0, ('2025', 'Prefeitura Municipal de Santa Luzia'): 1410230.0, ('2026', 'Prefeitura Municipal de Santa Luzia'): 1350149.0}
+fontes: {'Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e Serviços Públicos de Saúde': 1826071.0, 'Recursos não vinculados de Impostos': 1813591.0, 'Recursos não Vinculados de Impostos': 1001294.0, 'Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Estadual': 72711.0}
+
+por licitação:
+                                          valor_empenhado  valor_liquidado  valor_pago  empenhos  credores
+ano  licitacao                                                                                           
+2024 000000000 | Sem Licitação                  73830.90         73830.90    51785.25         7         3
+     000012024 | Pregão (Lei 14.133/21)        656016.25        656016.25   600825.29       123         9
+     000032024 | Pregão (Lei 14.133/21)           210.00           210.00      210.00         1         1
+     000122024 | Pregão (Lei 14.133/21)       1223231.57       1223231.57  1223231.57       117         1
+2025 000000000 | Sem Licitação                  71474.82         71474.82    71474.82         4         1
+     000012024 | Pregão (Lei 14.133/21)          1408.00          1408.00     1408.00         1         1
+     000042025 | Pregão (Lei 14.133/21)        432320.63        432320.63   432320.63       145         7
+     000122024 | Pregão (Lei 14.133/21)        865727.11        865727.11   865727.11        88         1
+     000252025 | Pregão (Lei 14.133/21)         39299.62         39299.62    39299.62        13         8
+2026 000000000 | Sem Licitação                  53118.61         12172.60    12172.60         7         4
+     000032025 | Pregão (Lei 14.133/21)         29877.02         29877.02    29877.02         2         1
+     000042025 | Pregão (Lei 14.133/21)        143694.72        142771.22   142771.22        27         5
+     000092026 | Pregão (Lei 14.133/21)        329775.38        233497.24   233497.24       109        12
+     000122024 | Pregão (Lei 14.133/21)        625305.41        625305.41   625305.41        56         1
+     000252025 | Pregão (Lei 14.133/21)        151607.09        134770.13   134770.13        73         8
+     000252026 | Pregão (Lei 14.133/21)         16770.58          4550.40     4550.40        11         4
+
+credores PJ por ano: {'2024': 10, '2025': 14, '2026': 17} | credores não-PJ: 0 empenhos

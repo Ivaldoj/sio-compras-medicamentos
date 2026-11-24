@@ -1,0 +1,150 @@
+﻿10 maiores vl_preco_total:
+      sg_uf                                                                                       no_instituicao   dt_compra co_catmat                     no_pdm un_fornecimento  qt_medicamento_num  vl_preco_unitario_num  vl_preco_total_num
+34250    PR                                                                        SECRETARIA DE ESTADO DA SAUDE  01/12/2025    272815               PENICILAMINA         C�PSULA               77500              294400.00        2.281600e+10
+20536    SP                                                                        SECRETARIA DE ESTADO DA SAUDE  11/12/2025    305725                 OCTREOTIDA          AMPOLA               28060              520000.00        1.459120e+10
+41187    PR                                                                      MUNICIPIO DE FAZENDA RIO GRANDE  24/06/2026    271089                AMOXICILINA         C�PSULA              261600               51038.16        1.335158e+10
+36334    SP                                                                        SECRETARIA DE ESTADO DA SAUDE  08/01/2025    356051          �CIDO ZOLEDR�NICO           BOLSA               18657              199000.00        3.712743e+09
+45679    RS  CONSORCIO PUBLICO DA ASSOCIACAO DOS MUNICIPIOS DA REGIAO METROPOLITANA DE PORTO ALEGRE - CP GRANPAL  08/06/2026    271157                   INSULINA          FRASCO               63200               45715.00        2.889188e+09
+39817    SC                                               CONSORCIO INTERFEDERATIVO SANTA CATARINA - CINCATARINA  05/03/2026    267282  ESCOPOLAMINA BUTILBROMETO          AMPOLA              299196                7989.00        2.390277e+09
+47158    RS                                                CONSORCIO INTERMUNICIPAL DO VALE DO RIO CAI (CIS-CAI)  02/01/2026    270895        CARBONATO DE C�LCIO      COMPRIMIDO                 699             1149000.00        8.031510e+08
+48882    SP                                                                        SECRETARIA DE ESTADO DA SAUDE  05/01/2026    439252                NUSINERSENA          FRASCO                1002              344611.06        3.453003e+08
+18079    SP                                                                        SECRETARIA DE ESTADO DA SAUDE  21/05/2025    432908             DAPAGLIFLOZINA      COMPRIMIDO            90487070                   2.21        1.999764e+08
+18676    SP                                                                        SECRETARIA DE ESTADO DA SAUDE  05/06/2025    432908             DAPAGLIFLOZINA      COMPRIMIDO            90487070                   2.21        1.999764e+08
+
+participa��o dos 100 maiores no valor total: 88.5%
+mediana vl_preco_total: 4687.50
+
+UFs presentes: 23 ['AC', 'AL', 'BA', 'CE', 'ES', 'GO', 'MA', 'MG', 'MS', 'MT', 'PA', 'PB', 'PE', 'PI', 'PR', 'RJ', 'RN', 'RO', 'RS', 'SC', 'SE', 'SP', 'TO']
+
+Registros por UF:
+ sg_uf
+RS    8641
+RO    8228
+PR    7493
+SP    5397
+SE    4672
+PB    4205
+AL    2502
+PE    2010
+MG    1488
+BA    1290
+ES     999
+PA     938
+SC     904
+MS     903
+PI     847
+RJ     789
+CE     745
+GO     379
+TO     359
+MT     357
+AC     134
+MA      36
+RN      30
+
+Registros por mes_compra:
+ mes_compra
+2025-01    2956
+2025-02    3293
+2025-03    3306
+2025-04    3271
+2025-05    3395
+2025-06    3825
+2025-07    3454
+2025-08    3304
+2025-09    2548
+2025-10    3936
+2025-11    2028
+2025-12    2325
+2026-01    2351
+2026-02    1408
+2026-03    2548
+2026-04    1485
+2026-05    2595
+2026-06    1720
+2026-07    1713
+2026-08     595
+2026-09     934
+2026-10     313
+2026-11      43
+
+Institui��es por esfera: {'ESTADUAL': 20, 'MUNICIPAL': 242}
+
+CNPJ com >1 nome: 0 | nomes com >1 CNPJ: 3
+no_instituicao
+FUNDO MUNICIPAL DE SAUDE                       56
+SECRETARIA DA SAUDE                             2
+SECRETARIA DE ESTADO DA SAUDE                   2
+CONSORCIO INTERGESTORES PARANA SAUDE            1
+CONSORCIO INTERMUNICIPAL DA REGIAO NORDESTE     1
+
+PB por institui��o:
+                                                                                    n  catmat  meses        valor
+no_instituicao                                 no_municipio           ds_esfera                                 
+FUNDO MUNICIPAL DE SAUDE - SALGADINHO - PB     SALGADINHO             MUNICIPAL  880     214     16     163172.0
+FUNDO MUNICIPAL DE SAUDE DE ITAPORANGA         ITAPORANGA             MUNICIPAL  458     279      3    1693916.0
+SECRETARIA DE ESTADO DA SAUDE - SES            JOAO PESSOA            ESTADUAL   397     245     12  141405432.0
+FUNDO MUNICIPAL DE SAUDE DE SANTA LUZIA        SANTA LUZIA            MUNICIPAL  382     375      2    5014831.0
+FUNDO MUN.DE SAUDE DE SAO MAMEDE-PB            SAO MAMEDE             MUNICIPAL  375     375      2    2610438.0
+FUNDO MUNICIPAL DE SAUDE DE PEDRA BRANCA       PEDRA BRANCA           MUNICIPAL  372     355      1    2198830.0
+SSFUNDO MUNICIPAL DE SAUDE DE SERRARIA - PB    SERRARIA               MUNICIPAL  357     225      9     253088.0
+FUNDO MUNICIPAL DE SAUDE                       EMAS                   MUNICIPAL  253     184      1    2125026.0
+FUNDO MUNICIPAL DE SAUDE DE DIAMANTE           DIAMANTE               MUNICIPAL  139     135      1     345598.0
+FUNDO MUNICIPAL DE SAUDE                       JURIPIRANGA            MUNICIPAL  126     120      2    1040627.0
+FUNDO MUNICIPAL DE SAUDE DE SAO JOSE DE CAIANA SAO JOSE DE CAIANA     MUNICIPAL  126     117      3     614825.0
+FUNDO MUNICIPAL DE SAUDE - CONGO - PARAIBA     CONGO                  MUNICIPAL  116     116      1     191687.0
+FUNDO MUNICIPAL DE SAUDE                       OLHO D'AGUA            MUNICIPAL  103     103      1     663512.0
+FUNDO MUNICIPAL DE SAUDE DE DESTERRO           DESTERRO               MUNICIPAL   58      55      4     242734.0
+FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE PILAR PILAR                  MUNICIPAL   29      29      1     145893.0
+FUNDO MUNICIPAL DE SAUDE DE SAO JOSE DOS RAMOS SAO JOSE DOS RAMOS     MUNICIPAL   19      18      1      55303.0
+FUNDO MUNICIPAL DE SAUDE                       SAO JOSE DE ESPINHARAS MUNICIPAL    6       6      1       1561.0
+MUNICIPIO DE SOBRADO                           SOBRADO                MUNICIPAL    5       5      1      14731.0
+MUNICIPIO DE SERRA GRANDE                      SERRA GRANDE           MUNICIPAL    2       2      1       2525.0
+FUNDO MUNICIPAL DE SAUDE - FMS                 CAAPORA                MUNICIPAL    1       1      1      15000.0
+MUNICIPIO DE LAGOA DE DENTRO                   LAGOA DE DENTRO        MUNICIPAL    1       1      1       5600.0
+
+PB por m�s:
+ mes_compra
+2025-01     56
+2025-02     58
+2025-03    762
+2025-04    892
+2025-05    335
+2025-06    729
+2025-07    138
+2025-08    122
+2025-09    215
+2025-10    158
+2025-11    126
+2025-12     61
+2026-01    104
+2026-02     69
+2026-03     78
+2026-04      6
+2026-05     70
+2026-06      1
+2026-07    108
+2026-09     90
+2026-11     27
+
+PB % medicamentos (classe 6505): 97.1
+
+ds_observacao preenchido: 21619 | cont�m 'PNCP': 0
+nu_processo_compra preenchido %: 100.0 | nu_ata %: 96.7
+registro_anvisa preenchido %: 73.0
+
+exemplos CATMAT com >1 un_fornecimento:
+ co_catmat
+267161         [AMPOLA, FRASCO]
+267162         [AMPOLA, FRASCO]
+267283     [DR�GEA, COMPRIMIDO]
+267504    [C�PSULA, COMPRIMIDO]
+267515    [C�PSULA, COMPRIMIDO]
+
+CATMAT mais frequente: 268236 CLORETO DE S�DIO, PRINC�PIO ATIVO: 0,9%_ SOLU��O INJET�VEL, APLICA��O: SISTEMA F
+                 count    mean     std     min     25%    50%     75%    max
+un_fornecimento                                                             
+AMPOLA            15.0  0.7366  1.1202  0.1371  0.1825  0.210  0.2500   2.90
+BOLSA            111.0  4.9251  5.6025  0.3500  3.0900  3.890  5.1258  59.49
+FRASCO           176.0  4.7272  7.5815  0.1900  2.8875  3.555  4.5475  99.50
+JUDICIAL por UF (top5): {'PR': 742, 'SP': 727, 'RS': 644, 'PB': 399, 'RJ': 343}

@@ -1,0 +1,9 @@
+restricao,tipo,evidencia,data_disponibilidade,classe_temporal
+"Lei 14.133/2021 (modalidades, dispensa, registro de preços, garantias, contratos, sanções)",legal,E-01/E-02,2025-01-29,disponivel
+"Registro na Anvisa, salvo isenção legal",legal/sanitária,E-02 ETP III,2025-01-29,disponivel
+Validade mínima ≥ 75% da vida útil ou > 365 dias na entrega (orientação TCE-PB),regulatória,E-02 ETP III / TR,2025-01-29,disponivel
+A administração não possui local adequado para armazenamento de medicamentos,operacional,E-02 TR 8.4,2025-01-29,disponivel
+Entrega no endereço da Secretaria Municipal de Saúde,operacional,E-02 TR,2025-01-29,disponivel
+Teto CMED nas vendas ao governo: PMVG para produtos com CAP; PF nos demais (PMVG também em compras judiciais),regulatória,CMED lista 06/01/2025,2025-01-29,disponivel
+"Alíquota de ICMS do teto CMED para Santa Luzia/PB: 0% para isentos e para produtos do Convênio ICMS 87/02 (compra pública municipal); 20% nos demais (Lei 6.379/96, art. 11, I)",tributária,"CONFAZ Conv. ICMS 87/02; Lei PB 6.379/96 consolidada (SEFAZ-PB, 02/10/2023); cabeçalho da lista CMED",2025-01-29,disponivel
+Necessidade inclui itens fora da RENAME,escopo,E-02 objeto,2025-01-29,disponivel

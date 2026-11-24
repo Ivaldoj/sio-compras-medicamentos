@@ -1,0 +1,6 @@
+nivel,registros_bps_pb,correspondentes
+N1 órgão (CNPJ),4205,530
+N2 CNPJ+CATMAT,4205,48
+N3 +fornecedor+preço,4205,7
+N3b município+CATMAT+fornecedor+preço,4205,39
+N4 +processo,4205,5
