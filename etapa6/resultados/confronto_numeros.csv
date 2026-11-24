@@ -1,0 +1,26 @@
+tema,indicador,preparacao_pre_etapa5,avaliacao_independente_etapa5,situacao,observacao
+Cálculos,verificações que conferem,20/20,59/59,convergem,listas diferentes de verificações; nenhuma falhou em nenhuma das duas
+Cálculos,reprodução dos scripts do agente (v1),13 saídas numéricas idênticas byte a byte,9 CSVs idênticos byte a byte,convergem,ambientes diferentes (Python 3.13 × 3.10)
+Preço,homologado total (R$),3105249.6,3105249.6,idênticos,
+Preço,"razão mediana homologado/referência, todos os itens",0.97,0.97,idênticos,
+Preço,itens homologados acima da faixa do agente,60,60,idênticos,
+Preço,itens com mediana nacional posterior,247,245,compatíveis,preparação: ano civil de 2025; independente: 30/01/2025 a 29/01/2026 e mínimo de 5 registros
+Preço,referência do agente ÷ mediana nacional posterior,1.107,1.107,convergem,as duas indicam referência ~10% acima do mercado posterior
+Preço,homologado ÷ mediana nacional posterior,1.015,1.016,convergem,
+Teto,itens homologados acima do teto (pacote),15,15,idênticos,
+Teto,excesso sobre o teto (R$),1261858.61,1261858.61,idênticos,
+Teto,"idem, com as análogas 194/195",17 itens; 1280391.61,17 itens; 1280391.61,idênticos,obtidos por caminhos independentes
+Execução,pago no PE 04/2025 (R$),585893.1499999999,585893.1499999999,idênticos,
+Execução,fração empenhada do contratado,0.189,0.189,idênticos,
+Sensibilidade,cenários que alteram a recomendação,0 de 9,2 de 17,compatíveis,os 2 que alteram na independente cruzam o pior caso do E1 com o melhor do E2; a preparação não testou cruzamentos
+Sensibilidade,E1 com teto a 20% no Convênio 87/02 (R$),1847114.0,1847101.0,convergem,"preparação: fator estimado de 1,25; independente: coluna de 20% lida da lista bruta"
+Sensibilidade,E1 à mediana nacional posterior (R$),1719818.0,1765928.0,compatíveis,janelas e regra de preenchimento diferentes
+Economia,potencial E2 − E1 (R$),2223620.0,2223619.0,idênticos,
+Economia,contratada R0 − homologado (R$),1847188.0,1847188.0,idênticos,
+Economia,"realizada estimada frente a R0, mix proporcional (R$)",552404.0,552404.0,idênticos,
+Falhas do pacote,F1 (194/195) e F2 (197),confirmadas,confirmadas,convergem,
+Falhas do pacote,F3 (item 268),não confirmada,não confirmada,convergem,
+Falhas do pacote,F4 (coluna de 20% no Convênio 87/02),fato da fonte: 0 de 2.810 na lista bruta,a fonte publica: 2810 de 2810 células como texto com asterisco,DIVERGEM — resolvida a favor da avaliação independente,ver divergencia_cmed_icms_celulas.csv
+Insulinas,unidade contratada das canetas,caneta (7 documentos),"caneta (ETP, TR, contrato, aditivo)",convergem,
+Insulinas,"contratado ÷ teto, canetas 196 e 199","9,58 e 9,32","9,58 e 9,32",idênticos,
+Insulinas,"preço de R$ 29,00 no PE 09/2026 como preço de caneta",não usado: o vencedor ofertou refil sem caneta,usado como preço da 'mesma caneta' e como confirmação do risco de deserto,DIVERGEM — resolvida a favor da preparação,ver divergencia_insulinas_2026.csv; três afirmações da Etapa 5 ficam retiradas
