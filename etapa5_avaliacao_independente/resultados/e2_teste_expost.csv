@@ -1,0 +1,15 @@
+indicador,valor
+"itens cobertos pelo modelo de desconto (E2), sem as canetas 196/199",223.0
+E1 central do agente nesses itens (quantidade do ETP),1111265.4900000002
+homologado real por item nesses itens (PE 04/2025),1147518.0
+"E2 central modelado (CMED − desconto de 2024, categoria mais barata)",3363828.13122105
+E2 baixo modelado (registro de menor preço),1728955.9044823095
+itens em que o homologado real < E2 central,153.0
+itens em que o homologado real < E2 baixo,134.0
+razão mediana E2 central / homologado real,2.212351636904762
+razão mediana E2 baixo / homologado real,1.2992147999999974
+"gasto real 2025–2026 pelo PE 12/2024 (desconto sobre CMED), empenhado",1491032.52
+"gasto real 2025–2026 pelo PE 04/2025 (por item), empenhado",576015.35
+EXTRAPOLAÇÃO (modelo do agente): parcela evitável do gasto real pelo PE 12/2024 se a razão E1/E2 central valesse,998458.9046701709
+"EXTRAPOLAÇÃO (preços reais): idem, com a razão homologado real / E2 central",982389.810402265
+"EXTRAPOLAÇÃO (prudente): idem, com a razão homologado real / E2 baixo",501425.64173917467

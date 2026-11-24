@@ -1,0 +1,41 @@
+pacote,tipo,arquivo,ok,detalhe,identico_bytes,celulas_diferentes,maior_dif_relativa
+v1,execucao,trabalho/10_referencias.py,True,,,,
+v1,execucao,trabalho/20_estrategias.py,True,,,,
+v1,execucao,trabalho/21_e2_diagnostico.py,True,,,,
+v1,execucao,trabalho/30_saidas.py,True,,,,
+v1,execucao,trabalho/40_numeros_texto.py,True,,,,
+v1,execucao,trabalho/50_registros.py,True,,,,
+v1,csv,trabalho/ref_itens.csv,True,,True,0.0,0.0
+v1,csv,trabalho/custos_estrategias.csv,True,,True,0.0,0.0
+v1,csv,trabalho/sensibilidades.csv,True,,True,0.0,0.0
+v1,csv,trabalho/demanda.csv,True,,True,0.0,0.0
+v1,csv,trabalho/e2_e3_por_item.csv,True,,True,0.0,0.0
+v1,csv,saida/plano_por_item.csv,True,,True,0.0,0.0
+v1,csv,saida/03_comparacao.csv,True,,True,0.0,0.0
+v1,csv,saida/registro_decisoes.csv,True,,True,0.0,0.0
+v1,csv,saida/registro_hipoteses.csv,True,,True,0.0,0.0
+v1,txt,trabalho/10_referencias.txt,True,,True,,
+v1,txt,trabalho/20_estrategias.txt,False,4 linha(s) diferente(s) após normalizar a ordem (em 20_estrategias.txt do v1: empates de mesmo preço entre atas na listagem do E3; nenhum custo muda — os CSVs são idênticos),False,,
+v1,txt,trabalho/21_e2_diagnostico.txt,True,"mesmas linhas, ordem de empates diferente",False,,
+v1,txt,trabalho/30_itens_criticos.txt,True,,True,,
+v1,txt,trabalho/40_numeros_texto.txt,True,,True,,
+v2,execucao,trabalho/10_referencias.py,True,,,,
+v2,execucao,trabalho/20_estrategias.py,True,,,,
+v2,execucao,trabalho/21_e2_diagnostico.py,True,,,,
+v2,execucao,trabalho/30_saidas.py,True,,,,
+v2,execucao,trabalho/40_numeros_texto.py,True,,,,
+v2,execucao,trabalho/50_registros.py,True,,,,
+v2,csv,trabalho/ref_itens.csv,False,,False,166.0,inf
+v2,csv,trabalho/custos_estrategias.csv,False,,False,15.0,0.0018701748731206485
+v2,csv,trabalho/sensibilidades.csv,False,,False,23.0,0.00256924486900573
+v2,csv,trabalho/demanda.csv,False,,False,36.0,0.0018701748731206485
+v2,csv,trabalho/e2_e3_por_item.csv,False,,False,1.0,0.05279912184412729
+v2,csv,saida/plano_por_item.csv,False,,False,277.0,1.0
+v2,csv,saida/03_comparacao.csv,False,,False,23.0,0.0018701772032491022
+v2,csv,saida/registro_decisoes.csv,True,,True,0.0,0.0
+v2,csv,saida/registro_hipoteses.csv,True,,True,0.0,0.0
+v2,txt,trabalho/10_referencias.txt,False,5 linha(s) diferente(s) após normalizar a ordem (em 20_estrategias.txt do v1: empates de mesmo preço entre atas na listagem do E3; nenhum custo muda — os CSVs são idênticos),False,,
+v2,txt,trabalho/20_estrategias.txt,False,31 linha(s) diferente(s) após normalizar a ordem (em 20_estrategias.txt do v1: empates de mesmo preço entre atas na listagem do E3; nenhum custo muda — os CSVs são idênticos),False,,
+v2,txt,trabalho/21_e2_diagnostico.txt,False,2 linha(s) diferente(s) após normalizar a ordem (em 20_estrategias.txt do v1: empates de mesmo preço entre atas na listagem do E3; nenhum custo muda — os CSVs são idênticos),False,,
+v2,txt,trabalho/30_itens_criticos.txt,False,30 linha(s) diferente(s) após normalizar a ordem (em 20_estrategias.txt do v1: empates de mesmo preço entre atas na listagem do E3; nenhum custo muda — os CSVs são idênticos),False,,
+v2,txt,trabalho/40_numeros_texto.txt,False,19 linha(s) diferente(s) após normalizar a ordem (em 20_estrategias.txt do v1: empates de mesmo preço entre atas na listagem do E3; nenhum custo muda — os CSVs são idênticos),False,,

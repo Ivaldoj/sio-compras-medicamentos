@@ -1,0 +1,71 @@
+item,descricao,preco_ref_unitario_v1,faixa_preco_baixo_v1,faixa_preco_alto_v1,teto_cmed_unitario_aplicavel_max_v1,valor_ref_total_v1,flag_acima_teto_confirmado_v1,flag_referencia_fraca_v1,preco_ref_unitario_v2,faixa_preco_baixo_v2,faixa_preco_alto_v2,teto_cmed_unitario_aplicavel_max_v2,valor_ref_total_v2,flag_acima_teto_confirmado_v2,flag_referencia_fraca_v2
+4,Aciclovir 50mg/g (5%) 10g,2.5638,2.0406,5.24,,1281.92,False,True,2.5686,2.049,5.24,,1284.31,False,True
+40,Beclometasona 200 mcg/dose solução para inalação oral 200 doses,16.5133,13.143,33.75,,3302.66,False,True,16.5441,13.1971,33.75,,3308.82,False,True
+41,Beclometasona 250 mcg/dose solução para inalação oral 200 doses,20.6722,16.453,42.25,,4134.44,False,True,20.7108,16.5208,42.25,,4142.16,False,True
+42,Beclometasona 50 mcg/dose solução para inalação oral 200 doses,15.5983,12.4147,31.88,,3119.66,False,True,15.6275,12.4659,31.88,,3125.49,False,True
+43,Beclometasona 50 mcg/dose suspensão para inalação nasal spray 200 doses,20.3737,16.2155,41.64,,2037.37,False,True,20.4118,16.2823,41.64,,2041.18,False,True
+44,BENZILPENICILINA BENZATINA 1.200.000 UI pó liofílico para suspensão injetável intramuscular (frasco ampola).,4.4182,3.5165,9.03,,5301.86,False,True,4.4265,3.531,9.03,,5311.76,False,True
+45,BENZILPENICILINA BENZATINA 600.000 UI pó liofílico para suspensão injetável intramuscular (frasco ampola).,3.9338,3.1309,8.04,,3933.83,False,True,3.9412,3.1438,8.04,,3941.18,False,True
+46,BENZILPENICILINA PROCAÍNA 300.000 UI + BENZILPENICILINA POTÁSSICA 100.000 UI pó liofílico para suspensão injetável intramuscular (frasco ampola).,19.4685,15.4951,39.79,,9734.27,False,True,19.5049,15.5589,39.79,,9752.45,False,True
+49,"Betametasona, acetonato + Betametasona, fostato dissodico 5mg/ml+2mg/ml (ampola 1ml)",15.8527,12.6172,32.4,,4755.82,False,True,15.8824,12.6692,32.4,,4764.71,False,True
+50,"Bicarbonato de sódio 1 mEq/mL (8,4%) Injetável 10mL",0.685,0.5452,1.4,,137.0,False,True,0.6863,0.5474,1.4,,137.25,False,True
+54,"Brometo de ipratrópio 0,25 mg/mL – solução para inalação (frasco 20mL)",1.6391,1.3046,3.35,,163.91,False,True,1.6422,1.3099,3.35,,164.22,False,True
+58,Budesonida 32 mcg - suspensão para inalação nasal 120 doses,14.0815,11.2075,28.78,,4224.46,False,True,14.1078,11.2537,28.78,,4232.35,False,True
+59,Budesonida 50mcg - suspensão para inalação nasal 120 doses,21.0342,16.7412,42.99,,4206.85,False,True,21.0735,16.8102,42.99,,4214.71,False,True
+60,Budesonida 64 mcg - suspensão para inalação nasal 120 doses,32.0333,25.4954,65.47,,12813.33,False,True,32.0931,25.6004,65.47,,12837.25,False,True
+67,Carbonato de cálcio + colecalciferol 500 mg CaCO3 + 400 UI - comprimido.,0.866,0.6893,1.77,,10392.36,False,True,0.8676,0.6921,1.77,,10411.76,False,True
+68,Carbonato de cálcio + colecalciferol 600 mg CaCO3 + 400 UI - comprimido.,0.4355,0.3466,0.89,,5225.54,False,True,0.4363,0.348,0.89,,5235.29,False,True
+77,CEFTRIAXONA 1g pó liofílico para solução injetável intramuscular com diuente próprio (frasco ampola).,3.9845,3.3715,7.716,,11953.5,False,True,3.9845,3.3715,7.7304,,11953.5,False,True
+78,CEFTRIAXONA 500 mg pó liofílico para solução injetável intramuscular com diuente próprio (frasco ampola).,9.2328,7.3484,18.87,,9232.76,False,True,9.25,7.3787,18.87,,9250.0,False,True
+80,Cetoconazol 20mg/g - 2% xampu (frasco 100mL),13.2449,10.5416,27.07,,3973.46,False,True,13.2696,10.5851,27.07,,3980.88,False,True
+82,CETOPROFENO 100 mg pó liofílico para solução injetável (frasco ampola).,4.0317,3.2088,8.24,,1209.51,False,True,4.0392,3.2221,8.24,,1211.76,False,True
+93,"Clonazepam   2,5 mg/ml - Sol. Oral 20mL",1.3504,1.0748,2.76,,4051.26,False,True,1.3529,1.0792,2.76,,4058.82,False,True
+97,"Cloreto de potássio 2,56 mEq/ml (19,1%)  solução injetável (ampola 10 mL).",0.4404,0.3505,0.9,,440.35,False,True,0.4412,0.3519,0.9,,441.18,False,True
+107,"Clorpromazina, cloridrato de 40 mg/ml - Sol.Oral (frasco 20mL",5.6072,4.4628,11.46,,2803.59,False,True,5.6176,4.4812,11.46,,2808.82,False,True
+109,"Colagenase +clorafenicol 0,6ui+10mg/g 30g pomada",11.0969,8.8321,22.68,,2219.38,False,True,11.1176,8.8685,22.68,,2223.53,False,True
+119,"Dexametasona, fosfato dissódico 4mg/mL solução injetável (ampola 10 mL).",0.729,0.5802,1.49,,437.42,False,True,0.7304,0.5826,1.49,,438.24,False,True
+134,"Dopamina, Cloridrato 5mg/ml (ampola 10mL)",3.8262,3.0453,7.82,,382.62,False,True,3.8333,3.0578,7.82,,383.33,False,True
+146,ESCOPOLAMINA 4 mg/mL + DIPIRONA 500 mg/mL solução injetável (ampola 5 mL).,1.3064,1.0398,2.67,,391.92,False,True,1.3088,1.044,2.67,,392.65,False,True
+156,Fenobarbital 40 mg/ml - Sol.Oral (frasco 20ml),3.0482,2.4261,6.23,,914.47,False,True,3.0539,2.4361,6.23,,916.18,False,True
+161,Flumazenil 01mg/ml - solução injetável (ampola 5ml),7.8823,6.2736,16.11,,2364.7,False,True,7.8971,6.2994,16.11,,2369.12,False,True
+172,Glicose 500 mg/mL (50%) - solução injetável (ampola 10ml),9.174,7.3016,18.75,,5504.43,False,True,9.1912,7.3317,18.75,,5514.71,False,True
+173,GLICONATO DE CALCIO 100 mg/mL (10%) solução injetável (ampola 10 mL).,2.1,1.7769,20.3541,,420.0,False,True,2.1,1.7769,20.3922,,420.0,False,True
+175,Haloperidol 2 mg/ml - Sol. Oral (frasco 20ml),3.0433,2.4222,6.22,,608.67,False,True,3.049,2.4322,6.22,,609.8,False,True
+186,HIDROCORTISONA 100 mg pó liofílico para solução injetável (frasco ampola),1.9571,1.5577,4.0,,587.14,False,True,1.9608,1.5641,4.0,,588.24,False,True
+187,HIDROCORTISONA 500 mg pó liofílico para solução injetável (frasco ampola),3.6794,2.9284,7.52,,1103.82,False,True,3.6863,2.9405,7.52,,1105.88,False,True
+188,"Hidrocortisona, acetato de creme 10mg/g (1%)  20g",6.938,5.522,14.18,,2081.41,False,True,6.951,5.5447,14.18,,2085.29,False,True
+193,Imiquimode 50 mg/g creme dermatológico sachês de 250 mg,14.1941,11.2971,29.01,,8516.45,False,True,14.2206,11.3437,29.01,,8532.35,False,True
+195,Insulina análoga de ação rápida  100UI/mL Solução Injetável com sistema de aplicação 3ml,26.52,21.33,32.01,,2652.0,False,False,32.35,26.72,74.14,,3235.0,False,True
+197,Insulina Humana NPH 100UI/mL- suspensão injetável (frasco 10ml),26.88,20.565,34.995,63.46,13440.0,False,False,26.88,20.565,34.995,50.77,13440.0,True,False
+212,Levotiroxina sódica 100 µg -comprimido.,0.1908,0.1519,0.39,,1144.92,False,True,0.1912,0.1525,0.39,,1147.06,False,True
+213,Levotiroxina sódica25 µg -comprimido.,0.2055,0.1636,0.42,,1027.49,False,True,0.2059,0.1642,0.42,,1029.41,False,True
+214,Levotiroxina sódica50 µg -comprimido.,0.2251,0.1791,0.46,,1800.56,False,True,0.2255,0.1799,0.46,,1803.92,False,True
+217,"Lidocaína, Cloridrato Gel (20mg/g) 2% 30g",5.2842,4.2057,10.8,,2113.7,False,True,5.2941,4.2231,10.8,,2117.65,False,True
+222,"Magnésio, Sulfato - solução injetável 50% (4,05 mEq/mL Mg++) (ampola 10ml)",5.0298,4.0032,10.28,,1005.96,False,True,5.0392,4.0197,10.28,,1007.84,False,True
+236,Metronidazol  gel vaginal 10mg/g (10%) 50g,5.3283,4.2408,10.89,,6393.94,False,True,5.3382,4.2583,10.89,,6405.88,False,True
+239,"Miconazol, nitrato de creme 2% toópico (20mg/g) 28g",1.725,1.4596,3.6305,,517.5,False,True,1.725,1.4596,3.6373,,517.5,False,True
+240,"Miconazol, nitrato de creme vaginal 2% (20mg/g) 80g",1.15,0.9731,8.4254,,345.0,False,True,1.15,0.9731,8.4412,,345.0,False,True
+241,MIDAZOLAM 5 mg/mL (50 mg) solução injetável (ampola 10 mL).,2.1235,1.6901,4.34,,1274.09,False,True,2.1275,1.6971,4.34,,1276.47,False,True
+250,Nistatina 25.000ui creme vaginal 50g,4.428,3.5243,9.05,,4428.01,False,True,4.4363,3.5388,9.05,,4436.27,False,True
+256,"Noretisterona, Enanato +  Estradiol, Valerato 50mg/mL + 5 mg/mL - Solução Injetável 1ml",8.4303,6.7097,17.23,,8430.34,False,True,8.4461,6.7374,17.23,,8446.08,False,True
+265,OLEO MINERAL 1 mL/mL (100%) solução oral e tópico (frasco 100 mL).,3.3173,2.6403,6.78,,663.47,False,True,3.3235,2.6512,6.78,,664.71,False,True
+267,OMEPRAZOL 40 mg pó liofílico para solução injetável com diluente próprio (frasco ampola).,2.4904,1.9822,5.09,,747.13,False,True,2.4951,1.9903,5.09,,748.53,False,True
+274,Paracetamol 200 mg/ml - Sol. Oral 15ml,1.9229,1.5304,3.93,,3845.76,False,True,1.9265,1.5367,3.93,,3852.94,False,True
+279,PERMETRINA 10 mg/mL (1%) loção capilar (frasco 60 mL),3.0531,2.43,6.24,,610.62,False,True,3.0588,2.44,6.24,,611.76,False,True
+283,"Prednisolona, fostato sódico de 3 mg/ml - Sol.Oral (frasco 60ml)",2.9455,2.3443,6.02,,2945.48,False,True,2.951,2.354,6.02,,2950.98,False,True
+299,"Sais para reidratação oral (NaCl 3,5G + Glicose 20G + Citrato Na 2,9G + KCl 1,5G) 27,9 G Pó para solução",1.14,0.9074,2.33,,1140.03,False,True,1.1422,0.9111,2.33,,1142.16,False,True
+300,SALBUTAMOL 100 mcg/dose aerossol oral (frasco 200 doses).,16.9438,13.4856,34.63,,10166.31,False,True,16.9755,13.5412,34.63,,10185.29,False,True
+301,"Salbutamol, sulfato 5mg/mL solução para inalação  (frasco 10ml)",8.6994,6.9239,17.78,,869.94,False,True,8.7157,6.9524,17.78,,871.57,False,True
+305,SIMETICONA 75 mg/mL emulsão oral (frasco 15 mL).,1.6587,1.3201,3.39,,1658.67,False,True,1.6618,1.3256,3.39,,1661.76,False,True
+308,SOLUÇÃO RINGER COM LACTATO solução injetável sistema fechado (frasco/bolsa 250 mL).,7.075,5.631,14.46,,7075.02,False,True,7.0882,5.6542,14.46,,7088.24,False,True
+309,SOLUÇÃO RINGER COM LACTATO solução injetável sistema fechado (frasco/bolsa 500 mL).,4.8048,3.8241,9.82,,17297.11,False,True,4.8137,3.8399,9.82,,17329.41,False,True
+310,Sulfadiazina de prata – 10mg/g (1%) Creme 50g,3.0665,2.5947,4.9662,,3679.8,False,True,3.0665,2.5947,4.9755,,3679.8,False,True
+315,SULFATO FERROSO 109 mg (40 mg de ferro elementar) comprimido,0.0587,0.0467,0.12,,2935.69,False,True,0.0588,0.0469,0.12,,2941.18,False,True
+316,SULFATO FERROSO 125 mg/mL (25 mg/mL de ferro elementar) solução oral (frasco 30 mL).,1.8446,1.4681,3.77,,737.84,False,True,1.848,1.4742,3.77,,739.22,False,True
+317,SUXAMETÔNIO 100 mg pó liofílico para solução injetável (frasco ampola).,17.0075,13.5363,34.76,,6802.98,False,True,17.0392,13.5921,34.76,,6815.69,False,True
+318,TENOXICAM 40 mg pó liofílico para solução injetável intravenosa e intramuscular (frasco ampola).,7.7307,6.1528,15.8,,7730.66,False,True,7.7451,6.1782,15.8,,7745.1,False,True
+321,"Timolol, maleato de colírio 5mg/mL (0,5%)  (frasco 5mL)",2.7938,2.2236,5.71,,279.38,False,True,2.799,2.2328,5.71,,279.9,False,True
+324,TRAMADOL 100 mg solução injetável (ampola 2 mL).,1.14,0.9074,2.33,,342.01,False,True,1.1422,0.9111,2.33,,342.65,False,True
+332,"VITAMINAS DO COMPLEXO B composto por vitaminas B1, B2, B3, B5 e B6 comprimido.",0.0587,0.0467,0.12,,880.71,False,True,0.0588,0.0469,0.12,,882.35,False,True
+333,"VITAMINAS DO COMPLEXO B composto por vitaminas B1, B2, B3, B5 e B6 solução oral (frasco 100 mL).",2.0795,1.655,4.25,,415.89,False,True,2.0833,1.6619,4.25,,416.67,False,True
+334,"VITAMINAS DO COMPLEXO B composto por vitaminas B1, B2, B3, B5 e B6 solução injetável (ampola 2 mL).",0.7486,0.5958,1.53,,898.32,False,True,0.75,0.5983,1.53,,900.0,False,True
