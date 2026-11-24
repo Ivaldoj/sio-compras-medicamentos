@@ -27,7 +27,7 @@ O resumo rápido dado ao usuário na conversa repetia a afirmação 1 e também 
 
 ## 5. Hashes (sha256)
 ```
-f2ff336641a49f593e39a130bd08ea499bf692916d9a13317e082beb5a3e8044  etapa6/RELATORIO_FINAL.md
+85a780994c0b6a058b29c3e41295df6ac621d61aade1a28b18ff380fbaa0d46e  etapa6/RELATORIO_FINAL.md
 8a76df02a5b0766ee67b94ebe0ff69be5ae95c73cab3792e0eeb9d8043ec5282  etapa6/scripts/e6_01_confronto.py
 547d96eb456b6db9170e58166a1531fa656af08babb7714bfbbc79c487ab7fb1  etapa6/resultados/confronto_numeros.csv
 a7219fd76f6c15df11d6ebd33ac414fc974a78aaf2eda859e10e64a1a2518d7a  etapa6/resultados/confronto_numeros.json
@@ -37,3 +37,14 @@ e3c2f3ab42b798df95993688b9f74d5edafa07008061fc1d8803de25b4bd8ddf  etapa6/resulta
 633bbfe26f6509887095851a238bc161296ea102e7f41e7edb4fa835cd2f8659  etapa6/resultados/insulinas_quadro_corrigido.csv
 e901fc321fdfcaff852875402fc52e80e81c624a670f31322d2d5fdf4e9ef685  etapa6/resultados/integridade.csv
 ```
+
+## 6. Revisão de enquadramento (24/11/2026)
+
+A pedido do autor, o projeto foi alinhado ao objetivo original: demonstrar inteligência segundo a definição do professor Bellini (elaboração autônoma de cenários alternativos e escolha do caminho mais eficiente, em contraste com o mero reconhecimento de padrões). Nenhuma etapa foi reexecutada e nenhum número mudou.
+
+- `etapa6/RELATORIO_FINAL.md`: reescritos o título, a seção 1 (objetivo, pergunta e resposta), a seção 8 (discussão), a seção 9 (limitações) e a seção 10 (conclusões). A ausência de implementação deixou de ser tratada como algo "não demonstrado" e passou a constar como alcance da medida de eficiência. A versão anterior está no commit `76456ab`; o hash na seção 5 deste log é o da versão revisada.
+- `README.md`: reescrito como apresentação do projeto. O conteúdo de reprodução da Etapa 1 foi mantido.
+- `docs/21_objetivo_e_enquadramento.md`: novo. Enuncia o objetivo e indica como ler os documentos anteriores com enquadramento diferente, em especial as seções 1, 9 e 10 do relatório da Etapa 5.
+- Não alterados: `etapa4/`, os pacotes, `etapa5/`, `etapa5_avaliacao_independente/` e os logs anteriores.
+- A pendência da seção 4 sobre a interpretação de "inteligência" fica resolvida por esta revisão.
+- Mantidas: as limitações metodológicas e a ressalva de que a economia potencial de R$ 2,22 milhões está superestimada.

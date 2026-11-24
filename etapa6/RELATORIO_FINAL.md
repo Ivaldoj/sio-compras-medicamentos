@@ -1,16 +1,47 @@
-# Relatório final — Uma IA consegue decidir uma compra pública de medicamentos?
+# Relatório final — Um agente de IA demonstra inteligência ao escolher como comprar medicamentos?
 
 Disciplina Sistemas de Informação nas Organizações (SIO), UFPB. Caso: Secretaria Municipal de Saúde de Santa Luzia/PB. Experimento executado de 22 a 24/11/2026; data de decisão simulada: 29/01/2025.
 
 Este relatório é autocontido. Cada número traz o arquivo de origem; a seção 11 diz como conferir. Nada foi reexecutado nesta etapa: ela lê os resultados gravados e vai às fontes primárias apenas para resolver duas divergências entre as avaliações.
 
+**Revisão de 24/11/2026.** A pergunta de pesquisa, a síntese, a discussão (seção 8), as limitações e as conclusões foram reescritas para refletir o objetivo original do trabalho. Evidências, números e resultados não mudaram. A versão anterior está no histórico do repositório (commit `76456ab`). O enquadramento dos documentos das etapas anteriores está em `docs/21_objetivo_e_enquadramento.md`.
+
 ---
 
 ## 1. Síntese
 
-**Pergunta.** Um agente de IA, com as informações que a organização tinha no dia da decisão, formula e escolhe uma estratégia de compra melhor que a adotada?
+### 1.1 Objetivo e pergunta de pesquisa
 
-**Resposta.** Em parte. O agente fez bem a análise e apontou três problemas que os dados posteriores confirmaram. Não ficou demonstrado que a estratégia dele funcionaria, porque ela nunca foi executada.
+**Definição adotada.** Na disciplina, conforme a definição do professor Bellini informada pelo autor do trabalho, inteligência é a **elaboração de cenários alternativos para a escolha do caminho mais eficiente**. O contraste é com o **mero reconhecimento de padrões**: identificar uma regularidade e repeti-la.
+
+**Objetivo.** Demonstrar inteligência, nesse sentido, em um problema organizacional real: verificar se um agente de IA elabora por conta própria cenários alternativos e escolhe entre eles o caminho mais eficiente.
+
+**Pergunta.** Com as informações disponíveis na data da decisão, o agente elabora cenários alternativos e escolhe o mais eficiente, ou apenas reproduz o padrão que os dados sugerem?
+
+**O que o experimento não pretende demonstrar:**
+- que a IA é superior a gestores humanos;
+- que a IA executa contratações de forma autônoma;
+- que houve economia efetivamente realizada.
+
+**Para que serve a comparação com a decisão real.** Ela é a régua da qualidade da escolha experimental: mostra se o caminho escolhido pelo agente era, de fato, eficiente. Não é uma disputa entre a IA e a prefeitura.
+
+### 1.2 Resposta
+
+**Sim: o comportamento observado corresponde à definição, com duas ressalvas.**
+
+| Elemento da definição | O que o agente fez | Onde conferir |
+|---|---|---|
+| Elaborar cenários alternativos | Formulou 4 estratégias e registrou 10 descartadas, sem lista prévia. Para cada uma, estimou custo central, faixa e gasto com demanda de 75% e de 125% | `saida/02_alternativas.md`, `03_comparacao.csv` |
+| Escolher o caminho mais eficiente | Definiu um critério de eficiência, aplicou-o a todas e escolheu a de menor custo entre as viáveis. Calculou o ponto em que a escolha se inverteria | `saida/03_comparacao.md`, `04_recomendacao.md` |
+| Não se limitar ao padrão | O padrão nos dados era repetir o modelo de 2024, usado em 62,6% do gasto, com a estimativa do órgão como referência. O agente simulou esse caminho, comparou e o rejeitou | `saida/01_diagnostico.md`; seção 8.2 |
+
+**A escolha era eficiente?** Os dados posteriores indicam que sim, nos três pontos em que ela difere da decisão real (seção 8.3). A previsão de preço do agente ficou 5,9% abaixo do contratado nos 332 itens fora das canetas de insulina, e a estimativa que ele rejeitou estava 2,3× acima do mercado.
+
+**Ressalvas.**
+1. **A magnitude da vantagem não está demonstrada.** O agente anunciou R$ 2,22 milhões de economia potencial frente ao modelo de 2024. O número depende de um modelo sem preço por item observado e de quantidades que se mostraram infladas. A ordem entre os cenários se sustenta; o tamanho da diferença, não.
+2. **O experimento observa comportamento, não mecanismo.** Ele mostra que o agente produziu e comparou cenários. Não permite afirmar que isso não seja, internamente, um reconhecimento de padrões mais elaborado (seção 8.4).
+
+### 1.3 Evidências e estimativas
 
 **O que foi observado** (fatos, não estimativas):
 
@@ -28,15 +59,15 @@ Este relatório é autocontido. Cada número traz o arquivo de origem; a seção
 
 | Estimativa | Valor | De que depende |
 |---|---|---|
-| Custo da estratégia do agente | R$ 1,81 mi (faixa de 1,50 a 2,51) | previsão feita antes da decisão |
-| Mesma estratégia aos preços reais, limitados ao teto | R$ 1,84 mi | preços de um pregão com outro preço máximo |
+| Custo do cenário escolhido pelo agente | R$ 1,81 mi (faixa de 1,50 a 2,51) | previsão feita antes da decisão |
+| Mesmo cenário aos preços reais, limitados ao teto | R$ 1,84 mi | preços de um pregão com outro preço máximo |
 | Economia potencial anunciada pelo agente | R$ 2,22 mi | modelo do contrato de desconto, sem preço por item observado, e quantidades do ETP |
 
 **Sobre as duas divergências entre as avaliações** (seção 7):
 - **ICMS na tabela da CMED:** a avaliação independente estava certa. A tabela publica os valores a 20% para os produtos do Convênio 87/02; a leitura do pacote os descartou.
 - **Insulinas de 2026:** a preparação anterior estava certa. O preço de R$ 29,00 homologado em 2026 é de refil sem caneta, não de caneta. Três afirmações da Etapa 5 que usavam esse preço ficam retiradas.
 
-Nenhuma das duas altera o veredito.
+Nenhuma das duas altera as conclusões.
 
 ---
 
@@ -44,7 +75,7 @@ Nenhuma das duas altera o veredito.
 
 ### 2.1 Desenho
 
-O experimento separa três papéis, para que quem decide não veja o resultado:
+O experimento é uma simulação sobre um caso já encerrado. A decisão do agente não é implementada, por desenho: o que se avalia é a escolha, e os dados posteriores servem de régua. Para que quem escolhe não veja o resultado, três papéis ficam separados:
 
 1. **Preparação dos dados**, com corte temporal em 29/01/2025.
 2. **Decisão** por um agente isolado, que recebe só o que existia até o corte.
@@ -162,7 +193,7 @@ As duas canetas foram contratadas exatamente pela estimativa, com uma única pro
 
 ### 5.2 Estimativas contrafactuais
 
-Nenhuma destas foi observada. A estratégia do agente não foi licitada.
+Nenhuma destas foi observada: por desenho, o cenário escolhido pelo agente não foi licitado. Elas testam se a escolha se mantém quando as previsões são trocadas por preços reais.
 
 | Estimativa | Valor | Ressalva |
 |---|---:|---|
@@ -208,6 +239,8 @@ Veredito registrado em `etapa5_avaliacao_independente/RELATORIO_ETAPA5.md`, mant
 - a faixa de demanda do agente (75% a 125% do ETP) foi estreita;
 - a regra de aceitar só preço até a mediana deixaria itens sem contratar;
 - o agente entregou uma recomendação com nove verificações a fazer por pessoas, não uma decisão executada.
+
+Esta última ressalva usa a execução como critério. Ela é mantida porque faz parte do registro da Etapa 5, mas a execução não é objetivo do experimento (seção 1.1) e não é tratada como falha nas conclusões.
 
 ---
 
@@ -272,87 +305,136 @@ A concordância é evidência mais forte que qualquer das avaliações sozinha: 
 
 ### 7.3 Efeito sobre o veredito
 
-Nenhum. O veredito da Etapa 5 se apoia no preço contratado, na competição, na execução e no mercado nacional, que as duas avaliações obtiveram de forma idêntica.
+Nenhum sobre as conclusões. O veredito da Etapa 5 se apoia no preço contratado, na competição, na execução e no mercado nacional, que as duas avaliações obtiveram de forma idêntica.
 
 A lição é de método: **cada avaliação errou uma vez, e o confronto pegou os dois erros.** A preparação errou ao declarar ausência de um dado sem olhar a célula. A avaliação independente errou ao tratar como iguais dois produtos sem ler a proposta. Ambos são erros de leitura de fonte, do mesmo tipo dos que o agente encontrou no pacote.
 
 ---
 
-## 8. Relação com os conceitos de SIO: inteligência
+## 8. Discussão: inteligência como elaboração de cenários
 
-O enunciado desta etapa cita "inteligência" sem detalhar. Adotei três leituras usuais na disciplina. Se a intenção era outra, esta seção deve ser ajustada.
+A definição tem duas partes verificáveis (elaborar cenários alternativos e escolher o mais eficiente) e um contraste (o mero reconhecimento de padrões). Cada parte é examinada abaixo com as evidências das seções anteriores.
 
-### 8.1 Inteligência como fase do processo decisório (Simon)
+### 8.1 Elaboração autônoma de cenários alternativos
 
-O modelo de Simon divide a decisão em inteligência (perceber e definir o problema), concepção (formular alternativas), escolha e implementação.
+**O que foi pedido e o que não foi.** O enunciado exigia pelo menos três estratégias "substancialmente diferentes" e não trazia lista: "formulá-las faz parte da tarefa". A exigência de haver alternativas veio da tarefa. O conteúdo delas, o critério de comparação e a escolha vieram do agente, que trabalhou sem intervenção durante toda a execução.
 
-| Fase | O que o experimento mostrou |
-|---|---|
-| **Inteligência** | Foi onde o agente mais agregou. Redefiniu o problema: de "qual modalidade para um valor conhecido" para "a referência de valor está errada". A organização não fez essa leitura, embora tivesse acesso às mesmas fontes |
-| **Concepção** | Quatro estratégias e dez descartadas, sem lista prévia |
-| **Escolha** | Critério explícito e aplicado de forma coerente. A escolha coincide com a real na modalidade |
-| **Implementação** | Não ocorreu. É a fase em que o experimento não diz nada |
+**O que o agente produziu** (`saida/02_alternativas.md`, `registro_decisoes.csv`, `registro_hipoteses.csv`):
+- **4 estratégias** que diferem em dimensões reais do problema: instrumento (ata ou contrato), critério de julgamento (menor preço ou maior desconto), origem do preço (licitação própria ou ata de terceiros) e compromisso de quantidade;
+- **10 alternativas descartadas**, cada uma com motivo;
+- **20 decisões** e **18 hipóteses** registradas, com a evidência de cada uma.
 
-Leitura: o ganho esteve nas fases de inteligência e concepção, não na escolha. A decisão real não falhou por escolher mal entre alternativas; falhou antes, por não perceber o problema.
+**São cenários, não só opções listadas.** Para cada estratégia o agente simulou consequências sob condições diferentes:
+- custo central, baixo e alto;
+- gasto com demanda de 75%, 100% e 125% do previsto;
+- comportamento do fornecedor no modelo de desconto: entrega o registro mais barato, o da categoria pedida ou o que quiser;
+- preços "a conferir" tratados como válidos ou como inválidos.
 
-### 8.2 Dado, informação, conhecimento e inteligência
+**Ressalva.** Um dos quatro cenários é fraco: o contrato de quantidade fixa (E4) recebeu, por hipótese, os mesmos preços do E1. Ele só se distingue pela demanda.
 
-| Nível | No caso |
-|---|---|
-| **Dado** | Milhares de registros de preço em bases públicas, a tabela da CMED, os 334 itens do ETP |
-| **Informação** | Itens padronizados e ligados a preços comparáveis e ao teto. Custou três etapas de trabalho e ainda continha erros |
-| **Conhecimento** | "A estimativa está 2× acima do mercado"; "as canetas estão quase 10× acima do teto" |
-| **Inteligência** | Usar esse conhecimento para agir: mudar o preço máximo do edital e o instrumento de contratação |
+### 8.2 Contraste com o reconhecimento de padrões
 
-Os dados eram públicos e a organização os tinha ao alcance. O que faltou foi a transformação em informação utilizável. O agente só fez a passagem para conhecimento porque recebeu a informação já integrada. **A parte cara do sistema de informação foi a integração, não a análise.**
+O caso tem um padrão claro, e o agente o tinha diante de si:
+- em 2024, 62,6% do gasto passou pelo modelo de desconto sobre a tabela da CMED;
+- a estimativa do órgão, de R$ 4,95 milhões, vinha pronta no ETP;
+- 143 itens repetiam descrições do pregão do ano anterior.
 
-A passagem para inteligência, no sentido de ação, não aconteceu: o conhecimento existiu apenas dentro do experimento.
+**Reconhecer o padrão seria recomendar a repetição.** O agente fez outra coisa:
+1. **Tratou o padrão como um cenário entre outros.** O modelo de 2024 virou a estratégia E2, com custo estimado e faixa.
+2. **Comparou-o com alternativas que não estavam nos dados.** O E1 combina elementos que o histórico do órgão não mostra juntos: ata de registro de preços, julgamento por item e referência recalculada.
+3. **Rejeitou a referência dada.** Concluiu que a estimativa do órgão estava 2,04× acima do preço praticado e acima do teto legal em 41 itens.
+4. **Raciocinou sobre o que não aconteceu.** Calculou os descontos que fariam o modelo de 2024 empatar com o E1 (cerca de 86%, 82% e 70%, contra 60%, 51% e 18% obtidos) e listou sete condições que mudariam a recomendação.
 
-### 8.3 Inteligência organizacional e apoio à decisão
+O quarto ponto é o mais distante de um padrão: é uma pergunta sobre um cenário que nenhum dado descreve.
 
-- **Tipo de decisão.** A compra é semiestruturada: tem regras fixas (lei, teto) e partes de julgamento (demanda, risco de deserto, capacidade da equipe). O agente resolveu a parte estruturada com exatidão e devolveu a não estruturada à organização, como nove verificações.
-- **Papel adequado.** O resultado descreve um sistema de apoio à decisão, não um decisor. Ele informa, calcula e alerta; a responsabilidade e a execução ficam com pessoas.
-- **Aprendizado organizacional.** Em 2026 o órgão repetiu a estimativa inflada: a estimativa unitária de 2026 foi, em mediana, 0,98 da de 2025 (`expost_escopo.csv`). A organização não incorporou o que a execução de 2025 já mostrava. Inteligência organizacional exige um ciclo de retorno que o caso não tem.
-- **Qualidade da informação.** Os erros encontrados em todas as camadas (no pacote, na preparação e na avaliação independente) mostram que a confiabilidade de um sistema de apoio à decisão depende de verificação cruzada, e não da capacidade de quem analisa.
+**A decisão real ilustra o contraste**, sem que isso seja um julgamento sobre os gestores. Ela manteve a estimativa pronta como preço máximo, e os 27 itens com proposta única foram contratados exatamente nesse preço.
+
+### 8.3 A escolha era o caminho mais eficiente?
+
+A decisão real e os dados posteriores servem aqui de régua.
+
+**O critério foi explícito e aplicado.** Menor custo esperado para cobrir os 334 itens, entre os cenários viáveis, com desempate pelo risco de descontinuidade. O agente considerou e descartou três critérios alternativos (`registro_decisoes.csv`, D01).
+
+**Os três pontos em que a escolha difere da decisão real:**
+
+| Escolha do agente | Evidência posterior | Natureza |
+|---|---|---|
+| Ata de registro de preços, que não obriga a comprar | Contratos de R$ 3,11 mi; R$ 585.893 pagos em 20 meses | Observada |
+| Preço máximo pela mediana praticada, e não pela estimativa | Referência do agente a 1,11× do mercado posterior; estimativa do órgão a 2,32× | Observada |
+| Canetas de insulina limitadas ao teto CMED | Contratadas a 9,6× e 9,3× o teto, com proposta única | Observada |
+
+**A ordem entre os cenários:**
+
+| Comparação | Resultado | Natureza |
+|---|---|---|
+| E1 frente ao modelo de 2024 (E2), 17 cenários de sensibilidade | E1 mais barato em 15 | Estimativa: o E2 é sempre modelo |
+| Contratado por item frente ao E2 no seu melhor caso, 223 itens | R$ 1,15 mi contra R$ 1,73 mi | Observado contra modelado |
+| E1 frente ao contrato de quantidade fixa (E4) | E1 melhor sempre que a demanda fica abaixo do previsto; a execução foi de 18,9% | Observada |
+
+**O que limita a resposta.**
+- "Mais eficiente" foi julgado entre os cenários que o agente formulou. Não se sabe se existia um caminho melhor que ele não considerou.
+- A ordem tem apoio; a magnitude, não. Os R$ 2,22 milhões superam o gasto anual real do município com medicamentos, de R$ 1,41 milhão.
+- O agente errou a largura de um cenário: a demanda real ficou muito abaixo dos 75% que ele tomou como piso.
+- A regra de aceitar só preço até a mediana deixaria entre 6% e 18% dos itens sem contratar na primeira rodada. O agente previu esse efeito e indicou contingências.
+
+### 8.4 O que o experimento permite e não permite afirmar
+
+**Permite afirmar** que o agente exibiu o comportamento que a definição descreve: elaborou cenários, comparou consequências e escolheu por um critério, afastando-se do padrão disponível. E que a escolha resiste à comparação com o que aconteceu.
+
+**Não permite afirmar** que esse comportamento não seja reconhecimento de padrões em outro nível. Três motivos:
+1. **As estratégias são conhecidas.** Registro de preços, adesão a atas e maior desconto são formas previstas em lei e descritas na literatura de compras públicas. O agente pode ter reproduzido um modo aprendido de analisar esse tipo de problema. O que é específico do caso são os números, os itens críticos e a rejeição da estimativa.
+2. **O experimento mede saídas.** Ele registra o que o agente escreveu e calculou, não como chegou lá.
+3. **Uma execução.** Não se sabe se outra rodada produziria os mesmos cenários e a mesma escolha.
+
+A distinção entre elaborar cenários e reconhecer padrões é nítida no comportamento observado e indecidível quanto ao mecanismo. O trabalho sustenta a primeira afirmação e não reivindica a segunda.
+
+### 8.5 Outros conceitos de SIO que o caso ilustra
+
+- **Dado, informação e conhecimento.** Os dados eram públicos. Torná-los comparáveis (itens padronizados, ligados a preços e ao teto) custou três etapas e ainda deixou erros. A elaboração de cenários só foi possível depois dessa integração.
+- **Decisão semiestruturada.** A compra tem regras fixas (lei, teto) e partes de julgamento (demanda, risco de item deserto). O agente resolveu a parte estruturada com exatidão e explicitou a outra como incerteza e como verificações a fazer.
+- **Qualidade da informação.** Houve erros de leitura de fonte no pacote, na preparação e na avaliação independente. Foram corrigidos pelo confronto entre trabalhos feitos em separado.
 
 ---
 
 ## 9. Limitações
 
-**Do experimento.**
-1. **Uma execução, um modelo, um caso.** Não há medida de variação.
-2. **A estratégia não foi executada.** Todo resultado atribuído a ela é contrafactual.
-3. **Linha de base fraca.** Superar uma decisão com estimativa 2× acima do mercado não mostra julgamento superior.
-4. **O contrato de desconto não tem preço por item.** A principal comparação do agente é modelo dos dois lados.
-5. **Execução por item desconhecida.** Notas fiscais e termos de recebimento não são públicos.
-6. **Vínculos automáticos.** Nenhuma conversão de unidade ou vínculo com a CMED teve validação humana.
-7. **Vazamento temporal não excluído.** A auditoria verifica o que o agente acessou, não o que o modelo já sabia.
-8. **Escopo.** O órgão licitou depois outros 89 itens fora dos 334.
+**Quanto à demonstração de inteligência.**
+1. **Comportamento, não mecanismo.** O experimento mostra o que o agente produziu, não o processo interno (seção 8.4).
+2. **A tarefa pedia alternativas.** O enunciado exigia pelo menos três estratégias. Não foi testado se o agente as elaboraria sem esse pedido.
+3. **Uma execução, um modelo, um caso.** Não há medida de variação nem de generalidade.
+4. **Conhecimento anterior do modelo.** A auditoria verifica o que o agente acessou, não o que o modelo já sabia. Se ele conhecesse o desfecho do caso, a escolha poderia ser lembrança, e não elaboração. Não há sinal disso: o agente previu que as canetas ficariam sem proposta, e elas foram contratadas pela estimativa.
+5. **Avaliação pela mesma família de modelos.** Decisor, preparação e avaliação usaram modelos Claude. Não houve avaliador humano nem avaliador cego.
 
-**Das avaliações.**
-9. **Mesma família de modelos** no decisor, na preparação e na avaliação. Não houve avaliador humano nem avaliador cego.
-10. **Normas** lidas pela web, sem cópia local arquivada.
-11. **Comparação com 2026** sem conferência do produto ofertado, salvo nas seis insulinas.
+**Quanto à medida de eficiência da escolha.**
+6. **A régua é contrafactual por desenho.** O cenário escolhido não foi licitado, porque o experimento é uma simulação. Isso não é falha do experimento, mas define o alcance da medida: a qualidade da escolha é avaliada por previsão contra preços reais, e não por resultado próprio.
+7. **O modelo de 2024 não tem preço por item.** A principal comparação do agente, E1 frente a E2, é modelo dos dois lados.
+8. **A régua tem viés.** Os preços reais vêm de um pregão cujo máximo era a estimativa inflada.
+9. **Eficiência só entre os cenários formulados.** Não se avaliou se havia caminho melhor fora deles.
+10. **Execução por item desconhecida.** Notas fiscais e termos de recebimento não são públicos.
 
-**Do que não se pode concluir.**
-- Que a IA decide melhor que a organização.
-- Que a economia de R$ 2,22 milhões existiria.
-- Que o pregão do agente teria fechado todos os itens.
-- Quanto foi pago a mais nas canetas.
+**Quanto aos dados.**
+11. **Vínculos automáticos.** Nenhuma conversão de unidade ou vínculo com a CMED teve validação humana.
+12. **Normas** lidas pela web, sem cópia local arquivada.
+13. **Comparação com 2026** sem conferência do produto ofertado, salvo nas seis insulinas.
+14. **Escopo.** O órgão licitou depois outros 89 itens fora dos 334.
+
+**Fora do objetivo.** O trabalho não avalia superioridade sobre gestores humanos, execução autônoma de contratações nem economia realizada, e nenhum resultado deve ser lido nesse sentido. Em particular:
+- os valores de economia do agente são potenciais, estimados antes da decisão;
+- o valor contratado acima do teto (R$ 1,28 milhão) é um risco contratado, do qual no máximo R$ 146 mil podem ter sido pagos nas canetas até novembro de 2026.
 
 ---
 
 ## 10. Conclusões
 
-1. **O agente analisou corretamente.** Os cálculos são exatos e reproduzíveis, e a referência de preço ficou a 11% do mercado posterior, contra 132% de erro mediano da estimativa do órgão.
-2. **Os três avisos centrais se confirmaram:** estimativa inflada, canetas acima do teto, quantidades sem base de consumo.
-3. **A magnitude da economia não se confirma.** O número de R$ 2,22 milhões é maior que o gasto anual real e depende de um modelo sem observação.
-4. **A decisão real e a do agente coincidem na forma de licitar.** A diferença está no preço máximo, no instrumento e no tratamento das insulinas.
-5. **O dano realizado é menor que o risco contratado.** Dos R$ 1,28 milhão acima do teto, no máximo R$ 146 mil podem ter sido pagos nas canetas até novembro de 2026. O contrato segue vigente.
-6. **O valor da IA esteve na fase de inteligência**, sobre informação que alguém teve de integrar antes.
-7. **Ninguém acertou tudo.** O pacote, a preparação e a avaliação independente tiveram erros de leitura de fonte. O que os corrigiu foi o confronto entre trabalhos independentes.
+1. **O agente elaborou cenários alternativos por conta própria.** Quatro estratégias e dez descartadas, com consequências estimadas sob diferentes condições de preço, de demanda e de comportamento do fornecedor.
+2. **O agente escolheu por um critério de eficiência explícito** e indicou as condições que inverteriam a escolha.
+3. **O agente não se limitou ao padrão.** O padrão disponível era repetir o modelo de 2024 com a estimativa do órgão. Ele o simulou como um cenário, comparou e rejeitou.
+4. **A escolha resiste à comparação com o que aconteceu.** Os três pontos em que ela difere da decisão real têm apoio em evidência observada: execução de 18,9% do contratado, estimativa do órgão 2,3× acima do mercado e canetas contratadas a mais de 9× o teto.
+5. **A ordem entre os cenários se sustenta; a magnitude, não.** O E1 permanece o mais barato em 15 de 17 cenários. A economia potencial de R$ 2,22 milhões está superestimada.
+6. **A elaboração dependeu de informação integrada.** Sem as três etapas de preparação dos dados não haveria cenários comparáveis.
+7. **A demonstração é de comportamento.** O experimento não distingue, quanto ao mecanismo, a elaboração de cenários de um reconhecimento de padrões mais elaborado.
 
-**Resposta à pergunta do experimento.** A IA executou com rigor a parte analítica de uma decisão organizacional. Não ficou demonstrado que ela toma a decisão, e o desenho do experimento não permite demonstrá-lo.
+**Resposta à pergunta do experimento.** No caso estudado, o agente demonstrou inteligência no sentido adotado na disciplina: elaborou cenários alternativos e escolheu, por um critério explícito, um caminho que os dados posteriores indicam ser eficiente, em vez de repetir o padrão disponível. A conclusão vale para o comportamento observado em uma execução. A medida de eficiência é sólida quanto à ordem dos cenários e fraca quanto à magnitude.
 
 ---
 
