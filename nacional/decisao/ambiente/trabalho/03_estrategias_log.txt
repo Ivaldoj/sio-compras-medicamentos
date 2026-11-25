@@ -1,0 +1,34 @@
+  estrategia  custo_total_p05  custo_total_p50  custo_total_p95  custo_centralizados_p50  custo_descentralizados_p05  custo_descentralizados_p50  custo_descentralizados_p95  economia_potencial_vs_E1_p05  economia_potencial_vs_E1_p50  economia_potencial_vs_E1_p95  economia_pct_descentralizados_p50
+0         E1     5.930029e+09     6.475281e+09     7.184646e+09             5.280852e+09                1.074888e+09                1.197034e+09                1.351200e+09                  0.000000e+00                  0.000000e+00                  0.000000e+00                              0.000
+1         E2     5.731335e+09     6.254843e+09     6.934705e+09             5.280852e+09                8.596800e+08                9.753278e+08                1.115517e+09                  1.592937e+08                  2.214858e+08                  2.983628e+08                              0.184
+2         E3     5.827060e+09     6.358458e+09     7.054718e+09             5.280852e+09                9.607105e+08                1.081280e+09                1.231141e+09                  6.300227e+07                  1.159873e+08                  1.797297e+08                              0.097
+3         E4     5.879073e+09     6.417930e+09     7.126459e+09             5.280852e+09                1.011052e+09                1.137999e+09                1.293972e+09                  6.043516e+06                  5.995249e+07                  1.189025e+08                              0.050
+4   E2_pleno     5.566358e+09     6.071022e+09     6.730812e+09             5.280852e+09                6.982512e+08                7.927891e+08                9.115926e+08                  3.369207e+08                  4.054052e+08                  4.831653e+08                              0.339
+5   E3_pleno     5.670526e+09     6.183868e+09     6.858568e+09             5.280852e+09                8.071346e+08                9.056771e+08                1.030951e+09                  2.412374e+08                  2.922506e+08                  3.502277e+08                              0.244
+
+itens centralizados: 39; descentralizados: 11
+pf_equilibrio_E2 (prob. de fracasso do certame nacional que anula a economia, mediana): 0.413
+custo p50 centralizados (União, valor de contratação estimado): 5,280,851,689
+ação 4705 em 2024 (orçamento): dotação final 13,744,967,115; empenhado 13,744,670,658; pago 9,920,225,635; pago/empenhado 0.722
+razão custo centralizados p50 / empenhado 4705 2024: 0.384
+valor aprovado SIA 1B 12m (itens 1B descentralizados; valor financiado, outra categoria): 777,293,103
+
+economia E2 pleno por item (p50):
+    ap_id                                                 nome  eco_E2_pleno_p50  custo_E1_p50  f_nac  f_reg
+20  AP034                  OMALIZUMABE 150MG SOLUCAO INJETAVEL      8.597709e+07  2.241466e+08  0.627  0.725
+17  AP029         ELTROMBOPAGUE OLAMINA 50 MG (POR COMPRIMIDO)      8.132118e+07  3.044375e+08  0.741  0.834
+16  AP027             MEPOLIZUMABE 100 MG/ML SOLUCAO INJETAVEL      5.927951e+07  1.560437e+08  0.629  0.715
+30  AP050                DAPAGLIFLOZINA 10 MG (POR COMPRIMIDO)      5.181328e+07  1.133180e+08  0.555  0.668
+29  AP060         ELTROMBOPAGUE OLAMINA 25 MG (POR COMPRIMIDO)      3.463122e+07  1.188907e+08  0.716  0.813
+27  AP052                   MESALAZINA 500 MG (POR COMPRIMIDO)      3.300766e+07  8.958235e+07  0.646  0.751
+46  AP036                 ATORVASTATINA 40 MG (POR COMPRIMIDO)      2.051279e+07  4.199924e+07  0.548  0.709
+35  AP054                   AZATIOPRINA 50 MG (POR COMPRIMIDO)      1.635293e+07  4.673555e+07  0.679  0.715
+40  AP061                   MESALAZINA 800 MG - POR COMPRIMIDO      1.188489e+07  3.717332e+07  0.710  0.783
+49  AP070                    CALCITRIOL 0,25 MCG (POR CAPSULA)      5.234187e+06  2.611583e+07  0.806  0.806
+41  AP062  LEUPRORRELINA 3,75 MG INJETAVEL (POR FRASCO-AMPOLA)      5.140898e+06  3.872295e+07  0.872  0.910
+
+centralizados sem DLOG programático: ['AP004', 'AP005', 'AP030', 'AP010', 'AP049', 'AP035', 'AP022', 'AP063', 'AP082']
+razão preço DLOG / mediana estadual (n=27): p25=0.235 mediana=0.289 p75=0.528
+f_nac (descentralizados) mediana=0.679; f_reg mediana=0.751
+
+ok 50
