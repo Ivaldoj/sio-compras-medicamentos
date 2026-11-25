@@ -1,0 +1,99 @@
+candidatos: 90 | com CATMAT: 79 | CATMATs: 159
+preços: 0 de 159
+preços: 25 de 159
+preços: 50 de 159
+preços: 75 de 159
+preços: 100 de 159
+preços: 125 de 159
+preços: 150 de 159
+ap_id                                                                       nome    qtd_pre  teto0_unit_mediana grupo_financiamento                                                   grupo_metodo coerencia_sia
+AP001              INFLIXIMABE 10 MG /ML INJETAVEL (POR FRASCO-AMPOLA COM 10 ML)   664393.0         3455.325000                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP002                      ADALIMUMABE 40 MG INJETAVEL ( POR SERINGA PREENCHIDA)  1464173.0         1455.120000                  1A                                        concentração localizada            ok
+AP003                        ALFAEPOETINA 4.000 UI INJETAVEL (POR FRASCO-AMPOLA) 12269853.0          149.520000                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP004                         GOLIMUMABE 50 MG INJETAVEL (POR SERINGA PREENCHIDA   340593.0         4344.190000                  1A                                        concentração localizada            ok
+AP005                            SOMATROPINA 12 UI INJETAVEL (POR FRASCO-AMPOLA)  3307184.0          436.660000                  1A                                        concentração localizada            ok
+AP006      ETANERCEPTE 50 MG INJETAVEL (POR FRASCO-AMPOLA OU SERINGA PREENCHIDA)   688824.0         2046.337500                  1A                                        concentração localizada            ok
+AP007                         IMUNOGLOBULINA HUMANA 5,0 G INJETAVEL (POR FRASCO)   440345.0         2222.230000                  1B 1º grupo do trecho da substância (concentração não localizada)            ok
+AP008                TOCILIZUMABE 20 MG/ML INJETAVEL (POR FRASCO-AMPOLA DE 4 ML)   685059.0         1425.540000                  1A                                        concentração localizada            ok
+AP009                                          OLANZAPINA 10 MG (POR COMPRIMIDO) 44732880.0           17.480917                  1A                                        concentração localizada            ok
+AP010                                               TACROLIMO 1 MG (POR CAPSULA) 86259390.0            8.697800                  1A                                        concentração localizada            ok
+AP011                                         TOFACITINIBE 5 MG (POR COMPRIMIDO)  7583274.0           77.222083                  1A                                        concentração localizada            ok
+AP012       USTEQUINUMABE 45 MG/0,5ML SOLUCAO INJETAVEL (POR SERINGA PREENCHIDA)    40743.0        13916.710000                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP013                  ECULIZUMABE 10 MG/ML SOLUCAO INJETAVEL (FRASCO COM 30 ML)    26175.0        19016.680000                  1A                                        concentração localizada            ok
+AP014     UPADACITINIBE 15 MG (POR COMPRIMIDO REVESTIDO DE LIBERACAO PROLONGADA)  2427800.0          159.396000                  1A                                        concentração localizada            ok
+AP015         NUSINERSENA 2,4MG/ML SOLUCAO INJETAVEL (POR FRASCO AMPOLA DE 5 ML)     1159.0       328013.570000                  1A                                        concentração localizada            ok
+AP016                                         QUETIAPINA 200 MG (POR COMPRIMIDO) 27892673.0           13.029286                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP017                              MICOFENOLATO DE SODIO 360 MG (POR COMPRIMIDO) 38233578.0            9.499800                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP018                                     NATALIZUMABE 300MG (POR FRASCO-AMPOLA)    57837.0         6139.520000                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP019                                         QUETIAPINA 100 MG (POR COMPRIMIDO) 45381089.0            7.562000                  1A                                        concentração localizada            ok
+AP020                           IMIGLUCERASE 400 U INJETAVEL (POR FRASCO-AMPOLA)    73844.0         4461.180000                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP021                  VEDOLIZUMABE 300 MG PO LIOFILIZADO PARA SOLUCAO INJETAVEL    20866.0        15636.650000                  1A                                        concentração localizada            ok
+AP022                             SOMATROPINA 4 UI INJETAVEL (POR FRASCO-AMPOLA)  2095589.0          150.075000                  1A                                        concentração localizada            ok
+AP023           CERTOLIZUMABE PEGOL 200 MG/ML INJETAVEL (POR SERINGA PREENCHIDA)   339492.0          894.925000                  1A                                        concentração localizada            ok
+AP024                   RISDIPLAM 0,75 MG/ML PO PARA SOLUCAO ORAL (FRASCO 80 ML)     5424.0        54971.370000                  1A                                        concentração localizada            ok
+AP025           GALSULFASE 1 MG/ML SOLUCAO INJETAVEL (POR FRASCO AMPOLA DE 5 ML)    47214.0         5870.330000                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP026                                           FINGOLIMODE 0,5 MG (POR CAPSULA)  1889383.0          143.321607                  1A                                        concentração localizada            ok
+AP027                                   MEPOLIZUMABE 100 MG/ML SOLUCAO INJETAVEL    42437.0         5600.915000                  1B                                        concentração localizada            ok
+AP028                 RITUXIMABE 500 MG INJETAVEL (POR FRASCO- AMPOLA DE 50 ML )    32181.0         7231.270000                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP029                               ELTROMBOPAGUE OLAMINA 50 MG (POR COMPRIMIDO)   989692.0          233.925000                  1B                                        concentração localizada            ok
+AP030                                          SEVELAMER 800 MG (POR COMPRIMIDO) 76444509.0            3.006056                  1A                                        concentração localizada            ok
+AP031                             RISANQUIZUMABE 75 MG/0,83ML -SOLUCAO INJETAVEL    29413.0         7106.190000                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP032                                           OLANZAPINA 5 MG (POR COMPRIMIDO) 23826509.0            8.739744                  1A                                        concentração localizada            ok
+AP033                                        LAMOTRIGINA 100 MG (POR COMPRIMIDO) 39551437.0            5.054167                   2                                        concentração localizada            ok
+AP034                                        OMALIZUMABE 150MG SOLUCAO INJETAVEL    84086.0         2346.740000                  1B                                        concentração localizada            ok
+AP035                                               TACROLIMO 5 MG (POR CAPSULA)  4510291.0           43.490800                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP036                                       ATORVASTATINA 40 MG (POR COMPRIMIDO) 62149029.0            3.064417                   2                                        concentração localizada            ok
+AP037                           MICOFENOLATO DE MOFETILA 500 MG (POR COMPRIMIDO) 19264909.0            9.744680                  1A                                        concentração localizada            ok
+AP038       ALFAELOSULFASE 1 MG/ML SOLUCAO INJETAVEL (POR FRASCO AMPOLA DE 5 ML)    49877.0         3462.310000                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP039                                          BARICITINIBE 4MG (POR COMPRIMIDO)  1277212.0          125.078667                  1A                                        concentração localizada            ok
+AP040                       ALFAEPOETINA 10.000 UI INJETAVEL (POR FRASCO-AMPOLA)   407211.0          390.523333                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP041                                  FUMARATO DE DIMETILA 240 MG (POR CAPSULA)  2816761.0           55.216429                  1A                                        concentração localizada            ok
+AP042                                          CLOZAPINA 100 MG (POR COMPRIMIDO) 40138041.0            3.841333                  1A                                        concentração localizada            ok
+AP043                                                    TAFAMIDIS 20 MG CAPSULA   207650.0          732.051083                  1A                                        concentração localizada            ok
+AP044                                         CINACALCETE 30 MG (POR COMPRIMIDO) 11108344.0           13.341429                  1A                                        concentração localizada            ok
+AP045                                           GABAPENTINA 300 MG (POR CAPSULA) 62463360.0            2.257000                   2                                        concentração localizada            ok
+AP046                     TOBRAMICINA 300MG/5 ML SOLUCAO INALATORIA (POR AMPOLA)   231491.0          601.120179                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP047                                                 SIROLIMO 1 MG (POR DRAGEA)  3855213.0           36.035833                  1A                                        concentração localizada            ok
+AP048                                            ALFADORNASE 2,5 MG (POR AMPOLA)   781553.0          174.481667                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP049                                         LEFLUNOMIDA 20 MG (POR COMPRIMIDO) 18442736.0            7.192333                  1A                                        concentração localizada            ok
+AP050                                      DAPAGLIFLOZINA 10 MG (POR COMPRIMIDO) 34690356.0            3.582500                   2                                        concentração localizada            ok
+AP051                        GLATIRAMER 40 MG INJETAVEL (POR SERINGA PREENCHIDA)   298058.0          406.306667                  1A                                        concentração localizada            ok
+AP052                                         MESALAZINA 500 MG (POR COMPRIMIDO) 23789615.0            4.867800                   2                                        concentração localizada            ok
+AP053 ENOXAPARINA SODICA 40 MG/0,4 ML SOLUCAO INJETAVEL (POR SERINGA PREENCHIDA)  2404873.0           47.931000                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP054                                         AZATIOPRINA 50 MG (POR COMPRIMIDO) 52460603.0            2.075800                   2                                        concentração localizada            ok
+AP055                PARICALCITOL 5,0 MCG/ML SOLUCAO INJETAVEL (AMPOLA COM 1 ML)  2617743.0           41.172000                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP056                                          RISPERIDONA 2 MG (POR COMPRIMIDO) 30089726.0            3.436000                  1B 1º grupo do trecho da substância (concentração não localizada)            ok
+AP057                            CLORIDRATO DE DONEPEZILA 10 MG (POR COMPRIMIDO)  9957011.0            9.804667                  1A                                        concentração localizada            ok
+AP058                                         SILDENAFILA 20 MG (POR COMPRIMIDO)  5947800.0           15.953540                  1A                                        concentração localizada            ok
+AP059                                        DEFERASIROX 500 MG (POR COMPRIMIDO)  1367612.0           67.466429                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP060                               ELTROMBOPAGUE OLAMINA 25 MG (POR COMPRIMIDO)   781641.0          116.950714                  1B                                        concentração localizada            ok
+AP061                                         MESALAZINA 800 MG - POR COMPRIMIDO 29420931.0            2.668667                   2                                        concentração localizada            ok
+AP062                        LEUPRORRELINA 3,75 MG INJETAVEL (POR FRASCO-AMPOLA)   151386.0          491.155000                  1B                                        concentração localizada            ok
+AP063                                           PRAMIPEXOL 1 MG (POR COMPRIMIDO) 15372247.0            4.695700                  1A                                        concentração localizada            ok
+AP064                                          QUETIAPINA 25 MG (POR COMPRIMIDO) 31636746.0            2.271925                  1A                                        concentração localizada            ok
+AP065                                IVACAFTOR 150 MG (POR COMPRIMIDO REVESTIDO)    29964.0         2376.484018                  1A                                        concentração localizada            ok
+AP066                      ALFATALIGLICERASE 200 U INJETAVEL (POR FRASCO AMPOLA)    48569.0         1465.630000                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP067             FORMOTEROL 12 MCG + BUDESONIDA 400 MCG  (POR CAPSULA INALANTE) 51697894.0            1.375000                   2 1º grupo do trecho da substância (concentração não localizada)            ok
+AP068                                         QUETIAPINA 300 MG (POR COMPRIMIDO)  4116397.0           16.970333                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP069                                       ATORVASTATINA 20 MG (POR COMPRIMIDO) 44389338.0            1.531500                   2                                        concentração localizada            ok
+AP070                                          CALCITRIOL 0,25 MCG (POR CAPSULA) 23309486.0            2.865833                   2 1º grupo do trecho da substância (concentração não localizada)            ok
+AP071                        OCTREOTIDA  LAR 30 MG INJETAVEL (POR FRASCO-AMPOLA)     9132.0         7118.500000                  1A                                        concentração localizada            ok
+AP072           LATANOPROSTA 0,05 MG/ML SOLUCAO OFTALMICA (POR FRASCO DE 2,5 ML)   516818.0          113.410000                  1A                                        concentração localizada            ok
+AP073                                    RIVASTIGMINA 18 MG ADESIVO TRANSDERMICO  4674540.0           12.267857                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP074                   LARONIDASE 0,58 MG/ML SOLUCAO INJETAVEL (FRASCO DE 5 ML)    28132.0         1991.770000                  1A                                        concentração localizada            ok
+AP075                         LEUPRORRELINA 45 MG INJETAVEL (SERINGA PREENCHIDA)     5940.0         9366.890000                  1B 1º grupo do trecho da substância (concentração não localizada)            ok
+AP076                        ALFAEPOETINA 3.000 UI INJETAVEL (POR FRASCO-AMPOLA)   541390.0          101.306667                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP077                                       ATORVASTATINA 80 MG (POR COMPRIMIDO) 11499427.0            4.714333                   2 1º grupo do trecho da substância (concentração não localizada)            ok
+AP078                                                 SIROLIMO 2 MG (POR DRAGEA)   740819.0           72.071667                  1A                                        concentração localizada            ok
+AP079                                       TERIFLUNOMIDA 14 MG (POR COMPRIMIDO)   375604.0          139.915833                  1A                                        concentração localizada            ok
+AP080    ALENTUZUMABE 10 MG/ML SOLUCAO INJETAVEL (FRASCO-AMPOLA CONTENDO 1,2 ML)     1319.0        39570.430000                  1A                                        concentração localizada            ok
+AP081                               AMBRISENTANA 10MG (POR COMPRIMIDO REVESTIDO)   481764.0          106.313333                  1B                                        concentração localizada            ok
+AP082                                             RILUZOL 50 MG (POR COMPRIMIDO)  2655834.0           18.605333                  1A                                        concentração localizada            ok
+AP083                                         TOPIRAMATO 100 MG (POR COMPRIMIDO) 12925688.0            3.618583                   2                                        concentração localizada            ok
+AP084                         OCTREOTIDA LAR 20 MG INJETAVEL (POR FRASCO-AMPOLA)     8484.0         5273.000000                  1A                                        concentração localizada            ok
+AP085                                            EVEROLIMO 1 MG (POR COMPRIMIDO)  1804011.0           24.468667                  1A 1º grupo do trecho da substância (concentração não localizada)            ok
+AP086                                        CABERGOLINA 0,5 MG (POR COMPRIMIDO)  2060472.0           21.406250                  1A                                        concentração localizada            ok
+AP087                                             TRIENTINA 250 MG (POR CAPSULA)   185807.0          237.184400                  1A                                        concentração localizada            ok
+AP088             SACUBITRIL VALSARTANA SODICA HIDRATADA 100 MG (POR COMPRIMIDO)  9925756.0            4.304476                  1B                                        concentração localizada            ok
+AP089             SACUBITRIL VALSARTANA SODICA HIDRATADA 200 MG (POR COMPRIMIDO)  9759956.0            4.304476                  1B                                        concentração localizada            ok
+AP090                   RISPERIDONA 1,0 MG/ML SOLUCAO ORAL (POR FRASCO DE 30 ML)   407846.0           99.330000                  1B                                        concentração localizada            ok

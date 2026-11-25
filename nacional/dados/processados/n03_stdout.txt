@@ -1,0 +1,165 @@
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.registro
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.substancia
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.laboratorio
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.produto
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.apresentacao
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.tipo_produto
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.cap
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.convenio_87
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.icms_isento
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.unidades_por_embalagem
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.teto_gov_0_unit
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.teto_gov_18_unit
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.pf_sem_imposto_unit
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.ap_id
+OK    sem coluna de situação/atualização atual: cmed_teto.parquet.categoria_valor
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.ap_id
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.catmat
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.descricao_catmat
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.unidade_fornecimento
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.uf
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.esfera
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.comprador_cnpj
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.comprador_nome
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.fornecedor_cnpj
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.modalidade
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.data_compra
+OK    datas ≤ corte: precos_bps.parquet.data_compra
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.data_insercao
+OK    datas ≤ corte: precos_bps.parquet.data_insercao
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.quantidade
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.preco_unitario_praticado
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.flag_preco_extremo
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.flag_duplicata_negocio
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.id_origem
+OK    sem coluna de situação/atualização atual: precos_bps.parquet.observacao
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.ap_id
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.catmat
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.descricaoItem
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.nomeUnidadeFornecimento
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.compatibilidade
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.flag_preco_extremo
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.quantidade
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.preco_unitario
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.esfera
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.uf
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.municipio
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.codigoUasg
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.nomeUasg
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.niFornecedor
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.nomeFornecedor
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.marca
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.modalidade
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.forma_compra
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.criterioJulgamento
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.objetoCompra
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.dataCompra
+OK    datas ≤ corte: precos_comprasgov.parquet.dataCompra
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.dataResultado
+OK    datas ≤ corte: precos_comprasgov.parquet.dataResultado
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.idItemCompra
+OK    sem coluna de situação/atualização atual: precos_comprasgov.parquet.categoria_valor
+OK    sem coluna de situação/atualização atual: cesta.parquet.ap_id
+OK    sem coluna de situação/atualização atual: cesta.parquet.nome
+OK    sem coluna de situação/atualização atual: cesta.parquet.unidade_dispensacao
+OK    sem coluna de situação/atualização atual: cesta.parquet.principio
+OK    sem coluna de situação/atualização atual: cesta.parquet.concentracao
+OK    sem coluna de situação/atualização atual: cesta.parquet.forma
+OK    sem coluna de situação/atualização atual: cesta.parquet.grupo_financiamento
+OK    sem coluna de situação/atualização atual: cesta.parquet.grupo_metodo
+OK    sem coluna de situação/atualização atual: cesta.parquet.procedimentos_sigtap
+OK    sem coluna de situação/atualização atual: cesta.parquet.dispensacao_12m_pre_corte
+OK    sem coluna de situação/atualização atual: cesta.parquet.dispensacao_12m_ano_anterior
+OK    sem coluna de situação/atualização atual: cesta.parquet.valor_aprovado_sia_12m
+OK    sem coluna de situação/atualização atual: cesta.parquet.valor_unitario_financiado_sia
+OK    sem coluna de situação/atualização atual: cesta.parquet.cmed_apresentacoes
+OK    sem coluna de situação/atualização atual: cesta.parquet.cmed_laboratorios
+OK    sem coluna de situação/atualização atual: cesta.parquet.teto0_unit_min
+OK    sem coluna de situação/atualização atual: cesta.parquet.teto0_unit_mediana
+OK    sem coluna de situação/atualização atual: cesta.parquet.teto0_unit_max
+OK    sem coluna de situação/atualização atual: cesta.parquet.teto18_unit_mediana
+OK    sem coluna de situação/atualização atual: cesta.parquet.algum_cap
+OK    sem coluna de situação/atualização atual: cesta.parquet.algum_convenio_87
+OK    sem coluna de situação/atualização atual: cesta.parquet.todos_convenio_87
+OK    sem coluna de situação/atualização atual: cesta.parquet.precos_pre_n
+OK    sem coluna de situação/atualização atual: cesta.parquet.preco_pre_p25
+OK    sem coluna de situação/atualização atual: cesta.parquet.preco_pre_mediana
+OK    sem coluna de situação/atualização atual: cesta.parquet.preco_pre_p75
+OK    sem coluna de situação/atualização atual: cesta.parquet.precos_pre_ufs
+OK    sem coluna de situação/atualização atual: cesta.parquet.precos_pre_esferas
+OK    sem coluna de situação/atualização atual: cesta.parquet.posicao_relevancia
+OK    sem coluna de situação/atualização atual: cesta.parquet.data_disponibilidade
+OK    sem coluna de situação/atualização atual: cesta.parquet.base_disponibilidade
+OK    sem coluna de situação/atualização atual: demanda_mes.parquet.ap_id
+OK    sem coluna de situação/atualização atual: demanda_mes.parquet.mes_processamento
+OK    sem coluna de situação/atualização atual: demanda_mes.parquet.dispensacao
+OK    sem coluna de situação/atualização atual: demanda_uf.parquet.ap_id
+OK    sem coluna de situação/atualização atual: demanda_uf.parquet.uf
+OK    sem coluna de situação/atualização atual: demanda_uf.parquet.dispensacao_12m_pre_corte
+OK    sem coluna de situação/atualização atual: recursos_federais.csv.EXERCÍCIO
+OK    sem coluna de situação/atualização atual: recursos_federais.csv.CÓDIGO AÇÃO
+OK    sem coluna de situação/atualização atual: recursos_federais.csv.NOME AÇÃO
+OK    sem coluna de situação/atualização atual: recursos_federais.csv.orcamento_inicial
+OK    sem coluna de situação/atualização atual: recursos_federais.csv.dotacao_final_exercicio
+OK    sem coluna de situação/atualização atual: recursos_federais.csv.empenhado
+OK    sem coluna de situação/atualização atual: recursos_federais.csv.realizado_pago
+OK    sem coluna de situação/atualização atual: recursos_federais.csv.fonte
+OK    sem coluna de situação/atualização atual: recursos_federais.csv.observacao
+OK    cesta com 50 apresentações
+OK    toda apresentação da cesta tem dispensação, teto e preço pré-corte
+OK    cesta inclui aquisição centralizada (1A)
+OK    separação: nenhum preço Compras.gov.br no pacote e na avaliação
+OK    separação: BPS do pacote só com inserção ≤ corte
+ posicao_relevancia ap_id                                                                       nome grupo_financiamento  dispensacao_12m_pre_corte  preco_pre_mediana  teto0_unit_mediana  precos_pre_n
+                  1 AP004                         GOLIMUMABE 50 MG INJETAVEL (POR SERINGA PREENCHIDA                  1A                   340593.0            3089.10             4344.19          41.0
+                  2 AP012       USTEQUINUMABE 45 MG/0,5ML SOLUCAO INJETAVEL (POR SERINGA PREENCHIDA)                  1A                    40743.0           21503.97            13916.71          78.0
+                  3 AP002                      ADALIMUMABE 40 MG INJETAVEL ( POR SERINGA PREENCHIDA)                  1A                  1464173.0             573.29             1455.12          93.0
+                  4 AP007                         IMUNOGLOBULINA HUMANA 5,0 G INJETAVEL (POR FRASCO)                  1B                   440345.0            1850.00             2222.23         241.0
+                  5 AP001              INFLIXIMABE 10 MG /ML INJETAVEL (POR FRASCO-AMPOLA COM 10 ML)                  1A                   664393.0            1049.00             3455.32          84.0
+                  6 AP011                                         TOFACITINIBE 5 MG (POR COMPRIMIDO)                  1A                  7583274.0              71.68               77.22          46.0
+                  7 AP013                  ECULIZUMABE 10 MG/ML SOLUCAO INJETAVEL (FRASCO COM 30 ML)                  1A                    26175.0           15386.38            19016.68           6.0
+                  8 AP008                TOCILIZUMABE 20 MG/ML INJETAVEL (POR FRASCO-AMPOLA DE 4 ML)                  1A                   685059.0             570.20             1425.54          33.0
+                  9 AP014     UPADACITINIBE 15 MG (POR COMPRIMIDO REVESTIDO DE LIBERACAO PROLONGADA)                  1A                  2427800.0             154.56              159.40          54.0
+                 10 AP015         NUSINERSENA 2,4MG/ML SOLUCAO INJETAVEL (POR FRASCO AMPOLA DE 5 ML)                  1A                     1159.0          313889.00           328013.57          18.0
+                 11 AP005                            SOMATROPINA 12 UI INJETAVEL (POR FRASCO-AMPOLA)                  1A                  3307184.0              93.80              436.66          43.0
+                 12 AP021                  VEDOLIZUMABE 300 MG PO LIOFILIZADO PARA SOLUCAO INJETAVEL                  1A                    20866.0           14336.80            15636.65          31.0
+                 13 AP030                                          SEVELAMER 800 MG (POR COMPRIMIDO)                  1A                 76444509.0               3.83                3.01          16.0
+                 14 AP010                                               TACROLIMO 1 MG (POR CAPSULA)                  1A                 86259390.0               3.02                8.70          98.0
+                 15 AP003                        ALFAEPOETINA 4.000 UI INJETAVEL (POR FRASCO-AMPOLA)                  1A                 12269853.0              20.92              149.52         108.0
+                 16 AP024                   RISDIPLAM 0,75 MG/ML PO PARA SOLUCAO ORAL (FRASCO 80 ML)                  1A                     5424.0           43136.00            54971.37          19.0
+                 17 AP027                                   MEPOLIZUMABE 100 MG/ML SOLUCAO INJETAVEL                  1B                    42437.0            5461.28             5600.92          41.0
+                 18 AP029                               ELTROMBOPAGUE OLAMINA 50 MG (POR COMPRIMIDO)                  1B                   989692.0             233.92              233.92          68.0
+                 19 AP044                                         CINACALCETE 30 MG (POR COMPRIMIDO)                  1A                 11108344.0              19.58               13.34          25.0
+                 20 AP039                                          BARICITINIBE 4MG (POR COMPRIMIDO)                  1A                  1277212.0             149.98              125.08          12.0
+                 21 AP034                                        OMALIZUMABE 150MG SOLUCAO INJETAVEL                  1B                    84086.0            2010.53             2346.74         163.0
+                 22 AP043                                                    TAFAMIDIS 20 MG CAPSULA                  1A                   207650.0             806.67              732.05          21.0
+                 23 AP026                                           FINGOLIMODE 0,5 MG (POR CAPSULA)                  1A                  1889383.0              85.00              143.32          45.0
+                 24 AP042                                          CLOZAPINA 100 MG (POR COMPRIMIDO)                  1A                 40138041.0               3.94                3.84         129.0
+                 25 AP041                                  FUMARATO DE DIMETILA 240 MG (POR CAPSULA)                  1A                  2816761.0              52.32               55.22          16.0
+                 26 AP047                                                 SIROLIMO 1 MG (POR DRAGEA)                  1A                  3855213.0              32.65               36.04          44.0
+                 27 AP049                                         LEFLUNOMIDA 20 MG (POR COMPRIMIDO)                  1A                 18442736.0               6.52                7.19          19.0
+                 28 AP052                                         MESALAZINA 500 MG (POR COMPRIMIDO)                   2                 23789615.0               4.32                4.87          76.0
+                 29 AP035                                               TACROLIMO 5 MG (POR CAPSULA)                  1A                  4510291.0              21.80               43.49          59.0
+                 30 AP060                               ELTROMBOPAGUE OLAMINA 25 MG (POR COMPRIMIDO)                  1B                   781641.0             116.95              116.95          55.0
+                 31 AP050                                      DAPAGLIFLOZINA 10 MG (POR COMPRIMIDO)                   2                 34690356.0               2.21                3.58         187.0
+                 32 AP058                                         SILDENAFILA 20 MG (POR COMPRIMIDO)                  1A                  5947800.0              11.86               15.95          38.0
+                 33 AP071                        OCTREOTIDA  LAR 30 MG INJETAVEL (POR FRASCO-AMPOLA)                  1A                     9132.0            6811.97             7118.50          39.0
+                 34 AP022                             SOMATROPINA 4 UI INJETAVEL (POR FRASCO-AMPOLA)                  1A                  2095589.0              25.23              150.07          44.0
+                 35 AP055                PARICALCITOL 5,0 MCG/ML SOLUCAO INJETAVEL (AMPOLA COM 1 ML)                  1A                  2617743.0              18.42               41.17          13.0
+                 36 AP054                                         AZATIOPRINA 50 MG (POR COMPRIMIDO)                   2                 52460603.0               0.89                2.08         207.0
+                 37 AP085                                            EVEROLIMO 1 MG (POR COMPRIMIDO)                  1A                  1804011.0              25.00               24.47          19.0
+                 38 AP053 ENOXAPARINA SODICA 40 MG/0,4 ML SOLUCAO INJETAVEL (POR SERINGA PREENCHIDA)                  1A                  2404873.0              18.24               47.93        1948.0
+                 39 AP084                         OCTREOTIDA LAR 20 MG INJETAVEL (POR FRASCO-AMPOLA)                  1A                     8484.0            5045.93             5273.00          32.0
+                 40 AP078                                                 SIROLIMO 2 MG (POR DRAGEA)                  1A                   740819.0              57.72               72.07          16.0
+                 41 AP061                                         MESALAZINA 800 MG - POR COMPRIMIDO                   2                 29420931.0               1.42                2.67         100.0
+                 42 AP062                        LEUPRORRELINA 3,75 MG INJETAVEL (POR FRASCO-AMPOLA)                  1B                   151386.0             271.50              491.16         110.0
+                 43 AP080    ALENTUZUMABE 10 MG/ML SOLUCAO INJETAVEL (FRASCO-AMPOLA CONTENDO 1,2 ML)                  1A                     1319.0           31050.90            39570.43          15.0
+                 44 AP063                                           PRAMIPEXOL 1 MG (POR COMPRIMIDO)                  1A                 15372247.0               2.50                4.70          29.0
+                 45 AP068                                         QUETIAPINA 300 MG (POR COMPRIMIDO)                  1A                  4116397.0               8.81               16.97          51.0
+                 46 AP016                                         QUETIAPINA 200 MG (POR COMPRIMIDO)                  1A                 27892673.0               1.30               13.03         131.0
+                 47 AP036                                       ATORVASTATINA 40 MG (POR COMPRIMIDO)                   2                 62149029.0               0.58                3.06         123.0
+                 48 AP059                                        DEFERASIROX 500 MG (POR COMPRIMIDO)                  1A                  1367612.0              22.99               67.47          23.0
+                 49 AP082                                             RILUZOL 50 MG (POR COMPRIMIDO)                  1A                  2655834.0              11.70               18.61          23.0
+                 50 AP070                                          CALCITRIOL 0,25 MCG (POR CAPSULA)                   2                 23309486.0               1.20                2.87         124.0
+grupos: {'1A': 38, '1B': 6, '2': 6} | relevância total (R$): 11115843832.0
+excluídos por qualidade entre os 90 candidatos: {'ok': 70, 'menos de 5 preços compatíveis pré-corte': 20}
