@@ -1,0 +1,17 @@
+arquivo,resultado,max_desvio_rel
+trabalho/custos_item_estrategia.csv,idêntico byte a byte,0.0
+trabalho/demanda_projecao.csv,idêntico byte a byte,0.0
+trabalho/demanda_uf_projecao.csv,idêntico byte a byte,0.0
+trabalho/elasticidade.csv,idêntico byte a byte,0.0
+trabalho/explora_bps_resumo.csv,difere; maior desvio relativo numérico=2.85e+01; células texto diferentes=326,28.5
+trabalho/explora_cesta.csv,idêntico byte a byte,0.0
+trabalho/explora_cg_resumo.csv,difere; maior desvio relativo numérico=1.64e+02; células texto diferentes=255,164.0
+trabalho/explora_cmed.csv,idêntico byte a byte,0.0
+trabalho/explora_demanda_mes.csv,idêntico byte a byte,0.0
+trabalho/mc_resumo.txt,idêntico byte a byte,0.0
+trabalho/precos_referencia.csv,idêntico byte a byte,0.0
+trabalho/sensibilidade.csv,idêntico byte a byte,0.0
+saida/03_comparacao.csv,idêntico byte a byte,0.0
+saida/plano_por_apresentacao.csv,idêntico byte a byte,0.0
+saida/registro_decisoes.csv,idêntico byte a byte,0.0
+saida/registro_hipoteses.csv,idêntico byte a byte,0.0

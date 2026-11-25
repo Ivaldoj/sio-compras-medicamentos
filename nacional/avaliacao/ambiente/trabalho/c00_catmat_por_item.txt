@@ -1,0 +1,132 @@
+     ap_id  catmat                                                                                 d                    u                                                        c     n         pmed
+0    AP001  333447         INFLIXIMABE, DOSAGEM: 100 MG, FORMA FARMACÊUTICA: PÓ LIÓFILO P/INJETÁVEL         FRASCO-AMPOLA                                               compativel    83    1049.0000
+1    AP001  333447         INFLIXIMABE, DOSAGEM: 100 MG, FORMA FARMACÊUTICA: PÓ LIÓFILO P/INJETÁVEL               SERINGA                                               compativel     4     867.6750
+2    AP001  333447         INFLIXIMABE, DOSAGEM: 100 MG, FORMA FARMACÊUTICA: PÓ LIÓFILO P/INJETÁVEL                  None        a_conferir: unidade de fornecimento não informada     3    1135.0000
+3    AP002  290058                ADALIMUMABE, CONCENTRAÇÃO: 40 MG, APRESENTAÇÃO: SOLUÇÃO INJETÁVEL               SERINGA                                               compativel    73     540.0000
+4    AP002  290058                ADALIMUMABE, CONCENTRAÇÃO: 40 MG, APRESENTAÇÃO: SOLUÇÃO INJETÁVEL         FRASCO-AMPOLA                                               compativel    20     612.9100
+5    AP002  290058                ADALIMUMABE, CONCENTRAÇÃO: 40 MG, APRESENTAÇÃO: SOLUÇÃO INJETÁVEL                  None        a_conferir: unidade de fornecimento não informada     4     490.2800
+6    AP003  465319              ALFAEPOETINA, CONCENTRAÇÃO: 4.000 UI, FORMA FARMACEUTICA: INJETÁVEL         FRASCO-AMPOLA                                               compativel    43      19.6900
+7    AP003  465319              ALFAEPOETINA, CONCENTRAÇÃO: 4.000 UI, FORMA FARMACEUTICA: INJETÁVEL                AMPOLA                                               compativel    22      25.2100
+8    AP003  436085  ALFAEPOETINA, CONCENTRAÇÃO: 4.000 UI, FORMA FARMACEUTICA: PÓ LIÓFILO P/ INJETÁVE        FRASCO-AMPOLA                                               compativel    19      20.9500
+9    AP003  436085  ALFAEPOETINA, CONCENTRAÇÃO: 4.000 UI, FORMA FARMACEUTICA: PÓ LIÓFILO P/ INJETÁVE               FRASCO                                               compativel     8      20.8150
+10   AP003  465319              ALFAEPOETINA, CONCENTRAÇÃO: 4.000 UI, FORMA FARMACEUTICA: INJETÁVEL               SERINGA                                               compativel     7      45.0000
+11   AP003  436085  ALFAEPOETINA, CONCENTRAÇÃO: 4.000 UI, FORMA FARMACEUTICA: PÓ LIÓFILO P/ INJETÁVE               AMPOLA                                               compativel     6      21.2750
+12   AP003  465319              ALFAEPOETINA, CONCENTRAÇÃO: 4.000 UI, FORMA FARMACEUTICA: INJETÁVEL                FRASCO                                               compativel     4      19.4900
+13   AP003  465319              ALFAEPOETINA, CONCENTRAÇÃO: 4.000 UI, FORMA FARMACEUTICA: INJETÁVEL                  None        a_conferir: unidade de fornecimento não informada     3      17.9000
+14   AP003  436085  ALFAEPOETINA, CONCENTRAÇÃO: 4.000 UI, FORMA FARMACEUTICA: PÓ LIÓFILO P/ INJETÁVE                 None        a_conferir: unidade de fornecimento não informada     1      20.0000
+15   AP004  414431  GOLIMUMABE, CONCENTRAÇÃO: 50 MG, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL , CARACTE              SERINGA                                               compativel    26    2892.8700
+16   AP004  414430  GOLIMUMABE, CONCENTRAÇÃO: 50 MG, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL , CARACTE              SERINGA                                               compativel    15    3261.9900
+17   AP005  404846  SOMATROPINA, COMPOSIÇÃO: SOMATOTROFINA HUMANA RECOMBINANTE , CONCENTRAÇÃO: 12 UI        FRASCO-AMPOLA                                               compativel    42      93.6300
+18   AP005  404846  SOMATROPINA, COMPOSIÇÃO: SOMATOTROFINA HUMANA RECOMBINANTE , CONCENTRAÇÃO: 12 UI               FRASCO                                               compativel     3     124.4900
+19   AP005  404846  SOMATROPINA, COMPOSIÇÃO: SOMATOTROFINA HUMANA RECOMBINANTE , CONCENTRAÇÃO: 12 UI  UNID. INTERNACIONAL  a_conferir: unidade de fornecimento unid. internacional     2     128.7450
+20   AP007  455199          IMUNOGLOBULINA HUMANA, CONCENTRAÇÃO: 5 G, FORMA FARMACEUTICA: INJETÁVEL         FRASCO-AMPOLA                                               compativel    88    1795.9500
+21   AP007  455199          IMUNOGLOBULINA HUMANA, CONCENTRAÇÃO: 5 G, FORMA FARMACEUTICA: INJETÁVEL                FRASCO                                               compativel    68    1975.4500
+22   AP007  450100  IMUNOGLOBULINA HUMANA, CONCENTRAÇÃO: 5 G, FORMA FARMACEUTICA: PÓ LIÓFILO P/ INJE        FRASCO-AMPOLA                                               compativel    54    1831.4000
+23   AP007  450100  IMUNOGLOBULINA HUMANA, CONCENTRAÇÃO: 5 G, FORMA FARMACEUTICA: PÓ LIÓFILO P/ INJE               FRASCO                                               compativel    16    1943.5350
+24   AP007  455199          IMUNOGLOBULINA HUMANA, CONCENTRAÇÃO: 5 G, FORMA FARMACEUTICA: INJETÁVEL                AMPOLA                                               compativel    11     275.9000
+25   AP007  455199          IMUNOGLOBULINA HUMANA, CONCENTRAÇÃO: 5 G, FORMA FARMACEUTICA: INJETÁVEL               SERINGA                                               compativel     6    1993.5300
+26   AP007  450100  IMUNOGLOBULINA HUMANA, CONCENTRAÇÃO: 5 G, FORMA FARMACEUTICA: PÓ LIÓFILO P/ INJE               AMPOLA                                               compativel     1    2081.1000
+27   AP007  450100  IMUNOGLOBULINA HUMANA, CONCENTRAÇÃO: 5 G, FORMA FARMACEUTICA: PÓ LIÓFILO P/ INJE                 None        a_conferir: unidade de fornecimento não informada     1     343.2400
+28   AP008  388383      TOCILIZUMABE, CONCENTRAÇÃO: 20 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL                FRASCO                                               compativel    15     570.2000
+29   AP008  388383      TOCILIZUMABE, CONCENTRAÇÃO: 20 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL         FRASCO-AMPOLA                                               compativel    15     570.2000
+30   AP008  388383      TOCILIZUMABE, CONCENTRAÇÃO: 20 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL                  None        a_conferir: unidade de fornecimento não informada     4    1129.1550
+31   AP008  388383      TOCILIZUMABE, CONCENTRAÇÃO: 20 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL               SERINGA                                               compativel     3    1705.1900
+32   AP010  268098                                                          TACROLIMO, DOSAGEM: 1 MG              CÁPSULA                                               compativel    85       2.9900
+33   AP010  462016  TACROLIMO, CONCENTRAÇÃO: 1 MG, CARACTERÍSTICAS ADICIONAIS: LIBERAÇÃO PROLONGADA               CÁPSULA                                               compativel    15       3.4400
+34   AP010  462016  TACROLIMO, CONCENTRAÇÃO: 1 MG, CARACTERÍSTICAS ADICIONAIS: LIBERAÇÃO PROLONGADA               BISNAGA              a_conferir: unidade de fornecimento bisnaga     9      76.0000
+35   AP010  268098                                                          TACROLIMO, DOSAGEM: 1 MG              BISNAGA              a_conferir: unidade de fornecimento bisnaga     3     233.3170
+36   AP010  268098                                                          TACROLIMO, DOSAGEM: 1 MG                 None        a_conferir: unidade de fornecimento não informada     2       3.2450
+37   AP010  268098                                                          TACROLIMO, DOSAGEM: 1 MG               AMPOLA               a_conferir: unidade de fornecimento ampola     1       4.8500
+38   AP011  434872                       TOFACITINIBE, COMPOSIÇÃO*: SAL CITRATO , CONCENTRAÇÃO: 5 MG           COMPRIMIDO                                               compativel    46      71.6800
+39   AP012  400563     USTEQUINUMABE, CONCENTRAÇÃO: 90 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL               SERINGA                                               compativel    32   16411.5950
+40   AP012  400563     USTEQUINUMABE, CONCENTRAÇÃO: 90 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL         FRASCO-AMPOLA                                               compativel    18   18808.2500
+41   AP012  400563     USTEQUINUMABE, CONCENTRAÇÃO: 90 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL                FRASCO                                               compativel    16   21503.9700
+42   AP012  611129  USTEQUINUMABE, CONCENTRAÇÃO: 90 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL , A              SERINGA                                               compativel    10   23200.9000
+43   AP012  611129  USTEQUINUMABE, CONCENTRAÇÃO: 90 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL , A        FRASCO-AMPOLA                                               compativel     3   26500.0000
+44   AP012  400563     USTEQUINUMABE, CONCENTRAÇÃO: 90 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL                  None        a_conferir: unidade de fornecimento não informada     1   22310.3700
+45   AP013  368694       ECULIZUMABE, CONCENTRAÇÃO: 10 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL                FRASCO                                               compativel     6   15386.3800
+46   AP014  477410  UPADACITINIBE, CONCENTRAÇÃO: 15 MG, CARACTERÍSTICAS ADICIONAIS: LIBERAÇÃO PROLON           COMPRIMIDO                                               compativel    55     154.5600
+47   AP015  439252      NUSINERSENA, CONCENTRAÇÃO: 2,4 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL                FRASCO                                               compativel    18  313889.0000
+48   AP015  439252      NUSINERSENA, CONCENTRAÇÃO: 2,4 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL                  None        a_conferir: unidade de fornecimento não informada     2  222528.8600
+49   AP016  272833                                                       QUETIAPINA, DOSAGEM: 200 MG           COMPRIMIDO                                               compativel    99       1.2000
+50   AP016  390007       QUETIAPINA, CONCENTRAÇÃO: 200 MG, FORMA FARMACÊUTICA: LIBERAÇÃO PROLONGADA            COMPRIMIDO                                               compativel    44       5.2900
+51   AP016  272833                                                       QUETIAPINA, DOSAGEM: 200 MG                 None        a_conferir: unidade de fornecimento não informada     2       1.6900
+52   AP021  436461  VEDOLIZUMABE, CONCENTRAÇÃO: 300 MG, FORMA FARMACÊUTICA: PÓ LIÓFILO P/ INJETÁVEL         FRASCO-AMPOLA                                               compativel    30   14336.7900
+53   AP021  436461  VEDOLIZUMABE, CONCENTRAÇÃO: 300 MG, FORMA FARMACÊUTICA: PÓ LIÓFILO P/ INJETÁVEL                  None        a_conferir: unidade de fornecimento não informada     1   12928.8400
+54   AP021  436461  VEDOLIZUMABE, CONCENTRAÇÃO: 300 MG, FORMA FARMACÊUTICA: PÓ LIÓFILO P/ INJETÁVEL               SERINGA                                               compativel     1   19293.5000
+55   AP022  437646  SOMATROPINA, CONCENTRAÇÃO: 4 UI, FORMA FARMACEUTICA: PÓ LIÓFILO P/ INJETÁVEL + D        FRASCO-AMPOLA                                               compativel    33      24.9000
+56   AP022  446832  SOMATROPINA, COMPOSIÇÃO: SOMATOTROFINA HUMANA RECOMBINANTE , CONCENTRAÇÃO: 4 UI,        FRASCO-AMPOLA                                               compativel    12      26.9400
+57   AP022  446832  SOMATROPINA, COMPOSIÇÃO: SOMATOTROFINA HUMANA RECOMBINANTE , CONCENTRAÇÃO: 4 UI,  UNID. INTERNACIONAL  a_conferir: unidade de fornecimento unid. internacional     3       4.4900
+58   AP022  437646  SOMATROPINA, CONCENTRAÇÃO: 4 UI, FORMA FARMACEUTICA: PÓ LIÓFILO P/ INJETÁVEL + D               FRASCO                                               compativel     2      41.6200
+59   AP022  446832  SOMATROPINA, COMPOSIÇÃO: SOMATOTROFINA HUMANA RECOMBINANTE , CONCENTRAÇÃO: 4 UI,               TUBETE                                               compativel     1     656.9000
+60   AP022  437646  SOMATROPINA, CONCENTRAÇÃO: 4 UI, FORMA FARMACEUTICA: PÓ LIÓFILO P/ INJETÁVEL + D  UNID. INTERNACIONAL  a_conferir: unidade de fornecimento unid. internacional     1      19.1600
+61   AP024  478939    RISDIPLAM, CONCENTRAÇÃO: 0,75 MG/ML, FORMA FARMACÊUTICA: PÓ PARA SOLUÇÃO ORAL                FRASCO                                               compativel    19   43136.0000
+62   AP026  412094                                      FINGOLIMODE CLORIDRATO, CONCENTRAÇÃO: 0,5 MG              CÁPSULA                                               compativel    46      86.0000
+63   AP027  457885             MEPOLIZUMABE, CONCENTRAÇÃO: 100 MG/ML, FORMA FARMACÊUTICA: INJETÁVEL         FRASCO-AMPOLA                                               compativel    40    5209.0950
+64   AP027  457885             MEPOLIZUMABE, CONCENTRAÇÃO: 100 MG/ML, FORMA FARMACÊUTICA: INJETÁVEL                  None        a_conferir: unidade de fornecimento não informada     1    5024.2100
+65   AP027  457885             MEPOLIZUMABE, CONCENTRAÇÃO: 100 MG/ML, FORMA FARMACÊUTICA: INJETÁVEL               SERINGA                                               compativel     1    8026.1500
+66   AP029  410020                                          ELTROMBOPAG OLAMINA, CONCENTRAÇÃO: 50 MG           COMPRIMIDO                                               compativel    68     233.9200
+67   AP029  410020                                          ELTROMBOPAG OLAMINA, CONCENTRAÇÃO: 50 MG                 None        a_conferir: unidade de fornecimento não informada     1     239.5400
+68   AP030  272083                          SEVELAMER, PRINCÍPIO ATIVO: CLORIDRATO , DOSAGEM: 800 MG           COMPRIMIDO                                               compativel    17       3.8300
+69   AP034  452740                 OMALIZUMABE, CONCENTRAÇÃO: 150 MG, FORMA FARMACÊUTICA: INJETÁVEL         FRASCO-AMPOLA                                               compativel   131    2010.5300
+70   AP034  452740                 OMALIZUMABE, CONCENTRAÇÃO: 150 MG, FORMA FARMACÊUTICA: INJETÁVEL               SERINGA                                               compativel    32    2149.0000
+71   AP034  452740                 OMALIZUMABE, CONCENTRAÇÃO: 150 MG, FORMA FARMACÊUTICA: INJETÁVEL                  None        a_conferir: unidade de fornecimento não informada     2    1828.3850
+72   AP035  268097                                                          TACROLIMO, DOSAGEM: 5 MG              CÁPSULA                                               compativel    54      21.4000
+73   AP035  462015  TACROLIMO, CONCENTRAÇÃO: 5 MG, CARACTERÍSTICAS ADICIONAIS: LIBERAÇÃO PROLONGADA               CÁPSULA                                               compativel     5      24.1800
+74   AP035  268097                                                          TACROLIMO, DOSAGEM: 5 MG                 None        a_conferir: unidade de fornecimento não informada     1      16.6800
+75   AP036  268082                                             ATORVASTATINA CÁLCICA, DOSAGEM: 40 MG           COMPRIMIDO                                               compativel   126       0.5800
+76   AP039  472278                                                  BARICITINIBE, CONCENTRAÇÃO: 4 MG           COMPRIMIDO                                               compativel    13     149.9800
+77   AP041  437870  FUMARATO DE DIMETILA, CONCENTRAÇÃO: 240 MG, CARACTERÍSTICAS ADICIONAIS: LIBERAÇÃ              CÁPSULA                                               compativel    20      50.0150
+78   AP041  437870  FUMARATO DE DIMETILA, CONCENTRAÇÃO: 240 MG, CARACTERÍSTICAS ADICIONAIS: LIBERAÇÃ                 None        a_conferir: unidade de fornecimento não informada     1      51.0000
+79   AP042  272431                                                        CLOZAPINA, DOSAGEM: 100 MG           COMPRIMIDO                                               compativel   131       3.9400
+80   AP042  272431                                                        CLOZAPINA, DOSAGEM: 100 MG                 None        a_conferir: unidade de fornecimento não informada     3       1.7300
+81   AP043  417811                                                    TAFAMIDIS, CONCENTRAÇÃO: 20 MG              CÁPSULA                                               compativel    21     806.6700
+82   AP044  304788                                                  CINACALCETE, CONCENTRAÇÃO: 30 MG           COMPRIMIDO                                               compativel    30      18.8300
+83   AP047  285817                                                           SIROLIMO, DOSAGEM: 1 MG               DRÁGEA                                               compativel    44      32.6500
+84   AP049  268114                                                      LEFLUNOMIDA, DOSAGEM: 20 MG            COMPRIMIDO                                               compativel    20       6.6980
+85   AP050  432908                                               DAPAGLIFLOZINA, CONCENTRAÇÃO: 10 MG           COMPRIMIDO                                               compativel   197       2.2400
+86   AP052  292236                                                  MESALAZINA, CONCENTRAÇÃO: 500 MG           COMPRIMIDO                                               compativel    38       2.7750
+87   AP052  448859       MESALAZINA, CONCENTRAÇÃO: 500 MG, FORMA FARMACÊUTICA: LIBERAÇÃO PROLONGADA            COMPRIMIDO                                               compativel    18       4.3650
+88   AP052  352414                  MESALAZINA, CONCENTRAÇÃO: 500 MG, FORMA FARMACÊUTICA: USO RETAL           SUPOSITÓRIO                                               compativel    13       4.7100
+89   AP052  292236                                                  MESALAZINA, CONCENTRAÇÃO: 500 MG          SUPOSITÓRIO                                               compativel     4       4.0200
+90   AP052  352414                  MESALAZINA, CONCENTRAÇÃO: 500 MG, FORMA FARMACÊUTICA: USO RETAL            COMPRIMIDO                                               compativel     3       4.7100
+91   AP052  292236                                                  MESALAZINA, CONCENTRAÇÃO: 500 MG                 None        a_conferir: unidade de fornecimento não informada     2       2.9500
+92   AP052  352414                  MESALAZINA, CONCENTRAÇÃO: 500 MG, FORMA FARMACÊUTICA: USO RETAL                  None        a_conferir: unidade de fornecimento não informada     1       4.4600
+93   AP052  448859       MESALAZINA, CONCENTRAÇÃO: 500 MG, FORMA FARMACÊUTICA: LIBERAÇÃO PROLONGADA           SUPOSITÓRIO                                               compativel     1       4.5500
+94   AP053  448982  ENOXAPARINA, CONCENTRAÇÃO: 100 MG/ML, FORMA FARMACEUTICA: SOLUÇÃO INJETÁVEL , CA              SERINGA                                               compativel  1956      18.2700
+95   AP053  448982  ENOXAPARINA, CONCENTRAÇÃO: 100 MG/ML, FORMA FARMACEUTICA: SOLUÇÃO INJETÁVEL , CA                 None        a_conferir: unidade de fornecimento não informada   221      23.9500
+96   AP054  268083                                                  AZATIOPRINA, CONCENTRAÇÃO: 50 MG           COMPRIMIDO                                               compativel   208       0.8950
+97   AP054  268083                                                  AZATIOPRINA, CONCENTRAÇÃO: 50 MG                 None        a_conferir: unidade de fornecimento não informada     9       1.0600
+98   AP055  400476      PARICALCITOL, CONCENTRAÇÃO: 5 MCG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL                AMPOLA                                               compativel    13      18.4200
+99   AP058  319883                        SILDENAFILA, COMPOSIÇÃO: SAL CITRATO , CONCENTRAÇÃO: 20 MG           COMPRIMIDO                                               compativel    39      11.7500
+100  AP058  319883                        SILDENAFILA, COMPOSIÇÃO: SAL CITRATO , CONCENTRAÇÃO: 20 MG               FRASCO               a_conferir: unidade de fornecimento frasco     2    1407.2950
+101  AP058  319883                        SILDENAFILA, COMPOSIÇÃO: SAL CITRATO , CONCENTRAÇÃO: 20 MG                 None        a_conferir: unidade de fornecimento não informada     1       8.9000
+102  AP059  325837    DEFERASIROX, CONCENTRAÇÃO: 500 MG, FORMA FARMACÊUTICA: COMPRIMIDO DISPERSÍVEL            COMPRIMIDO                                               compativel    23      22.9900
+103  AP060  410019                                          ELTROMBOPAG OLAMINA, CONCENTRAÇÃO: 25 MG           COMPRIMIDO                                               compativel    55     116.9500
+104  AP060  410019                                          ELTROMBOPAG OLAMINA, CONCENTRAÇÃO: 25 MG                 None        a_conferir: unidade de fornecimento não informada     1     119.7600
+105  AP061  292238                                                  MESALAZINA, CONCENTRAÇÃO: 800 MG           COMPRIMIDO                                               compativel    88       1.4000
+106  AP061  604259       MESALAZINA, CONCENTRAÇÃO: 800 MG, FORMA FARMACÊUTICA: LIBERAÇÃO PROLONGADA            COMPRIMIDO                                               compativel    12       1.6800
+107  AP061  292238                                                  MESALAZINA, CONCENTRAÇÃO: 800 MG                 None        a_conferir: unidade de fornecimento não informada     1       1.3600
+108  AP062  305257  LEUPRORRELINA ACETATO, CONCENTRAÇÃO: 3,75 MG, FORMA FARMACÊUTICA: PÓ LIÓFILO P/I        FRASCO-AMPOLA                                               compativel    83     273.1800
+109  AP062  305257  LEUPRORRELINA ACETATO, CONCENTRAÇÃO: 3,75 MG, FORMA FARMACÊUTICA: PÓ LIÓFILO P/I              SERINGA                                               compativel    26     260.6250
+110  AP062  305257  LEUPRORRELINA ACETATO, CONCENTRAÇÃO: 3,75 MG, FORMA FARMACÊUTICA: PÓ LIÓFILO P/I                 None        a_conferir: unidade de fornecimento não informada     3     218.0000
+111  AP062  305257  LEUPRORRELINA ACETATO, CONCENTRAÇÃO: 3,75 MG, FORMA FARMACÊUTICA: PÓ LIÓFILO P/I               FRASCO                                               compativel     1     299.9900
+112  AP063  272826                                                         PRAMIPEXOL, DOSAGEM: 1 MG           COMPRIMIDO                                               compativel    29       2.5000
+113  AP068  390006       QUETIAPINA, CONCENTRAÇÃO: 300 MG, FORMA FARMACÊUTICA: LIBERAÇÃO PROLONGADA            COMPRIMIDO                                               compativel    33      11.0000
+114  AP068  449243                                                  QUETIAPINA, CONCENTRAÇÃO: 300 MG           COMPRIMIDO                                               compativel    31       1.6300
+115  AP068  449243                                                  QUETIAPINA, CONCENTRAÇÃO: 300 MG                 None        a_conferir: unidade de fornecimento não informada     2       0.7650
+116  AP070  271101                                                CALCITRIOL, CONCENTRAÇÃO: 0,25 MCG              CÁPSULA                                               compativel   125       1.2100
+117  AP070  271101                                                CALCITRIOL, CONCENTRAÇÃO: 0,25 MCG                 None        a_conferir: unidade de fornecimento não informada     4       1.4300
+118  AP070  271101                                                CALCITRIOL, CONCENTRAÇÃO: 0,25 MCG               AMPOLA               a_conferir: unidade de fornecimento ampola     3       1.1000
+119  AP071  342981  OCTREOTIDA, COMPOSIÇÃO: SAL ACETATO , CONCENTRAÇÃO: 30 MG, FORMA FARMACEUTICA: P        FRASCO-AMPOLA                                               compativel    39    6811.9700
+120  AP071  342981  OCTREOTIDA, COMPOSIÇÃO: SAL ACETATO , CONCENTRAÇÃO: 30 MG, FORMA FARMACEUTICA: P               AMPOLA                                               compativel     1      44.0900
+121  AP071  342981  OCTREOTIDA, COMPOSIÇÃO: SAL ACETATO , CONCENTRAÇÃO: 30 MG, FORMA FARMACEUTICA: P                 None        a_conferir: unidade de fornecimento não informada     1    5817.2300
+122  AP078  285818                                                           SIROLIMO, DOSAGEM: 2 MG               DRÁGEA                                               compativel    16      57.7223
+123  AP078  285818                                                           SIROLIMO, DOSAGEM: 2 MG                 None        a_conferir: unidade de fornecimento não informada     1      46.2000
+124  AP080  388865      ALENTUZUMABE, CONCENTRAÇÃO: 10 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL                FRASCO                                               compativel    15   31050.9000
+125  AP080  388865      ALENTUZUMABE, CONCENTRAÇÃO: 10 MG/ML, FORMA FARMACÊUTICA: SOLUÇÃO INJETÁVEL                  None        a_conferir: unidade de fornecimento não informada     1    9648.5400
+126  AP082  272838                                                           RILUZOL, DOSAGEM: 50 MG           COMPRIMIDO                                               compativel    26      12.8950
+127  AP084  342980  OCTREOTIDA, COMPOSIÇÃO: SAL ACETATO , CONCENTRAÇÃO: 20 MG, FORMA FARMACEUTICA: P        FRASCO-AMPOLA                                               compativel    32    5045.9300
+128  AP084  342980  OCTREOTIDA, COMPOSIÇÃO: SAL ACETATO , CONCENTRAÇÃO: 20 MG, FORMA FARMACEUTICA: P                 None        a_conferir: unidade de fornecimento não informada     1    4309.0900
+129  AP085  369179                                                     EVEROLIMO, CONCENTRAÇÃO: 1 MG           COMPRIMIDO                                               compativel    19      25.0000
+130  AP085  369179                                                     EVEROLIMO, CONCENTRAÇÃO: 1 MG                 None        a_conferir: unidade de fornecimento não informada     1      29.1500

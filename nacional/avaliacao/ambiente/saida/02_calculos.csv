@@ -1,0 +1,33 @@
+id,verificacao,onde_declarado,valor_declarado,valor_recalculado,confere,classificacao,nota
+C01,"Custo total E1 p50 (p05-p95), R$ mi",00_resumo; 03_comparacao,6.475 (5.930-7.185),6475 (5930-7185),sim,CALCULADO,
+C02,"Custo total E2 p50 (p05-p95), R$ mi",00_resumo; 03_comparacao,6.255 (5.731-6.935),6255 (5731-6935),sim,CALCULADO,
+C03,"Economia potencial E2 x E1 no horizonte, R$ mi",00_resumo; 05_economia,221 (159-298),221 (159-298),sim,CALCULADO,
+C04,"Economia E2 em regime pleno, R$ mi",00_resumo; 05_economia,405 (337-483),405 (337-483),sim,CALCULADO,apresentada como referência e não somada à do horizonte (correto)
+C05,Economia E2 em % do custo E1 dos descentralizados,03_comparacao,"18,4%",0.184,sim,CALCULADO,
+C06,"Custo dos 39 centralizados (p50), R$ mi",00_resumo,5.281,5281,sim,CALCULADO,
+C07,Centralizados / empenhado 4705 em 2024,01_diagnostico; 04_recomendacao,"38% de R$ 13,74 bi",0.384,sim,CALCULADO,"categorias diferentes comparadas só como ordem de grandeza, sem soma (adequado)"
+C08,Pago/empenhado 4705 em 2024,05_economia,72%,0.722,sim,CALCULADO,a coluna 'realizado' do Portal foi rotulada como pago pelo pacote
+C09_E3,"Custo total E3 p50, R$ mi",00_resumo; 03_comparacao,6358,6358,sim,CALCULADO,
+C09_E4,"Custo total E4 p50, R$ mi",00_resumo; 03_comparacao,6418,6418,sim,CALCULADO,
+C10,Ordenação E2<E3<E4<E1 'em todos os percentis',03_comparacao §2,vale em todos os percentis,fração de sorteios pareados: E2<E3 0.995; E3<E4 0.862; E4<E1 1.000,parcial,CALCULADO,o decisor comparou percentis marginais; a checagem por sorteio pareado é a adequada
+C11,Beta volume-preço por segmento (IC90),01_diagnostico §3,"-0,085 (-0,118 a -0,072); -0,080 (-0,099 a -0,067)",-0.085 (-0.118 a -0.072); -0.080 (-0.099 a -0.067),sim,CALCULADO,"reproduzido byte a byte; é associação transversal, como o decisor declara"
+C12,Decuplicar o volume reduz o preço em ~17-18%,01_diagnostico,17-18%,0.179; 0.169,sim,CALCULADO,
+C13,Razão DLOG/mediana estadual (n=27),00_resumo; 01_diagnostico,"0,29 (p25 0,24; p75 0,53)",n=27; 0.289 (0.235; 0.528),sim,CALCULADO,"mistura volume, PDP e negociação; o decisor não a usa no valor central (adequado)"
+C14,Probabilidade de fracasso do certame que anula a economia,00_resumo; 03_comparacao; 04_recomendacao,~41%,fórmula do decisor 0.413; fórmula correta 0.704,não,CALCULADO,erro conceitual: extra_falha (p75 - preço E2) já contém a perda da economia; dividir por eco+extra conta a perda duas vezes. O erro é conservador: o limiar correto é ~70%
+C15,Seis itens concentram ~85% da economia (regime pleno),00_resumo; 05_economia,~85%,0.854,sim,CALCULADO,soma de medianas por item (aproximação aceitável)
+C16,"Grupos na cesta: 38 1A, 6 1B, 6 2",01_diagnostico,38/6/6,"{'1A': 38, '1B': 6, '2': 6}",sim,OBSERVADO,
+C17,Itens 1A sem compra DLOG programática,01_diagnostico Q11,"9 (AP004, AP005, AP010, AP022, AP030, AP035, AP049, AP063, AP082)","9 ['AP004', 'AP005', 'AP010', 'AP022', 'AP030', 'AP035', 'AP049', 'AP063', 'AP082']",sim,CALCULADO,
+C18,Fonte única na CMED em 7 dos 11 descentralizados,00_resumo,7,7,sim,OBSERVADO,
+C19,idItemCompra único no Compras.gov,01_diagnostico Q12,5.447/5.447,5447/5447,sim,OBSERVADO,
+C20,"AP007: MS comprou ~751 mil frascos em 2024; SIA 1B R$ 14 mil (R$ 0,03/un.)",01_diagnostico Q3,~751 mil; R$ 14 mil,"703,302 frascos (todas as compras DLOG de 2024); SIA 14,014 (0.032/un.)",parcial,OBSERVADO,
+C21,"Crescimento: risdiplam 259->5.424; eculizumabe 4.866->26.175; dapagliflozina x2,2; upadacitinibe x2,3",01_diagnostico §3,idem,259->5424; 4866->26175; x2.24; x2.30,sim,OBSERVADO,
+C22,"AP012: mediana R$ 23.846 > teto R$ 21.340; MS paga R$ 3.208,85",01_diagnostico Q5,"23.846 / 21.340 / 3.208,85",23845.80 / 21339.52 / 3208.85,sim,CALCULADO,
+C23,"Mesalazina 500 mg: p25 R$ 1,84 / p75 R$ 4,50 apresentado como dispersão entre compradores",01_diagnostico §3,"1,84 / 4,50 (dispersão de preço)",1.84 / 4.50; sem supositório/uso retal a mediana estadual cai de 3.815 para 2.470,parcial,CALCULADO,"o número confere, a interpretação não: a amplitude vem da mistura com supositório (CATMAT 352414 'uso retal'), falha do pacote não detectada"
+C24,"Tofacitinibe: Fiocruz R$ 14,40 x mediana estadual R$ 74",01_diagnostico §3,"14,40 x 74",14.40 x 74.33,sim,CALCULADO,
+C25,Nenhum preço projetado chega ao teto CMED aplicável,registro_hipoteses H10,nenhum,0 itens com preço ou faixa superior acima do teto aplicável; acima do menor teto 0% ICMS: ['AP054'],sim,CALCULADO,teto aplicável = maior teto entre produtos (0% ou mediana 18%); MC limita custo a teto x idx
+C26,"BPS/Compras.gov: mediana 0,95 (p10 0,75; p90 1,47; n=42)",01_diagnostico Q8,"0,95; 0,75; 1,47; 42",0.95; 0.75; 1.47; 42,sim,CALCULADO,
+C27,Unidade de dispensação ausente em 8 itens,01_diagnostico Q4,8,8,sim,OBSERVADO,
+C28,"Sensibilidade determinística: central 203; beta 0 -> 0; s=0,40 148; s=0,70 259; otimista 444 (R$ mi)",03_comparacao §3,203; 0; 148; 259; 444,203; 0; 148; 259; 444,sim,CALCULADO,"base determinística dos descentralizados = 1136 mi (índice 1,025; Q central) x MC p50 1.197 mi: diferença de método, não erro"
+C29,Categorias de valor não somadas e BPS nunca somado ao Compras.gov,03_estrategias.py; 02_precos.py,declarado,"código: custo = Q x min(preço homologado x idx, teto); teto só como limite; SIA e orçamento só em mc_resumo, separados; BPS só em medianas de conferência",sim,OBSERVADO,
+C30,Duplicidade entre apresentações por CATMAT compartilhado,não declarado,-,CATMATs ligados a mais de uma apresentação: 0 [],sim,OBSERVADO,
+C31,Unidade do preço = unidade de dispensação SIA,plano_por_apresentacao,implícito,"confere nos itens inspecionados, exceto AP012 (CATMAT 90 mg/mL mistura 45 e 90 mg; tratado pelo decisor) e AP052 (supositório misturado; não tratado)",parcial,INFERIDO,

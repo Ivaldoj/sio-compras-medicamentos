@@ -1,0 +1,231 @@
+ap_id,compatibilidade,flag_preco_extremo,esfera,categoria_valor,n
+AP001,a_conferir: unidade de fornecimento não informada,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP001,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),46
+AP001,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP001,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP001,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),17
+AP001,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP001,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),21
+AP002,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP002,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),41
+AP002,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),30
+AP002,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),22
+AP003,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP003,compativel,True,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP003,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),58
+AP003,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),29
+AP003,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),21
+AP003,a_conferir: unidade de fornecimento não informada,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP004,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),8
+AP004,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),7
+AP004,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),26
+AP005,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),14
+AP005,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP005,a_conferir: unidade de fornecimento unid. internacional,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP005,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),15
+AP005,compativel,True,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP005,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),14
+AP007,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),41
+AP007,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP007,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),165
+AP007,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),35
+AP007,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP008,a_conferir: unidade de fornecimento não informada,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP008,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),11
+AP008,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),20
+AP008,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP010,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),62
+AP010,a_conferir: unidade de fornecimento bisnaga,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),10
+AP010,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP010,compativel,True,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP010,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),30
+AP010,a_conferir: unidade de fornecimento ampola,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP010,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),6
+AP010,a_conferir: unidade de fornecimento bisnaga,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP010,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP010,a_conferir: unidade de fornecimento bisnaga,True,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP011,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),10
+AP011,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),21
+AP011,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),15
+AP012,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),16
+AP012,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),29
+AP012,compativel,True,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP012,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),33
+AP012,a_conferir: unidade de fornecimento não informada,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP013,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP013,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP014,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),29
+AP014,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),19
+AP014,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP014,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),6
+AP015,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),13
+AP015,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP015,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP015,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP016,compativel,True,E,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP016,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),37
+AP016,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),23
+AP016,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),71
+AP016,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),8
+AP016,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP016,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP021,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),9
+AP021,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),10
+AP021,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),12
+AP021,a_conferir: unidade de fornecimento não informada,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP022,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),14
+AP022,a_conferir: unidade de fornecimento unid. internacional,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP022,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),14
+AP022,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP022,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),16
+AP022,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP024,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),14
+AP024,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),5
+AP026,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),20
+AP026,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),10
+AP026,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP026,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),15
+AP027,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),6
+AP027,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),27
+AP027,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),8
+AP027,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP029,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),31
+AP029,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),7
+AP029,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),30
+AP029,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP030,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),5
+AP030,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP030,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP030,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),9
+AP034,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP034,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),55
+AP034,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),51
+AP034,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),57
+AP035,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP035,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),17
+AP035,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),41
+AP035,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP036,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),51
+AP036,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP036,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),29
+AP036,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),43
+AP039,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),7
+AP039,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),5
+AP039,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP041,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP041,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP041,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),8
+AP041,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP041,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP041,a_conferir: unidade de fornecimento não informada,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP042,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),53
+AP042,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),29
+AP042,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP042,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),47
+AP042,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP042,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP043,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),5
+AP043,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),16
+AP044,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),6
+AP044,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),10
+AP044,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),5
+AP044,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),9
+AP047,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),5
+AP047,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),13
+AP047,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),26
+AP049,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP049,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),11
+AP049,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP049,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP050,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),46
+AP050,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP050,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),7
+AP050,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),24
+AP050,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),117
+AP052,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),15
+AP052,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),40
+AP052,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP052,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP052,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),21
+AP053,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),935
+AP053,a_conferir: unidade de fornecimento não informada,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),104
+AP053,a_conferir: unidade de fornecimento não informada,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),6
+AP053,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),7
+AP053,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),88
+AP053,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),217
+AP053,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),796
+AP053,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP053,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),23
+AP054,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),94
+AP054,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP054,a_conferir: unidade de fornecimento não informada,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP054,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP054,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),47
+AP054,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),66
+AP054,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP055,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),8
+AP055,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),5
+AP058,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP058,a_conferir: unidade de fornecimento frasco,True,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP058,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP058,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),23
+AP058,a_conferir: unidade de fornecimento frasco,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP058,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),13
+AP058,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP059,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),17
+AP059,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP059,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP060,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP060,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),31
+AP060,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),21
+AP060,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP061,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),26
+AP061,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),40
+AP061,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),34
+AP061,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP062,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),34
+AP062,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),11
+AP062,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP062,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),65
+AP062,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP063,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),5
+AP063,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),16
+AP063,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),8
+AP068,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),20
+AP068,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),12
+AP068,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),16
+AP068,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),15
+AP068,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP068,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP070,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP070,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),73
+AP070,a_conferir: unidade de fornecimento ampola,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP070,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),36
+AP070,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP070,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),15
+AP070,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP071,compativel,True,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP071,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),14
+AP071,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),21
+AP071,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP071,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP078,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),5
+AP078,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),9
+AP078,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP078,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),2
+AP080,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),5
+AP080,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),6
+AP080,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP080,a_conferir: unidade de fornecimento não informada,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP082,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),4
+AP082,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),7
+AP082,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),12
+AP082,compativel,True,F,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP084,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP084,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),16
+AP084,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),13
+AP084,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),3
+AP085,compativel,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),10
+AP085,a_conferir: unidade de fornecimento não informada,False,E,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP085,compativel,False,M,preço unitário homologado/praticado em compra pública (não é pagamento),1
+AP085,compativel,False,F,preço unitário homologado/praticado em compra pública (não é pagamento),8

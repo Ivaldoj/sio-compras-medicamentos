@@ -1,0 +1,16 @@
+cenario,valor_R$,nota,pct_de_E1_descentralizados
+E1 custo descentralizados (referência),1135604237.8511734,,1.0
+"E2 central (s=0,55; beta central; Q central)",203466120.32803082,,0.17916991989483583
+E2 beta = 0 (sem efeito volume),0.0,economia desaparece; E2 só se justifica por risco/gestão,0.0
+E2 beta no limite menos negativo do IC90,175627990.55843705,,0.15465598375254916
+E2 beta no limite mais negativo do IC90,243140771.84858105,,0.21410696063327464
+"E2 transição lenta (s=0,40)",147975360.2385679,,0.13030539628715335
+"E2 transição rápida (s=0,70)",258956880.4174938,,0.22803444350251834
+E2 regime pleno (s=1),369938400.59641963,potencial anual após transição,0.3257634907178833
+E2 Q baixa,180994571.48477343,,0.15938173304747183
+E2 Q alta,247757524.2330468,,0.21817241955864966
+E2 preço base = p75 (estados pagam mais),241210412.7235147,,0.21240710864195148
+"E3 central (s=0,40; volume regional)",106086611.09211987,,0.09341864670464804
+E3 regime pleno,265216527.73029968,,0.2335466167616201
+"E4 central (s=0,15)",55490760.08946296,,0.0488645236076825
+"E2 otimista: preço nacional = razão DLOG/estadual observada (s=0,55)",444119442.35394084,razão mediana = 0.289; não usada no central,0.39108646089091553

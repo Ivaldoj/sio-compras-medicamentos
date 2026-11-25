@@ -31,3 +31,23 @@ d261bd6caf1bded6c0a00cdb672c927761987d88d31ca6a738cfe04bf105ec94  nacional/avali
 845323b48f2c595f77796bc7813897ecf20692a925fa88d7bd74a8630dff81d7  nacional/decisao/ENUNCIADO.md
 519bd83d4906e8510e65bcb4a39e836d907504d9c7ca0fe4b090638828f6e42c  nacional/dados/decision_input_nacional/MANIFESTO.csv
 ```
+
+## Execução (25/11/2026)
+- **Decisor (Claude Opus 5.5, isolado):**
+  - 45 chamadas de ferramenta, nenhuma violação (4 falsos positivos `dlog_*`);
+  - prompt idêntico ao enunciado e entradas inalteradas;
+  - recomendou E2, a compra nacional compartilhada.
+  - Registros em `nacional/decisao/registro/`.
+- **Avaliador com Fable 5.2:** falhou antes da primeira ação (API: "requires usage credits"); a auditoria registra 0 chamadas.
+- **Avaliador com Claude Opus 5.5 (D-17):**
+  - 81 chamadas, nenhuma violação (4 falsos positivos);
+  - 3 acessos web, todos a planalto.gov.br;
+  - decisão congelada intacta;
+  - veredito: parcialmente adequado.
+  - Registros em `nacional/avaliacao/registro/`.
+- **Falhas do pacote apontadas pelo avaliador, reconferidas e confirmadas pela coordenação:**
+  - `n03`: a lista de unidades sólidas aceita SUPOSITÓRIO (mesalazina 500 mg, AP052);
+  - `n02`: o parser do grupo caiu na entrada de 0,5 g (imunoglobulina 5 g é 1A, p. 209).
+
+  Não foram corrigidas nos arquivos congelados.
+- **Entregas finais:** `nacional/RELATORIO_FINAL.md` e `nacional/SLIDES_26.md` (estrutura reconstruída, D-16).

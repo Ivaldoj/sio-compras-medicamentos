@@ -1,0 +1,28 @@
+[1] registros pré-corte 'compativel' de supositório/uso retal em item oral: 21 -> itens ['AP052']
+    AP052 mediana estadual 24m usada pelo decisor = 3.8150 (n=30); sem supositório/uso retal = 2.4700 (n=23); p25-p75 corrigido 1.780-4.365
+    unidades aceitas como 'compativel' por forma:
+ap_id              nomeUnidadeFornecimento
+capsula            CÁPSULA                     371
+comprimido         COMPRIMIDO                 1468
+                   DRÁGEA                       60
+                   SUPOSITÓRIO                  18
+injetavel          AMPOLA                       41
+                   FRASCO                      117
+                   FRASCO-AMPOLA               563
+                   SERINGA                     160
+                   TUBETE                        1
+po_injetavel       FRASCO-AMPOLA                30
+                   SERINGA                       1
+solucao_injetavel  AMPOLA                       13
+                   FRASCO                       55
+                   FRASCO-AMPOLA               192
+                   SERINGA                    2031
+solucao_oral       FRASCO                       19
+[2] AP007 grupo no pacote = 1B (1º grupo do trecho da substância (concentração não localizada)); RENAME 2024 Anexo III p.209: '5g ... 1A' (trabalho/d01_rename.py)
+    itens com grupo atribuído pelo '1º grupo do trecho': ['AP012', 'AP007', 'AP001', 'AP003', 'AP035', 'AP055', 'AP085', 'AP053', 'AP068', 'AP016', 'AP059', 'AP070']
+[3] unidade_dispensacao vazia: ['AP004', 'AP021', 'AP027', 'AP034', 'AP043', 'AP085', 'AP061', 'AP059']; 'biossimilar': ['AP002', 'AP001']
+[4] compras DLOG programáticas marcadas como preço extremo: 8 de 105 -> ['AP041', 'AP044']
+[5] 4705/2024 empenhado: pacote 13,744,670,657.71; arquivo primário 13,744,670,657.71; data do arquivo no zip (2026, 11, 24, 5, 2, 26)
+[6] teto CMED 0% por unidade: 411/411 apresentações localizadas na lista primária; conferem 411; divergem 0
+    colunas de ICMS na lista primária acima de 18%: ['PMVG 20%', 'PMVG 20% ALC', 'PMVG 20,5%', 'PMVG 21%', 'PMVG 21% ALC', 'PMVG 22%'] (o decisor aproximou o ICMS por 18%)
+[7] cesta.base_disponibilidade: SIA/SUS: processamentos nov/2023–out/2024 (publicados antes do corte; base atual com reprocessamentos)
